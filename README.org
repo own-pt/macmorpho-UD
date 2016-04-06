@@ -1,0 +1,40 @@
+#+Title: Mac-Morpho Corpus in CoNLL-U
+
+This is the [[http://nilc.icmc.usp.br/macmorpho/][Mac-Morpho]] corpus converted to Universal Dependencies POS
+tags (http://universaldependencies.org).
+
+* Rewriting
+
+Using the version 1 of Mac-Morpho execute:
+
+#+BEGIN_SRC bash
+$ sbcl --load all.lisp
+#+END_SRC
+
+This will procute the files macmorpho-v1-{train,test,dev}-UD.txt.
+
+* Converting for CoNLL-U 
+
+Execute sbcl and run the code:
+
+#+BEGIN_SRC bash
+$ sbcl
+(load "macm2conllu.lisp")
+(main "macmorpho-v1-train-UD.txt" "macmorpho-v1-train.conllu")
+(main "macmorpho-v1-dev-UD.txt"   "macmorpho-v1-dev.conllu")
+(main "macmorpho-v1-test-UD.txt"  "macmorpho-v1-test.conllu")
+#+END_SRC
+
+to produce the files macmorpho-v1-{train,test,dev}-UD.conllu
+
+* Input Files
+
+- http://nilc.icmc.usp.br/macmorpho/macmorpho-v1.tgz
+- Files: macmorpho-v1-{dev,train,test}.txt
+
+* Dependencies
+
+- [[http://sbcl.org][SBCL Common Lisp]]
+- http://quicklisp.org
+- https://github.com/own-pt/cl-pcp
+
