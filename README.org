@@ -32,6 +32,13 @@ to produce the files macmorpho-v1-{train,test,dev}-UD.conllu
 - http://nilc.icmc.usp.br/macmorpho/macmorpho-v1.tgz
 - Files: macmorpho-v1-{dev,train,test}.txt
 
+* Team
+
+- Luiza Frizzo
+- Cláudia Freitas
+- Fabricio Chalub
+- Alexandre Rademaker
+
 * Dependencies
 
 - [[http://sbcl.org][SBCL Common Lisp]]
