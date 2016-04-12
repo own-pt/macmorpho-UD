@@ -1,6 +1,5 @@
 (load "string-rewriting")
-; (load "string-rewriting-tests")
-(load "pcp")
+(load "ud-remove-pcp.lisp")
 (in-package :string-rewriting)
 (format t "Rodando...")
 (terpri)

@@ -83,7 +83,7 @@
 (defun compile-rules (rules)
   (mapcar #'compile-rule rules))
 
-(defun apply-rule (rule line position)
+(defun apply-rule (rule line)
   (if rule
       (multiple-value-bind (result matchp) 
 	  (regex-replace-all (first rule) line (second rule))
@@ -94,10 +94,9 @@
       line))
 
 (defun apply-rules (rules line)
-  (let ((result line)
-	(position 0))
+  (let ((result line))
     (dolist (rule rules)
-      (setf result (apply-rule rule result (incf position))))
+      (setf result (apply-rule rule result)))
     result))
 
 (defun process-file (rules filename-in filename-out)
@@ -107,10 +106,4 @@
                  (read-line in nil)))
           ((null line))
         (write-line (apply-rules rules (trim line)) out)))))
-
-;; (defmacro define-rule (&rest args)
-;;   (let* ((pos (position '=> args))
-;;          (lhs (subseq args 0 pos))
-;;          (rhs (subseq args (1+ pos))))
-;;     `(push (cons (quote ,lhs) (quote ,rhs)) *grammar*)))
 
