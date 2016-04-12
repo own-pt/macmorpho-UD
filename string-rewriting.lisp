@@ -83,19 +83,21 @@
 (defun compile-rules (rules)
   (mapcar #'compile-rule rules))
 
-(defun apply-rule (rule line)
+(defun apply-rule (rule line position)
   (if rule
       (multiple-value-bind (result matchp) 
 	  (regex-replace-all (first rule) line (second rule))
 	(when (and *debug-rules* matchp)
-	  (format *error-output* "[~a] => [~a] (~a)~%:~a:~%:~a:~%~%##~%" (fourth rule) (fifth rule) (third rule) line result))
+	  (format *error-output* "[~a] => [~a] (~a)~%:~a:~%:~a:~%~%##~%"
+		  (fourth rule) (fifth rule) (third rule) line result))
 	(trim result))
       line))
 
 (defun apply-rules (rules line)
-  (let ((result line))
+  (let ((result line)
+	(position 0))
     (dolist (rule rules)
-      (setf result (apply-rule rule result)))
+      (setf result (apply-rule rule result (incf position))))
     result))
 
 (defun process-file (rules filename-in filename-out)
