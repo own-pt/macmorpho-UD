@@ -12,7 +12,7 @@
     (process-file grammar "macmorpho-v1-test.txt"  "macmorpho-v1-test-UD.txt")
     (process-file grammar "macmorpho-v1-dev.txt"   "macmorpho-v1-dev-UD.txt")))
 
-(process-macmorpho "rules.lisp")
+(process-macmorpho "ud-remove-pcp.lisp")
 
 (convert-conllu "macmorpho-v1-train-UD.txt" "macmorpho-v1-train-UD.conllu")
 (convert-conllu "macmorpho-v1-test-UD.txt"  "macmorpho-v1-test-UD.conllu")
