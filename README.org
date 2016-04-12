@@ -8,24 +8,11 @@ tags (http://universaldependencies.org).
 Using the version 1 of Mac-Morpho execute:
 
 #+BEGIN_SRC bash
-$ sbcl --load all.lisp
+$ sbcl --load process.lisp
 #+END_SRC
 
-This will procute the files macmorpho-v1-{train,test,dev}-UD.txt.
-
-* Converting for CoNLL-U 
-
-Execute sbcl and run the code:
-
-#+BEGIN_SRC bash
-$ sbcl
-(load "macm2conllu.lisp")
-(main "macmorpho-v1-train-UD.txt" "macmorpho-v1-train.conllu")
-(main "macmorpho-v1-dev-UD.txt"   "macmorpho-v1-dev.conllu")
-(main "macmorpho-v1-test-UD.txt"  "macmorpho-v1-test.conllu")
-#+END_SRC
-
-to produce the files macmorpho-v1-{train,test,dev}-UD.conllu
+This will procute the files macmorpho-v1-{train,test,dev}-UD.txt and
+the macmorpho-v1-{train,test,dev}-UD.conllu files.
 
 * Input Files
 
