@@ -18,4 +18,7 @@
 (convert-conllu "macmorpho-v1-test-UD.txt"  "macmorpho-v1-test-UD.conllu")
 (convert-conllu "macmorpho-v1-dev-UD.txt"   "macmorpho-v1-dev-UD.conllu")
 
+(tabulate-log "out.log" "out.tab")
+(rules-not-used "ud-remove-pcp.lisp" "out.tab")
+
 (sb-ext:quit)

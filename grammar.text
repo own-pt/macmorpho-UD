@@ -8,7 +8,7 @@
 [7] a_ART segunda_ADJ vaga_N seria_VAUX disputada_PCP de_PREP forma_N acirrada_PCP por_PREP os_ART candidatos_N => a_ART segunda_ADJ vaga_N seria_VAUX disputada_V de_PREP forma_N acirrada_ADJ por_PREP os_ART candidatos_N
 [8] Os_ART norte-americanos_N são_VAUX quase_ADV obcecados_PCP por_PREP a_ART questão_N racial_ADJ => Os_ART norte-americanos_N são_VAUX quase_ADV obcecados_ADJ por_PREP a_ART questão_N racial_ADJ
 [9] Já_ADV aliviado_PCP por_PREP a_ART recuperação_N de_PREP as_ART atacantes_N => Já_ADV aliviado_ADJ por_PREP a_ART recuperação_N de_PREP as_ART atacantes_N
-[10] como_PREP greve_N de_PREP ônbius_N e_KC prontos socorros_N fechados_PCP por_PREP falta_N de_PREP médicos_N => como_PREP greve_N de_PREP ônbius_N e_KC prontos socorros_N fechados_ADJ por_PREP falta_N de_PREP médicos_N
+[10] como_PREP greve_N de_PREP ônbius_N e_KC prontos-socorros_N fechados_PCP por_PREP falta_N de_PREP médicos_N => como_PREP greve_N de_PREP ônbius_N e_KC prontos-socorros_N fechados_ADJ por_PREP falta_N de_PREP médicos_N
 [11] Sente_V se_PROPESS frustrado_PCP por_PREP não_ADV ter_VAUX jogado_PCP => Sente_V se_PROPESS frustrado_ADJ por_PREP não_ADV ter_VAUX jogado_V
 [12] Obcecado_PCP por_PREP a_ART defensiva_N de_PREP a_ART equipe_N => Obcecado_ADJ por_PREP a_ART defensiva_N de_PREP a_ART equipe_N
 [13] De_PREP andar_V solto_PCP por_PREP aí_ADV => De_PREP andar_V solto_ADJ por_PREP aí_ADV
@@ -1633,7 +1633,7 @@
 [1632] situações_N excluídas_PCP => situações_N excluídas_V
 [1633] hierarquias_N estabelecidas_PCP => hierarquias_N estabelecidas_V
 [1634] imagem_N proposta_PCP a_PREP => imagem_N proposta_V a_PREP
-[1635] anos_Ncobertos_PCP de_PREP => anos_Ncobertos_V de_PREP
+[1635] anos_N cobertos_PCP de_PREP => anos_N cobertos_V de_PREP
 [1636] décadas_N radicado_PCP em_PREP => décadas_N radicado_V em_PREP
 [1637] texto_N incluído_PCP em_PREP => texto_N incluído_V em_PREP
 [1638] cinéfilos_N tornados_PCP programadores_N => cinéfilos_N tornados_V programadores_N
@@ -1667,7 +1667,7 @@
 [1666] espelho_N pendurado_PCP em_PREP => espelho_N pendurado_V em_PREP
 [1667] punhos_N cerrados_PCP => punhos_N cerrados_V
 [1668] homens_N vestidos_PCP com_PREP => homens_N vestidos_V com_PREP
-[1669] serem_Vvotos_N vencidos_PCP => serem_Vvotos_N vencidos_V
+[1669] serem_V votos_N vencidos_PCP => serem_V votos_N vencidos_V
 [1670] imagem_N marcada_PCP => imagem_N marcada_V
 [1671] alinhados_PCP eletronicamente_ADV => alinhados_ADJ eletronicamente_ADV
 [1672] nome_N escolhido_PCP para_PREP => nome_N escolhido_V para_PREP
@@ -2297,7 +2297,7 @@
 [2296] Palmeiras_NPROP jogando_V adiantado_PCP => Palmeiras_NPROP jogando_V adiantado_ADV
 [2297] jogue_V retrancado_PCP => jogue_V retrancado_ADV
 [2298] atuando_V improvisado_PCP => atuando_V improvisado_ADV
-[2299] viseira espelhada_PCP => viseira_N espelhada_ADJ
+[2299] viseira_N espelhada_PCP => viseira_N espelhada_ADJ
 [2300] jogar_V encostado_PCP => jogar_V encostado_ADV
 [2301] o_ART integrado_PCP de_PREP => o_ART integrado_N de_PREP
 [2302] coletor_N de_PREP dados_V => coletor_N de_PREP dados_N
@@ -2476,7 +2476,7 @@
 [2475] invertido_PCP como_PREP => invertido_ADJ como_PREP
 [2476] fica_V impressionado_PCP => fica_V impressionado_ADJ
 [2477] serviços_N bancários_ADJ informatizados_PCP => serviços_N bancários_ADJ informatizados_ADJ
-[2478] documentos digitalizados_PCP => documentos digitalizados_ADJ
+[2478] documentos_N digitalizados_PCP => documentos_N digitalizados_ADJ
 [2479] ilustrada_PCP Exclusivo_ADJ => ilustrada_ADJ Exclusivo_ADJ
 [2480] Ilustrada_PCP PáGINA_NPROP => Ilustrada_ADJ PáGINA_NPROP
 [2481] o_ART alucinado_PCP desafio_N => o_ART alucinado_ADJ desafio_N
@@ -2498,7 +2498,7 @@
 [2497] inchado_PCP e_KC careca_N => inchado_ADJ e_KC careca_ADJ
 [2498] morreu_V afogada_PCP => morreu_V afogada_ADV
 [2499] Cuidado_PCP com_PREP a_ART Europa_NPROP => Cuidado_N com_PREP a_ART Europa_NPROP
-[2500] e_KC escrava  de_PREP => e_KC escrava_N de_PREP
+[2500] e_KC escrava_N de_PREP => e_KC escrava_N de_PREP
 [2501] dá_V errado_PCP => dá_V errado_ADJ
 [2502] Convidado_PCP de_PREP a_ART => Convidado_N de_PREP a_ART
 [2503] amplificadO_PCP => amplificadO_V
@@ -2677,13 +2677,13 @@
 [2676] não_ADV está_V morta_PCP => não_ADV está_V morta_ADJ
 [2677] centro-bairro_N ficará_V aberta_PCP => centro-bairro_N ficará_V aberta_ADJ
 [2678] espaço_N fica_V aberto_PCP => espaço_N fica_V aberto_ADJ
-[2679] Aberto_PCP diariamente_ADV 24_NUM horas_N => Aberto_ADJdiariamente_ADV 24_NUM horas_N
+[2679] Aberto_PCP diariamente_ADV 24_NUM horas_N => Aberto_ADJ diariamente_ADV 24_NUM horas_N
 [2680] Aberta_PCP a_PREP o_ART público_N => Aberta_ADJ a_PREP o_ART público_N
 [2681] mês_N estão_V abertas_PCP rematrículas_N => mês_N estão_V abertas_ADJ rematrículas_N
 [2682] lojas_N PostNet_NPROP abertas_PCP => lojas_N PostNet_NPROP abertas_ADJ
 [2683] estiveram_V abertas_PCP fecharão_V => estiveram_V abertas_ADJ fecharão_V
-[2684] a_ART previdência  aberta_PCP entre_PREP => a_ART previdência_N aberta_ADJ entre_PREP
-[2685] planos_N de_PREP previdência  aberta_PCP => planos_N de_PREP previdência  aberta_ADJ
+[2684] a_ART previdência_N aberta_PCP entre_PREP => a_ART previdência_N aberta_ADJ entre_PREP
+[2685] planos_N de_PREP previdência_N aberta_PCP => planos_N de_PREP previdência_N aberta_ADJ
 [2686] Aberto_PCP diariamente_ADV => Aberto_ADJ diariamente_ADV
 [2687] Aberto_PCP até_PREP a_PREP => Aberto_ADJ até_PREP a_PREP
 [2688] Abertos_PCP 24_NUM horas_N => Abertos_ADJ 24_NUM horas_N
@@ -2928,11 +2928,11 @@
 [2927] deputado_PCP Nelson_NPROP => deputado_N Nelson_NPROP
 [2928] tinha_VAUX "_" errado_PCP => tinha_VAUX "_" errado_V
 [2929] os_ART chamados_N "_" desaparecidos_PCP => os_ART chamados_V "_" desaparecidos_N
-[2930] e_KC desaparecidos_PCP políticos => e_KC desaparecidos_N políticos
+[2930] e_KC desaparecidos_PCP políticos_N => e_KC desaparecidos_N políticos_N
 [2931] aliado_PCP político_N de_PREP => aliado_N político_ADJ de_PREP
 [2932] totalmente_ADV fracassado_PCP ,_, frustrado_PCP => totalmente_ADV fracassado_ADJ ,_, frustrado_ADJ
 [2933] mal_PCP colocado_V => mal_ADV colocado_V
-[2934] previdência  privada_PCP => previdência_N privada_ADJ
+[2934] previdência_N privada_PCP => previdência_N privada_ADJ
 [2935] bancário_ADJ de_PREP os_ART envolvidos_PCP => bancário_ADJ de_PREP os_ART envolvidos_N
 [2936] homeopatia_N de_PREP desinformados_PCP => homeopatia_N de_PREP desinformados_N
 [2937] morreu_V afogado_PCP ontem_ADV => morreu_V afogado_ADJ ontem_ADV
@@ -3289,7 +3289,7 @@
 [3288] móveis_N pesados_PCP => móveis_N pesados_ADJ
 [3289] realizar_V tarefas_N mais_ADV pesadas_PCP => realizar_V tarefas_N mais_ADV pesadas_ADJ
 [3290] desacertos_N (_( gastos_PCP )_) a_ART inflação_N => desacertos_N (_( gastos_N )_) a_ART inflação_N
-[3291] 52 mil crianças abandonadas_ADJ brasileiras => 52 mil crianças abandonadas_PCP brasileiras
+[3291] 52_NUM mil_NUM crianças_N abandonadas_ADJ brasileiras_ADJ => 52_NUM mil_NUM crianças_N abandonadas_PCP brasileiras_ADJ
 [3292] Atrás_PROADJ => Atrás_ADV
 [3293] só_PROADJ => só_PDEN
 [3294] *_PCP => *_V
@@ -3304,7 +3304,7 @@
 [3303] e_KC por_KC => e_KC por_PREP
 [3304] e_KC nem_KC => e_KC nem_ADV
 [3305] e_KC assim_KC => e_KC assim_ADV
-[3306] linha_ADV a_ADV linha_ADV => linha_N a_PREP_linha_N
+[3306] linha_ADV a_ADV linha_ADV => linha_N a_PREP linha_N
 [3307] e_KC e_KC => e_KC e_KC
 [3308] um_ADV pouco_ADV mais_ADV => um_ART pouco_ADV mais_ADV
 [3309] um_ADV pouquinho_ADV mais_ADV => um_ART pouquinho_ADV mais_ADV
@@ -3455,7 +3455,7 @@
 [3454] quer_PDEN dizer_PDEN => quer_V dizer_V
 [3455] Quer_PDEN dizer_PDEN => Quer_V dizer_V
 [3456] Pois_PDEN é_PDEN => Pois_KC é_V
-[3457] por_PDEN X vai_PDEN => por_PREP X vai_V
+[3457] por_PDEN aí_PDEN vai_PDEN => por_PREP aí_PDEN vai_V
 [3458] por_PDEN diante_PDEN => por_PREP diante_PREP
 [3459] Por_PDEN diente_PDEN => Por_PREP diante_PREP
 [3460] em_PDEN diante_PDEN => em_PREP diante_PREP
@@ -3693,12 +3693,12 @@
 [3692] R._NUM => R._N
 [3693] cf._NUM => cf._ADV
 [3694] pós-68_NUM => pós-68_ADV
-[3695] -_- => -_-_PUNCT
-[3696] ((_((  => ((_PUNCT 
-[3697] ))_))  => ))_PUNCT
-[3698] `_`  =>  
-[3699] $_$  => $_SYM
-[3700] (260,_NUM  => (_PUNCT 260_NUM ,_PUNCT 
+[3695] -_- => -_PUNCT
+[3696] ((_(( => ((_PUNCT
+[3697] ))_)) => ))_PUNCT
+[3698] `_` => `_PUNCT
+[3699] $_$ => $_SYM
+[3700] (260,_NUM => (_PUNCT 260_NUM ,_PUNCT
 [3701] =_= => =_SYM
 [3702] A._NUM => A._NPROP
 [3703] a-1_NUM => a-1_NPROP
@@ -3892,8 +3892,7 @@
 [3891] (\w+)_ART (\w+)_ADJ (\w+)_([^N]) => \1_ART \2_N \3_\4
 [3892] ([\d\,\.\º\-\/]+)_N(\s+) => \1_NUM\2
 [3893] ([\d\,\.\º\-\/]+)_N$ => \1_NUM
-[3894] (ADJ|PREP|ADV|VAUX|KC|ART|PROADJ|IN|N|NUM|PROPESS|PROSUB|NPROP|PU|KS|PRO-KS|PRO-KS-REL|ADV-KS|ADV-KS-REL|CUR|V|PCP|PDEN)_(SCONJ|DET|ADJ|PREP|ADV|VAUX|KC|ART|PROADJ|IN|N|NUM|PROPESS|PROSUB|NPROP|PU|KS|PRO-KS|PRO-KS-REL|ADV-KS|ADV-KS-REL|CUR|V|PCP|PDEN)
- => 
+[3894] (ADJ|PREP|ADV|VAUX|KC|ART|PROADJ|IN|N|NUM|PROPESS|PROSUB|NPROP|PU|KS|PRO-KS|PRO-KS-REL|ADV-KS|ADV-KS-REL|CUR|V|PCP|PDEN)_(SCONJ|DET|ADJ|PREP|ADV|VAUX|KC|ART|PROADJ|IN|N|NUM|PROPESS|PROSUB|NPROP|PU|KS|PRO-KS|PRO-KS-REL|ADV-KS|ADV-KS-REL|CUR|V|PCP|PDEN) => 
 [3895] %_NUM => %_SYM
 [3896] %_N => %_SYM
 [3897] :_: => :_PUNCT
