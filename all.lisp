@@ -1,7 +1,0 @@
-(load "string-rewriting")
-(load "ud-remove-pcp.lisp")
-(in-package :string-rewriting)
-(format t "Rodando...")
-(terpri)
-(process-macmorpho)
-(sb-ext:quit)
