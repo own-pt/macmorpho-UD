@@ -3007,7 +3007,6 @@
 (-> "morreu_V baleado_PCP" "morreu_V baleado_ADJ" :dd)
 (-> "os_PROSUB similares_ADJ importados_PCP" "os_PROSUB similares_N importados_ADJ" :dd :cr)
 (-> "resultado_PCP de_PREP fusão_N" "resultado_N de_PREP fusão_N" :cr)
-(-> "vendas_N brutas_ADJ consolidadas_PCP" "vendas_N brutas_ADJ consolidadas_ADJ" :dd)
 (-> "que_KS passavam_V despercebidos_PCP" "que_KS passavam_V despercebidos_ADJ" :dd)
 (-> "morreram_V soterrados_PCP" "morreram_V soterrados_ADJ" :dd)
 (-> "entre_PREP os_ART pesquisados_PCP" "entre_PREP os_ART pesquisados_N" :cr)
