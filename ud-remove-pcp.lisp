@@ -3518,7 +3518,6 @@
 (-> "Ainda_KC assim_KC" "Ainda_ADV assim_ADV" :mm :mwe :misc "MWE=Ainda_assim|MWEPOS=CONJ")
 (-> "apesar_KC disso_KC" "apesar_KC disso_PROSUB" :mm :mwe :misc "MWE=apesar_disso|MWEPOS=CONJ")
 (-> "além_KC de_KC" "além_ADV de_PREP" :mm :mwe :misc "MWE=além_de|MWEPOS=CONJ")
-(-> "Ainda_KC assim_KC" "Ainda_ADV assim_ADV" :mm :mwe :misc "MWE=Ainda_assim|MWEPOS=CONJ")
 (-> "ainda_KC assim_KC" "ainda_ADV assim_ADV" :mm :mwe :misc "MWE=ainda_assim|MWEPOS=CONJ") 
 (-> "Mesmo_KC assim_KC" "Mesmo_KC assim_ADV" :mm :mwe :misc "MWE=Mesmo_assim|MWEPOS=CONJ")
 (-> "quer_KC dizer_KC" "quer_V dizer_V" :mm :mwe :misc "MWE=quer_dizer|MWEPOS=CONJ")
@@ -3642,7 +3641,6 @@
 ;; regra PDEN 4
 (-> "etc_PDEN" "etc_X" :mm)
 (-> "etc._PDEN" "etc._X" :mm)
-(-> "etc_PDEN" "etc_X" :mm)
 (-> "etcétera_PDEN" "etcétera_X" :mm)
 (-> "sic_PDEN" "sic_X" :dd)
 
@@ -3928,7 +3926,6 @@
 (-> "garoto-_NUM" "garoto-_N" :cr)
 (-> "gerente-_NUM" "gerente-_N" :cr)
 (-> "homem-_NUM" "homem-_N" :cr)
-(-> "homem-_NUM" "homem-_N" :cr)
 (-> "Lírico-_NUM" "Lírico-_N" :cr)
 (-> "micro-_NUM" "micro-_N" :cr)
 (-> "moeda-_NUM" "moeda-_N" :cr)
@@ -3998,7 +3995,7 @@
 
 ;; para evitar que 1000_NUM seja matched com a regra abaixo,
 ;; temos que dizer que _N e' seguido de um ou mais espacos.
-(r-> "([\\d\\,\\.\\º\\-\\/]+)_N(\\s+)" "\\1_NUM\\2")
+(r-> "(\\s+)([\\d\\,\\.\\º\\-\\/]+)_N(\\s+)" "\\1\\2_NUM\\3")
 
 ;; a regra acima nao funciona se _N for a ultima coisa na linha.
 ;; Esta regra abaixo serve pra isso:
