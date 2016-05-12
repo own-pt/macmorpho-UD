@@ -601,7 +601,7 @@
 
 1	(	_	PUNCT	_	_	0	_	_	_
 2	011	_	NUM	_	_	0	_	_	_
-3	864-5533	_	NUM	_	_	0	_	_	_
+3	864-5533	_	NOUN	_	_	0	_	_	_
 4	)	_	PUNCT	_	_	0	_	_	_
 5	.	_	PUNCT	_	_	0	_	_	_
 
@@ -858,7 +858,7 @@
 24	garantias	_	NOUN	_	_	0	_	_	_
 25	a	_	ADP	_	_	0	_	_	_
 26	os	_	DET	_	_	0	_	_	_
-27	fazendeiros-	_	NUM	_	_	0	_	_	_
+27	fazendeiros-	_	NOUN	_	_	0	_	_	_
 28	,	_	PUNCT	_	_	0	_	_	_
 29	para	_	ADP	_	_	0	_	_	_
 30	derrubar	_	VERB	_	_	0	_	_	_
@@ -1866,7 +1866,7 @@
 18	região	_	NOUN	_	_	0	_	_	_
 19	.	_	PUNCT	_	_	0	_	_	_
 
-1	155	_	NUM	_	_	0	_	_	_
+1	155	_	NOUN	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	parágrafo	_	NOUN	_	_	0	_	_	_
 4	.	_	PUNCT	_	_	0	_	_	_
@@ -2373,7 +2373,7 @@
 25	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
-2	Sr.	_	NUM	_	_	0	_	_	_
+2	Sr.	_	NOUN	_	_	0	_	_	_
 3	já	_	ADV	_	_	0	_	_	_
 4	tem	_	VERB	_	_	0	_	_	_
 5	um	_	DET	_	_	0	_	_	_
@@ -3610,7 +3610,7 @@
 23	anos	_	NOUN	_	_	0	_	_	_
 24	.	_	PUNCT	_	_	0	_	_	_
 
-1	13	_	NUM	_	_	0	_	_	_
+1	13	_	NOUN	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	setembro	_	NOUN	_	_	0	_	_	_
 4	-	_	PUNCT	_	_	0	_	_	_
@@ -4846,7 +4846,7 @@
 34	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
-2	sr.	_	NUM	_	_	0	_	_	_
+2	sr.	_	NOUN	_	_	0	_	_	_
 3	acha	_	VERB	_	_	0	_	_	_
 4	que	_	SCONJ	_	_	0	_	_	_
 5	é	_	AUX	_	_	0	_	_	_
@@ -7183,7 +7183,7 @@
 
 1	Quando	_	SCONJ	_	_	0	_	_	_
 2	o	_	DET	_	_	0	_	_	_
-3	Sr.	_	NUM	_	_	0	_	_	_
+3	Sr.	_	NOUN	_	_	0	_	_	_
 4	foi	_	VERB	_	_	0	_	_	_
 5	candidato	_	NOUN	_	_	0	_	_	_
 6	ainda	_	ADV	_	_	0	_	_	_
@@ -7442,7 +7442,7 @@
 8	como	_	ADP	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
 10	p.	_	ADP	_	_	0	_	_	_
-11	ex.	_	NUM	_	_	0	_	_	_
+11	ex.	_	NOUN	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
 14	Suécia	_	PROPN	_	_	0	_	_	_
@@ -7640,7 +7640,7 @@
 4	lançada	_	VERB	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
-7	8h16	_	NUM	_	_	0	_	_	_
+7	8h16	_	NOUN	_	_	0	_	_	_
 8	(	_	PUNCT	_	_	0	_	_	_
 9	horário	_	NOUN	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
@@ -10145,7 +10145,7 @@
 9	agência	_	NOUN	_	_	0	_	_	_
 10	a	_	ADP	_	_	0	_	_	_
 11	as	_	DET	_	_	0	_	_	_
-12	7h30	_	NUM	_	_	0	_	_	_
+12	7h30	_	NOUN	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -13018,7 +13018,7 @@
 27	partir	_	ADP	_	_	0	_	_	_
 28	de	_	ADP	_	_	0	_	_	_
 29	as	_	DET	_	_	0	_	_	_
-30	19h30	_	NUM	_	_	0	_	_	_
+30	19h30	_	NOUN	_	_	0	_	_	_
 31	.	_	PUNCT	_	_	0	_	_	_
 
 1	Holiday	_	PROPN	_	_	0	_	_	_
@@ -13564,7 +13564,7 @@
 
 1	A	_	DET	_	_	0	_	_	_
 2	resolução	_	NOUN	_	_	0	_	_	_
-3	nº	_	NUM	_	_	0	_	_	_
+3	nº	_	NOUN	_	_	0	_	_	_
 4	11	_	NUM	_	_	0	_	_	_
 5	determina	_	VERB	_	_	0	_	_	_
 6	ainda	_	ADV	_	_	0	_	_	_
@@ -15572,7 +15572,7 @@
 24	presidente	_	NOUN	_	_	0	_	_	_
 25	.	_	PUNCT	_	_	0	_	_	_
 
-1	13.º	_	NUM	_	_	0	_	_	_
+1	13.º	_	NOUN	_	_	0	_	_	_
 2	-	_	PUNCT	_	_	0	_	_	_
 3	A	_	ADP	_	_	0	_	_	_
 4	partir	_	ADP	_	_	0	_	_	_
@@ -15605,7 +15605,7 @@
 31	reais	_	NOUN	_	_	0	_	_	_
 32	.	_	PUNCT	_	_	0	_	_	_
 
-1	19.º	_	NUM	_	_	0	_	_	_
+1	19.º	_	NOUN	_	_	0	_	_	_
 2	As	_	DET	_	_	0	_	_	_
 3	obrigações	_	NOUN	_	_	0	_	_	_
 4	pecuniárias	_	ADJ	_	_	0	_	_	_
@@ -15656,7 +15656,7 @@
 49	data	_	NOUN	_	_	0	_	_	_
 50	.	_	PUNCT	_	_	0	_	_	_
 
-1	20	_	NUM	_	_	0	_	_	_
+1	20	_	NOUN	_	_	0	_	_	_
 2	e	_	CONJ	_	_	0	_	_	_
 3	21	_	NUM	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
@@ -15689,7 +15689,7 @@
 31	forma	_	NOUN	_	_	0	_	_	_
 32	de	_	ADP	_	_	0	_	_	_
 33	o	_	DET	_	_	0	_	_	_
-34	art.	_	NUM	_	_	0	_	_	_
+34	art.	_	NOUN	_	_	0	_	_	_
 35	38	_	NUM	_	_	0	_	_	_
 36	de	_	ADP	_	_	0	_	_	_
 37	a	_	DET	_	_	0	_	_	_
@@ -15698,7 +15698,7 @@
 40	º	_	X	_	_	0	_	_	_
 41	.	_	PUNCT	_	_	0	_	_	_
 
-1	8.880	_	NUM	_	_	0	_	_	_
+1	8.880	_	NOUN	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	de	_	ADP	_	_	0	_	_	_
 4	27	_	NUM	_	_	0	_	_	_
@@ -15721,7 +15721,7 @@
 1	Art	_	NOUN	_	_	0	_	_	_
 2	.	_	PUNCT	_	_	0	_	_	_
 
-1	8.056	_	NUM	_	_	0	_	_	_
+1	8.056	_	NOUN	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	de	_	ADP	_	_	0	_	_	_
 4	28	_	NUM	_	_	0	_	_	_
@@ -15734,7 +15734,7 @@
 11	º	_	NUM	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
 
-1	55	_	NUM	_	_	0	_	_	_
+1	55	_	NOUN	_	_	0	_	_	_
 2	-	_	PUNCT	_	_	0	_	_	_
 3	A	_	DET	_	_	0	_	_	_
 4	Lei	_	NOUN	_	_	0	_	_	_
@@ -15742,7 +15742,7 @@
 6	º	_	NUM	_	_	0	_	_	_
 7	.	_	PUNCT	_	_	0	_	_	_
 
-1	2º	_	NUM	_	_	0	_	_	_
+1	2º	_	NOUN	_	_	0	_	_	_
 2	-	_	PUNCT	_	_	0	_	_	_
 3	A	_	DET	_	_	0	_	_	_
 4	justificação	_	NOUN	_	_	0	_	_	_
@@ -16194,7 +16194,7 @@
 15	%	_	SYM	_	_	0	_	_	_
 16	.	_	PUNCT	_	_	0	_	_	_
 
-1	2	_	NUM	_	_	0	_	_	_
+1	2	_	NOUN	_	_	0	_	_	_
 2	)	_	PUNCT	_	_	0	_	_	_
 3	Reforma	_	NOUN	_	_	0	_	_	_
 4	administrativa	_	ADJ	_	_	0	_	_	_
@@ -17408,7 +17408,7 @@
 25	bilhão	_	NOUN	_	_	0	_	_	_
 26	.	_	PUNCT	_	_	0	_	_	_
 
-1	12	_	NUM	_	_	0	_	_	_
+1	12	_	NOUN	_	_	0	_	_	_
 2	"	_	PUNCT	_	_	0	_	_	_
 3	Black	_	NOUN	_	_	0	_	_	_
 4	"	_	PUNCT	_	_	0	_	_	_
@@ -18304,7 +18304,7 @@
 2	Parecer	_	NOUN	_	_	0	_	_	_
 3	Normativo	_	ADJ	_	_	0	_	_	_
 4	CST	_	PROPN	_	_	0	_	_	_
-5	nº	_	NUM	_	_	0	_	_	_
+5	nº	_	NOUN	_	_	0	_	_	_
 6	93/74	_	NUM	_	_	0	_	_	_
 7	)	_	PUNCT	_	_	0	_	_	_
 8	As	_	DET	_	_	0	_	_	_
@@ -20154,9 +20154,9 @@
 21	a	_	DET	_	_	0	_	_	_
 22	Libertadores	_	PROPN	_	_	0	_	_	_
 23	1	_	NUM	_	_	0	_	_	_
-24	2	_	NUM	_	_	0	_	_	_
+24	2	_	NOUN	_	_	0	_	_	_
 25	3	_	NUM	_	_	0	_	_	_
-26	4	_	NUM	_	_	0	_	_	_
+26	4	_	NOUN	_	_	0	_	_	_
 27	Velez	_	PROPN	_	_	0	_	_	_
 28	Sarsfield	_	PROPN	_	_	0	_	_	_
 29	Cruzeiro	_	PROPN	_	_	0	_	_	_
@@ -20165,29 +20165,29 @@
 32	Juniors	_	PROPN	_	_	0	_	_	_
 33	Pontos	_	NOUN	_	_	0	_	_	_
 34	8	_	NUM	_	_	0	_	_	_
-35	5	_	NUM	_	_	0	_	_	_
+35	5	_	NOUN	_	_	0	_	_	_
 36	4	_	NUM	_	_	0	_	_	_
-37	3	_	NUM	_	_	0	_	_	_
+37	3	_	NOUN	_	_	0	_	_	_
 38	Jogos	_	NOUN	_	_	0	_	_	_
 39	5	_	NUM	_	_	0	_	_	_
-40	5	_	NUM	_	_	0	_	_	_
+40	5	_	NOUN	_	_	0	_	_	_
 41	5	_	NUM	_	_	0	_	_	_
-42	5	_	NUM	_	_	0	_	_	_
+42	5	_	NOUN	_	_	0	_	_	_
 43	Vitórias	_	NOUN	_	_	0	_	_	_
 44	3	_	NUM	_	_	0	_	_	_
-45	2	_	NUM	_	_	0	_	_	_
+45	2	_	NOUN	_	_	0	_	_	_
 46	2	_	NUM	_	_	0	_	_	_
-47	1	_	NUM	_	_	0	_	_	_
+47	1	_	NOUN	_	_	0	_	_	_
 48	Empates	_	NOUN	_	_	0	_	_	_
 49	2	_	NUM	_	_	0	_	_	_
-50	1	_	NUM	_	_	0	_	_	_
+50	1	_	NOUN	_	_	0	_	_	_
 51	0	_	NUM	_	_	0	_	_	_
-52	1	_	NUM	_	_	0	_	_	_
+52	1	_	NOUN	_	_	0	_	_	_
 53	Derrotas	_	NOUN	_	_	0	_	_	_
 54	0	_	NUM	_	_	0	_	_	_
-55	2	_	NUM	_	_	0	_	_	_
+55	2	_	NOUN	_	_	0	_	_	_
 56	2	_	NUM	_	_	0	_	_	_
-57	3	_	NUM	_	_	0	_	_	_
+57	3	_	NOUN	_	_	0	_	_	_
 58	Para	_	ADP	_	_	0	_	_	_
 59	garantir	_	VERB	_	_	0	_	_	_
 60	a	_	DET	_	_	0	_	_	_
@@ -20815,7 +20815,7 @@
 5	anos	_	NOUN	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
 
-1	4	_	NUM	_	_	0	_	_	_
+1	4	_	NOUN	_	_	0	_	_	_
 2	Botafogo	_	PROPN	_	_	0	_	_	_
 3	faz	_	VERB	_	_	0	_	_	_
 4	revanche	_	NOUN	_	_	0	_	_	_
@@ -22795,7 +22795,7 @@
 53	,	_	PUNCT	_	_	0	_	_	_
 54	a	_	ADP	_	_	0	_	_	_
 55	as	_	DET	_	_	0	_	_	_
-56	17h30	_	NUM	_	_	0	_	_	_
+56	17h30	_	NOUN	_	_	0	_	_	_
 57	,	_	PUNCT	_	_	0	_	_	_
 58	contra	_	ADP	_	_	0	_	_	_
 59	a	_	DET	_	_	0	_	_	_
@@ -23398,7 +23398,7 @@
 13	elimina	_	VERB	_	_	0	_	_	_
 14	Sampras	_	PROPN	_	_	0	_	_	_
 15	O	_	DET	_	_	0	_	_	_
-16	nº	_	NUM	_	_	0	_	_	_
+16	nº	_	NOUN	_	_	0	_	_	_
 17	1	_	NUM	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
 19	o	_	DET	_	_	0	_	_	_
@@ -23584,7 +23584,7 @@
 39	Santos	_	PROPN	_	_	0	_	_	_
 40	.	_	PUNCT	_	_	0	_	_	_
 
-1	10	_	NUM	_	_	0	_	_	_
+1	10	_	NOUN	_	_	0	_	_	_
 2	e	_	CONJ	_	_	0	_	_	_
 3	11	_	NUM	_	_	0	_	_	_
 4	Jockey	_	PROPN	_	_	0	_	_	_
@@ -24477,7 +24477,7 @@
 6	)	_	PUNCT	_	_	0	_	_	_
 7	-	_	PUNCT	_	_	0	_	_	_
 8	7	_	NUM	_	_	0	_	_	_
-9	3	_	NUM	_	_	0	_	_	_
+9	3	_	NOUN	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
 
 1	"	_	PUNCT	_	_	0	_	_	_
@@ -25180,7 +25180,7 @@
 
 1	(	_	PUNCT	_	_	0	_	_	_
 2	001	_	NUM	_	_	0	_	_	_
-3	820-2851	_	NUM	_	_	0	_	_	_
+3	820-2851	_	NOUN	_	_	0	_	_	_
 4	)	_	PUNCT	_	_	0	_	_	_
 5	.	_	PUNCT	_	_	0	_	_	_
 
@@ -25616,7 +25616,7 @@
 4	fotografia	_	NOUN	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
-7	pág.	_	NUM	_	_	0	_	_	_
+7	pág.	_	NOUN	_	_	0	_	_	_
 8	6-22	_	NUM	_	_	0	_	_	_
 9	.	_	PUNCT	_	_	0	_	_	_
 
@@ -25756,7 +25756,7 @@
 28	(	_	PUNCT	_	_	0	_	_	_
 29	tel	_	NOUN	_	_	0	_	_	_
 30	011	_	NUM	_	_	0	_	_	_
-31	222-9133	_	NUM	_	_	0	_	_	_
+31	222-9133	_	NOUN	_	_	0	_	_	_
 32	)	_	PUNCT	_	_	0	_	_	_
 33	,	_	PUNCT	_	_	0	_	_	_
 34	que	_	SCONJ	_	_	0	_	_	_
@@ -26478,9 +26478,9 @@
 3	a	_	ADP	_	_	0	_	_	_
 4	as	_	DET	_	_	0	_	_	_
 5	especificações	_	NOUN	_	_	0	_	_	_
-6	MPC-1	_	NUM	_	_	0	_	_	_
+6	MPC-1	_	NOUN	_	_	0	_	_	_
 7	e	_	CONJ	_	_	0	_	_	_
-8	MPC-2	_	NUM	_	_	0	_	_	_
+8	MPC-2	_	NOUN	_	_	0	_	_	_
 9	(	_	PUNCT	_	_	0	_	_	_
 10	mais	_	ADV	_	_	0	_	_	_
 11	rígida	_	ADJ	_	_	0	_	_	_
@@ -27010,11 +27010,11 @@
 18	33	_	NUM	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
 20	486	_	NUM	_	_	0	_	_	_
-21	DX2	_	NUM	_	_	0	_	_	_
+21	DX2	_	NOUN	_	_	0	_	_	_
 22	66	_	NUM	_	_	0	_	_	_
 23	e	_	CONJ	_	_	0	_	_	_
 24	486	_	NUM	_	_	0	_	_	_
-25	DX4	_	NUM	_	_	0	_	_	_
+25	DX4	_	NOUN	_	_	0	_	_	_
 26	50	_	NUM	_	_	0	_	_	_
 27	,	_	PUNCT	_	_	0	_	_	_
 28	que	_	SCONJ	_	_	0	_	_	_
@@ -27280,7 +27280,7 @@
 8	volta	_	VERB	_	_	0	_	_	_
 9	se	_	PRON	_	_	0	_	_	_
 10	contra	_	ADP	_	_	0	_	_	_
-11	dr.	_	NUM	_	_	0	_	_	_
+11	dr.	_	NOUN	_	_	0	_	_	_
 12	Angelo	_	PROPN	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
@@ -27374,7 +27374,7 @@
 
 1	(	_	PUNCT	_	_	0	_	_	_
 2	001-404	_	NUM	_	_	0	_	_	_
-3	876-8954	_	NUM	_	_	0	_	_	_
+3	876-8954	_	NOUN	_	_	0	_	_	_
 4	)	_	PUNCT	_	_	0	_	_	_
 5	.	_	PUNCT	_	_	0	_	_	_
 
@@ -27398,7 +27398,7 @@
 
 1	(	_	PUNCT	_	_	0	_	_	_
 2	001-510	_	NUM	_	_	0	_	_	_
-3	522-3584	_	NUM	_	_	0	_	_	_
+3	522-3584	_	NOUN	_	_	0	_	_	_
 4	)	_	PUNCT	_	_	0	_	_	_
 5	.	_	PUNCT	_	_	0	_	_	_
 
@@ -28211,7 +28211,7 @@
 2	voz	_	NOUN	_	_	0	_	_	_
 3	(	_	PUNCT	_	_	0	_	_	_
 4	011	_	NUM	_	_	0	_	_	_
-5	816-3245	_	NUM	_	_	0	_	_	_
+5	816-3245	_	NOUN	_	_	0	_	_	_
 6	)	_	PUNCT	_	_	0	_	_	_
 7	;	_	PUNCT	_	_	0	_	_	_
 8	tel	_	NOUN	_	_	0	_	_	_
@@ -28219,7 +28219,7 @@
 
 1	(	_	PUNCT	_	_	0	_	_	_
 2	001-801	_	NUM	_	_	0	_	_	_
-3	278-2042	_	NUM	_	_	0	_	_	_
+3	278-2042	_	NOUN	_	_	0	_	_	_
 4	)	_	PUNCT	_	_	0	_	_	_
 5	.	_	PUNCT	_	_	0	_	_	_
 
@@ -30034,7 +30034,7 @@
 11	60	_	NUM	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
 
-1	7	_	NUM	_	_	0	_	_	_
+1	7	_	NOUN	_	_	0	_	_	_
 2	Iconografia	_	NOUN	_	_	0	_	_	_
 3	Editoria	_	NOUN	_	_	0	_	_	_
 4	:	_	PUNCT	_	_	0	_	_	_
@@ -31144,7 +31144,7 @@
 15	Memphis	_	PROPN	_	_	0	_	_	_
 16	.	_	PUNCT	_	_	0	_	_	_
 
-1	5-4	_	NUM	_	_	0	_	_	_
+1	5-4	_	NOUN	_	_	0	_	_	_
 2	"	_	PUNCT	_	_	0	_	_	_
 3	Equinox	_	PROPN	_	_	0	_	_	_
 4	"	_	PUNCT	_	_	0	_	_	_
@@ -31638,7 +31638,7 @@
 32	falta	_	NOUN	_	_	0	_	_	_
 33	.	_	PUNCT	_	_	0	_	_	_
 
-1	011/212-9756	_	NUM	_	_	0	_	_	_
+1	011/212-9756	_	NOUN	_	_	0	_	_	_
 2	)	_	PUNCT	_	_	0	_	_	_
 3	Preço	_	NOUN	_	_	0	_	_	_
 4	:	_	PUNCT	_	_	0	_	_	_
@@ -32015,7 +32015,7 @@
 4	r	_	NOUN	_	_	0	_	_	_
 5	.	_	PUNCT	_	_	0	_	_	_
 
-1	881-1012	_	NUM	_	_	0	_	_	_
+1	881-1012	_	NOUN	_	_	0	_	_	_
 2	)	_	PUNCT	_	_	0	_	_	_
 3	.	_	PUNCT	_	_	0	_	_	_
 
@@ -32160,7 +32160,7 @@
 5	desfilado	_	VERB	_	_	0	_	_	_
 6	(	_	PUNCT	_	_	0	_	_	_
 7	com	_	ADP	_	_	0	_	_	_
-8	1h15	_	NUM	_	_	0	_	_	_
+8	1h15	_	NOUN	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	atraso	_	NOUN	_	_	0	_	_	_
 11	)	_	PUNCT	_	_	0	_	_	_
@@ -32339,7 +32339,7 @@
 3	1987	_	NUM	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
 5	154	_	NUM	_	_	0	_	_	_
-6	min.	_	NUM	_	_	0	_	_	_
+6	min.	_	NOUN	_	_	0	_	_	_
 7	.	_	PUNCT	_	_	0	_	_	_
 
 1	Day	_	PROPN	_	_	0	_	_	_
@@ -32946,7 +32946,7 @@
 4	Máfia	_	PROPN	_	_	0	_	_	_
 5	Bandeirantes	_	PROPN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	21h30	_	NUM	_	_	0	_	_	_
+7	21h30	_	NOUN	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
 
 1	Peck	_	PROPN	_	_	0	_	_	_
@@ -33399,7 +33399,7 @@
 34	importância	_	NOUN	_	_	0	_	_	_
 35	.	_	PUNCT	_	_	0	_	_	_
 
-1	210-7390	_	NUM	_	_	0	_	_	_
+1	210-7390	_	NOUN	_	_	0	_	_	_
 2	)	_	PUNCT	_	_	0	_	_	_
 3	Há	_	VERB	_	_	0	_	_	_
 4	uma	_	DET	_	_	0	_	_	_
@@ -34238,7 +34238,7 @@
 14	o	_	DET	_	_	0	_	_	_
 15	jornal	_	NOUN	_	_	0	_	_	_
 16	(	_	PUNCT	_	_	0	_	_	_
-17	al.	_	NUM	_	_	0	_	_	_
+17	al.	_	NOUN	_	_	0	_	_	_
 18	Barão	_	PROPN	_	_	0	_	_	_
 19	de	_	PROPN	_	_	0	_	_	_
 20	Limeira	_	PROPN	_	_	0	_	_	_
@@ -34303,7 +34303,7 @@
 33	Rooney	_	PROPN	_	_	0	_	_	_
 34	.	_	PUNCT	_	_	0	_	_	_
 
-1	65-71581	_	NUM	_	_	0	_	_	_
+1	65-71581	_	NOUN	_	_	0	_	_	_
 2	)	_	PUNCT	_	_	0	_	_	_
 3	e	_	CONJ	_	_	0	_	_	_
 4	"	_	PUNCT	_	_	0	_	_	_
@@ -34397,7 +34397,7 @@
 4	,	_	PUNCT	_	_	0	_	_	_
 5	de	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
-7	poeta-	_	NUM	_	_	0	_	_	_
+7	poeta-	_	NOUN	_	_	0	_	_	_
 8	músico	_	ADJ	_	_	0	_	_	_
 9	Arnaldo	_	PROPN	_	_	0	_	_	_
 10	Antunes	_	PROPN	_	_	0	_	_	_
@@ -34459,7 +34459,7 @@
 5	uma	_	DET	_	_	0	_	_	_
 6	espécie	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
-8	arte-	_	NUM	_	_	0	_	_	_
+8	arte-	_	NOUN	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	as	_	DET	_	_	0	_	_	_
 11	cavernas	_	NOUN	_	_	0	_	_	_
@@ -35307,9 +35307,9 @@
 14	Cep	_	NOUN	_	_	0	_	_	_
 15	90030-030	_	NUM	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
-17	tel.	_	NUM	_	_	0	_	_	_
+17	tel.	_	NOUN	_	_	0	_	_	_
 18	051	_	NUM	_	_	0	_	_	_
-19	221-4022	_	NUM	_	_	0	_	_	_
+19	221-4022	_	NOUN	_	_	0	_	_	_
 20	)	_	PUNCT	_	_	0	_	_	_
 21	.	_	PUNCT	_	_	0	_	_	_
 
@@ -36990,7 +36990,7 @@
 24	Vargas	_	PROPN	_	_	0	_	_	_
 25	.	_	PUNCT	_	_	0	_	_	_
 
-1	Trad.	_	NUM	_	_	0	_	_	_
+1	Trad.	_	NOUN	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	Terezinha	_	PROPN	_	_	0	_	_	_
 4	Barretti	_	PROPN	_	_	0	_	_	_
@@ -39686,7 +39686,7 @@
 5	em	_	ADP	_	_	0	_	_	_
 6	que	_	SCONJ	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
-8	Sr.	_	NUM	_	_	0	_	_	_
+8	Sr.	_	NOUN	_	_	0	_	_	_
 9	pensou	_	VERB	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	fazer	_	VERB	_	_	0	_	_	_
@@ -39745,7 +39745,7 @@
 1	Que	_	DET	_	_	0	_	_	_
 2	contato	_	NOUN	_	_	0	_	_	_
 3	o	_	DET	_	_	0	_	_	_
-4	Sr.	_	NUM	_	_	0	_	_	_
+4	Sr.	_	NOUN	_	_	0	_	_	_
 5	teve	_	VERB	_	_	0	_	_	_
 6	com	_	ADP	_	_	0	_	_	_
 7	a	_	DET	_	_	0	_	_	_
@@ -40263,7 +40263,7 @@
 37	Reihe	_	PROPN	_	_	0	_	_	_
 38	"	_	PUNCT	_	_	0	_	_	_
 39	(	_	PUNCT	_	_	0	_	_	_
-40	n.º	_	NUM	_	_	0	_	_	_
+40	n.º	_	NOUN	_	_	0	_	_	_
 41	6	_	NUM	_	_	0	_	_	_
 42	,	_	PUNCT	_	_	0	_	_	_
 43	1960	_	NUM	_	_	0	_	_	_
@@ -41750,7 +41750,7 @@
 8	Textos	_	PROPN	_	_	0	_	_	_
 9	(	_	PUNCT	_	_	0	_	_	_
 10	2	_	NUM	_	_	0	_	_	_
-11	VOLS.	_	NUM	_	_	0	_	_	_
+11	VOLS.	_	NOUN	_	_	0	_	_	_
 12	)	_	PUNCT	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	de	_	ADP	_	_	0	_	_	_
@@ -43281,7 +43281,7 @@
 15	Revista	_	PROPN	_	_	0	_	_	_
 16	USP	_	PROPN	_	_	0	_	_	_
 17	"	_	PUNCT	_	_	0	_	_	_
-18	nº	_	NUM	_	_	0	_	_	_
+18	nº	_	NOUN	_	_	0	_	_	_
 19	20	_	NUM	_	_	0	_	_	_
 20	)	_	PUNCT	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
@@ -43492,9 +43492,9 @@
 13	Cep	_	NOUN	_	_	0	_	_	_
 14	01222-010	_	NUM	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
-16	tel.	_	NUM	_	_	0	_	_	_
+16	tel.	_	NOUN	_	_	0	_	_	_
 17	011	_	NUM	_	_	0	_	_	_
-18	257-2144	_	NUM	_	_	0	_	_	_
+18	257-2144	_	NOUN	_	_	0	_	_	_
 19	)	_	PUNCT	_	_	0	_	_	_
 20	.	_	PUNCT	_	_	0	_	_	_
 
@@ -45213,7 +45213,7 @@
 30	em	_	ADP	_	_	0	_	_	_
 31	o	_	DET	_	_	0	_	_	_
 32	cromossoma	_	NOUN	_	_	0	_	_	_
-33	X.	_	NUM	_	_	0	_	_	_
+33	X.	_	NOUN	_	_	0	_	_	_
 34	Para	_	ADP	_	_	0	_	_	_
 35	os	_	DET	_	_	0	_	_	_
 36	primeiros	_	NOUN	_	_	0	_	_	_
@@ -46433,7 +46433,7 @@
 4	a	_	DET	_	_	0	_	_	_
 5	Alemanha	_	PROPN	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
-7	l933	_	NUM	_	_	0	_	_	_
+7	l933	_	NOUN	_	_	0	_	_	_
 8	era	_	VERB	_	_	0	_	_	_
 9	um	_	DET	_	_	0	_	_	_
 10	caos	_	NOUN	_	_	0	_	_	_
@@ -46736,7 +46736,7 @@
 15	Europeo	_	PROPN	_	_	0	_	_	_
 16	"	_	PUNCT	_	_	0	_	_	_
 17	,	_	PUNCT	_	_	0	_	_	_
-18	trad.	_	NUM	_	_	0	_	_	_
+18	trad.	_	NOUN	_	_	0	_	_	_
 19	de	_	ADP	_	_	0	_	_	_
 20	José	_	PROPN	_	_	0	_	_	_
 21	Vives	_	PROPN	_	_	0	_	_	_
@@ -46745,7 +46745,7 @@
 24	,	_	PUNCT	_	_	0	_	_	_
 25	1965	_	NUM	_	_	0	_	_	_
 26	,	_	PUNCT	_	_	0	_	_	_
-27	pág.	_	NUM	_	_	0	_	_	_
+27	pág.	_	NOUN	_	_	0	_	_	_
 28	42	_	NUM	_	_	0	_	_	_
 29	.	_	PUNCT	_	_	0	_	_	_
 
@@ -47080,7 +47080,7 @@
 25	segundo	_	NOUN	_	_	0	_	_	_
 26	.	_	PUNCT	_	_	0	_	_	_
 
-1	248	_	NUM	_	_	0	_	_	_
+1	248	_	NOUN	_	_	0	_	_	_
 2	eventos	_	NOUN	_	_	0	_	_	_
 3	foram	_	AUX	_	_	0	_	_	_
 4	registrados	_	VERB	_	_	0	_	_	_
@@ -48168,7 +48168,7 @@
 3	está	_	VERB	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
-6	pág.	_	NUM	_	_	0	_	_	_
+6	pág.	_	NOUN	_	_	0	_	_	_
 7	136	_	NUM	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	linhas	_	NOUN	_	_	0	_	_	_
@@ -48297,7 +48297,7 @@
 30	)	_	PUNCT	_	_	0	_	_	_
 31	.	_	PUNCT	_	_	0	_	_	_
 
-1	212-7121	_	NUM	_	_	0	_	_	_
+1	212-7121	_	NOUN	_	_	0	_	_	_
 2	)	_	PUNCT	_	_	0	_	_	_
 3	e	_	CONJ	_	_	0	_	_	_
 4	Villaboim	_	PROPN	_	_	0	_	_	_
@@ -51882,7 +51882,7 @@
 7	controla	_	VERB	_	_	0	_	_	_
 8	agora	_	CONJ	_	_	0	_	_	_
 9	250	_	NUM	_	_	0	_	_	_
-10	km2	_	NUM	_	_	0	_	_	_
+10	km2	_	NOUN	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
 12	território	_	NOUN	_	_	0	_	_	_
 13	que	_	SCONJ	_	_	0	_	_	_
@@ -52370,7 +52370,7 @@
 17	60	_	NUM	_	_	0	_	_	_
 18	.	_	PUNCT	_	_	0	_	_	_
 
-1	20	_	NUM	_	_	0	_	_	_
+1	20	_	NOUN	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	março	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
