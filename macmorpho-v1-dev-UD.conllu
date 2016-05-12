@@ -8801,7 +8801,7 @@
 3	nacional	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	turismo	_	NOUN	_	_	0	_	_	_
-6	e	_	NOUN	_	_	0	_	_	_
+6	e	_	PROPN	_	_	0	_	_	_
 7	Serviços	_	NOUN	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	Caio	_	PROPN	_	_	0	_	_	_
@@ -26478,7 +26478,7 @@
 3	a	_	ADP	_	_	0	_	_	_
 4	as	_	DET	_	_	0	_	_	_
 5	especificações	_	NOUN	_	_	0	_	_	_
-6	MPC-1	_	NOUN	_	_	0	_	_	_
+6	MPC-1	_	PROPN	_	_	0	_	_	_
 7	e	_	CONJ	_	_	0	_	_	_
 8	MPC-2	_	NOUN	_	_	0	_	_	_
 9	(	_	PUNCT	_	_	0	_	_	_
@@ -27010,11 +27010,11 @@
 18	33	_	NUM	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
 20	486	_	NUM	_	_	0	_	_	_
-21	DX2	_	NOUN	_	_	0	_	_	_
+21	DX2	_	PROPN	_	_	0	_	_	_
 22	66	_	NUM	_	_	0	_	_	_
 23	e	_	CONJ	_	_	0	_	_	_
 24	486	_	NUM	_	_	0	_	_	_
-25	DX4	_	NOUN	_	_	0	_	_	_
+25	DX4	_	PROPN	_	_	0	_	_	_
 26	50	_	NUM	_	_	0	_	_	_
 27	,	_	PUNCT	_	_	0	_	_	_
 28	que	_	SCONJ	_	_	0	_	_	_
@@ -34542,7 +34542,7 @@
 1	Pronto	_	INTJ	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	está	_	VERB	_	_	0	_	_	_
-4	satisfeito	_	VERB	_	_	0	_	_	_
+4	satisfeito	_	ADJ	_	_	0	_	_	_
 5	?	_	PUNCT	_	_	0	_	_	_
 
 1	Não	_	ADV	_	_	0	_	_	_
@@ -34796,7 +34796,7 @@
 13	fui	_	VERB	_	_	0	_	_	_
 14	para	_	ADP	_	_	0	_	_	_
 15	casa	_	NOUN	_	_	0	_	_	_
-16	aliviado	_	ADJ	_	_	0	_	_	_
+16	aliviado	_	VERB	_	_	0	_	_	_
 17	por	_	ADP	_	_	0	_	_	_
 18	não	_	ADV	_	_	0	_	_	_
 19	ter	_	AUX	_	_	0	_	_	_
@@ -45213,7 +45213,7 @@
 30	em	_	ADP	_	_	0	_	_	_
 31	o	_	DET	_	_	0	_	_	_
 32	cromossoma	_	NOUN	_	_	0	_	_	_
-33	X.	_	NOUN	_	_	0	_	_	_
+33	X.	_	PROPN	_	_	0	_	_	_
 34	Para	_	ADP	_	_	0	_	_	_
 35	os	_	DET	_	_	0	_	_	_
 36	primeiros	_	NOUN	_	_	0	_	_	_
