@@ -3624,7 +3624,7 @@
 [3623] carpal_N tunnel_N syndrome_N => carpal_X tunnel_X syndrome_X
 [3624] me_N a_N non_N troppo_N => me_X a_X non_X troppo_X
 [3625] personal_N digital_N assistant_N => personal_X digital_X assistant_X
-[3626] *_ART PREP\|\+_ART => *_PREP
+[3626] (\w+)_ART PREP\|\+_ART => \1_PREP
 [3627] quorum\|_N => quorum_N
 [3628] até_PART => até_PREP
 [3629] Até_PART => Até_PREP

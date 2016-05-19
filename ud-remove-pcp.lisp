@@ -3723,7 +3723,7 @@
 (-> "carpal_N tunnel_N syndrome_N" "carpal_X tunnel_X syndrome_X" :cr)
 (-> "me_N a_N non_N troppo_N" "me_X a_X non_X troppo_X" :cr)
 (-> "personal_N digital_N assistant_N" "personal_X digital_X assistant_X" :cr)
-(-> "*_ART PREP\\|\\+_ART" "*_PREP" :cr)
+(r-> "(\\w+)_ART PREP\\|\\+_ART" "\\1_PREP" :cr)
 (-> "quorum\\|_N" "quorum_N" :cr)
 
 (-> "até_PART" "até_PREP" :mm)
