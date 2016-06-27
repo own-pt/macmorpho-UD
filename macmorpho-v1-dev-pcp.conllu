@@ -149,7 +149,7 @@
 5	o	_	DET	_	_	0	_	_	_
 6	Cerrado	_	PROPN	_	_	0	_	_	_
 7	foi	_	AUX	_	_	0	_	_	_
-8	centrada	_	VERB	_	_	0	_	_	_
+8	centrada	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	comercialização	_	NOUN	_	_	0	_	_	_
@@ -264,7 +264,7 @@
 9	do	_	PROPN	_	_	0	_	_	_
 10	Andaluz	_	PROPN	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
-12	sediada	_	VERB	_	_	0	_	_	_
+12	sediada	_	PCP	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	São	_	PROPN	_	_	0	_	_	_
 15	Paulo	_	PROPN	_	_	0	_	_	_
@@ -346,7 +346,7 @@
 1	As	_	DET	_	_	0	_	_	_
 2	fêmeas	_	NOUN	_	_	0	_	_	_
 3	foram	_	AUX	_	_	0	_	_	_
-4	selecionadas	_	VERB	_	_	0	_	_	_
+4	selecionadas	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
 7	fazendas	_	NOUN	_	_	0	_	_	_
@@ -482,7 +482,7 @@
 13	de	_	ADP	_	_	0	_	_	_
 14	mercado	_	NOUN	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
-16	avaliada	_	VERB	_	_	0	_	_	_
+16	avaliada	_	PCP	_	_	0	_	_	_
 17	em	_	ADP	_	_	0	_	_	_
 18	US$	_	SYM	_	_	0	_	_	_
 19	100	_	NUM	_	_	0	_	_	_
@@ -535,20 +535,20 @@
 14	mil	_	NUM	_	_	0	_	_	_
 15	animais	_	NOUN	_	_	0	_	_	_
 16	puros	_	ADJ	_	_	0	_	_	_
-17	registrados	_	VERB	_	_	0	_	_	_
+17	registrados	_	PCP	_	_	0	_	_	_
 18	.	_	PUNCT	_	_	0	_	_	_
 
 1	Vale	_	PROPN	_	_	0	_	_	_
 2	Real	_	PROPN	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
-4	nascido	_	VERB	_	_	0	_	_	_
+4	nascido	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	outubro	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	92	_	NUM	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
 10	foi	_	AUX	_	_	0	_	_	_
-11	adquirido	_	VERB	_	_	0	_	_	_
+11	adquirido	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	R$	_	SYM	_	_	0	_	_	_
 14	70	_	NUM	_	_	0	_	_	_
@@ -567,7 +567,7 @@
 2	andaluz	_	NOUN	_	_	0	_	_	_
 3	mais	_	ADV	_	_	0	_	_	_
 4	caro	_	ADJ	_	_	0	_	_	_
-5	vendido	_	VERB	_	_	0	_	_	_
+5	vendido	_	PCP	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	Internacional	_	PROPN	_	_	0	_	_	_
@@ -636,7 +636,7 @@
 29	Cavalo	_	PROPN	_	_	0	_	_	_
 30	Árabe	_	PROPN	_	_	0	_	_	_
 31	,	_	PUNCT	_	_	0	_	_	_
-32	sediada	_	VERB	_	_	0	_	_	_
+32	sediada	_	PCP	_	_	0	_	_	_
 33	em	_	ADP	_	_	0	_	_	_
 34	São	_	PROPN	_	_	0	_	_	_
 35	Paulo	_	PROPN	_	_	0	_	_	_
@@ -656,7 +656,7 @@
 12	nacional	_	ADJ	_	_	0	_	_	_
 13	de	_	ADP	_	_	0	_	_	_
 14	arroz	_	NOUN	_	_	0	_	_	_
-15	irrigado	_	VERB	_	_	0	_	_	_
+15	irrigado	_	PCP	_	_	0	_	_	_
 16	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -732,7 +732,7 @@
 5	atenção	_	NOUN	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	destaque	_	NOUN	_	_	0	_	_	_
-8	dado	_	VERB	_	_	0	_	_	_
+8	dado	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	autor	_	NOUN	_	_	0	_	_	_
@@ -812,7 +812,7 @@
 3	de	_	ADP	_	_	0	_	_	_
 4	Kimm	_	PROPN	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
-6	recém-formado	_	VERB	_	_	0	_	_	_
+6	recém-formado	_	PCP	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	engenharia	_	NOUN	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
@@ -852,7 +852,7 @@
 18	superprodução	_	NOUN	_	_	0	_	_	_
 19	foi	_	AUX	_	_	0	_	_	_
 20	propositalmente	_	ADV	_	_	0	_	_	_
-21	gerada	_	VERB	_	_	0	_	_	_
+21	gerada	_	PCP	_	_	0	_	_	_
 22	-	_	PUNCT	_	_	0	_	_	_
 23	com	_	ADP	_	_	0	_	_	_
 24	garantias	_	NOUN	_	_	0	_	_	_
@@ -922,7 +922,7 @@
 
 1	As	_	DET	_	_	0	_	_	_
 2	fêmeas	_	NOUN	_	_	0	_	_	_
-3	importadas	_	VERB	_	_	0	_	_	_
+3	importadas	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	Fagundes	_	PROPN	_	_	0	_	_	_
 6	vão	_	AUX	_	_	0	_	_	_
@@ -943,7 +943,7 @@
 9	os	_	DET	_	_	0	_	_	_
 10	lotes	_	NOUN	_	_	0	_	_	_
 11	foram	_	AUX	_	_	0	_	_	_
-12	vendidos	_	VERB	_	_	0	_	_	_
+12	vendidos	_	PCP	_	_	0	_	_	_
 13	para	_	ADP	_	_	0	_	_	_
 14	compradores	_	NOUN	_	_	0	_	_	_
 15	diferentes	_	ADJ	_	_	0	_	_	_
@@ -1060,7 +1060,7 @@
 16	hectares	_	NOUN	_	_	0	_	_	_
 17	,	_	PUNCT	_	_	0	_	_	_
 18	seriam	_	AUX	_	_	0	_	_	_
-19	desperdiçados	_	VERB	_	_	0	_	_	_
+19	desperdiçados	_	PCP	_	_	0	_	_	_
 20	US$	_	SYM	_	_	0	_	_	_
 21	230	_	NUM	_	_	0	_	_	_
 22	milhões	_	NOUN	_	_	0	_	_	_
@@ -1094,13 +1094,13 @@
 19	"	_	PUNCT	_	_	0	_	_	_
 20	Fome	_	PROPN	_	_	0	_	_	_
 21	"	_	PUNCT	_	_	0	_	_	_
-22	publicado	_	VERB	_	_	0	_	_	_
+22	publicado	_	PCP	_	_	0	_	_	_
 23	por	_	ADP	_	_	0	_	_	_
 24	a	_	DET	_	_	0	_	_	_
 25	Folha	_	PROPN	_	_	0	_	_	_
 26	em	_	ADP	_	_	0	_	_	_
 27	dezembro	_	NOUN	_	_	0	_	_	_
-28	passado	_	VERB	_	_	0	_	_	_
+28	passado	_	PCP	_	_	0	_	_	_
 29	,	_	PUNCT	_	_	0	_	_	_
 30	desencadeou	_	VERB	_	_	0	_	_	_
 31	uma	_	DET	_	_	0	_	_	_
@@ -1132,7 +1132,7 @@
 
 1	Pode	_	AUX	_	_	0	_	_	_
 2	ser	_	AUX	_	_	0	_	_	_
-3	feito	_	VERB	_	_	0	_	_	_
+3	feito	_	PCP	_	_	0	_	_	_
 4	a	_	ADP	_	_	0	_	_	_
 5	um	_	DET	_	_	0	_	_	_
 6	custo	_	NOUN	_	_	0	_	_	_
@@ -1271,14 +1271,14 @@
 19	os	_	DET	_	_	0	_	_	_
 20	insumos	_	NOUN	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
-22	autorizada	_	VERB	_	_	0	_	_	_
+22	autorizada	_	PCP	_	_	0	_	_	_
 23	por	_	ADP	_	_	0	_	_	_
 24	o	_	DET	_	_	0	_	_	_
 25	governo	_	NOUN	_	_	0	_	_	_
 26	em	_	ADP	_	_	0	_	_	_
 27	a	_	DET	_	_	0	_	_	_
 28	semana	_	NOUN	_	_	0	_	_	_
-29	passada	_	VERB	_	_	0	_	_	_
+29	passada	_	PCP	_	_	0	_	_	_
 30	,	_	PUNCT	_	_	0	_	_	_
 31	deve	_	AUX	_	_	0	_	_	_
 32	aumentar	_	VERB	_	_	0	_	_	_
@@ -1301,7 +1301,7 @@
 6	convivência	_	NOUN	_	_	0	_	_	_
 7	com	_	ADP	_	_	0	_	_	_
 8	inflação	_	NOUN	_	_	0	_	_	_
-9	elevada	_	VERB	_	_	0	_	_	_
+9	elevada	_	PCP	_	_	0	_	_	_
 10	,	_	PUNCT	_	_	0	_	_	_
 11	os	_	SCONJ	_	_	0	_	_	_
 12	quais	_	SCONJ	_	_	0	_	_	_
@@ -1439,7 +1439,7 @@
 2	terra	_	NOUN	_	_	0	_	_	_
 3	deve	_	AUX	_	_	0	_	_	_
 4	ser	_	AUX	_	_	0	_	_	_
-5	retirada	_	VERB	_	_	0	_	_	_
+5	retirada	_	PCP	_	_	0	_	_	_
 6	somente	_	ADV	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
@@ -1449,10 +1449,10 @@
 12	e	_	CONJ	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
 14	parte	_	NOUN	_	_	0	_	_	_
-15	afetada	_	VERB	_	_	0	_	_	_
+15	afetada	_	PCP	_	_	0	_	_	_
 16	deve	_	AUX	_	_	0	_	_	_
 17	ser	_	AUX	_	_	0	_	_	_
-18	podada	_	VERB	_	_	0	_	_	_
+18	podada	_	PCP	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
 20	a	_	DET	_	_	0	_	_	_
 21	recuperação	_	NOUN	_	_	0	_	_	_
@@ -1538,11 +1538,11 @@
 7	de	_	ADP	_	_	0	_	_	_
 8	agrotóxicos	_	NOUN	_	_	0	_	_	_
 9	estão	_	VERB	_	_	0	_	_	_
-10	favorecidas	_	VERB	_	_	0	_	_	_
+10	favorecidas	_	PCP	_	_	0	_	_	_
 11	mas	_	CONJ	_	_	0	_	_	_
 12	devem	_	AUX	_	_	0	_	_	_
 13	ser	_	AUX	_	_	0	_	_	_
-14	afetadas	_	VERB	_	_	0	_	_	_
+14	afetadas	_	PCP	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
 16	a	_	DET	_	_	0	_	_	_
 17	passagem	_	NOUN	_	_	0	_	_	_
@@ -1697,13 +1697,13 @@
 
 1	A	_	DET	_	_	0	_	_	_
 2	tecnologia	_	NOUN	_	_	0	_	_	_
-3	utilizada	_	VERB	_	_	0	_	_	_
+3	utilizada	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
 6	IBGE	_	PROPN	_	_	0	_	_	_
 7	também	_	ADV	_	_	0	_	_	_
 8	foi	_	AUX	_	_	0	_	_	_
-9	desenvolvida	_	VERB	_	_	0	_	_	_
+9	desenvolvida	_	PCP	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
 12	Inpe	_	PROPN	_	_	0	_	_	_
@@ -1712,7 +1712,7 @@
 15	trabalho	_	NOUN	_	_	0	_	_	_
 16	vem	_	AUX	_	_	0	_	_	_
 17	sendo	_	AUX	_	_	0	_	_	_
-18	feito	_	VERB	_	_	0	_	_	_
+18	feito	_	PCP	_	_	0	_	_	_
 19	há	_	VERB	_	_	0	_	_	_
 20	seis	_	NUM	_	_	0	_	_	_
 21	anos	_	NOUN	_	_	0	_	_	_
@@ -1723,7 +1723,7 @@
 3	em	_	ADP	_	_	0	_	_	_
 4	os	_	DET	_	_	0	_	_	_
 5	dados	_	NOUN	_	_	0	_	_	_
-6	obtidos	_	VERB	_	_	0	_	_	_
+6	obtidos	_	PCP	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
 8	será	_	VERB	_	_	0	_	_	_
 9	possível	_	ADJ	_	_	0	_	_	_
@@ -1757,7 +1757,7 @@
 5	francesa	_	ADJ	_	_	0	_	_	_
 6	e	_	CONJ	_	_	0	_	_	_
 7	é	_	AUX	_	_	0	_	_	_
-8	usado	_	VERB	_	_	0	_	_	_
+8	usado	_	PCP	_	_	0	_	_	_
 9	para	_	ADP	_	_	0	_	_	_
 10	produção	_	NOUN	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
@@ -1767,7 +1767,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	Estância	_	PROPN	_	_	0	_	_	_
 3	Orsi	_	PROPN	_	_	0	_	_	_
-4	localizada	_	VERB	_	_	0	_	_	_
+4	localizada	_	PCP	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	dez	_	NUM	_	_	0	_	_	_
 7	quilômetros	_	NOUN	_	_	0	_	_	_
@@ -1933,7 +1933,7 @@
 2	Os	_	DET	_	_	0	_	_	_
 3	negócios	_	NOUN	_	_	0	_	_	_
 4	estão	_	VERB	_	_	0	_	_	_
-5	parados	_	VERB	_	_	0	_	_	_
+5	parados	_	PCP	_	_	0	_	_	_
 6	há	_	VERB	_	_	0	_	_	_
 7	mais	_	ADP	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
@@ -1979,11 +1979,11 @@
 10	as	_	DET	_	_	0	_	_	_
 11	raças	_	NOUN	_	_	0	_	_	_
 12	equinas	_	ADJ	_	_	0	_	_	_
-13	comercializadas	_	VERB	_	_	0	_	_	_
+13	comercializadas	_	PCP	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
 16	ano	_	NOUN	_	_	0	_	_	_
-17	passado	_	VERB	_	_	0	_	_	_
+17	passado	_	PCP	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
 19	a	_	ADP	_	_	0	_	_	_
 20	andaluz	_	NOUN	_	_	0	_	_	_
@@ -2157,7 +2157,7 @@
 
 1	Garibaldi	_	PROPN	_	_	0	_	_	_
 2	foi	_	AUX	_	_	0	_	_	_
-3	escalado	_	VERB	_	_	0	_	_	_
+3	escalado	_	PCP	_	_	0	_	_	_
 4	para	_	ADP	_	_	0	_	_	_
 5	saber	_	VERB	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
@@ -2465,7 +2465,7 @@
 4	frei	_	NOUN	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	apenas	_	ADV	_	_	0	_	_	_
-7	impedido	_	VERB	_	_	0	_	_	_
+7	impedido	_	PCP	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
 9	administrar	_	VERB	_	_	0	_	_	_
 10	os	_	DET	_	_	0	_	_	_
@@ -2481,7 +2481,7 @@
 6	Deus	_	PROPN	_	_	0	_	_	_
 7	ao	_	ADP	_	_	0	_	_	_
 8	ser	_	AUX	_	_	0	_	_	_
-9	indagado	_	VERB	_	_	0	_	_	_
+9	indagado	_	PCP	_	_	0	_	_	_
 10	se	_	SCONJ	_	_	0	_	_	_
 11	não	_	ADV	_	_	0	_	_	_
 12	temia	_	VERB	_	_	0	_	_	_
@@ -2491,7 +2491,7 @@
 16	conta	_	ADP	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	seu	_	DET	_	_	0	_	_	_
-19	suposto	_	VERB	_	_	0	_	_	_
+19	suposto	_	PCP	_	_	0	_	_	_
 20	ateísmo	_	NOUN	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
 22	como	_	SCONJ	_	_	0	_	_	_
@@ -2554,7 +2554,7 @@
 41	em	_	ADP	_	_	0	_	_	_
 42	que	_	SCONJ	_	_	0	_	_	_
 43	rezamos	_	VERB	_	_	0	_	_	_
-44	juntos	_	VERB	_	_	0	_	_	_
+44	juntos	_	PCP	_	_	0	_	_	_
 45	o	_	DET	_	_	0	_	_	_
 46	rabino	_	NOUN	_	_	0	_	_	_
 47	Sobel	_	PROPN	_	_	0	_	_	_
@@ -2727,7 +2727,7 @@
 23	que	_	SCONJ	_	_	0	_	_	_
 24	deve	_	AUX	_	_	0	_	_	_
 25	ser	_	AUX	_	_	0	_	_	_
-26	constituído	_	VERB	_	_	0	_	_	_
+26	constituído	_	PCP	_	_	0	_	_	_
 27	exclusivamente	_	ADV	_	_	0	_	_	_
 28	por	_	ADP	_	_	0	_	_	_
 29	empresários	_	NOUN	_	_	0	_	_	_
@@ -2830,7 +2830,7 @@
 16	para	_	ADP	_	_	0	_	_	_
 17	que	_	SCONJ	_	_	0	_	_	_
 18	seja	_	AUX	_	_	0	_	_	_
-19	retirada	_	VERB	_	_	0	_	_	_
+19	retirada	_	PCP	_	_	0	_	_	_
 20	por	_	ADP	_	_	0	_	_	_
 21	guindastes	_	NOUN	_	_	0	_	_	_
 22	.	_	PUNCT	_	_	0	_	_	_
@@ -2895,7 +2895,7 @@
 16	cardíacos	_	ADJ	_	_	0	_	_	_
 17	.	_	PUNCT	_	_	0	_	_	_
 
-1	Confirmada	_	VERB	_	_	0	_	_	_
+1	Confirmada	_	PCP	_	_	0	_	_	_
 2	a	_	DET	_	_	0	_	_	_
 3	tendência	_	NOUN	_	_	0	_	_	_
 4	positiva	_	ADJ	_	_	0	_	_	_
@@ -3037,7 +3037,7 @@
 8	,	_	PUNCT	_	_	0	_	_	_
 9	ele	_	PRON	_	_	0	_	_	_
 10	estava	_	VERB	_	_	0	_	_	_
-11	desolado	_	VERB	_	_	0	_	_	_
+11	desolado	_	PCP	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
 
 1	Em	_	ADP	_	_	0	_	_	_
@@ -3069,7 +3069,7 @@
 9	Paulo	_	PROPN	_	_	0	_	_	_
 10	estão	_	AUX	_	_	0	_	_	_
 11	sendo	_	AUX	_	_	0	_	_	_
-12	deslocados	_	VERB	_	_	0	_	_	_
+12	deslocados	_	PCP	_	_	0	_	_	_
 13	para	_	ADP	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
 15	campanha	_	NOUN	_	_	0	_	_	_
@@ -3149,7 +3149,7 @@
 4	também	_	ADV	_	_	0	_	_	_
 5	mostrou	_	VERB	_	_	0	_	_	_
 6	se	_	PRON	_	_	0	_	_	_
-7	preocupado	_	VERB	_	_	0	_	_	_
+7	preocupado	_	PCP	_	_	0	_	_	_
 8	com	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	impacto	_	NOUN	_	_	0	_	_	_
@@ -3173,7 +3173,7 @@
 6	empréstimo	_	NOUN	_	_	0	_	_	_
 7	pode	_	AUX	_	_	0	_	_	_
 8	ser	_	AUX	_	_	0	_	_	_
-9	feito	_	VERB	_	_	0	_	_	_
+9	feito	_	PCP	_	_	0	_	_	_
 10	a	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
 12	Banco	_	PROPN	_	_	0	_	_	_
@@ -3203,7 +3203,7 @@
 13	estagiários	_	NOUN	_	_	0	_	_	_
 14	.	_	PUNCT	_	_	0	_	_	_
 
-1	Autorizado	_	VERB	_	_	0	_	_	_
+1	Autorizado	_	PCP	_	_	0	_	_	_
 2	por	_	ADP	_	_	0	_	_	_
 3	FHC	_	PROPN	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
@@ -3217,7 +3217,7 @@
 12	que	_	SCONJ	_	_	0	_	_	_
 13	vem	_	AUX	_	_	0	_	_	_
 14	sendo	_	AUX	_	_	0	_	_	_
-15	articulado	_	VERB	_	_	0	_	_	_
+15	articulado	_	PCP	_	_	0	_	_	_
 16	por	_	ADP	_	_	0	_	_	_
 17	seus	_	DET	_	_	0	_	_	_
 18	colegas	_	NOUN	_	_	0	_	_	_
@@ -3262,7 +3262,7 @@
 8	,	_	PUNCT	_	_	0	_	_	_
 9	ele	_	PRON	_	_	0	_	_	_
 10	foi	_	AUX	_	_	0	_	_	_
-11	nomeado	_	VERB	_	_	0	_	_	_
+11	nomeado	_	PCP	_	_	0	_	_	_
 12	prefeito	_	NOUN	_	_	0	_	_	_
 13	de	_	ADP	_	_	0	_	_	_
 14	Curitiba	_	PROPN	_	_	0	_	_	_
@@ -3343,7 +3343,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	decisão	_	NOUN	_	_	0	_	_	_
 3	foi	_	AUX	_	_	0	_	_	_
-4	tomada	_	VERB	_	_	0	_	_	_
+4	tomada	_	PCP	_	_	0	_	_	_
 5	ontem	_	ADV	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
 7	assembléia	_	NOUN	_	_	0	_	_	_
@@ -3432,7 +3432,7 @@
 3	Lula	_	PROPN	_	_	0	_	_	_
 4	admitiu	_	VERB	_	_	0	_	_	_
 5	ter	_	AUX	_	_	0	_	_	_
-6	recebido	_	VERB	_	_	0	_	_	_
+6	recebido	_	PCP	_	_	0	_	_	_
 7	doações	_	NOUN	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
 9	bancos	_	NOUN	_	_	0	_	_	_
@@ -3459,7 +3459,7 @@
 8	e	_	CONJ	_	_	0	_	_	_
 9	diz	_	VERB	_	_	0	_	_	_
 10	ter	_	AUX	_	_	0	_	_	_
-11	feito	_	VERB	_	_	0	_	_	_
+11	feito	_	PCP	_	_	0	_	_	_
 12	uma	_	DET	_	_	0	_	_	_
 13	campanha	_	NOUN	_	_	0	_	_	_
 14	mais	_	ADV	_	_	0	_	_	_
@@ -3517,7 +3517,7 @@
 1	Jobim	_	PROPN	_	_	0	_	_	_
 2	também	_	ADV	_	_	0	_	_	_
 3	é	_	AUX	_	_	0	_	_	_
-4	cotado	_	VERB	_	_	0	_	_	_
+4	cotado	_	PCP	_	_	0	_	_	_
 5	para	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	.	_	PUNCT	_	_	0	_	_	_
@@ -3576,7 +3576,7 @@
 43	de	_	ADP	_	_	0	_	_	_
 44	o	_	DET	_	_	0	_	_	_
 45	presidente	_	NOUN	_	_	0	_	_	_
-46	eleito	_	VERB	_	_	0	_	_	_
+46	eleito	_	PCP	_	_	0	_	_	_
 47	,	_	PUNCT	_	_	0	_	_	_
 48	o	_	DET	_	_	0	_	_	_
 49	sociólogo	_	NOUN	_	_	0	_	_	_
@@ -3597,7 +3597,7 @@
 10	,	_	PUNCT	_	_	0	_	_	_
 11	Lucena	_	PROPN	_	_	0	_	_	_
 12	ficará	_	VERB	_	_	0	_	_	_
-13	impedido	_	VERB	_	_	0	_	_	_
+13	impedido	_	PCP	_	_	0	_	_	_
 14	de	_	ADP	_	_	0	_	_	_
 15	disputar	_	VERB	_	_	0	_	_	_
 16	outras	_	DET	_	_	0	_	_	_
@@ -3636,7 +3636,7 @@
 5	a	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	presidente	_	NOUN	_	_	0	_	_	_
-8	eleito	_	VERB	_	_	0	_	_	_
+8	eleito	_	PCP	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
 10	ainda	_	ADV	_	_	0	_	_	_
 11	ontem	_	ADV	_	_	0	_	_	_
@@ -3659,7 +3659,7 @@
 11	que	_	SCONJ	_	_	0	_	_	_
 12	"	_	PUNCT	_	_	0	_	_	_
 13	foi	_	AUX	_	_	0	_	_	_
-14	espancado	_	VERB	_	_	0	_	_	_
+14	espancado	_	PCP	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
 16	quase	_	ADV	_	_	0	_	_	_
 17	seis	_	NUM	_	_	0	_	_	_
@@ -3753,14 +3753,14 @@
 20	colega	_	NOUN	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
 22	foi	_	AUX	_	_	0	_	_	_
-23	revistado	_	VERB	_	_	0	_	_	_
+23	revistado	_	PCP	_	_	0	_	_	_
 24	várias	_	DET	_	_	0	_	_	_
 25	vezes	_	NOUN	_	_	0	_	_	_
 26	,	_	PUNCT	_	_	0	_	_	_
 27	mas	_	CONJ	_	_	0	_	_	_
 28	não	_	ADV	_	_	0	_	_	_
 29	foram	_	AUX	_	_	0	_	_	_
-30	detidos	_	VERB	_	_	0	_	_	_
+30	detidos	_	PCP	_	_	0	_	_	_
 31	.	_	PUNCT	_	_	0	_	_	_
 
 1	Com	_	ADP	_	_	0	_	_	_
@@ -3791,7 +3791,7 @@
 26	fez	_	VERB	_	_	0	_	_	_
 27	uma	_	DET	_	_	0	_	_	_
 28	exposição	_	NOUN	_	_	0	_	_	_
-29	marcada	_	VERB	_	_	0	_	_	_
+29	marcada	_	PCP	_	_	0	_	_	_
 30	por	_	ADP	_	_	0	_	_	_
 31	frases	_	NOUN	_	_	0	_	_	_
 32	que	_	SCONJ	_	_	0	_	_	_
@@ -3969,7 +3969,7 @@
 8	questionou	_	VERB	_	_	0	_	_	_
 9	as	_	DET	_	_	0	_	_	_
 10	revistas	_	NOUN	_	_	0	_	_	_
-11	feitas	_	VERB	_	_	0	_	_	_
+11	feitas	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	os	_	DET	_	_	0	_	_	_
 14	militares	_	NOUN	_	_	0	_	_	_
@@ -4002,7 +4002,7 @@
 18	92	_	NUM	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
 20	é	_	AUX	_	_	0	_	_	_
-21	presidida	_	VERB	_	_	0	_	_	_
+21	presidida	_	PCP	_	_	0	_	_	_
 22	por	_	ADP	_	_	0	_	_	_
 23	Raimunda	_	PROPN	_	_	0	_	_	_
 24	Francisca	_	PROPN	_	_	0	_	_	_
@@ -4026,10 +4026,10 @@
 42	o	_	DET	_	_	0	_	_	_
 43	.	_	PUNCT	_	_	0	_	_	_
 
-1	Perguntado	_	VERB	_	_	0	_	_	_
+1	Perguntado	_	PCP	_	_	0	_	_	_
 2	se	_	SCONJ	_	_	0	_	_	_
 3	estaria	_	VERB	_	_	0	_	_	_
-4	preocupado	_	VERB	_	_	0	_	_	_
+4	preocupado	_	PCP	_	_	0	_	_	_
 5	com	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	saída	_	NOUN	_	_	0	_	_	_
@@ -4045,7 +4045,7 @@
 17	:	_	PUNCT	_	_	0	_	_	_
 18	"	_	PUNCT	_	_	0	_	_	_
 19	Estou	_	VERB	_	_	0	_	_	_
-20	preocupado	_	VERB	_	_	0	_	_	_
+20	preocupado	_	PCP	_	_	0	_	_	_
 21	é	_	VERB	_	_	0	_	_	_
 22	em	_	ADP	_	_	0	_	_	_
 23	recompor	_	VERB	_	_	0	_	_	_
@@ -4118,7 +4118,7 @@
 36	imóvel	_	NOUN	_	_	0	_	_	_
 37	com	_	ADP	_	_	0	_	_	_
 38	dinheiro	_	NOUN	_	_	0	_	_	_
-39	carregado	_	VERB	_	_	0	_	_	_
+39	carregado	_	PCP	_	_	0	_	_	_
 40	em	_	ADP	_	_	0	_	_	_
 41	mala	_	NOUN	_	_	0	_	_	_
 42	.	_	PUNCT	_	_	0	_	_	_
@@ -4167,16 +4167,16 @@
 8	dinheiro	_	NOUN	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	subvenções	_	NOUN	_	_	0	_	_	_
-11	liberado	_	VERB	_	_	0	_	_	_
+11	liberado	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	ela	_	PRON	_	_	0	_	_	_
 14	foi	_	AUX	_	_	0	_	_	_
-15	feito	_	VERB	_	_	0	_	_	_
+15	feito	_	PCP	_	_	0	_	_	_
 16	dentro	_	ADP	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	os	_	DET	_	_	0	_	_	_
 19	padrões	_	NOUN	_	_	0	_	_	_
-20	exigidos	_	VERB	_	_	0	_	_	_
+20	exigidos	_	PCP	_	_	0	_	_	_
 21	por	_	ADP	_	_	0	_	_	_
 22	a	_	DET	_	_	0	_	_	_
 23	lei	_	NOUN	_	_	0	_	_	_
@@ -4223,7 +4223,7 @@
 
 1	Também	_	ADV	_	_	0	_	_	_
 2	são	_	AUX	_	_	0	_	_	_
-3	pedidos	_	VERB	_	_	0	_	_	_
+3	pedidos	_	PCP	_	_	0	_	_	_
 4	dados	_	NOUN	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
@@ -4297,7 +4297,7 @@
 3	esse	_	DET	_	_	0	_	_	_
 4	preço	_	NOUN	_	_	0	_	_	_
 5	permanecesse	_	VERB	_	_	0	_	_	_
-6	fixo	_	VERB	_	_	0	_	_	_
+6	fixo	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	os	_	DET	_	_	0	_	_	_
 9	30	_	NUM	_	_	0	_	_	_
@@ -4319,7 +4319,7 @@
 25	e	_	CONJ	_	_	0	_	_	_
 26	barato	_	NOUN	_	_	0	_	_	_
 27	,	_	PUNCT	_	_	0	_	_	_
-28	defasado	_	VERB	_	_	0	_	_	_
+28	defasado	_	PCP	_	_	0	_	_	_
 29	,	_	PUNCT	_	_	0	_	_	_
 30	em	_	ADP	_	_	0	_	_	_
 31	a	_	DET	_	_	0	_	_	_
@@ -4356,7 +4356,7 @@
 10	seguranca	_	NOUN	_	_	0	_	_	_
 11	que	_	SCONJ	_	_	0	_	_	_
 12	havia	_	AUX	_	_	0	_	_	_
-13	impetrado	_	VERB	_	_	0	_	_	_
+13	impetrado	_	PCP	_	_	0	_	_	_
 14	contra	_	ADP	_	_	0	_	_	_
 15	os	_	DET	_	_	0	_	_	_
 16	cortes	_	NOUN	_	_	0	_	_	_
@@ -4403,7 +4403,7 @@
 12	sobre	_	ADP	_	_	0	_	_	_
 13	os	_	DET	_	_	0	_	_	_
 14	títulos	_	NOUN	_	_	0	_	_	_
-15	colocados	_	VERB	_	_	0	_	_	_
+15	colocados	_	PCP	_	_	0	_	_	_
 16	por	_	ADP	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
 18	chegaram	_	VERB	_	_	0	_	_	_
@@ -4436,7 +4436,7 @@
 16	oficiais	_	ADJ	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	países	_	NOUN	_	_	0	_	_	_
-19	desenvolvidos	_	VERB	_	_	0	_	_	_
+19	desenvolvidos	_	PCP	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
 21	que	_	SCONJ	_	_	0	_	_	_
 22	poderiam	_	AUX	_	_	0	_	_	_
@@ -4480,7 +4480,7 @@
 9	,	_	PUNCT	_	_	0	_	_	_
 10	que	_	SCONJ	_	_	0	_	_	_
 11	teria	_	AUX	_	_	0	_	_	_
-12	feito	_	VERB	_	_	0	_	_	_
+12	feito	_	PCP	_	_	0	_	_	_
 13	quatro	_	NUM	_	_	0	_	_	_
 14	depósitos	_	NOUN	_	_	0	_	_	_
 15	em	_	ADP	_	_	0	_	_	_
@@ -4511,7 +4511,7 @@
 10	concorrência	_	NOUN	_	_	0	_	_	_
 11	já	_	ADV	_	_	0	_	_	_
 12	está	_	VERB	_	_	0	_	_	_
-13	concluída	_	VERB	_	_	0	_	_	_
+13	concluída	_	PCP	_	_	0	_	_	_
 14	,	_	PUNCT	_	_	0	_	_	_
 15	terão	_	AUX	_	_	0	_	_	_
 16	que	_	SCONJ	_	_	0	_	_	_
@@ -4550,7 +4550,7 @@
 10	ontem	_	ADV	_	_	0	_	_	_
 11	que	_	SCONJ	_	_	0	_	_	_
 12	foi	_	AUX	_	_	0	_	_	_
-13	encontrado	_	VERB	_	_	0	_	_	_
+13	encontrado	_	PCP	_	_	0	_	_	_
 14	um	_	DET	_	_	0	_	_	_
 15	fêmur	_	NOUN	_	_	0	_	_	_
 16	em	_	ADP	_	_	0	_	_	_
@@ -4751,7 +4751,7 @@
 10	os	_	DET	_	_	0	_	_	_
 11	seus	_	DET	_	_	0	_	_	_
 12	computadores	_	NOUN	_	_	0	_	_	_
-13	roubados	_	VERB	_	_	0	_	_	_
+13	roubados	_	PCP	_	_	0	_	_	_
 14	de	_	ADP	_	_	0	_	_	_
 15	os	_	DET	_	_	0	_	_	_
 16	gabinetes	_	NOUN	_	_	0	_	_	_
@@ -4833,14 +4833,14 @@
 21	,	_	PUNCT	_	_	0	_	_	_
 22	deveria	_	AUX	_	_	0	_	_	_
 23	ter	_	AUX	_	_	0	_	_	_
-24	renunciado	_	VERB	_	_	0	_	_	_
+24	renunciado	_	PCP	_	_	0	_	_	_
 25	para	_	ADP	_	_	0	_	_	_
 26	apoiar	_	VERB	_	_	0	_	_	_
 27	Brizola	_	PROPN	_	_	0	_	_	_
 28	,	_	PUNCT	_	_	0	_	_	_
 29	hipótese	_	NOUN	_	_	0	_	_	_
 30	jamais	_	ADV	_	_	0	_	_	_
-31	aceita	_	VERB	_	_	0	_	_	_
+31	aceita	_	PCP	_	_	0	_	_	_
 32	por	_	ADP	_	_	0	_	_	_
 33	Ulysses	_	PROPN	_	_	0	_	_	_
 34	.	_	PUNCT	_	_	0	_	_	_
@@ -4850,7 +4850,7 @@
 3	acha	_	VERB	_	_	0	_	_	_
 4	que	_	SCONJ	_	_	0	_	_	_
 5	é	_	AUX	_	_	0	_	_	_
-6	predestinado	_	VERB	_	_	0	_	_	_
+6	predestinado	_	PCP	_	_	0	_	_	_
 7	para	_	ADP	_	_	0	_	_	_
 8	ocupar	_	VERB	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
@@ -4900,7 +4900,7 @@
 41	João	_	PROPN	_	_	0	_	_	_
 42	Durval	_	PROPN	_	_	0	_	_	_
 43	,	_	PUNCT	_	_	0	_	_	_
-44	coligado	_	VERB	_	_	0	_	_	_
+44	coligado	_	PCP	_	_	0	_	_	_
 45	em	_	ADP	_	_	0	_	_	_
 46	a	_	DET	_	_	0	_	_	_
 47	Bahia	_	PROPN	_	_	0	_	_	_
@@ -4937,7 +4937,7 @@
 12	convidaram	_	VERB	_	_	0	_	_	_
 13	230	_	NUM	_	_	0	_	_	_
 14	pessoas	_	NOUN	_	_	0	_	_	_
-15	ligadas	_	VERB	_	_	0	_	_	_
+15	ligadas	_	PCP	_	_	0	_	_	_
 16	a	_	ADP	_	_	0	_	_	_
 17	igrejas	_	NOUN	_	_	0	_	_	_
 18	e	_	CONJ	_	_	0	_	_	_
@@ -5053,7 +5053,7 @@
 21	reconhecer	_	VERB	_	_	0	_	_	_
 22	,	_	PUNCT	_	_	0	_	_	_
 23	se	_	SCONJ	_	_	0	_	_	_
-24	eleitos	_	VERB	_	_	0	_	_	_
+24	eleitos	_	PCP	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
 26	a	_	DET	_	_	0	_	_	_
 27	responsabilidade	_	NOUN	_	_	0	_	_	_
@@ -5106,7 +5106,7 @@
 4	ainda	_	ADV	_	_	0	_	_	_
 5	não	_	ADV	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	regulamentada	_	VERB	_	_	0	_	_	_
+7	regulamentada	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	TSE	_	PROPN	_	_	0	_	_	_
@@ -5177,7 +5177,7 @@
 32	forma	_	NOUN	_	_	0	_	_	_
 33	de	_	ADP	_	_	0	_	_	_
 34	transferências	_	NOUN	_	_	0	_	_	_
-35	negociadas	_	VERB	_	_	0	_	_	_
+35	negociadas	_	PCP	_	_	0	_	_	_
 36	entre	_	ADP	_	_	0	_	_	_
 37	governo	_	NOUN	_	_	0	_	_	_
 38	federal	_	ADJ	_	_	0	_	_	_
@@ -5202,7 +5202,7 @@
 2	como	_	ADP	_	_	0	_	_	_
 3	um	_	DET	_	_	0	_	_	_
 4	pássaro	_	NOUN	_	_	0	_	_	_
-5	coberto	_	VERB	_	_	0	_	_	_
+5	coberto	_	PCP	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
 7	petróleo	_	NOUN	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
@@ -5352,7 +5352,7 @@
 22	demissões	_	NOUN	_	_	0	_	_	_
 23	têm	_	AUX	_	_	0	_	_	_
 24	se	_	PRON	_	_	0	_	_	_
-25	concentrado	_	VERB	_	_	0	_	_	_
+25	concentrado	_	PCP	_	_	0	_	_	_
 26	mais	_	ADV	_	_	0	_	_	_
 27	em	_	ADP	_	_	0	_	_	_
 28	a	_	DET	_	_	0	_	_	_
@@ -5370,7 +5370,7 @@
 40	capital	_	NOUN	_	_	0	_	_	_
 41	.	_	PUNCT	_	_	0	_	_	_
 
-1	Aprovado	_	VERB	_	_	0	_	_	_
+1	Aprovado	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	a	_	DET	_	_	0	_	_	_
 4	Câmara	_	PROPN	_	_	0	_	_	_
@@ -5397,7 +5397,7 @@
 25	legislativo	_	ADJ	_	_	0	_	_	_
 26	estava	_	VERB	_	_	0	_	_	_
 27	"	_	PUNCT	_	_	0	_	_	_
-28	engavetado	_	VERB	_	_	0	_	_	_
+28	engavetado	_	PCP	_	_	0	_	_	_
 29	"	_	PUNCT	_	_	0	_	_	_
 30	em	_	ADP	_	_	0	_	_	_
 31	o	_	DET	_	_	0	_	_	_
@@ -5407,7 +5407,7 @@
 1	Eles	_	PRON	_	_	0	_	_	_
 2	não	_	ADV	_	_	0	_	_	_
 3	seriam	_	AUX	_	_	0	_	_	_
-4	detectados	_	VERB	_	_	0	_	_	_
+4	detectados	_	PCP	_	_	0	_	_	_
 5	como	_	ADP	_	_	0	_	_	_
 6	inflação	_	NOUN	_	_	0	_	_	_
 7	real	_	ADJ	_	_	0	_	_	_
@@ -5491,7 +5491,7 @@
 18	e	_	CONJ	_	_	0	_	_	_
 19	cujos	_	SCONJ	_	_	0	_	_	_
 20	acionistas	_	NOUN	_	_	0	_	_	_
-21	privados	_	VERB	_	_	0	_	_	_
+21	privados	_	PCP	_	_	0	_	_	_
 22	detêm	_	VERB	_	_	0	_	_	_
 23	60	_	NUM	_	_	0	_	_	_
 24	%	_	SYM	_	_	0	_	_	_
@@ -5675,7 +5675,7 @@
 
 1	As	_	DET	_	_	0	_	_	_
 2	peças	_	NOUN	_	_	0	_	_	_
-3	recuperadas	_	VERB	_	_	0	_	_	_
+3	recuperadas	_	PCP	_	_	0	_	_	_
 4	incluem	_	VERB	_	_	0	_	_	_
 5	vasos	_	NOUN	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
@@ -5762,7 +5762,7 @@
 1	Em	_	ADP	_	_	0	_	_	_
 2	este	_	DET	_	_	0	_	_	_
 3	episódio	_	NOUN	_	_	0	_	_	_
-4	intrincado	_	VERB	_	_	0	_	_	_
+4	intrincado	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	entretanto	_	CONJ	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
@@ -5829,7 +5829,7 @@
 31	leitores	_	NOUN	_	_	0	_	_	_
 32	já	_	ADV	_	_	0	_	_	_
 33	haviam	_	AUX	_	_	0	_	_	_
-34	protestado	_	VERB	_	_	0	_	_	_
+34	protestado	_	PCP	_	_	0	_	_	_
 35	uma	_	DET	_	_	0	_	_	_
 36	reportagem	_	NOUN	_	_	0	_	_	_
 37	que	_	SCONJ	_	_	0	_	_	_
@@ -5842,7 +5842,7 @@
 44	de	_	ADP	_	_	0	_	_	_
 45	a	_	DET	_	_	0	_	_	_
 46	semana	_	NOUN	_	_	0	_	_	_
-47	passada	_	VERB	_	_	0	_	_	_
+47	passada	_	PCP	_	_	0	_	_	_
 48	,	_	PUNCT	_	_	0	_	_	_
 49	21	_	NUM	_	_	0	_	_	_
 50	de	_	ADP	_	_	0	_	_	_
@@ -5915,7 +5915,7 @@
 15	,	_	PUNCT	_	_	0	_	_	_
 16	no	_	ADP	_	_	0	_	_	_
 17	entanto	_	ADV	_	_	0	_	_	_
-18	criada	_	VERB	_	_	0	_	_	_
+18	criada	_	PCP	_	_	0	_	_	_
 19	para	_	ADP	_	_	0	_	_	_
 20	tornar	_	VERB	_	_	0	_	_	_
 21	a	_	DET	_	_	0	_	_	_
@@ -5970,7 +5970,7 @@
 14	ex-prefeito	_	NOUN	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	foi	_	AUX	_	_	0	_	_	_
-17	utilizada	_	VERB	_	_	0	_	_	_
+17	utilizada	_	PCP	_	_	0	_	_	_
 18	em	_	ADP	_	_	0	_	_	_
 19	vários	_	DET	_	_	0	_	_	_
 20	outros	_	DET	_	_	0	_	_	_
@@ -5985,7 +5985,7 @@
 
 1	Alvarenga	_	PROPN	_	_	0	_	_	_
 2	foi	_	AUX	_	_	0	_	_	_
-3	escalado	_	VERB	_	_	0	_	_	_
+3	escalado	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
@@ -6038,7 +6038,7 @@
 12	de	_	ADP	_	_	0	_	_	_
 13	o	_	DET	_	_	0	_	_	_
 14	ano	_	NOUN	_	_	0	_	_	_
-15	passado	_	VERB	_	_	0	_	_	_
+15	passado	_	PCP	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	afirma	_	VERB	_	_	0	_	_	_
 18	ter	_	VERB	_	_	0	_	_	_
@@ -6059,7 +6059,7 @@
 3	,	_	PUNCT	_	_	0	_	_	_
 4	depois	_	ADP	_	_	0	_	_	_
 5	de	_	ADP	_	_	0	_	_	_
-6	tratados	_	VERB	_	_	0	_	_	_
+6	tratados	_	PCP	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
 8	7	_	NUM	_	_	0	_	_	_
 9	%	_	SYM	_	_	0	_	_	_
@@ -6068,7 +6068,7 @@
 12	2.200	_	NUM	_	_	0	_	_	_
 13	animais	_	NOUN	_	_	0	_	_	_
 14	foram	_	AUX	_	_	0	_	_	_
-15	encaminhados	_	VERB	_	_	0	_	_	_
+15	encaminhados	_	PCP	_	_	0	_	_	_
 16	para	_	ADP	_	_	0	_	_	_
 17	zoológicos	_	NOUN	_	_	0	_	_	_
 18	e	_	CONJ	_	_	0	_	_	_
@@ -6080,7 +6080,7 @@
 24	pesquisa	_	NOUN	_	_	0	_	_	_
 25	.	_	PUNCT	_	_	0	_	_	_
 
-1	Criado	_	VERB	_	_	0	_	_	_
+1	Criado	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	1988	_	NUM	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
@@ -6123,7 +6123,7 @@
 7	ele	_	PRON	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	são	_	AUX	_	_	0	_	_	_
-10	destinados	_	VERB	_	_	0	_	_	_
+10	destinados	_	PCP	_	_	0	_	_	_
 11	a	_	ADP	_	_	0	_	_	_
 12	atender	_	VERB	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
@@ -6136,7 +6136,7 @@
 20	seu	_	DET	_	_	0	_	_	_
 21	projeto	_	NOUN	_	_	0	_	_	_
 22	está	_	VERB	_	_	0	_	_	_
-23	voltado	_	VERB	_	_	0	_	_	_
+23	voltado	_	PCP	_	_	0	_	_	_
 24	para	_	ADP	_	_	0	_	_	_
 25	o	_	DET	_	_	0	_	_	_
 26	mercado	_	NOUN	_	_	0	_	_	_
@@ -6191,7 +6191,7 @@
 32	são	_	AUX	_	_	0	_	_	_
 33	lá	_	ADV	_	_	0	_	_	_
 34	muito	_	ADV	_	_	0	_	_	_
-35	consideradas	_	VERB	_	_	0	_	_	_
+35	consideradas	_	PCP	_	_	0	_	_	_
 36	por	_	ADP	_	_	0	_	_	_
 37	alguns	_	DET	_	_	0	_	_	_
 38	membros	_	NOUN	_	_	0	_	_	_
@@ -6221,12 +6221,12 @@
 1	Apesar	_	ADP	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	já	_	ADV	_	_	0	_	_	_
-4	programada	_	VERB	_	_	0	_	_	_
+4	programada	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	transferência	_	NOUN	_	_	0	_	_	_
 8	foi	_	AUX	_	_	0	_	_	_
-9	usada	_	VERB	_	_	0	_	_	_
+9	usada	_	PCP	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	a	_	DET	_	_	0	_	_	_
 12	negociação	_	NOUN	_	_	0	_	_	_
@@ -6270,7 +6270,7 @@
 5	então	_	ADV	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	barba	_	NOUN	_	_	0	_	_	_
-8	desgrenhada	_	VERB	_	_	0	_	_	_
+8	desgrenhada	_	PCP	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
 10	10	_	NUM	_	_	0	_	_	_
 11	quilos	_	NOUN	_	_	0	_	_	_
@@ -6387,7 +6387,7 @@
 48	por	_	ADP	_	_	0	_	_	_
 49	as	_	DET	_	_	0	_	_	_
 50	notas	_	NOUN	_	_	0	_	_	_
-51	lançadas	_	VERB	_	_	0	_	_	_
+51	lançadas	_	PCP	_	_	0	_	_	_
 52	em	_	ADP	_	_	0	_	_	_
 53	os	_	DET	_	_	0	_	_	_
 54	arquivos	_	NOUN	_	_	0	_	_	_
@@ -6558,7 +6558,7 @@
 6	se	_	PRON	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	rosto	_	NOUN	_	_	0	_	_	_
-9	escanhoado	_	VERB	_	_	0	_	_	_
+9	escanhoado	_	PCP	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -6596,7 +6596,7 @@
 8	fazendeiros	_	NOUN	_	_	0	_	_	_
 9	e	_	CONJ	_	_	0	_	_	_
 10	foi	_	AUX	_	_	0	_	_	_
-11	recebido	_	VERB	_	_	0	_	_	_
+11	recebido	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	prefeitos	_	NOUN	_	_	0	_	_	_
 14	de	_	ADP	_	_	0	_	_	_
@@ -6626,7 +6626,7 @@
 1	Bicheiros	_	NOUN	_	_	0	_	_	_
 2	podem	_	AUX	_	_	0	_	_	_
 3	ser	_	AUX	_	_	0	_	_	_
-4	soltos	_	VERB	_	_	0	_	_	_
+4	soltos	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	este	_	DET	_	_	0	_	_	_
 7	mês	_	NOUN	_	_	0	_	_	_
@@ -6639,11 +6639,11 @@
 14	Bicheiros	_	NOUN	_	_	0	_	_	_
 15	podem	_	AUX	_	_	0	_	_	_
 16	ser	_	AUX	_	_	0	_	_	_
-17	soltos	_	VERB	_	_	0	_	_	_
+17	soltos	_	PCP	_	_	0	_	_	_
 18	em	_	ADP	_	_	0	_	_	_
 19	este	_	DET	_	_	0	_	_	_
 20	mês	_	NOUN	_	_	0	_	_	_
-21	Presos	_	VERB	_	_	0	_	_	_
+21	Presos	_	PCP	_	_	0	_	_	_
 22	há	_	VERB	_	_	0	_	_	_
 23	um	_	NUM	_	_	0	_	_	_
 24	ano	_	NOUN	_	_	0	_	_	_
@@ -6681,11 +6681,11 @@
 56	os	_	DET	_	_	0	_	_	_
 57	bicheiros	_	NOUN	_	_	0	_	_	_
 58	cariocas	_	ADJ	_	_	0	_	_	_
-59	condenados	_	VERB	_	_	0	_	_	_
+59	condenados	_	PCP	_	_	0	_	_	_
 60	em	_	ADP	_	_	0	_	_	_
 61	o	_	DET	_	_	0	_	_	_
 62	ano	_	NOUN	_	_	0	_	_	_
-63	passado	_	VERB	_	_	0	_	_	_
+63	passado	_	PCP	_	_	0	_	_	_
 64	por	_	ADP	_	_	0	_	_	_
 65	a	_	DET	_	_	0	_	_	_
 66	juíza	_	NOUN	_	_	0	_	_	_
@@ -6751,7 +6751,7 @@
 10	Imediata	_	ADJ	_	_	0	_	_	_
 11	Série	_	NOUN	_	_	0	_	_	_
 12	é	_	AUX	_	_	0	_	_	_
-13	usada	_	VERB	_	_	0	_	_	_
+13	usada	_	PCP	_	_	0	_	_	_
 14	'	_	PUNCT	_	_	0	_	_	_
 15	ferramenta	_	NOUN	_	_	0	_	_	_
 16	'	_	PUNCT	_	_	0	_	_	_
@@ -6846,7 +6846,7 @@
 11	com	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	candidatura	_	NOUN	_	_	0	_	_	_
-14	fechada	_	VERB	_	_	0	_	_	_
+14	fechada	_	PCP	_	_	0	_	_	_
 15	"	_	PUNCT	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	disse	_	VERB	_	_	0	_	_	_
@@ -6924,7 +6924,7 @@
 10	mil	_	NUM	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
 12	será	_	AUX	_	_	0	_	_	_
-13	entregue	_	VERB	_	_	0	_	_	_
+13	entregue	_	PCP	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
 15	Tóquio	_	PROPN	_	_	0	_	_	_
 16	em	_	ADP	_	_	0	_	_	_
@@ -6957,7 +6957,7 @@
 6	indeferiu	_	VERB	_	_	0	_	_	_
 7	as	_	DET	_	_	0	_	_	_
 8	diligências	_	NOUN	_	_	0	_	_	_
-9	pedidas	_	VERB	_	_	0	_	_	_
+9	pedidas	_	PCP	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	Collor	_	PROPN	_	_	0	_	_	_
 12	e	_	CONJ	_	_	0	_	_	_
@@ -7000,7 +7000,7 @@
 30	a	_	DET	_	_	0	_	_	_
 31	ministra	_	NOUN	_	_	0	_	_	_
 32	é	_	AUX	_	_	0	_	_	_
-33	afastado	_	VERB	_	_	0	_	_	_
+33	afastado	_	PCP	_	_	0	_	_	_
 34	de	_	ADP	_	_	0	_	_	_
 35	a	_	DET	_	_	0	_	_	_
 36	Noronha	_	PROPN	_	_	0	_	_	_
@@ -7020,7 +7020,7 @@
 50	Coimbra	_	PROPN	_	_	0	_	_	_
 51	,	_	PUNCT	_	_	0	_	_	_
 52	foi	_	AUX	_	_	0	_	_	_
-53	demitida	_	VERB	_	_	0	_	_	_
+53	demitida	_	PCP	_	_	0	_	_	_
 54	em	_	ADP	_	_	0	_	_	_
 55	o	_	DET	_	_	0	_	_	_
 56	final	_	NOUN	_	_	0	_	_	_
@@ -7098,7 +7098,7 @@
 20	um	_	DET	_	_	0	_	_	_
 21	político	_	NOUN	_	_	0	_	_	_
 22	"	_	PUNCT	_	_	0	_	_	_
-23	arejado	_	VERB	_	_	0	_	_	_
+23	arejado	_	PCP	_	_	0	_	_	_
 24	"	_	PUNCT	_	_	0	_	_	_
 25	.	_	PUNCT	_	_	0	_	_	_
 
@@ -7127,7 +7127,7 @@
 23	"	_	PUNCT	_	_	0	_	_	_
 24	Não	_	ADV	_	_	0	_	_	_
 25	tenho	_	AUX	_	_	0	_	_	_
-26	visto	_	VERB	_	_	0	_	_	_
+26	visto	_	PCP	_	_	0	_	_	_
 27	nenhuma	_	DET	_	_	0	_	_	_
 28	reação	_	NOUN	_	_	0	_	_	_
 29	negativa	_	ADJ	_	_	0	_	_	_
@@ -7189,8 +7189,8 @@
 6	ainda	_	ADV	_	_	0	_	_	_
 7	não	_	ADV	_	_	0	_	_	_
 8	havia	_	AUX	_	_	0	_	_	_
-9	sido	_	VERB	_	_	0	_	_	_
-10	aberto	_	VERB	_	_	0	_	_	_
+9	sido	_	PCP	_	_	0	_	_	_
+10	aberto	_	PCP	_	_	0	_	_	_
 11	inquérito	_	NOUN	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
 
@@ -7203,8 +7203,8 @@
 7	equipe	_	NOUN	_	_	0	_	_	_
 8	médica	_	ADJ	_	_	0	_	_	_
 9	ter	_	AUX	_	_	0	_	_	_
-10	sido	_	VERB	_	_	0	_	_	_
-11	afetada	_	VERB	_	_	0	_	_	_
+10	sido	_	PCP	_	_	0	_	_	_
+11	afetada	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	alguma	_	DET	_	_	0	_	_	_
 14	outra	_	DET	_	_	0	_	_	_
@@ -7256,7 +7256,7 @@
 32	de	_	ADP	_	_	0	_	_	_
 33	foguetes	_	NOUN	_	_	0	_	_	_
 34	espaciais	_	ADJ	_	_	0	_	_	_
-35	destinados	_	VERB	_	_	0	_	_	_
+35	destinados	_	PCP	_	_	0	_	_	_
 36	a	_	ADP	_	_	0	_	_	_
 37	colocar	_	VERB	_	_	0	_	_	_
 38	satélites	_	NOUN	_	_	0	_	_	_
@@ -7407,7 +7407,7 @@
 10	Eduardo	_	PROPN	_	_	0	_	_	_
 11	Magalhães	_	PROPN	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
-13	preferido	_	VERB	_	_	0	_	_	_
+13	preferido	_	PCP	_	_	0	_	_	_
 14	de	_	ADP	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
 16	PFL	_	PROPN	_	_	0	_	_	_
@@ -7437,7 +7437,7 @@
 3	países	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	democracia	_	NOUN	_	_	0	_	_	_
-6	avançada	_	VERB	_	_	0	_	_	_
+6	avançada	_	PCP	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
 8	como	_	ADP	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
@@ -7562,7 +7562,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	superávit	_	NOUN	_	_	0	_	_	_
 3	primário	_	ADJ	_	_	0	_	_	_
-4	obtido	_	VERB	_	_	0	_	_	_
+4	obtido	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	contudo	_	CONJ	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
@@ -7580,8 +7580,8 @@
 1	O	_	DET	_	_	0	_	_	_
 2	local	_	NOUN	_	_	0	_	_	_
 3	teria	_	AUX	_	_	0	_	_	_
-4	sido	_	VERB	_	_	0	_	_	_
-5	escolhido	_	VERB	_	_	0	_	_	_
+4	sido	_	PCP	_	_	0	_	_	_
+5	escolhido	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	os	_	DET	_	_	0	_	_	_
 8	policiais	_	NOUN	_	_	0	_	_	_
@@ -7626,7 +7626,7 @@
 2	são	_	VERB	_	_	0	_	_	_
 3	isentos	_	ADJ	_	_	0	_	_	_
 4	imóveis	_	NOUN	_	_	0	_	_	_
-5	avaliados	_	VERB	_	_	0	_	_	_
+5	avaliados	_	PCP	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
 7	até	_	ADP	_	_	0	_	_	_
 8	US$	_	SYM	_	_	0	_	_	_
@@ -7637,7 +7637,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	nave	_	NOUN	_	_	0	_	_	_
 3	foi	_	AUX	_	_	0	_	_	_
-4	lançada	_	VERB	_	_	0	_	_	_
+4	lançada	_	PCP	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
 7	8h16	_	NOUN	_	_	0	_	_	_
@@ -7720,7 +7720,7 @@
 15	EUA	_	PROPN	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	foi	_	AUX	_	_	0	_	_	_
-18	informado	_	VERB	_	_	0	_	_	_
+18	informado	_	PCP	_	_	0	_	_	_
 19	há	_	VERB	_	_	0	_	_	_
 20	alguns	_	DET	_	_	0	_	_	_
 21	meses	_	NOUN	_	_	0	_	_	_
@@ -7869,7 +7869,7 @@
 74	caminhos	_	NOUN	_	_	0	_	_	_
 75	a	_	ADP	_	_	0	_	_	_
 76	serem	_	AUX	_	_	0	_	_	_
-77	seguidos	_	VERB	_	_	0	_	_	_
+77	seguidos	_	PCP	_	_	0	_	_	_
 78	por	_	ADP	_	_	0	_	_	_
 79	o	_	DET	_	_	0	_	_	_
 80	jornalismo	_	NOUN	_	_	0	_	_	_
@@ -7945,8 +7945,8 @@
 1	Esses	_	DET	_	_	0	_	_	_
 2	resultados	_	NOUN	_	_	0	_	_	_
 3	têm	_	AUX	_	_	0	_	_	_
-4	sido	_	VERB	_	_	0	_	_	_
-5	considerados	_	VERB	_	_	0	_	_	_
+4	sido	_	PCP	_	_	0	_	_	_
+5	considerados	_	PCP	_	_	0	_	_	_
 6	compatíveis	_	ADJ	_	_	0	_	_	_
 7	com	_	ADP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
@@ -8016,7 +8016,7 @@
 1	"	_	PUNCT	_	_	0	_	_	_
 2	Queremos	_	VERB	_	_	0	_	_	_
 3	que	_	AUX	_	_	0	_	_	_
-4	cumprido	_	VERB	_	_	0	_	_	_
+4	cumprido	_	PCP	_	_	0	_	_	_
 5	cláusula	_	NOUN	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
@@ -8077,11 +8077,11 @@
 4	as	_	DET	_	_	0	_	_	_
 5	fraudes	_	NOUN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	descoberto	_	VERB	_	_	0	_	_	_
+7	descoberto	_	PCP	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	março	_	NOUN	_	_	0	_	_	_
-11	passado	_	VERB	_	_	0	_	_	_
+11	passado	_	PCP	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	consequência	_	NOUN	_	_	0	_	_	_
@@ -8177,7 +8177,7 @@
 21	Doce	_	PROPN	_	_	0	_	_	_
 22	.	_	PUNCT	_	_	0	_	_	_
 
-1	Capitaneada	_	VERB	_	_	0	_	_	_
+1	Capitaneada	_	PCP	_	_	0	_	_	_
 2	por	_	ADP	_	_	0	_	_	_
 3	o	_	DET	_	_	0	_	_	_
 4	juiz	_	NOUN	_	_	0	_	_	_
@@ -8214,7 +8214,7 @@
 5	a	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	crime	_	NOUN	_	_	0	_	_	_
-8	organizado	_	VERB	_	_	0	_	_	_
+8	organizado	_	PCP	_	_	0	_	_	_
 9	não	_	ADV	_	_	0	_	_	_
 10	exigem	_	VERB	_	_	0	_	_	_
 11	mudanças	_	NOUN	_	_	0	_	_	_
@@ -8224,7 +8224,7 @@
 15	e	_	CONJ	_	_	0	_	_	_
 16	podem	_	AUX	_	_	0	_	_	_
 17	ser	_	AUX	_	_	0	_	_	_
-18	aplicadas	_	VERB	_	_	0	_	_	_
+18	aplicadas	_	PCP	_	_	0	_	_	_
 19	de	_	ADV	_	_	0	_	_	_
 20	imediato	_	ADV	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
@@ -8339,7 +8339,7 @@
 1	Com	_	ADP	_	_	0	_	_	_
 2	ele	_	PRON	_	_	0	_	_	_
 3	foram	_	AUX	_	_	0	_	_	_
-4	presos	_	VERB	_	_	0	_	_	_
+4	presos	_	PCP	_	_	0	_	_	_
 5	quatro	_	NUM	_	_	0	_	_	_
 6	adolescentes	_	NOUN	_	_	0	_	_	_
 7	.	_	PUNCT	_	_	0	_	_	_
@@ -8483,7 +8483,7 @@
 4	apenas	_	ADV	_	_	0	_	_	_
 5	as	_	DET	_	_	0	_	_	_
 6	mulheres	_	NOUN	_	_	0	_	_	_
-7	tratadas	_	VERB	_	_	0	_	_	_
+7	tratadas	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	mais	_	ADP	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
@@ -8494,7 +8494,7 @@
 15	um	_	DET	_	_	0	_	_	_
 16	risco	_	NOUN	_	_	0	_	_	_
 17	discretamente	_	ADV	_	_	0	_	_	_
-18	aumentado	_	VERB	_	_	0	_	_	_
+18	aumentado	_	PCP	_	_	0	_	_	_
 19	.	_	PUNCT	_	_	0	_	_	_
 
 1	de	_	ADP	_	_	0	_	_	_
@@ -8608,7 +8608,7 @@
 27	(	_	PUNCT	_	_	0	_	_	_
 28	acordo	_	NOUN	_	_	0	_	_	_
 29	entre	_	ADP	_	_	0	_	_	_
-30	acusado	_	VERB	_	_	0	_	_	_
+30	acusado	_	PCP	_	_	0	_	_	_
 31	e	_	CONJ	_	_	0	_	_	_
 32	Justiça	_	NOUN	_	_	0	_	_	_
 33	)	_	PUNCT	_	_	0	_	_	_
@@ -8643,7 +8643,7 @@
 21	italiana	_	ADJ	_	_	0	_	_	_
 22	surgem	_	VERB	_	_	0	_	_	_
 23	de	_	ADP	_	_	0	_	_	_
-24	envolvidos	_	VERB	_	_	0	_	_	_
+24	envolvidos	_	PCP	_	_	0	_	_	_
 25	em	_	ADP	_	_	0	_	_	_
 26	corrupção	_	NOUN	_	_	0	_	_	_
 27	.	_	PUNCT	_	_	0	_	_	_
@@ -8652,8 +8652,8 @@
 2	taxista	_	NOUN	_	_	0	_	_	_
 3	afirmou	_	VERB	_	_	0	_	_	_
 4	ter	_	AUX	_	_	0	_	_	_
-5	sido	_	VERB	_	_	0	_	_	_
-6	feito	_	VERB	_	_	0	_	_	_
+5	sido	_	PCP	_	_	0	_	_	_
+6	feito	_	PCP	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	refém	_	NOUN	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
@@ -8710,7 +8710,7 @@
 15	novela	_	NOUN	_	_	0	_	_	_
 16	pode	_	AUX	_	_	0	_	_	_
 17	ter	_	AUX	_	_	0	_	_	_
-18	incentivado	_	VERB	_	_	0	_	_	_
+18	incentivado	_	PCP	_	_	0	_	_	_
 19	as	_	DET	_	_	0	_	_	_
 20	garotas	_	NOUN	_	_	0	_	_	_
 21	.	_	PUNCT	_	_	0	_	_	_
@@ -8735,7 +8735,7 @@
 8	personagem	_	NOUN	_	_	0	_	_	_
 9	Alexandre	_	PROPN	_	_	0	_	_	_
 10	é	_	AUX	_	_	0	_	_	_
-11	interpretado	_	VERB	_	_	0	_	_	_
+11	interpretado	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	Guilherme	_	PROPN	_	_	0	_	_	_
 14	Fontes	_	PROPN	_	_	0	_	_	_
@@ -8754,7 +8754,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	menina	_	NOUN	_	_	0	_	_	_
 3	foi	_	AUX	_	_	0	_	_	_
-4	carregada	_	VERB	_	_	0	_	_	_
+4	carregada	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
 7	águas	_	NOUN	_	_	0	_	_	_
@@ -8843,10 +8843,10 @@
 
 1	Ele	_	PRON	_	_	0	_	_	_
 2	era	_	VERB	_	_	0	_	_	_
-3	acusado	_	VERB	_	_	0	_	_	_
+3	acusado	_	PCP	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	ter	_	AUX	_	_	0	_	_	_
-6	perdido	_	VERB	_	_	0	_	_	_
+6	perdido	_	PCP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	prazo	_	NOUN	_	_	0	_	_	_
 9	para	_	ADP	_	_	0	_	_	_
@@ -8924,7 +8924,7 @@
 1	Barbosa	_	PROPN	_	_	0	_	_	_
 2	deve	_	AUX	_	_	0	_	_	_
 3	ser	_	AUX	_	_	0	_	_	_
-4	substituído	_	VERB	_	_	0	_	_	_
+4	substituído	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	promotora	_	NOUN	_	_	0	_	_	_
@@ -8990,13 +8990,13 @@
 9	a	_	DET	_	_	0	_	_	_
 10	vigilância	_	NOUN	_	_	0	_	_	_
 11	foi	_	AUX	_	_	0	_	_	_
-12	realizada	_	VERB	_	_	0	_	_	_
+12	realizada	_	PCP	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
 15	proporção	_	NOUN	_	_	0	_	_	_
 16	de	_	ADP	_	_	0	_	_	_
 17	pessoas	_	NOUN	_	_	0	_	_	_
-18	infectadas	_	VERB	_	_	0	_	_	_
+18	infectadas	_	PCP	_	_	0	_	_	_
 19	é	_	VERB	_	_	0	_	_	_
 20	compatível	_	ADJ	_	_	0	_	_	_
 21	com	_	ADP	_	_	0	_	_	_
@@ -9066,7 +9066,7 @@
 17	resultados	_	NOUN	_	_	0	_	_	_
 18	até	_	ADP	_	_	0	_	_	_
 19	agora	_	ADV	_	_	0	_	_	_
-20	obtidos	_	VERB	_	_	0	_	_	_
+20	obtidos	_	PCP	_	_	0	_	_	_
 21	como	_	ADP	_	_	0	_	_	_
 22	excelentes	_	ADJ	_	_	0	_	_	_
 23	.	_	PUNCT	_	_	0	_	_	_
@@ -9087,7 +9087,7 @@
 14	,	_	PUNCT	_	_	0	_	_	_
 15	e	_	CONJ	_	_	0	_	_	_
 16	é	_	AUX	_	_	0	_	_	_
-17	considerada	_	VERB	_	_	0	_	_	_
+17	considerada	_	PCP	_	_	0	_	_	_
 18	uma	_	PRON	_	_	0	_	_	_
 19	de	_	ADP	_	_	0	_	_	_
 20	as	_	DET	_	_	0	_	_	_
@@ -9144,7 +9144,7 @@
 6	de	_	ADP	_	_	0	_	_	_
 7	eles	_	PRON	_	_	0	_	_	_
 8	seja	_	AUX	_	_	0	_	_	_
-9	reconhecido	_	VERB	_	_	0	_	_	_
+9	reconhecido	_	PCP	_	_	0	_	_	_
 10	,	_	PUNCT	_	_	0	_	_	_
 11	para	_	ADP	_	_	0	_	_	_
 12	que	_	SCONJ	_	_	0	_	_	_
@@ -9200,7 +9200,7 @@
 22	de	_	ADP	_	_	0	_	_	_
 23	novembro	_	NOUN	_	_	0	_	_	_
 24	foram	_	AUX	_	_	0	_	_	_
-25	tomadas	_	VERB	_	_	0	_	_	_
+25	tomadas	_	PCP	_	_	0	_	_	_
 26	as	_	DET	_	_	0	_	_	_
 27	devidas	_	ADJ	_	_	0	_	_	_
 28	providências	_	NOUN	_	_	0	_	_	_
@@ -9209,7 +9209,7 @@
 31	tampão	_	NOUN	_	_	0	_	_	_
 32	em	_	ADP	_	_	0	_	_	_
 33	o	_	DET	_	_	0	_	_	_
-34	citado	_	VERB	_	_	0	_	_	_
+34	citado	_	PCP	_	_	0	_	_	_
 35	bueiro	_	NOUN	_	_	0	_	_	_
 36	"	_	PUNCT	_	_	0	_	_	_
 37	.	_	PUNCT	_	_	0	_	_	_
@@ -9271,7 +9271,7 @@
 17	"	_	PUNCT	_	_	0	_	_	_
 18	o	_	DET	_	_	0	_	_	_
 19	repasse	_	NOUN	_	_	0	_	_	_
-20	feito	_	VERB	_	_	0	_	_	_
+20	feito	_	PCP	_	_	0	_	_	_
 21	por	_	ADP	_	_	0	_	_	_
 22	a	_	DET	_	_	0	_	_	_
 23	a	_	ADP	_	_	0	_	_	_
@@ -9318,7 +9318,7 @@
 22	teve	_	AUX	_	_	0	_	_	_
 23	que	_	SCONJ	_	_	0	_	_	_
 24	ser	_	VERB	_	_	0	_	_	_
-25	feita	_	VERB	_	_	0	_	_	_
+25	feita	_	PCP	_	_	0	_	_	_
 26	e	_	CONJ	_	_	0	_	_	_
 27	apenas	_	ADV	_	_	0	_	_	_
 28	o	_	DET	_	_	0	_	_	_
@@ -9381,9 +9381,9 @@
 9	de	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	salmão	_	NOUN	_	_	0	_	_	_
-12	defumado	_	VERB	_	_	0	_	_	_
+12	defumado	_	PCP	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
-14	considerado	_	VERB	_	_	0	_	_	_
+14	considerado	_	PCP	_	_	0	_	_	_
 15	impróprio	_	ADJ	_	_	0	_	_	_
 16	.	_	PUNCT	_	_	0	_	_	_
 
@@ -9391,7 +9391,7 @@
 2	Estou	_	VERB	_	_	0	_	_	_
 3	perplexo	_	ADJ	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
-5	chocado	_	VERB	_	_	0	_	_	_
+5	chocado	_	PCP	_	_	0	_	_	_
 6	com	_	ADP	_	_	0	_	_	_
 7	a	_	DET	_	_	0	_	_	_
 8	informação	_	NOUN	_	_	0	_	_	_
@@ -9479,7 +9479,7 @@
 12	em	_	ADP	_	_	0	_	_	_
 13	os	_	DET	_	_	0	_	_	_
 14	postos	_	NOUN	_	_	0	_	_	_
-15	localizados	_	VERB	_	_	0	_	_	_
+15	localizados	_	PCP	_	_	0	_	_	_
 16	em	_	ADP	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
 18	retorno	_	NOUN	_	_	0	_	_	_
@@ -9519,7 +9519,7 @@
 5	fizeram	_	VERB	_	_	0	_	_	_
 6	uma	_	DET	_	_	0	_	_	_
 7	ultrapassagem	_	NOUN	_	_	0	_	_	_
-8	arriscada	_	VERB	_	_	0	_	_	_
+8	arriscada	_	PCP	_	_	0	_	_	_
 9	e	_	CONJ	_	_	0	_	_	_
 10	bateram	_	VERB	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
@@ -9577,7 +9577,7 @@
 
 1	Eles	_	PRON	_	_	0	_	_	_
 2	foram	_	AUX	_	_	0	_	_	_
-3	acusados	_	VERB	_	_	0	_	_	_
+3	acusados	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	polícia	_	NOUN	_	_	0	_	_	_
@@ -9604,7 +9604,7 @@
 27	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foi	_	AUX	_	_	0	_	_	_
-2	chamado	_	VERB	_	_	0	_	_	_
+2	chamado	_	PCP	_	_	0	_	_	_
 3	reforço	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
@@ -9631,7 +9631,7 @@
 4	galeras	_	NOUN	_	_	0	_	_	_
 5	funks	_	ADJ	_	_	0	_	_	_
 6	tem	_	AUX	_	_	0	_	_	_
-7	sido	_	VERB	_	_	0	_	_	_
+7	sido	_	PCP	_	_	0	_	_	_
 8	um	_	DET	_	_	0	_	_	_
 9	constante	_	ADJ	_	_	0	_	_	_
 10	problema	_	NOUN	_	_	0	_	_	_
@@ -9692,7 +9692,7 @@
 18	que	_	SCONJ	_	_	0	_	_	_
 19	se	_	PRON	_	_	0	_	_	_
 20	tornou	_	VERB	_	_	0	_	_	_
-21	conhecida	_	VERB	_	_	0	_	_	_
+21	conhecida	_	PCP	_	_	0	_	_	_
 22	em	_	ADP	_	_	0	_	_	_
 23	o	_	DET	_	_	0	_	_	_
 24	programa	_	NOUN	_	_	0	_	_	_
@@ -9731,7 +9731,7 @@
 12	mesmos	_	DET	_	_	0	_	_	_
 13	ingressos	_	NOUN	_	_	0	_	_	_
 14	eram	_	AUX	_	_	0	_	_	_
-15	vendidos	_	VERB	_	_	0	_	_	_
+15	vendidos	_	PCP	_	_	0	_	_	_
 16	a	_	ADP	_	_	0	_	_	_
 17	Cr$	_	SYM	_	_	0	_	_	_
 18	6.000,00	_	NUM	_	_	0	_	_	_
@@ -9783,7 +9783,7 @@
 44	todo	_	DET	_	_	0	_	_	_
 45	o	_	DET	_	_	0	_	_	_
 46	trabalho	_	NOUN	_	_	0	_	_	_
-47	levado	_	VERB	_	_	0	_	_	_
+47	levado	_	PCP	_	_	0	_	_	_
 48	por	_	ADP	_	_	0	_	_	_
 49	a	_	DET	_	_	0	_	_	_
 50	água	_	NOUN	_	_	0	_	_	_
@@ -9800,7 +9800,7 @@
 9	o	_	DET	_	_	0	_	_	_
 10	telão	_	NOUN	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
-12	prevista	_	VERB	_	_	0	_	_	_
+12	prevista	_	PCP	_	_	0	_	_	_
 13	anteriormente	_	ADV	_	_	0	_	_	_
 14	para	_	ADP	_	_	0	_	_	_
 15	abril	_	NOUN	_	_	0	_	_	_
@@ -9912,7 +9912,7 @@
 24	,	_	PUNCT	_	_	0	_	_	_
 25	e	_	CONJ	_	_	0	_	_	_
 26	foi	_	AUX	_	_	0	_	_	_
-27	denunciada	_	VERB	_	_	0	_	_	_
+27	denunciada	_	PCP	_	_	0	_	_	_
 28	por	_	ADP	_	_	0	_	_	_
 29	a	_	DET	_	_	0	_	_	_
 30	vendedora	_	NOUN	_	_	0	_	_	_
@@ -9940,7 +9940,7 @@
 15	as	_	DET	_	_	0	_	_	_
 16	avenidas	_	NOUN	_	_	0	_	_	_
 17	mais	_	ADV	_	_	0	_	_	_
-18	movimentadas	_	VERB	_	_	0	_	_	_
+18	movimentadas	_	PCP	_	_	0	_	_	_
 19	.	_	PUNCT	_	_	0	_	_	_
 
 1	Apenas	_	ADV	_	_	0	_	_	_
@@ -9997,7 +9997,7 @@
 1	Os	_	DET	_	_	0	_	_	_
 2	policiais	_	NOUN	_	_	0	_	_	_
 3	foram	_	AUX	_	_	0	_	_	_
-4	presos	_	VERB	_	_	0	_	_	_
+4	presos	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
 7	celas	_	NOUN	_	_	0	_	_	_
@@ -10090,7 +10090,7 @@
 10	a	_	DET	_	_	0	_	_	_
 11	fuga	_	NOUN	_	_	0	_	_	_
 12	foi	_	AUX	_	_	0	_	_	_
-13	facilitada	_	VERB	_	_	0	_	_	_
+13	facilitada	_	PCP	_	_	0	_	_	_
 14	por	_	ADP	_	_	0	_	_	_
 15	agentes	_	NOUN	_	_	0	_	_	_
 16	penitenciários	_	ADJ	_	_	0	_	_	_
@@ -10151,7 +10151,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	carne	_	NOUN	_	_	0	_	_	_
 3	é	_	AUX	_	_	0	_	_	_
-4	servida	_	VERB	_	_	0	_	_	_
+4	servida	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	os	_	DET	_	_	0	_	_	_
 7	hospitais	_	NOUN	_	_	0	_	_	_
@@ -10170,7 +10170,7 @@
 5	o	_	DET	_	_	0	_	_	_
 6	problema	_	NOUN	_	_	0	_	_	_
 7	foi	_	AUX	_	_	0	_	_	_
-8	causado	_	VERB	_	_	0	_	_	_
+8	causado	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	falta	_	NOUN	_	_	0	_	_	_
@@ -10208,7 +10208,7 @@
 19	o	_	SCONJ	_	_	0	_	_	_
 20	que	_	SCONJ	_	_	0	_	_	_
 21	foi	_	AUX	_	_	0	_	_	_
-22	demolido	_	VERB	_	_	0	_	_	_
+22	demolido	_	PCP	_	_	0	_	_	_
 23	e	_	CONJ	_	_	0	_	_	_
 24	perceber	_	VERB	_	_	0	_	_	_
 25	a	_	DET	_	_	0	_	_	_
@@ -10249,7 +10249,7 @@
 16	%	_	SYM	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	os	_	DET	_	_	0	_	_	_
-19	entrevistados	_	VERB	_	_	0	_	_	_
+19	entrevistados	_	PCP	_	_	0	_	_	_
 20	por	_	ADP	_	_	0	_	_	_
 21	o	_	DET	_	_	0	_	_	_
 22	Datafolha	_	PROPN	_	_	0	_	_	_
@@ -10314,7 +10314,7 @@
 42	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foi	_	AUX	_	_	0	_	_	_
-2	decretado	_	VERB	_	_	0	_	_	_
+2	decretado	_	PCP	_	_	0	_	_	_
 3	estado	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	calamidade	_	NOUN	_	_	0	_	_	_
@@ -10414,7 +10414,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	terreno	_	NOUN	_	_	0	_	_	_
 3	será	_	AUX	_	_	0	_	_	_
-4	entregue	_	VERB	_	_	0	_	_	_
+4	entregue	_	PCP	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	governo	_	NOUN	_	_	0	_	_	_
@@ -10450,7 +10450,7 @@
 21	ônbius	_	NOUN	_	_	0	_	_	_
 22	e	_	CONJ	_	_	0	_	_	_
 23	prontos-socorros	_	NOUN	_	_	0	_	_	_
-24	fechados	_	VERB	_	_	0	_	_	_
+24	fechados	_	PCP	_	_	0	_	_	_
 25	por	_	ADP	_	_	0	_	_	_
 26	falta	_	NOUN	_	_	0	_	_	_
 27	de	_	ADP	_	_	0	_	_	_
@@ -10461,7 +10461,7 @@
 2	cidade	_	NOUN	_	_	0	_	_	_
 3	está	_	VERB	_	_	0	_	_	_
 4	mais	_	ADV	_	_	0	_	_	_
-5	limpa	_	VERB	_	_	0	_	_	_
+5	limpa	_	PCP	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
 
 1	É	_	VERB	_	_	0	_	_	_
@@ -10481,11 +10481,11 @@
 5	pouco	_	ADV	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	solto	_	VERB	_	_	0	_	_	_
+8	solto	_	PCP	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
 10	Lavouras	_	PROPN	_	_	0	_	_	_
 11	foi	_	AUX	_	_	0	_	_	_
-12	levado	_	VERB	_	_	0	_	_	_
+12	levado	_	PCP	_	_	0	_	_	_
 13	para	_	ADP	_	_	0	_	_	_
 14	São	_	PROPN	_	_	0	_	_	_
 15	Paulo	_	PROPN	_	_	0	_	_	_
@@ -10539,7 +10539,7 @@
 26	,	_	PUNCT	_	_	0	_	_	_
 27	quando	_	SCONJ	_	_	0	_	_	_
 28	foi	_	AUX	_	_	0	_	_	_
-29	abordada	_	VERB	_	_	0	_	_	_
+29	abordada	_	PCP	_	_	0	_	_	_
 30	por	_	ADP	_	_	0	_	_	_
 31	os	_	DET	_	_	0	_	_	_
 32	assaltantes	_	NOUN	_	_	0	_	_	_
@@ -10604,7 +10604,7 @@
 2	todo	_	DET	_	_	0	_	_	_
 3	o	_	DET	_	_	0	_	_	_
 4	ano	_	NOUN	_	_	0	_	_	_
-5	passado	_	VERB	_	_	0	_	_	_
+5	passado	_	PCP	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	choveu	_	VERB	_	_	0	_	_	_
 8	858	_	NUM	_	_	0	_	_	_
@@ -10623,7 +10623,7 @@
 10	poluentes	_	NOUN	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
 12	fica	_	VERB	_	_	0	_	_	_
-13	retida	_	VERB	_	_	0	_	_	_
+13	retida	_	PCP	_	_	0	_	_	_
 14	entre	_	ADP	_	_	0	_	_	_
 15	a	_	DET	_	_	0	_	_	_
 16	massa	_	NOUN	_	_	0	_	_	_
@@ -10677,7 +10677,7 @@
 7	e	_	CONJ	_	_	0	_	_	_
 8	não	_	ADV	_	_	0	_	_	_
 9	foi	_	AUX	_	_	0	_	_	_
-10	encontrado	_	VERB	_	_	0	_	_	_
+10	encontrado	_	PCP	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	reportagem	_	NOUN	_	_	0	_	_	_
@@ -10751,7 +10751,7 @@
 16	sul	_	ADJ	_	_	0	_	_	_
 17	)	_	PUNCT	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
-19	transferido	_	VERB	_	_	0	_	_	_
+19	transferido	_	PCP	_	_	0	_	_	_
 20	para	_	ADP	_	_	0	_	_	_
 21	administração	_	NOUN	_	_	0	_	_	_
 22	por	_	ADP	_	_	0	_	_	_
@@ -10815,7 +10815,7 @@
 16	e	_	CONJ	_	_	0	_	_	_
 17	deve	_	AUX	_	_	0	_	_	_
 18	ser	_	AUX	_	_	0	_	_	_
-19	derrubada	_	VERB	_	_	0	_	_	_
+19	derrubada	_	PCP	_	_	0	_	_	_
 20	para	_	ADP	_	_	0	_	_	_
 21	a	_	DET	_	_	0	_	_	_
 22	ligação	_	NOUN	_	_	0	_	_	_
@@ -10838,7 +10838,7 @@
 4	de	_	ADP	_	_	0	_	_	_
 5	crescimento	_	NOUN	_	_	0	_	_	_
 6	for	_	AUX	_	_	0	_	_	_
-7	mantida	_	VERB	_	_	0	_	_	_
+7	mantida	_	PCP	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	mundo	_	NOUN	_	_	0	_	_	_
@@ -10895,7 +10895,7 @@
 15	sua	_	DET	_	_	0	_	_	_
 16	ex-namorada	_	NOUN	_	_	0	_	_	_
 17	,	_	PUNCT	_	_	0	_	_	_
-18	chamada	_	VERB	_	_	0	_	_	_
+18	chamada	_	PCP	_	_	0	_	_	_
 19	Irani	_	PROPN	_	_	0	_	_	_
 20	.	_	PUNCT	_	_	0	_	_	_
 
@@ -10906,7 +10906,7 @@
 5	a	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	tarde	_	NOUN	_	_	0	_	_	_
-8	afogadas	_	VERB	_	_	0	_	_	_
+8	afogadas	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	rio	_	NOUN	_	_	0	_	_	_
@@ -10939,7 +10939,7 @@
 24	-	_	PUNCT	_	_	0	_	_	_
 25	depois	_	ADP	_	_	0	_	_	_
 26	de	_	ADP	_	_	0	_	_	_
-27	constatada	_	VERB	_	_	0	_	_	_
+27	constatada	_	PCP	_	_	0	_	_	_
 28	a	_	DET	_	_	0	_	_	_
 29	falsificação	_	NOUN	_	_	0	_	_	_
 30	de	_	ADP	_	_	0	_	_	_
@@ -11017,7 +11017,7 @@
 17	o	_	DET	_	_	0	_	_	_
 18	comércio	_	NOUN	_	_	0	_	_	_
 19	está	_	VERB	_	_	0	_	_	_
-20	abastecido	_	VERB	_	_	0	_	_	_
+20	abastecido	_	PCP	_	_	0	_	_	_
 21	com	_	ADP	_	_	0	_	_	_
 22	os	_	DET	_	_	0	_	_	_
 23	estoques	_	NOUN	_	_	0	_	_	_
@@ -11059,7 +11059,7 @@
 11	,	_	PUNCT	_	_	0	_	_	_
 12	deveria	_	AUX	_	_	0	_	_	_
 13	ser	_	AUX	_	_	0	_	_	_
-14	concluída	_	VERB	_	_	0	_	_	_
+14	concluída	_	PCP	_	_	0	_	_	_
 15	a	_	DET	_	_	0	_	_	_
 16	demarcação	_	NOUN	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
@@ -11083,7 +11083,7 @@
 3	de	_	ADP	_	_	0	_	_	_
 4	desapropriações	_	NOUN	_	_	0	_	_	_
 5	foram	_	AUX	_	_	0	_	_	_
-6	contraídas	_	VERB	_	_	0	_	_	_
+6	contraídas	_	PCP	_	_	0	_	_	_
 7	a	_	DET	_	_	0	_	_	_
 8	década	_	NOUN	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
@@ -11142,10 +11142,10 @@
 7	64	_	NUM	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	foi	_	AUX	_	_	0	_	_	_
-10	achada	_	VERB	_	_	0	_	_	_
-11	amordaçada	_	VERB	_	_	0	_	_	_
+10	achada	_	PCP	_	_	0	_	_	_
+11	amordaçada	_	PCP	_	_	0	_	_	_
 12	e	_	CONJ	_	_	0	_	_	_
-13	amarrada	_	VERB	_	_	0	_	_	_
+13	amarrada	_	PCP	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
 15	cerca	_	NOUN	_	_	0	_	_	_
 16	de	_	ADP	_	_	0	_	_	_
@@ -11202,7 +11202,7 @@
 33	em	_	ADP	_	_	0	_	_	_
 34	o	_	DET	_	_	0	_	_	_
 35	ano	_	NOUN	_	_	0	_	_	_
-36	passado	_	VERB	_	_	0	_	_	_
+36	passado	_	PCP	_	_	0	_	_	_
 37	,	_	PUNCT	_	_	0	_	_	_
 38	em	_	ADP	_	_	0	_	_	_
 39	relação	_	ADP	_	_	0	_	_	_
@@ -11245,8 +11245,8 @@
 
 1	Ele	_	PRON	_	_	0	_	_	_
 2	teria	_	AUX	_	_	0	_	_	_
-3	sido	_	VERB	_	_	0	_	_	_
-4	atendido	_	VERB	_	_	0	_	_	_
+3	sido	_	PCP	_	_	0	_	_	_
+4	atendido	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	médica	_	NOUN	_	_	0	_	_	_
@@ -11292,7 +11292,7 @@
 6	multam	_	VERB	_	_	0	_	_	_
 7	627	_	NUM	_	_	0	_	_	_
 8	caminhões	_	NOUN	_	_	0	_	_	_
-9	vistoriados	_	VERB	_	_	0	_	_	_
+9	vistoriados	_	PCP	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	operação	_	NOUN	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
@@ -11391,7 +11391,7 @@
 10	consumo	_	NOUN	_	_	0	_	_	_
 11	humano	_	ADJ	_	_	0	_	_	_
 12	teriam	_	AUX	_	_	0	_	_	_
-13	causado	_	VERB	_	_	0	_	_	_
+13	causado	_	PCP	_	_	0	_	_	_
 14	prejuízo	_	NOUN	_	_	0	_	_	_
 15	de	_	ADP	_	_	0	_	_	_
 16	US$	_	SYM	_	_	0	_	_	_
@@ -11408,7 +11408,7 @@
 4	a	_	ADP	_	_	0	_	_	_
 5	fevereiro	_	NOUN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	aplicada	_	VERB	_	_	0	_	_	_
+7	aplicada	_	PCP	_	_	0	_	_	_
 8	para	_	ADP	_	_	0	_	_	_
 9	conversão	_	NOUN	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
@@ -11507,7 +11507,7 @@
 20	24	_	NUM	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
 22	saiu	_	VERB	_	_	0	_	_	_
-23	ferido	_	VERB	_	_	0	_	_	_
+23	ferido	_	PCP	_	_	0	_	_	_
 24	anteontem	_	ADV	_	_	0	_	_	_
 25	a	_	ADP	_	_	0	_	_	_
 26	a	_	DET	_	_	0	_	_	_
@@ -11597,7 +11597,7 @@
 9	com	_	ADP	_	_	0	_	_	_
 10	as	_	DET	_	_	0	_	_	_
 11	informações	_	NOUN	_	_	0	_	_	_
-12	contidas	_	VERB	_	_	0	_	_	_
+12	contidas	_	PCP	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	esta	_	DET	_	_	0	_	_	_
 15	reportagem	_	NOUN	_	_	0	_	_	_
@@ -11663,7 +11663,7 @@
 6	o	_	DET	_	_	0	_	_	_
 7	TJ	_	PROPN	_	_	0	_	_	_
 8	foi	_	AUX	_	_	0	_	_	_
-9	fechado	_	VERB	_	_	0	_	_	_
+9	fechado	_	PCP	_	_	0	_	_	_
 10	para	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
 12	depoimento	_	NOUN	_	_	0	_	_	_
@@ -11681,7 +11681,7 @@
 4	Soares	_	PROPN	_	_	0	_	_	_
 5	Maganinho	_	PROPN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	preso	_	VERB	_	_	0	_	_	_
+7	preso	_	PCP	_	_	0	_	_	_
 8	sob	_	ADP	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
 10	acusação	_	NOUN	_	_	0	_	_	_
@@ -11699,7 +11699,7 @@
 7	sauna	_	NOUN	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	roupa	_	NOUN	_	_	0	_	_	_
-10	lavada	_	VERB	_	_	0	_	_	_
+10	lavada	_	PCP	_	_	0	_	_	_
 11	e	_	CONJ	_	_	0	_	_	_
 12	comida	_	NOUN	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
@@ -11759,7 +11759,7 @@
 26	vítimas	_	NOUN	_	_	0	_	_	_
 27	de	_	ADP	_	_	0	_	_	_
 28	crimes	_	NOUN	_	_	0	_	_	_
-29	cometidos	_	VERB	_	_	0	_	_	_
+29	cometidos	_	PCP	_	_	0	_	_	_
 30	por	_	ADP	_	_	0	_	_	_
 31	empresas	_	NOUN	_	_	0	_	_	_
 32	.	_	PUNCT	_	_	0	_	_	_
@@ -11965,7 +11965,7 @@
 2	,	_	PUNCT	_	_	0	_	_	_
 3	ele	_	PRON	_	_	0	_	_	_
 4	foi	_	AUX	_	_	0	_	_	_
-5	procurado	_	VERB	_	_	0	_	_	_
+5	procurado	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	a	_	DET	_	_	0	_	_	_
 8	manhã	_	NOUN	_	_	0	_	_	_
@@ -11993,7 +11993,7 @@
 16	sons	_	NOUN	_	_	0	_	_	_
 17	estranhos	_	ADJ	_	_	0	_	_	_
 18	"	_	PUNCT	_	_	0	_	_	_
-19	vindos	_	VERB	_	_	0	_	_	_
+19	vindos	_	PCP	_	_	0	_	_	_
 20	de	_	ADP	_	_	0	_	_	_
 21	uma	_	DET	_	_	0	_	_	_
 22	área	_	NOUN	_	_	0	_	_	_
@@ -12075,7 +12075,7 @@
 5	gosta	_	VERB	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	atendida	_	VERB	_	_	0	_	_	_
+8	atendida	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	brasileiros	_	NOUN	_	_	0	_	_	_
 11	.	_	PUNCT	_	_	0	_	_	_
@@ -12179,10 +12179,10 @@
 5	23	_	NUM	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	foi	_	AUX	_	_	0	_	_	_
-8	morta	_	VERB	_	_	0	_	_	_
+8	morta	_	PCP	_	_	0	_	_	_
 9	porque	_	SCONJ	_	_	0	_	_	_
 10	teria	_	AUX	_	_	0	_	_	_
-11	tentado	_	VERB	_	_	0	_	_	_
+11	tentado	_	PCP	_	_	0	_	_	_
 12	reagir	_	VERB	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
@@ -12297,7 +12297,7 @@
 
 1	A	_	DET	_	_	0	_	_	_
 2	tela	_	NOUN	_	_	0	_	_	_
-3	recortada	_	VERB	_	_	0	_	_	_
+3	recortada	_	PCP	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	20	_	NUM	_	_	0	_	_	_
 6	m	_	NOUN	_	_	0	_	_	_
@@ -12465,7 +12465,7 @@
 19	quebra-cabeças	_	NOUN	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
 21	brinquedos	_	NOUN	_	_	0	_	_	_
-22	motorizados	_	VERB	_	_	0	_	_	_
+22	motorizados	_	PCP	_	_	0	_	_	_
 23	,	_	PUNCT	_	_	0	_	_	_
 24	a	_	ADP	_	_	0	_	_	_
 25	a	_	DET	_	_	0	_	_	_
@@ -12531,13 +12531,13 @@
 1	O	_	DET	_	_	0	_	_	_
 2	sistema	_	NOUN	_	_	0	_	_	_
 3	foi	_	AUX	_	_	0	_	_	_
-4	inaugurado	_	VERB	_	_	0	_	_	_
+4	inaugurado	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	agosto	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
 9	ano	_	NOUN	_	_	0	_	_	_
-10	passado	_	VERB	_	_	0	_	_	_
+10	passado	_	PCP	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
 12	com	_	ADP	_	_	0	_	_	_
 13	54	_	NUM	_	_	0	_	_	_
@@ -12548,7 +12548,7 @@
 1	Em	_	ADP	_	_	0	_	_	_
 2	os	_	DET	_	_	0	_	_	_
 3	contatos	_	NOUN	_	_	0	_	_	_
-4	feitos	_	VERB	_	_	0	_	_	_
+4	feitos	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	Folha	_	PROPN	_	_	0	_	_	_
@@ -12592,7 +12592,7 @@
 5	,	_	PUNCT	_	_	0	_	_	_
 6	a	_	ADP	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	lançada	_	VERB	_	_	0	_	_	_
+8	lançada	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	setembro	_	NOUN	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
@@ -12721,7 +12721,7 @@
 40	financeiro	_	ADJ	_	_	0	_	_	_
 41	de	_	ADP	_	_	0	_	_	_
 42	empresas	_	NOUN	_	_	0	_	_	_
-43	privadas	_	VERB	_	_	0	_	_	_
+43	privadas	_	PCP	_	_	0	_	_	_
 44	.	_	PUNCT	_	_	0	_	_	_
 
 1	"	_	PUNCT	_	_	0	_	_	_
@@ -12761,7 +12761,7 @@
 5	pode	_	AUX	_	_	0	_	_	_
 6	mais	_	ADV	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	usado	_	VERB	_	_	0	_	_	_
+8	usado	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	telefones	_	NOUN	_	_	0	_	_	_
 11	públicos	_	ADJ	_	_	0	_	_	_
@@ -12843,7 +12843,7 @@
 7	de	_	ADP	_	_	0	_	_	_
 8	investimento	_	NOUN	_	_	0	_	_	_
 9	são	_	AUX	_	_	0	_	_	_
-10	renovadas	_	VERB	_	_	0	_	_	_
+10	renovadas	_	PCP	_	_	0	_	_	_
 11	automaticamente	_	ADV	_	_	0	_	_	_
 12	sem	_	ADP	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
@@ -12992,7 +12992,7 @@
 1	As	_	DET	_	_	0	_	_	_
 2	palestras	_	NOUN	_	_	0	_	_	_
 3	são	_	AUX	_	_	0	_	_	_
-4	realizadas	_	VERB	_	_	0	_	_	_
+4	realizadas	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	auditório	_	NOUN	_	_	0	_	_	_
@@ -13126,7 +13126,7 @@
 5	de	_	ADP	_	_	0	_	_	_
 6	700	_	NUM	_	_	0	_	_	_
 7	lojas	_	NOUN	_	_	0	_	_	_
-8	espalhadas	_	VERB	_	_	0	_	_	_
+8	espalhadas	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	os	_	DET	_	_	0	_	_	_
 11	EUA	_	PROPN	_	_	0	_	_	_
@@ -13234,7 +13234,7 @@
 8	deixe	_	AUX	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	ser	_	AUX	_	_	0	_	_	_
-11	beneficiada	_	VERB	_	_	0	_	_	_
+11	beneficiada	_	PCP	_	_	0	_	_	_
 12	com	_	ADP	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
 14	isenção	_	NOUN	_	_	0	_	_	_
@@ -13245,7 +13245,7 @@
 
 1	Ela	_	PRON	_	_	0	_	_	_
 2	é	_	AUX	_	_	0	_	_	_
-3	calculada	_	VERB	_	_	0	_	_	_
+3	calculada	_	PCP	_	_	0	_	_	_
 4	com	_	ADP	_	_	0	_	_	_
 5	base	_	NOUN	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
@@ -13270,7 +13270,7 @@
 2	outra	_	DET	_	_	0	_	_	_
 3	parte	_	NOUN	_	_	0	_	_	_
 4	-	_	PUNCT	_	_	0	_	_	_
-5	entusiasmada	_	VERB	_	_	0	_	_	_
+5	entusiasmada	_	PCP	_	_	0	_	_	_
 6	com	_	ADP	_	_	0	_	_	_
 7	os	_	DET	_	_	0	_	_	_
 8	resultados	_	NOUN	_	_	0	_	_	_
@@ -13398,7 +13398,7 @@
 6	os	_	DET	_	_	0	_	_	_
 7	prêmios	_	NOUN	_	_	0	_	_	_
 8	serão	_	AUX	_	_	0	_	_	_
-9	acrescidos	_	VERB	_	_	0	_	_	_
+9	acrescidos	_	PCP	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	juros	_	NOUN	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
@@ -13476,7 +13476,7 @@
 3	acionário	_	ADJ	_	_	0	_	_	_
 4	foi	_	VERB	_	_	0	_	_	_
 5	bastante	_	ADV	_	_	0	_	_	_
-6	agitado	_	VERB	_	_	0	_	_	_
+6	agitado	_	PCP	_	_	0	_	_	_
 7	ontem	_	ADV	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
 
@@ -13490,7 +13490,7 @@
 8	money	_	NOUN	_	_	0	_	_	_
 9	"	_	PUNCT	_	_	0	_	_	_
 10	)	_	PUNCT	_	_	0	_	_	_
-11	contratados	_	VERB	_	_	0	_	_	_
+11	contratados	_	PCP	_	_	0	_	_	_
 12	ontem	_	ADV	_	_	0	_	_	_
 13	:	_	PUNCT	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
@@ -13619,7 +13619,7 @@
 15	de	_	ADP	_	_	0	_	_	_
 16	os	_	DET	_	_	0	_	_	_
 17	serviços	_	NOUN	_	_	0	_	_	_
-18	prestados	_	VERB	_	_	0	_	_	_
+18	prestados	_	PCP	_	_	0	_	_	_
 19	por	_	ADP	_	_	0	_	_	_
 20	a	_	DET	_	_	0	_	_	_
 21	Infraero	_	PROPN	_	_	0	_	_	_
@@ -13636,7 +13636,7 @@
 2	de	_	ADP	_	_	0	_	_	_
 3	o	_	DET	_	_	0	_	_	_
 4	setor	_	NOUN	_	_	0	_	_	_
-5	divulgados	_	VERB	_	_	0	_	_	_
+5	divulgados	_	PCP	_	_	0	_	_	_
 6	ontem	_	ADV	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
@@ -13668,7 +13668,7 @@
 34	outubro	_	NOUN	_	_	0	_	_	_
 35	últimos	_	ADJ	_	_	0	_	_	_
 36	,	_	PUNCT	_	_	0	_	_	_
-37	comparados	_	VERB	_	_	0	_	_	_
+37	comparados	_	PCP	_	_	0	_	_	_
 38	com	_	ADP	_	_	0	_	_	_
 39	os	_	DET	_	_	0	_	_	_
 40	mesmos	_	DET	_	_	0	_	_	_
@@ -13805,7 +13805,7 @@
 34	Latina	_	PROPN	_	_	0	_	_	_
 35	-	_	PUNCT	_	_	0	_	_	_
 36	,	_	PUNCT	_	_	0	_	_	_
-37	sediada	_	VERB	_	_	0	_	_	_
+37	sediada	_	PCP	_	_	0	_	_	_
 38	em	_	ADP	_	_	0	_	_	_
 39	Lima	_	PROPN	_	_	0	_	_	_
 40	,	_	PUNCT	_	_	0	_	_	_
@@ -13923,7 +13923,7 @@
 9	.	_	PUNCT	_	_	0	_	_	_
 
 1	Inflação	_	NOUN	_	_	0	_	_	_
-2	medida	_	VERB	_	_	0	_	_	_
+2	medida	_	PCP	_	_	0	_	_	_
 3	por	_	ADP	_	_	0	_	_	_
 4	o	_	DET	_	_	0	_	_	_
 5	IGP-M	_	PROPN	_	_	0	_	_	_
@@ -13940,7 +13940,7 @@
 5	a	_	DET	_	_	0	_	_	_
 6	Fiesp	_	PROPN	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
-8	realizada	_	VERB	_	_	0	_	_	_
+8	realizada	_	PCP	_	_	0	_	_	_
 9	junto	_	ADP	_	_	0	_	_	_
 10	a	_	ADP	_	_	0	_	_	_
 11	46	_	NUM	_	_	0	_	_	_
@@ -14026,7 +14026,7 @@
 35	de	_	ADP	_	_	0	_	_	_
 36	financiamentos	_	NOUN	_	_	0	_	_	_
 37	rurais	_	ADJ	_	_	0	_	_	_
-38	concedidos	_	VERB	_	_	0	_	_	_
+38	concedidos	_	PCP	_	_	0	_	_	_
 39	por	_	ADP	_	_	0	_	_	_
 40	o	_	DET	_	_	0	_	_	_
 41	banco	_	NOUN	_	_	0	_	_	_
@@ -14187,7 +14187,7 @@
 43	os	_	DET	_	_	0	_	_	_
 44	empregos	_	NOUN	_	_	0	_	_	_
 45	são	_	AUX	_	_	0	_	_	_
-46	gerados	_	VERB	_	_	0	_	_	_
+46	gerados	_	PCP	_	_	0	_	_	_
 47	"	_	PUNCT	_	_	0	_	_	_
 48	.	_	PUNCT	_	_	0	_	_	_
 
@@ -14235,7 +14235,7 @@
 6	contas	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	poupança	_	NOUN	_	_	0	_	_	_
-9	abertas	_	VERB	_	_	0	_	_	_
+9	abertas	_	PCP	_	_	0	_	_	_
 10	depois	_	ADP	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
@@ -14464,7 +14464,7 @@
 13	de	_	ADP	_	_	0	_	_	_
 14	dezembro	_	NOUN	_	_	0	_	_	_
 15	sejam	_	AUX	_	_	0	_	_	_
-16	mantidos	_	VERB	_	_	0	_	_	_
+16	mantidos	_	PCP	_	_	0	_	_	_
 17	em	_	ADP	_	_	0	_	_	_
 18	os	_	DET	_	_	0	_	_	_
 19	próximos	_	ADJ	_	_	0	_	_	_
@@ -14489,7 +14489,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	isenção	_	NOUN	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
-4	válida	_	VERB	_	_	0	_	_	_
+4	válida	_	PCP	_	_	0	_	_	_
 5	até	_	ADP	_	_	0	_	_	_
 6	31	_	NUM	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
@@ -14499,12 +14499,12 @@
 11	ano	_	NOUN	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	está	_	VERB	_	_	0	_	_	_
-14	prevista	_	VERB	_	_	0	_	_	_
+14	prevista	_	PCP	_	_	0	_	_	_
 15	em	_	ADP	_	_	0	_	_	_
 16	portaria	_	NOUN	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	o	_	DET	_	_	0	_	_	_
-19	publicada	_	VERB	_	_	0	_	_	_
+19	publicada	_	PCP	_	_	0	_	_	_
 20	em	_	ADP	_	_	0	_	_	_
 21	a	_	DET	_	_	0	_	_	_
 22	edição	_	NOUN	_	_	0	_	_	_
@@ -14582,7 +14582,7 @@
 
 1	proposta	_	NOUN	_	_	0	_	_	_
 2	será	_	AUX	_	_	0	_	_	_
-3	encaminhada	_	VERB	_	_	0	_	_	_
+3	encaminhada	_	PCP	_	_	0	_	_	_
 4	também	_	ADV	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
@@ -14615,7 +14615,7 @@
 18	de	_	ADP	_	_	0	_	_	_
 19	o	_	DET	_	_	0	_	_	_
 20	ano	_	NOUN	_	_	0	_	_	_
-21	passado	_	VERB	_	_	0	_	_	_
+21	passado	_	PCP	_	_	0	_	_	_
 22	,	_	PUNCT	_	_	0	_	_	_
 23	segundo	_	ADP	_	_	0	_	_	_
 24	a	_	DET	_	_	0	_	_	_
@@ -14690,7 +14690,7 @@
 23	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foram	_	AUX	_	_	0	_	_	_
-2	abertas	_	VERB	_	_	0	_	_	_
+2	abertas	_	PCP	_	_	0	_	_	_
 3	696	_	NUM	_	_	0	_	_	_
 4	vagas	_	NOUN	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
@@ -14727,7 +14727,7 @@
 6	voltou	_	AUX	_	_	0	_	_	_
 7	a	_	ADP	_	_	0	_	_	_
 8	ser	_	AUX	_	_	0	_	_	_
-9	possuído	_	VERB	_	_	0	_	_	_
+9	possuído	_	PCP	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
 12	sentimento	_	NOUN	_	_	0	_	_	_
@@ -14830,7 +14830,7 @@
 2	governo	_	NOUN	_	_	0	_	_	_
 3	deveria	_	AUX	_	_	0	_	_	_
 4	ter	_	AUX	_	_	0	_	_	_
-5	editado	_	VERB	_	_	0	_	_	_
+5	editado	_	PCP	_	_	0	_	_	_
 6	outra	_	DET	_	_	0	_	_	_
 7	MP	_	NOUN	_	_	0	_	_	_
 8	para	_	ADP	_	_	0	_	_	_
@@ -14860,7 +14860,7 @@
 4	dará	_	VERB	_	_	0	_	_	_
 5	de	_	ADP	_	_	0	_	_	_
 6	forma	_	NOUN	_	_	0	_	_	_
-7	negociada	_	VERB	_	_	0	_	_	_
+7	negociada	_	PCP	_	_	0	_	_	_
 8	ou	_	CONJ	_	_	0	_	_	_
 9	judicial	_	ADJ	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
@@ -14884,7 +14884,7 @@
 17	preferissem	_	VERB	_	_	0	_	_	_
 18	deixar	_	VERB	_	_	0	_	_	_
 19	los	_	PRON	_	_	0	_	_	_
-20	fechados	_	VERB	_	_	0	_	_	_
+20	fechados	_	PCP	_	_	0	_	_	_
 21	a	_	ADP	_	_	0	_	_	_
 22	alugar	_	VERB	_	_	0	_	_	_
 23	los	_	PRON	_	_	0	_	_	_
@@ -14901,7 +14901,7 @@
 9	cruzeiros	_	NOUN	_	_	0	_	_	_
 10	reais	_	NOUN	_	_	0	_	_	_
 11	serão	_	AUX	_	_	0	_	_	_
-12	convertidos	_	VERB	_	_	0	_	_	_
+12	convertidos	_	PCP	_	_	0	_	_	_
 13	para	_	ADP	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
 15	nova	_	ADJ	_	_	0	_	_	_
@@ -14923,7 +14923,7 @@
 31	de	_	ADP	_	_	0	_	_	_
 32	o	_	DET	_	_	0	_	_	_
 33	real	_	NOUN	_	_	0	_	_	_
-34	divulgada	_	VERB	_	_	0	_	_	_
+34	divulgada	_	PCP	_	_	0	_	_	_
 35	ontem	_	ADV	_	_	0	_	_	_
 36	por	_	ADP	_	_	0	_	_	_
 37	o	_	DET	_	_	0	_	_	_
@@ -14944,14 +14944,14 @@
 12	%	_	SYM	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
-1	Isenta	_	VERB	_	_	0	_	_	_
+1	Isenta	_	PCP	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	o	_	DET	_	_	0	_	_	_
 4	Imposto	_	PROPN	_	_	0	_	_	_
 5	de	_	PROPN	_	_	0	_	_	_
 6	Renda	_	PROPN	_	_	0	_	_	_
 7	e	_	CONJ	_	_	0	_	_	_
-8	favorecida	_	VERB	_	_	0	_	_	_
+8	favorecida	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	os	_	DET	_	_	0	_	_	_
 11	juros	_	NOUN	_	_	0	_	_	_
@@ -14993,7 +14993,7 @@
 15	TR	_	PROPN	_	_	0	_	_	_
 16	deve	_	AUX	_	_	0	_	_	_
 17	continuar	_	VERB	_	_	0	_	_	_
-18	elevada	_	VERB	_	_	0	_	_	_
+18	elevada	_	PCP	_	_	0	_	_	_
 19	em	_	ADP	_	_	0	_	_	_
 20	os	_	DET	_	_	0	_	_	_
 21	próximos	_	ADJ	_	_	0	_	_	_
@@ -15008,7 +15008,7 @@
 1	"	_	PUNCT	_	_	0	_	_	_
 2	Nada	_	PRON	_	_	0	_	_	_
 3	está	_	VERB	_	_	0	_	_	_
-4	previsto	_	VERB	_	_	0	_	_	_
+4	previsto	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	continuidade	_	NOUN	_	_	0	_	_	_
 7	a	_	ADP	_	_	0	_	_	_
@@ -15161,7 +15161,7 @@
 10	e	_	CONJ	_	_	0	_	_	_
 11	se	_	SCONJ	_	_	0	_	_	_
 12	tivesse	_	AUX	_	_	0	_	_	_
-13	sido	_	VERB	_	_	0	_	_	_
+13	sido	_	PCP	_	_	0	_	_	_
 14	assim	_	ADV	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	ou	_	CONJ	_	_	0	_	_	_
@@ -15179,7 +15179,7 @@
 9	como	_	CONJ	_	_	0	_	_	_
 10	estará	_	AUX	_	_	0	_	_	_
 11	sendo	_	AUX	_	_	0	_	_	_
-12	ocupado	_	VERB	_	_	0	_	_	_
+12	ocupado	_	PCP	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	eleições	_	NOUN	_	_	0	_	_	_
 15	gerais	_	ADJ	_	_	0	_	_	_
@@ -15219,7 +15219,7 @@
 29	mais	_	ADV	_	_	0	_	_	_
 30	barato	_	ADJ	_	_	0	_	_	_
 31	,	_	PUNCT	_	_	0	_	_	_
-32	importado	_	VERB	_	_	0	_	_	_
+32	importado	_	PCP	_	_	0	_	_	_
 33	ou	_	CONJ	_	_	0	_	_	_
 34	não	_	ADV	_	_	0	_	_	_
 35	,	_	PUNCT	_	_	0	_	_	_
@@ -15480,7 +15480,7 @@
 12	movimento	_	NOUN	_	_	0	_	_	_
 13	só	_	ADV	_	_	0	_	_	_
 14	será	_	AUX	_	_	0	_	_	_
-15	interrompido	_	VERB	_	_	0	_	_	_
+15	interrompido	_	PCP	_	_	0	_	_	_
 16	hoje	_	ADV	_	_	0	_	_	_
 17	por	_	ADP	_	_	0	_	_	_
 18	a	_	DET	_	_	0	_	_	_
@@ -15503,7 +15503,7 @@
 9	essas	_	DET	_	_	0	_	_	_
 10	metas	_	NOUN	_	_	0	_	_	_
 11	serão	_	AUX	_	_	0	_	_	_
-12	respeitadas	_	VERB	_	_	0	_	_	_
+12	respeitadas	_	PCP	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
 1	Parágrafo	_	NOUN	_	_	0	_	_	_
@@ -15513,7 +15513,7 @@
 5	paridade	_	NOUN	_	_	0	_	_	_
 6	a	_	ADP	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	obedecida	_	VERB	_	_	0	_	_	_
+8	obedecida	_	PCP	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
 10	para	_	ADP	_	_	0	_	_	_
 11	fins	_	NOUN	_	_	0	_	_	_
@@ -15543,7 +15543,7 @@
 35	para	_	ADP	_	_	0	_	_	_
 36	cada	_	DET	_	_	0	_	_	_
 37	real	_	NOUN	_	_	0	_	_	_
-38	emitido	_	VERB	_	_	0	_	_	_
+38	emitido	_	PCP	_	_	0	_	_	_
 39	.	_	PUNCT	_	_	0	_	_	_
 
 1	Parágrafo	_	NOUN	_	_	0	_	_	_
@@ -15566,7 +15566,7 @@
 18	extraordinariamente	_	ADV	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
 20	for	_	AUX	_	_	0	_	_	_
-21	convocado	_	VERB	_	_	0	_	_	_
+21	convocado	_	PCP	_	_	0	_	_	_
 22	por	_	ADP	_	_	0	_	_	_
 23	seu	_	DET	_	_	0	_	_	_
 24	presidente	_	NOUN	_	_	0	_	_	_
@@ -15586,13 +15586,13 @@
 12	todos	_	DET	_	_	0	_	_	_
 13	os	_	DET	_	_	0	_	_	_
 14	valores	_	NOUN	_	_	0	_	_	_
-15	expressos	_	VERB	_	_	0	_	_	_
+15	expressos	_	PCP	_	_	0	_	_	_
 16	em	_	ADP	_	_	0	_	_	_
 17	UR	_	NIL	_	_	0	_	_	_
 18	passam	_	AUX	_	_	0	_	_	_
 19	a	_	ADP	_	_	0	_	_	_
 20	ser	_	AUX	_	_	0	_	_	_
-21	expressos	_	VERB	_	_	0	_	_	_
+21	expressos	_	PCP	_	_	0	_	_	_
 22	,	_	PUNCT	_	_	0	_	_	_
 23	de	_	ADP	_	_	0	_	_	_
 24	pleno	_	ADJ	_	_	0	_	_	_
@@ -15624,10 +15624,10 @@
 17	de	_	ADP	_	_	0	_	_	_
 18	correção	_	NOUN	_	_	0	_	_	_
 19	monetária	_	ADJ	_	_	0	_	_	_
-20	prefixada	_	VERB	_	_	0	_	_	_
+20	prefixada	_	PCP	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
 22	serão	_	AUX	_	_	0	_	_	_
-23	convertidas	_	VERB	_	_	0	_	_	_
+23	convertidas	_	PCP	_	_	0	_	_	_
 24	em	_	ADP	_	_	0	_	_	_
 25	real	_	NOUN	_	_	0	_	_	_
 26	,	_	PUNCT	_	_	0	_	_	_
@@ -15640,7 +15640,7 @@
 33	de	_	ADP	_	_	0	_	_	_
 34	1994	_	NUM	_	_	0	_	_	_
 35	,	_	PUNCT	_	_	0	_	_	_
-36	observada	_	VERB	_	_	0	_	_	_
+36	observada	_	PCP	_	_	0	_	_	_
 37	a	_	DET	_	_	0	_	_	_
 38	paridade	_	NOUN	_	_	0	_	_	_
 39	entre	_	ADP	_	_	0	_	_	_
@@ -15650,7 +15650,7 @@
 43	e	_	CONJ	_	_	0	_	_	_
 44	o	_	DET	_	_	0	_	_	_
 45	real	_	NOUN	_	_	0	_	_	_
-46	fixada	_	VERB	_	_	0	_	_	_
+46	fixada	_	PCP	_	_	0	_	_	_
 47	para	_	ADP	_	_	0	_	_	_
 48	aquela	_	DET	_	_	0	_	_	_
 49	data	_	NOUN	_	_	0	_	_	_
@@ -15678,12 +15678,12 @@
 20	é	_	VERB	_	_	0	_	_	_
 21	válido	_	ADJ	_	_	0	_	_	_
 22	quando	_	SCONJ	_	_	0	_	_	_
-23	baseado	_	VERB	_	_	0	_	_	_
+23	baseado	_	PCP	_	_	0	_	_	_
 24	em	_	ADP	_	_	0	_	_	_
 25	índice	_	NOUN	_	_	0	_	_	_
 26	de	_	ADP	_	_	0	_	_	_
 27	preços	_	NOUN	_	_	0	_	_	_
-28	calculado	_	VERB	_	_	0	_	_	_
+28	calculado	_	PCP	_	_	0	_	_	_
 29	em	_	ADP	_	_	0	_	_	_
 30	a	_	DET	_	_	0	_	_	_
 31	forma	_	NOUN	_	_	0	_	_	_
@@ -15712,7 +15712,7 @@
 12	a	_	ADP	_	_	0	_	_	_
 13	as	_	DET	_	_	0	_	_	_
 14	hipóteses	_	NOUN	_	_	0	_	_	_
-15	tratadas	_	VERB	_	_	0	_	_	_
+15	tratadas	_	PCP	_	_	0	_	_	_
 16	em	_	ADP	_	_	0	_	_	_
 17	lei	_	NOUN	_	_	0	_	_	_
 18	especial	_	ADJ	_	_	0	_	_	_
@@ -15801,7 +15801,7 @@
 15	criação	_	NOUN	_	_	0	_	_	_
 16	de	_	ADP	_	_	0	_	_	_
 17	empregos	_	NOUN	_	_	0	_	_	_
-18	remunerados	_	VERB	_	_	0	_	_	_
+18	remunerados	_	PCP	_	_	0	_	_	_
 19	com	_	ADP	_	_	0	_	_	_
 20	justiça	_	NOUN	_	_	0	_	_	_
 21	de	_	ADP	_	_	0	_	_	_
@@ -15861,7 +15861,7 @@
 6	em	_	ADP	_	_	0	_	_	_
 7	real	_	NOUN	_	_	0	_	_	_
 8	foi	_	AUX	_	_	0	_	_	_
-9	divulgada	_	VERB	_	_	0	_	_	_
+9	divulgada	_	PCP	_	_	0	_	_	_
 10	ontem	_	ADV	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
@@ -15890,7 +15890,7 @@
 8	por	_	ADP	_	_	0	_	_	_
 9	as	_	DET	_	_	0	_	_	_
 10	condições	_	NOUN	_	_	0	_	_	_
-11	propostas	_	VERB	_	_	0	_	_	_
+11	propostas	_	PCP	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	embora	_	SCONJ	_	_	0	_	_	_
 14	haja	_	VERB	_	_	0	_	_	_
@@ -16059,10 +16059,10 @@
 
 1	Os	_	DET	_	_	0	_	_	_
 2	depósitos	_	NOUN	_	_	0	_	_	_
-3	realizados	_	VERB	_	_	0	_	_	_
+3	realizados	_	PCP	_	_	0	_	_	_
 4	foram	_	AUX	_	_	0	_	_	_
 5	todos	_	PRON	_	_	0	_	_	_
-6	transferidos	_	VERB	_	_	0	_	_	_
+6	transferidos	_	PCP	_	_	0	_	_	_
 7	para	_	ADP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
 9	dia	_	NOUN	_	_	0	_	_	_
@@ -16143,7 +16143,7 @@
 3	de	_	ADP	_	_	0	_	_	_
 4	os	_	DET	_	_	0	_	_	_
 5	recursos	_	NOUN	_	_	0	_	_	_
-6	destinados	_	VERB	_	_	0	_	_	_
+6	destinados	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
 9	União	_	PROPN	_	_	0	_	_	_
@@ -16154,7 +16154,7 @@
 14	75	_	NUM	_	_	0	_	_	_
 15	%	_	SYM	_	_	0	_	_	_
 16	são	_	AUX	_	_	0	_	_	_
-17	consumidos	_	VERB	_	_	0	_	_	_
+17	consumidos	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	as	_	DET	_	_	0	_	_	_
 20	universidades	_	NOUN	_	_	0	_	_	_
@@ -16169,7 +16169,7 @@
 29	sendo	_	VERB	_	_	0	_	_	_
 30	90	_	NUM	_	_	0	_	_	_
 31	%	_	SYM	_	_	0	_	_	_
-32	dirigidos	_	VERB	_	_	0	_	_	_
+32	dirigidos	_	PCP	_	_	0	_	_	_
 33	para	_	ADP	_	_	0	_	_	_
 34	pagamento	_	NOUN	_	_	0	_	_	_
 35	de	_	ADP	_	_	0	_	_	_
@@ -16214,7 +16214,7 @@
 1	Depois	_	ADP	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	ter	_	AUX	_	_	0	_	_	_
-4	aberto	_	VERB	_	_	0	_	_	_
+4	aberto	_	PCP	_	_	0	_	_	_
 5	exceção	_	NOUN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	alterando	_	VERB	_	_	0	_	_	_
@@ -16345,7 +16345,7 @@
 27	.	_	PUNCT	_	_	0	_	_	_
 
 1	Honorários	_	NOUN	_	_	0	_	_	_
-2	liberados	_	VERB	_	_	0	_	_	_
+2	liberados	_	PCP	_	_	0	_	_	_
 3	Editoria	_	NOUN	_	_	0	_	_	_
 4	:	_	PUNCT	_	_	0	_	_	_
 5	Dinheiro	_	PROPN	_	_	0	_	_	_
@@ -16354,7 +16354,7 @@
 8	2-7	_	NUM	_	_	0	_	_	_
 9	Honorários	_	NOUN	_	_	0	_	_	_
 10	são	_	AUX	_	_	0	_	_	_
-11	liberados	_	VERB	_	_	0	_	_	_
+11	liberados	_	PCP	_	_	0	_	_	_
 12	De	_	ADP	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
 14	Reportagem	_	PROPN	_	_	0	_	_	_
@@ -16401,14 +16401,14 @@
 16	benefícios	_	NOUN	_	_	0	_	_	_
 17	que	_	SCONJ	_	_	0	_	_	_
 18	foram	_	AUX	_	_	0	_	_	_
-19	convertidos	_	VERB	_	_	0	_	_	_
+19	convertidos	_	PCP	_	_	0	_	_	_
 20	para	_	ADP	_	_	0	_	_	_
 21	UR	_	NIL	_	_	0	_	_	_
 22	com	_	ADP	_	_	0	_	_	_
 23	erro	_	NOUN	_	_	0	_	_	_
 24	já	_	ADV	_	_	0	_	_	_
 25	estão	_	VERB	_	_	0	_	_	_
-26	corrigidos	_	VERB	_	_	0	_	_	_
+26	corrigidos	_	PCP	_	_	0	_	_	_
 27	.	_	PUNCT	_	_	0	_	_	_
 
 1	"	_	PUNCT	_	_	0	_	_	_
@@ -16418,7 +16418,7 @@
 5	consumidor	_	NOUN	_	_	0	_	_	_
 6	será	_	VERB	_	_	0	_	_	_
 7	muito	_	ADV	_	_	0	_	_	_
-8	prejudicado	_	VERB	_	_	0	_	_	_
+8	prejudicado	_	PCP	_	_	0	_	_	_
 9	"	_	PUNCT	_	_	0	_	_	_
 10	,	_	PUNCT	_	_	0	_	_	_
 11	afirmou	_	VERB	_	_	0	_	_	_
@@ -16450,11 +16450,11 @@
 6	total	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	declarações	_	NOUN	_	_	0	_	_	_
-9	entregues	_	VERB	_	_	0	_	_	_
+9	entregues	_	PCP	_	_	0	_	_	_
 10	só	_	ADV	_	_	0	_	_	_
 11	deve	_	AUX	_	_	0	_	_	_
 12	ser	_	AUX	_	_	0	_	_	_
-13	divulgado	_	VERB	_	_	0	_	_	_
+13	divulgado	_	PCP	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
 15	a	_	DET	_	_	0	_	_	_
 16	próxima	_	ADJ	_	_	0	_	_	_
@@ -16469,7 +16469,7 @@
 6	a	_	DET	_	_	0	_	_	_
 7	UR	_	NIL	_	_	0	_	_	_
 8	foi	_	AUX	_	_	0	_	_	_
-9	corrigida	_	VERB	_	_	0	_	_	_
+9	corrigida	_	PCP	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	498,46	_	NUM	_	_	0	_	_	_
 12	%	_	SYM	_	_	0	_	_	_
@@ -16557,7 +16557,7 @@
 20	de	_	ADP	_	_	0	_	_	_
 21	o	_	DET	_	_	0	_	_	_
 22	total	_	NOUN	_	_	0	_	_	_
-23	consumido	_	VERB	_	_	0	_	_	_
+23	consumido	_	PCP	_	_	0	_	_	_
 24	em	_	ADP	_	_	0	_	_	_
 25	o	_	DET	_	_	0	_	_	_
 26	país	_	NOUN	_	_	0	_	_	_
@@ -16613,7 +16613,7 @@
 16	câmbio	_	NOUN	_	_	0	_	_	_
 17	vai	_	AUX	_	_	0	_	_	_
 18	ficar	_	VERB	_	_	0	_	_	_
-19	fixo	_	VERB	_	_	0	_	_	_
+19	fixo	_	PCP	_	_	0	_	_	_
 20	"	_	PUNCT	_	_	0	_	_	_
 21	,	_	PUNCT	_	_	0	_	_	_
 22	diz	_	VERB	_	_	0	_	_	_
@@ -16643,7 +16643,7 @@
 15	golden	_	NOUN	_	_	0	_	_	_
 16	share	_	NOUN	_	_	0	_	_	_
 17	"	_	PUNCT	_	_	0	_	_	_
-18	reservada	_	VERB	_	_	0	_	_	_
+18	reservada	_	PCP	_	_	0	_	_	_
 19	para	_	ADP	_	_	0	_	_	_
 20	o	_	DET	_	_	0	_	_	_
 21	governo	_	NOUN	_	_	0	_	_	_
@@ -16652,7 +16652,7 @@
 
 1	As	_	DET	_	_	0	_	_	_
 2	defasagens	_	NOUN	_	_	0	_	_	_
-3	acumuladas	_	VERB	_	_	0	_	_	_
+3	acumuladas	_	PCP	_	_	0	_	_	_
 4	e	_	CONJ	_	_	0	_	_	_
 5	os	_	DET	_	_	0	_	_	_
 6	desafios	_	NOUN	_	_	0	_	_	_
@@ -16739,7 +16739,7 @@
 25	menos	_	ADV	_	_	0	_	_	_
 26	de	_	ADP	_	_	0	_	_	_
 27	acesso	_	NOUN	_	_	0	_	_	_
-28	privilegiado	_	VERB	_	_	0	_	_	_
+28	privilegiado	_	PCP	_	_	0	_	_	_
 29	a	_	ADP	_	_	0	_	_	_
 30	a	_	DET	_	_	0	_	_	_
 31	distribuição	_	NOUN	_	_	0	_	_	_
@@ -16764,7 +16764,7 @@
 3	total	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	declarações	_	NOUN	_	_	0	_	_	_
-6	processadas	_	VERB	_	_	0	_	_	_
+6	processadas	_	PCP	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	este	_	DET	_	_	0	_	_	_
 9	lote	_	NOUN	_	_	0	_	_	_
@@ -16818,7 +16818,7 @@
 10	e	_	CONJ	_	_	0	_	_	_
 11	-	_	PUNCT	_	_	0	_	_	_
 12	Pagamentos	_	NOUN	_	_	0	_	_	_
-13	Efetuados	_	VERB	_	_	0	_	_	_
+13	Efetuados	_	PCP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
 15	nome	_	NOUN	_	_	0	_	_	_
 16	de	_	ADP	_	_	0	_	_	_
@@ -16911,7 +16911,7 @@
 2	Converter	_	VERB	_	_	0	_	_	_
 3	tudo	_	PRON	_	_	0	_	_	_
 4	está	_	VERB	_	_	0	_	_	_
-5	descartado	_	VERB	_	_	0	_	_	_
+5	descartado	_	PCP	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	ADP	_	_	0	_	_	_
@@ -16937,7 +16937,7 @@
 7	selvagem	_	ADJ	_	_	0	_	_	_
 8	e	_	CONJ	_	_	0	_	_	_
 9	menos	_	ADV	_	_	0	_	_	_
-10	parecido	_	VERB	_	_	0	_	_	_
+10	parecido	_	PCP	_	_	0	_	_	_
 11	com	_	ADP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
 13	capitalismo	_	NOUN	_	_	0	_	_	_
@@ -17058,7 +17058,7 @@
 23	qualquer	_	DET	_	_	0	_	_	_
 24	momento	_	NOUN	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
-26	passado	_	VERB	_	_	0	_	_	_
+26	passado	_	PCP	_	_	0	_	_	_
 27	o	_	DET	_	_	0	_	_	_
 28	período	_	NOUN	_	_	0	_	_	_
 29	inicial	_	ADJ	_	_	0	_	_	_
@@ -17134,7 +17134,7 @@
 3	deverá	_	AUX	_	_	0	_	_	_
 4	ficar	_	VERB	_	_	0	_	_	_
 5	"	_	PUNCT	_	_	0	_	_	_
-6	congelada	_	VERB	_	_	0	_	_	_
+6	congelada	_	PCP	_	_	0	_	_	_
 7	"	_	PUNCT	_	_	0	_	_	_
 8	a	_	ADP	_	_	0	_	_	_
 9	partir	_	ADP	_	_	0	_	_	_
@@ -17171,7 +17171,7 @@
 11	em	_	ADP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
 13	ano	_	NOUN	_	_	0	_	_	_
-14	passado	_	VERB	_	_	0	_	_	_
+14	passado	_	PCP	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	mas	_	CONJ	_	_	0	_	_	_
 17	não	_	ADV	_	_	0	_	_	_
@@ -17184,7 +17184,7 @@
 24	própria	_	DET	_	_	0	_	_	_
 25	relação	_	NOUN	_	_	0	_	_	_
 26	,	_	PUNCT	_	_	0	_	_	_
-27	conhecida	_	VERB	_	_	0	_	_	_
+27	conhecida	_	PCP	_	_	0	_	_	_
 28	como	_	ADP	_	_	0	_	_	_
 29	Dirf	_	PROPN	_	_	0	_	_	_
 30	.	_	PUNCT	_	_	0	_	_	_
@@ -17352,7 +17352,7 @@
 27	Cozinha	_	NOUN	_	_	0	_	_	_
 28	"	_	PUNCT	_	_	0	_	_	_
 29	está	_	VERB	_	_	0	_	_	_
-30	proibida	_	VERB	_	_	0	_	_	_
+30	proibida	_	PCP	_	_	0	_	_	_
 31	por	_	ADP	_	_	0	_	_	_
 32	medida	_	NOUN	_	_	0	_	_	_
 33	cautelar	_	ADJ	_	_	0	_	_	_
@@ -17387,7 +17387,7 @@
 4	de	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
 6	mercado	_	NOUN	_	_	0	_	_	_
-7	obtida	_	VERB	_	_	0	_	_	_
+7	obtida	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
 10	Folha	_	PROPN	_	_	0	_	_	_
@@ -17456,7 +17456,7 @@
 9	pessoas	_	NOUN	_	_	0	_	_	_
 10	têm	_	VERB	_	_	0	_	_	_
 11	carteira	_	NOUN	_	_	0	_	_	_
-12	assinada	_	VERB	_	_	0	_	_	_
+12	assinada	_	PCP	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -17491,9 +17491,9 @@
 7	,	_	PUNCT	_	_	0	_	_	_
 8	poderia	_	AUX	_	_	0	_	_	_
 9	ter	_	VERB	_	_	0	_	_	_
-10	reduzida	_	VERB	_	_	0	_	_	_
+10	reduzida	_	PCP	_	_	0	_	_	_
 11	a	_	DET	_	_	0	_	_	_
-12	citada	_	VERB	_	_	0	_	_	_
+12	citada	_	PCP	_	_	0	_	_	_
 13	alíquota	_	NOUN	_	_	0	_	_	_
 14	para	_	ADP	_	_	0	_	_	_
 15	8	_	NUM	_	_	0	_	_	_
@@ -17515,7 +17515,7 @@
 31	cruzados	_	NOUN	_	_	0	_	_	_
 32	novos	_	NOUN	_	_	0	_	_	_
 33	ilegalmente	_	ADV	_	_	0	_	_	_
-34	retidos	_	VERB	_	_	0	_	_	_
+34	retidos	_	PCP	_	_	0	_	_	_
 35	.	_	PUNCT	_	_	0	_	_	_
 
 1	Em	_	ADP	_	_	0	_	_	_
@@ -17559,7 +17559,7 @@
 39	investem	_	VERB	_	_	0	_	_	_
 40	os	_	DET	_	_	0	_	_	_
 41	recursos	_	NOUN	_	_	0	_	_	_
-42	poupados	_	VERB	_	_	0	_	_	_
+42	poupados	_	PCP	_	_	0	_	_	_
 43	por	_	ADP	_	_	0	_	_	_
 44	seus	_	DET	_	_	0	_	_	_
 45	participantes	_	NOUN	_	_	0	_	_	_
@@ -17629,8 +17629,8 @@
 25	.	_	PUNCT	_	_	0	_	_	_
 
 1	CDBs	_	PROPN	_	_	0	_	_	_
-2	prefixados	_	VERB	_	_	0	_	_	_
-3	negociados	_	VERB	_	_	0	_	_	_
+2	prefixados	_	PCP	_	_	0	_	_	_
+3	negociados	_	PCP	_	_	0	_	_	_
 4	ontem	_	ADV	_	_	0	_	_	_
 5	:	_	PUNCT	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
@@ -17701,7 +17701,7 @@
 24	os	_	DET	_	_	0	_	_	_
 25	2,4	_	NUM	_	_	0	_	_	_
 26	%	_	SYM	_	_	0	_	_	_
-27	registrados	_	VERB	_	_	0	_	_	_
+27	registrados	_	PCP	_	_	0	_	_	_
 28	em	_	ADP	_	_	0	_	_	_
 29	o	_	DET	_	_	0	_	_	_
 30	ano	_	NOUN	_	_	0	_	_	_
@@ -17847,7 +17847,7 @@
 37	o	_	DET	_	_	0	_	_	_
 38	simultâneo	_	ADJ	_	_	0	_	_	_
 39	incremento	_	NOUN	_	_	0	_	_	_
-40	descontrolado	_	VERB	_	_	0	_	_	_
+40	descontrolado	_	PCP	_	_	0	_	_	_
 41	de	_	ADP	_	_	0	_	_	_
 42	as	_	DET	_	_	0	_	_	_
 43	importações	_	NOUN	_	_	0	_	_	_
@@ -17897,14 +17897,14 @@
 28	número	_	NOUN	_	_	0	_	_	_
 29	de	_	ADP	_	_	0	_	_	_
 30	concordatas	_	NOUN	_	_	0	_	_	_
-31	requeridas	_	VERB	_	_	0	_	_	_
+31	requeridas	_	PCP	_	_	0	_	_	_
 32	e	_	CONJ	_	_	0	_	_	_
 33	em	_	ADP	_	_	0	_	_	_
 34	o	_	DET	_	_	0	_	_	_
 35	volume	_	NOUN	_	_	0	_	_	_
 36	de	_	ADP	_	_	0	_	_	_
 37	falências	_	NOUN	_	_	0	_	_	_
-38	decretadas	_	VERB	_	_	0	_	_	_
+38	decretadas	_	PCP	_	_	0	_	_	_
 39	em	_	ADP	_	_	0	_	_	_
 40	a	_	DET	_	_	0	_	_	_
 41	capital	_	NOUN	_	_	0	_	_	_
@@ -18059,7 +18059,7 @@
 3	é	_	VERB	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	fundos	_	NOUN	_	_	0	_	_	_
-6	ligados	_	VERB	_	_	0	_	_	_
+6	ligados	_	PCP	_	_	0	_	_	_
 7	a	_	ADP	_	_	0	_	_	_
 8	os	_	DET	_	_	0	_	_	_
 9	mercados	_	NOUN	_	_	0	_	_	_
@@ -18313,7 +18313,7 @@
 11	esta	_	DET	_	_	0	_	_	_
 12	coluna	_	NOUN	_	_	0	_	_	_
 13	foram	_	AUX	_	_	0	_	_	_
-14	fornecidas	_	VERB	_	_	0	_	_	_
+14	fornecidas	_	PCP	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
 16	a	_	DET	_	_	0	_	_	_
 17	IOB-Informações	_	PROPN	_	_	0	_	_	_
@@ -18352,7 +18352,7 @@
 30	elas	_	PRON	_	_	0	_	_	_
 31	precisam	_	AUX	_	_	0	_	_	_
 32	ser	_	AUX	_	_	0	_	_	_
-33	acompanhadas	_	VERB	_	_	0	_	_	_
+33	acompanhadas	_	PCP	_	_	0	_	_	_
 34	de	_	ADP	_	_	0	_	_	_
 35	uma	_	DET	_	_	0	_	_	_
 36	reforma	_	NOUN	_	_	0	_	_	_
@@ -18425,7 +18425,7 @@
 7	de	_	ADP	_	_	0	_	_	_
 8	bancos	_	NOUN	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
-10	liderado	_	VERB	_	_	0	_	_	_
+10	liderado	_	PCP	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
 13	Bradesco	_	PROPN	_	_	0	_	_	_
@@ -18541,7 +18541,7 @@
 12	que	_	SCONJ	_	_	0	_	_	_
 13	alguns	_	DET	_	_	0	_	_	_
 14	analistas	_	NOUN	_	_	0	_	_	_
-15	vinculados	_	VERB	_	_	0	_	_	_
+15	vinculados	_	PCP	_	_	0	_	_	_
 16	a	_	ADP	_	_	0	_	_	_
 17	FHC	_	PROPN	_	_	0	_	_	_
 18	usaram	_	VERB	_	_	0	_	_	_
@@ -18593,7 +18593,7 @@
 19	de	_	ADP	_	_	0	_	_	_
 20	commodities	_	NOUN	_	_	0	_	_	_
 21	são	_	AUX	_	_	0	_	_	_
-22	tributados	_	VERB	_	_	0	_	_	_
+22	tributados	_	PCP	_	_	0	_	_	_
 23	em	_	ADP	_	_	0	_	_	_
 24	25	_	NUM	_	_	0	_	_	_
 25	%	_	SYM	_	_	0	_	_	_
@@ -18833,7 +18833,7 @@
 4	encerrou	_	VERB	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	semana	_	NOUN	_	_	0	_	_	_
-7	passada	_	VERB	_	_	0	_	_	_
+7	passada	_	PCP	_	_	0	_	_	_
 8	com	_	ADP	_	_	0	_	_	_
 9	duas	_	NUM	_	_	0	_	_	_
 10	certezas	_	NOUN	_	_	0	_	_	_
@@ -18872,14 +18872,14 @@
 43	terão	_	AUX	_	_	0	_	_	_
 44	de	_	ADP	_	_	0	_	_	_
 45	ser	_	AUX	_	_	0	_	_	_
-46	adotadas	_	VERB	_	_	0	_	_	_
+46	adotadas	_	PCP	_	_	0	_	_	_
 47	logo	_	ADV	_	_	0	_	_	_
 48	.	_	PUNCT	_	_	0	_	_	_
 
 1	Já	_	CONJ	_	_	0	_	_	_
 2	a	_	DET	_	_	0	_	_	_
 3	conta	_	NOUN	_	_	0	_	_	_
-4	garantida	_	VERB	_	_	0	_	_	_
+4	garantida	_	PCP	_	_	0	_	_	_
 5	tem	_	VERB	_	_	0	_	_	_
 6	taxas	_	NOUN	_	_	0	_	_	_
 7	flutuantes	_	ADJ	_	_	0	_	_	_
@@ -18898,7 +18898,7 @@
 7	operações	_	NOUN	_	_	0	_	_	_
 8	rápidas	_	ADJ	_	_	0	_	_	_
 9	e	_	CONJ	_	_	0	_	_	_
-10	arriscadas	_	VERB	_	_	0	_	_	_
+10	arriscadas	_	PCP	_	_	0	_	_	_
 11	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -18906,7 +18906,7 @@
 3	de	_	ADP	_	_	0	_	_	_
 4	liminar	_	NOUN	_	_	0	_	_	_
 5	foi	_	AUX	_	_	0	_	_	_
-6	feito	_	VERB	_	_	0	_	_	_
+6	feito	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
 9	AMB	_	PROPN	_	_	0	_	_	_
@@ -18925,7 +18925,7 @@
 4	94	_	NUM	_	_	0	_	_	_
 5	estão	_	VERB	_	_	0	_	_	_
 6	todas	_	PRON	_	_	0	_	_	_
-7	liberadas	_	VERB	_	_	0	_	_	_
+7	liberadas	_	PCP	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
 
 1	Quando	_	SCONJ	_	_	0	_	_	_
@@ -18991,7 +18991,7 @@
 19	fornecimento	_	NOUN	_	_	0	_	_	_
 20	de	_	ADP	_	_	0	_	_	_
 21	gás	_	NOUN	_	_	0	_	_	_
-22	encanado	_	VERB	_	_	0	_	_	_
+22	encanado	_	PCP	_	_	0	_	_	_
 23	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -19200,7 +19200,7 @@
 9	com	_	ADP	_	_	0	_	_	_
 10	que	_	SCONJ	_	_	0	_	_	_
 11	é	_	AUX	_	_	0	_	_	_
-12	visto	_	VERB	_	_	0	_	_	_
+12	visto	_	PCP	_	_	0	_	_	_
 13	o	_	DET	_	_	0	_	_	_
 14	país	_	NOUN	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
@@ -19262,7 +19262,7 @@
 18	com	_	ADP	_	_	0	_	_	_
 19	seus	_	DET	_	_	0	_	_	_
 20	dias	_	NOUN	_	_	0	_	_	_
-21	contados	_	VERB	_	_	0	_	_	_
+21	contados	_	PCP	_	_	0	_	_	_
 22	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -19340,11 +19340,11 @@
 32	café	_	NOUN	_	_	0	_	_	_
 33	"	_	PUNCT	_	_	0	_	_	_
 34	tem	_	AUX	_	_	0	_	_	_
-35	gerado	_	VERB	_	_	0	_	_	_
+35	gerado	_	PCP	_	_	0	_	_	_
 36	muita	_	DET	_	_	0	_	_	_
 37	controvérsia	_	NOUN	_	_	0	_	_	_
 38	e	_	CONJ	_	_	0	_	_	_
-39	revelado	_	VERB	_	_	0	_	_	_
+39	revelado	_	PCP	_	_	0	_	_	_
 40	falta	_	NOUN	_	_	0	_	_	_
 41	de	_	ADP	_	_	0	_	_	_
 42	informação	_	NOUN	_	_	0	_	_	_
@@ -19376,7 +19376,7 @@
 12	,	_	PUNCT	_	_	0	_	_	_
 13	onde	_	SCONJ	_	_	0	_	_	_
 14	são	_	AUX	_	_	0	_	_	_
-15	ofertadas	_	VERB	_	_	0	_	_	_
+15	ofertadas	_	PCP	_	_	0	_	_	_
 16	grandes	_	ADJ	_	_	0	_	_	_
 17	quantias	_	NOUN	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
@@ -19435,7 +19435,7 @@
 38	citar	_	VERB	_	_	0	_	_	_
 39	um	_	DET	_	_	0	_	_	_
 40	trecho	_	NOUN	_	_	0	_	_	_
-41	dito	_	VERB	_	_	0	_	_	_
+41	dito	_	PCP	_	_	0	_	_	_
 42	com	_	ADP	_	_	0	_	_	_
 43	grande	_	ADJ	_	_	0	_	_	_
 44	beleza	_	NOUN	_	_	0	_	_	_
@@ -19531,7 +19531,7 @@
 10	quebra	_	NOUN	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
 12	contrato	_	NOUN	_	_	0	_	_	_
-13	assinado	_	VERB	_	_	0	_	_	_
+13	assinado	_	PCP	_	_	0	_	_	_
 14	com	_	ADP	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
 16	governo	_	NOUN	_	_	0	_	_	_
@@ -19575,7 +19575,7 @@
 7	dólar	_	NOUN	_	_	0	_	_	_
 8	comercial	_	ADJ	_	_	0	_	_	_
 9	foi	_	AUX	_	_	0	_	_	_
-10	negociado	_	VERB	_	_	0	_	_	_
+10	negociado	_	PCP	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
 12	em	_	ADP	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
@@ -19647,7 +19647,7 @@
 30	milhões	_	NOUN	_	_	0	_	_	_
 31	de	_	ADP	_	_	0	_	_	_
 32	sacas	_	NOUN	_	_	0	_	_	_
-33	estimadas	_	VERB	_	_	0	_	_	_
+33	estimadas	_	PCP	_	_	0	_	_	_
 34	por	_	ADP	_	_	0	_	_	_
 35	o	_	DET	_	_	0	_	_	_
 36	governo	_	NOUN	_	_	0	_	_	_
@@ -19719,11 +19719,11 @@
 24	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foram	_	AUX	_	_	0	_	_	_
-2	permitidas	_	VERB	_	_	0	_	_	_
+2	permitidas	_	PCP	_	_	0	_	_	_
 3	compras	_	NOUN	_	_	0	_	_	_
 4	e	_	CONJ	_	_	0	_	_	_
 5	vendas	_	NOUN	_	_	0	_	_	_
-6	antecipadas	_	VERB	_	_	0	_	_	_
+6	antecipadas	_	PCP	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	dólar	_	NOUN	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
@@ -19738,7 +19738,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	IGP-2	_	PROPN	_	_	0	_	_	_
 3	(	_	PUNCT	_	_	0	_	_	_
-4	apurado	_	VERB	_	_	0	_	_	_
+4	apurado	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	mesmo	_	DET	_	_	0	_	_	_
@@ -19796,7 +19796,7 @@
 13	Tupã	_	PROPN	_	_	0	_	_	_
 14	deve	_	AUX	_	_	0	_	_	_
 15	ficar	_	VERB	_	_	0	_	_	_
-16	afastado	_	VERB	_	_	0	_	_	_
+16	afastado	_	PCP	_	_	0	_	_	_
 17	por	_	ADP	_	_	0	_	_	_
 18	pelo	_	ADV	_	_	0	_	_	_
 19	menos	_	ADV	_	_	0	_	_	_
@@ -19813,7 +19813,7 @@
 30	.	_	PUNCT	_	_	0	_	_	_
 
 1	Outro	_	DET	_	_	0	_	_	_
-2	solicitado	_	VERB	_	_	0	_	_	_
+2	solicitado	_	PCP	_	_	0	_	_	_
 3	foi	_	VERB	_	_	0	_	_	_
 4	o	_	DET	_	_	0	_	_	_
 5	zagueiro	_	NOUN	_	_	0	_	_	_
@@ -19909,13 +19909,13 @@
 31	position	_	NOUN	_	_	0	_	_	_
 32	era	_	VERB	_	_	0	_	_	_
 33	menos	_	ADV	_	_	0	_	_	_
-34	emborrachado	_	VERB	_	_	0	_	_	_
+34	emborrachado	_	PCP	_	_	0	_	_	_
 35	que	_	SCONJ	_	_	0	_	_	_
 36	o	_	PRON	_	_	0	_	_	_
 37	de	_	ADP	_	_	0	_	_	_
 38	o	_	DET	_	_	0	_	_	_
 39	segundo	_	NOUN	_	_	0	_	_	_
-40	colocado	_	VERB	_	_	0	_	_	_
+40	colocado	_	PCP	_	_	0	_	_	_
 41	em	_	ADP	_	_	0	_	_	_
 42	o	_	DET	_	_	0	_	_	_
 43	grid	_	NOUN	_	_	0	_	_	_
@@ -20043,7 +20043,7 @@
 14	substituiu	_	VERB	_	_	0	_	_	_
 15	Sérgio	_	PROPN	_	_	0	_	_	_
 16	-	_	PUNCT	_	_	0	_	_	_
-17	afastado	_	VERB	_	_	0	_	_	_
+17	afastado	_	PCP	_	_	0	_	_	_
 18	depois	_	ADP	_	_	0	_	_	_
 19	de	_	ADP	_	_	0	_	_	_
 20	más	_	ADJ	_	_	0	_	_	_
@@ -20116,7 +20116,7 @@
 3	Divisão	_	PROPN	_	_	0	_	_	_
 4	Pacífico	_	PROPN	_	_	0	_	_	_
 5	estão	_	VERB	_	_	0	_	_	_
-6	classificados	_	VERB	_	_	0	_	_	_
+6	classificados	_	PCP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	Seattle	_	PROPN	_	_	0	_	_	_
 9	e	_	CONJ	_	_	0	_	_	_
@@ -20222,7 +20222,7 @@
 5	sucesso	_	NOUN	_	_	0	_	_	_
 6	deve	_	AUX	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	creditada	_	VERB	_	_	0	_	_	_
+8	creditada	_	PCP	_	_	0	_	_	_
 9	a	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	São	_	PROPN	_	_	0	_	_	_
@@ -20255,7 +20255,7 @@
 3	Sul-Americana	_	PROPN	_	_	0	_	_	_
 4	já	_	ADV	_	_	0	_	_	_
 5	foi	_	AUX	_	_	0	_	_	_
-6	disputada	_	VERB	_	_	0	_	_	_
+6	disputada	_	PCP	_	_	0	_	_	_
 7	três	_	NUM	_	_	0	_	_	_
 8	vezes	_	NOUN	_	_	0	_	_	_
 9	:	_	PUNCT	_	_	0	_	_	_
@@ -20340,7 +20340,7 @@
 7	verba	_	NOUN	_	_	0	_	_	_
 8	está	_	AUX	_	_	0	_	_	_
 9	sendo	_	AUX	_	_	0	_	_	_
-10	usada	_	VERB	_	_	0	_	_	_
+10	usada	_	PCP	_	_	0	_	_	_
 11	para	_	ADP	_	_	0	_	_	_
 12	aprimorar	_	VERB	_	_	0	_	_	_
 13	a	_	DET	_	_	0	_	_	_
@@ -20387,7 +20387,7 @@
 3	abandonos	_	NOUN	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
 5	escuderias	_	NOUN	_	_	0	_	_	_
-6	consideradas	_	VERB	_	_	0	_	_	_
+6	consideradas	_	PCP	_	_	0	_	_	_
 7	pequenas	_	ADJ	_	_	0	_	_	_
 8	dividiram	_	VERB	_	_	0	_	_	_
 9	as	_	DET	_	_	0	_	_	_
@@ -20540,7 +20540,7 @@
 
 1	Não	_	ADV	_	_	0	_	_	_
 2	está	_	VERB	_	_	0	_	_	_
-3	afastada	_	VERB	_	_	0	_	_	_
+3	afastada	_	PCP	_	_	0	_	_	_
 4	também	_	ADV	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	possibilidade	_	NOUN	_	_	0	_	_	_
@@ -20591,7 +20591,7 @@
 5	a	_	DET	_	_	0	_	_	_
 6	prova	_	NOUN	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
-8	disputada	_	VERB	_	_	0	_	_	_
+8	disputada	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	circuito	_	NOUN	_	_	0	_	_	_
 11	oval	_	ADJ	_	_	0	_	_	_
@@ -20607,11 +20607,11 @@
 1	Em	_	ADP	_	_	0	_	_	_
 2	a	_	DET	_	_	0	_	_	_
 3	semana	_	NOUN	_	_	0	_	_	_
-4	passada	_	VERB	_	_	0	_	_	_
+4	passada	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	Bubka	_	PROPN	_	_	0	_	_	_
 7	havia	_	AUX	_	_	0	_	_	_
-8	fracassado	_	VERB	_	_	0	_	_	_
+8	fracassado	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	os	_	DET	_	_	0	_	_	_
 11	Jogos	_	PROPN	_	_	0	_	_	_
@@ -20630,7 +20630,7 @@
 4	o	_	DET	_	_	0	_	_	_
 5	torneio	_	NOUN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	indicada	_	VERB	_	_	0	_	_	_
+7	indicada	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	as	_	DET	_	_	0	_	_	_
 10	estatísticas	_	NOUN	_	_	0	_	_	_
@@ -20661,7 +20661,7 @@
 16	que	_	SCONJ	_	_	0	_	_	_
 17	não	_	ADV	_	_	0	_	_	_
 18	tinha	_	AUX	_	_	0	_	_	_
-19	jogado	_	VERB	_	_	0	_	_	_
+19	jogado	_	PCP	_	_	0	_	_	_
 20	em	_	ADP	_	_	0	_	_	_
 21	a	_	DET	_	_	0	_	_	_
 22	vida	_	NOUN	_	_	0	_	_	_
@@ -20699,7 +20699,7 @@
 30	futebol	_	NOUN	_	_	0	_	_	_
 31	a	_	ADP	_	_	0	_	_	_
 32	ser	_	AUX	_	_	0	_	_	_
-33	praticado	_	VERB	_	_	0	_	_	_
+33	praticado	_	PCP	_	_	0	_	_	_
 34	em	_	ADP	_	_	0	_	_	_
 35	os	_	DET	_	_	0	_	_	_
 36	clubes	_	NOUN	_	_	0	_	_	_
@@ -20713,7 +20713,7 @@
 2	está	_	VERB	_	_	0	_	_	_
 3	95	_	NUM	_	_	0	_	_	_
 4	%	_	SYM	_	_	0	_	_	_
-5	acertado	_	VERB	_	_	0	_	_	_
+5	acertado	_	PCP	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
 
 1	Já	_	ADV	_	_	0	_	_	_
@@ -20766,11 +20766,11 @@
 
 1	Sente	_	VERB	_	_	0	_	_	_
 2	se	_	PRON	_	_	0	_	_	_
-3	frustrado	_	VERB	_	_	0	_	_	_
+3	frustrado	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	não	_	ADV	_	_	0	_	_	_
 6	ter	_	AUX	_	_	0	_	_	_
-7	jogado	_	VERB	_	_	0	_	_	_
+7	jogado	_	PCP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
 9	Mundial	_	PROPN	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
@@ -20834,7 +20834,7 @@
 17	Atlético	_	PROPN	_	_	0	_	_	_
 18	Único	_	ADJ	_	_	0	_	_	_
 19	carioca	_	NOUN	_	_	0	_	_	_
-20	classificado	_	VERB	_	_	0	_	_	_
+20	classificado	_	PCP	_	_	0	_	_	_
 21	tenta	_	VERB	_	_	0	_	_	_
 22	bater	_	VERB	_	_	0	_	_	_
 23	o	_	DET	_	_	0	_	_	_
@@ -20955,7 +20955,7 @@
 21	o	_	DET	_	_	0	_	_	_
 22	Atlético	_	PROPN	_	_	0	_	_	_
 23	tenha	_	AUX	_	_	0	_	_	_
-24	entrado	_	VERB	_	_	0	_	_	_
+24	entrado	_	PCP	_	_	0	_	_	_
 25	por	_	ADP	_	_	0	_	_	_
 26	o	_	DET	_	_	0	_	_	_
 27	critério	_	NOUN	_	_	0	_	_	_
@@ -21023,7 +21023,7 @@
 
 1	"	_	PUNCT	_	_	0	_	_	_
 2	fui	_	AUX	_	_	0	_	_	_
-3	contratado	_	VERB	_	_	0	_	_	_
+3	contratado	_	PCP	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
 5	abri	_	VERB	_	_	0	_	_	_
 6	mão	_	NOUN	_	_	0	_	_	_
@@ -21225,7 +21225,7 @@
 1	Principalmente	_	ADV	_	_	0	_	_	_
 2	por	_	ADP	_	_	0	_	_	_
 3	ter	_	VERB	_	_	0	_	_	_
-4	sido	_	VERB	_	_	0	_	_	_
+4	sido	_	PCP	_	_	0	_	_	_
 5	contra	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	São	_	PROPN	_	_	0	_	_	_
@@ -21265,11 +21265,11 @@
 15	Bills	_	PROPN	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
-18	abusado	_	VERB	_	_	0	_	_	_
+18	abusado	_	PCP	_	_	0	_	_	_
 19	Lett	_	PROPN	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
 21	enfim	_	ADV	_	_	0	_	_	_
-22	ressuscitado	_	VERB	_	_	0	_	_	_
+22	ressuscitado	_	PCP	_	_	0	_	_	_
 23	,	_	PUNCT	_	_	0	_	_	_
 24	impediu	_	VERB	_	_	0	_	_	_
 25	a	_	DET	_	_	0	_	_	_
@@ -21314,7 +21314,7 @@
 29	com	_	ADP	_	_	0	_	_	_
 30	a	_	DET	_	_	0	_	_	_
 31	bola	_	NOUN	_	_	0	_	_	_
-32	dominada	_	VERB	_	_	0	_	_	_
+32	dominada	_	PCP	_	_	0	_	_	_
 33	.	_	PUNCT	_	_	0	_	_	_
 
 1	.	_	PUNCT	_	_	0	_	_	_
@@ -21350,7 +21350,7 @@
 4	o	_	DET	_	_	0	_	_	_
 5	inquérito	_	NOUN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	determinada	_	VERB	_	_	0	_	_	_
+7	determinada	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	Viana	_	PROPN	_	_	0	_	_	_
 10	para	_	ADP	_	_	0	_	_	_
@@ -21370,7 +21370,7 @@
 24	Canazaro	_	PROPN	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
 26	teria	_	AUX	_	_	0	_	_	_
-27	dito	_	VERB	_	_	0	_	_	_
+27	dito	_	PCP	_	_	0	_	_	_
 28	em	_	ADP	_	_	0	_	_	_
 29	uma	_	DET	_	_	0	_	_	_
 30	reunião	_	NOUN	_	_	0	_	_	_
@@ -21404,7 +21404,7 @@
 3	ainda	_	ADV	_	_	0	_	_	_
 4	não	_	ADV	_	_	0	_	_	_
 5	foi	_	AUX	_	_	0	_	_	_
-6	definida	_	VERB	_	_	0	_	_	_
+6	definida	_	PCP	_	_	0	_	_	_
 7	.	_	PUNCT	_	_	0	_	_	_
 
 1	Em	_	ADP	_	_	0	_	_	_
@@ -21467,7 +21467,7 @@
 20	fevereiro	_	NOUN	_	_	0	_	_	_
 21	.	_	PUNCT	_	_	0	_	_	_
 
-1	Obcecado	_	VERB	_	_	0	_	_	_
+1	Obcecado	_	PCP	_	_	0	_	_	_
 2	por	_	ADP	_	_	0	_	_	_
 3	a	_	DET	_	_	0	_	_	_
 4	defensiva	_	NOUN	_	_	0	_	_	_
@@ -21590,7 +21590,7 @@
 57	,	_	PUNCT	_	_	0	_	_	_
 58	viu	_	VERB	_	_	0	_	_	_
 59	se	_	PRON	_	_	0	_	_	_
-60	cercado	_	VERB	_	_	0	_	_	_
+60	cercado	_	PCP	_	_	0	_	_	_
 61	por	_	ADP	_	_	0	_	_	_
 62	furiosos	_	ADJ	_	_	0	_	_	_
 63	jornalistas	_	NOUN	_	_	0	_	_	_
@@ -21763,7 +21763,7 @@
 1	Essa	_	DET	_	_	0	_	_	_
 2	comissão	_	NOUN	_	_	0	_	_	_
 3	será	_	AUX	_	_	0	_	_	_
-4	composta	_	VERB	_	_	0	_	_	_
+4	composta	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	membros	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
@@ -21779,7 +21779,7 @@
 2	novo	_	ADJ	_	_	0	_	_	_
 3	exame	_	NOUN	_	_	0	_	_	_
 4	é	_	VERB	_	_	0	_	_	_
-5	feito	_	VERB	_	_	0	_	_	_
+5	feito	_	PCP	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	laboratório	_	NOUN	_	_	0	_	_	_
@@ -21816,13 +21816,13 @@
 10	seu	_	DET	_	_	0	_	_	_
 11	país	_	NOUN	_	_	0	_	_	_
 12	havia	_	AUX	_	_	0	_	_	_
-13	sofrido	_	VERB	_	_	0	_	_	_
+13	sofrido	_	PCP	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
 15	uma	_	DET	_	_	0	_	_	_
 16	guerra	_	NOUN	_	_	0	_	_	_
 17	estúpida	_	ADJ	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
-19	forjada	_	VERB	_	_	0	_	_	_
+19	forjada	_	PCP	_	_	0	_	_	_
 20	para	_	ADP	_	_	0	_	_	_
 21	salvar	_	VERB	_	_	0	_	_	_
 22	um	_	DET	_	_	0	_	_	_
@@ -21833,7 +21833,7 @@
 
 1	De	_	ADP	_	_	0	_	_	_
 2	andar	_	VERB	_	_	0	_	_	_
-3	solto	_	VERB	_	_	0	_	_	_
+3	solto	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	aí	_	ADV	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
@@ -21844,7 +21844,7 @@
 4	boa	_	ADJ	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	mas	_	CONJ	_	_	0	_	_	_
-7	arriscada	_	VERB	_	_	0	_	_	_
+7	arriscada	_	PCP	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
 
 1	Não	_	ADV	_	_	0	_	_	_
@@ -21934,9 +21934,9 @@
 8	partida	_	NOUN	_	_	0	_	_	_
 9	que	_	SCONJ	_	_	0	_	_	_
 10	acabar	_	VERB	_	_	0	_	_	_
-11	empatada	_	VERB	_	_	0	_	_	_
+11	empatada	_	PCP	_	_	0	_	_	_
 12	será	_	AUX	_	_	0	_	_	_
-13	decidida	_	VERB	_	_	0	_	_	_
+13	decidida	_	PCP	_	_	0	_	_	_
 14	com	_	ADP	_	_	0	_	_	_
 15	a	_	DET	_	_	0	_	_	_
 16	cobrança	_	NOUN	_	_	0	_	_	_
@@ -21979,7 +21979,7 @@
 1	A	_	DET	_	_	0	_	_	_
 2	equipe	_	NOUN	_	_	0	_	_	_
 3	estava	_	VERB	_	_	0	_	_	_
-4	autorizada	_	VERB	_	_	0	_	_	_
+4	autorizada	_	PCP	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	ir	_	VERB	_	_	0	_	_	_
 7	a	_	ADP	_	_	0	_	_	_
@@ -22134,7 +22134,7 @@
 
 1	Os	_	PRON	_	_	0	_	_	_
 2	mais	_	ADV	_	_	0	_	_	_
-3	conhecidos	_	VERB	_	_	0	_	_	_
+3	conhecidos	_	PCP	_	_	0	_	_	_
 4	são	_	VERB	_	_	0	_	_	_
 5	Rinisone	_	PROPN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
@@ -22354,7 +22354,7 @@
 
 1	Baggio	_	PROPN	_	_	0	_	_	_
 2	havia	_	AUX	_	_	0	_	_	_
-3	perpetrado	_	VERB	_	_	0	_	_	_
+3	perpetrado	_	PCP	_	_	0	_	_	_
 4	uma	_	DET	_	_	0	_	_	_
 5	façanha	_	NOUN	_	_	0	_	_	_
 6	semelhante	_	ADJ	_	_	0	_	_	_
@@ -22392,7 +22392,7 @@
 
 1	Todas	_	DET	_	_	0	_	_	_
 2	as	_	DET	_	_	0	_	_	_
-3	chamadas	_	VERB	_	_	0	_	_	_
+3	chamadas	_	PCP	_	_	0	_	_	_
 4	"	_	PUNCT	_	_	0	_	_	_
 5	favoritas	_	NOUN	_	_	0	_	_	_
 6	"	_	PUNCT	_	_	0	_	_	_
@@ -22446,13 +22446,13 @@
 3	argentina	_	ADJ	_	_	0	_	_	_
 4	não	_	ADV	_	_	0	_	_	_
 5	será	_	AUX	_	_	0	_	_	_
-6	punida	_	VERB	_	_	0	_	_	_
+6	punida	_	PCP	_	_	0	_	_	_
 7	e	_	CONJ	_	_	0	_	_	_
 8	manterá	_	VERB	_	_	0	_	_	_
 9	os	_	DET	_	_	0	_	_	_
 10	três	_	NUM	_	_	0	_	_	_
 11	pontos	_	NOUN	_	_	0	_	_	_
-12	obtidos	_	VERB	_	_	0	_	_	_
+12	obtidos	_	PCP	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
 15	jogo	_	NOUN	_	_	0	_	_	_
@@ -22502,7 +22502,7 @@
 10	cem	_	NUM	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	cento	_	NOUN	_	_	0	_	_	_
-13	recuperado	_	VERB	_	_	0	_	_	_
+13	recuperado	_	PCP	_	_	0	_	_	_
 14	"	_	PUNCT	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	mas	_	CONJ	_	_	0	_	_	_
@@ -22559,7 +22559,7 @@
 
 1	Um	_	DET	_	_	0	_	_	_
 2	laboratório	_	NOUN	_	_	0	_	_	_
-3	indicado	_	VERB	_	_	0	_	_	_
+3	indicado	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	Fifa	_	PROPN	_	_	0	_	_	_
@@ -22716,7 +22716,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	jogo	_	NOUN	_	_	0	_	_	_
 3	mais	_	ADV	_	_	0	_	_	_
-4	equilibrado	_	VERB	_	_	0	_	_	_
+4	equilibrado	_	PCP	_	_	0	_	_	_
 5	de	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
 7	oitavas-de-final	_	NOUN	_	_	0	_	_	_
@@ -22778,7 +22778,7 @@
 36	um	_	DET	_	_	0	_	_	_
 37	gesto	_	NOUN	_	_	0	_	_	_
 38	obsceno	_	ADJ	_	_	0	_	_	_
-39	proferido	_	VERB	_	_	0	_	_	_
+39	proferido	_	PCP	_	_	0	_	_	_
 40	A	_	DET	_	_	0	_	_	_
 41	seleção	_	NOUN	_	_	0	_	_	_
 42	de	_	ADP	_	_	0	_	_	_
@@ -22949,7 +22949,7 @@
 18	a	_	ADP	_	_	0	_	_	_
 19	um	_	DET	_	_	0	_	_	_
 20	modelo	_	NOUN	_	_	0	_	_	_
-21	lançado	_	VERB	_	_	0	_	_	_
+21	lançado	_	PCP	_	_	0	_	_	_
 22	recentemente	_	ADV	_	_	0	_	_	_
 23	em	_	ADP	_	_	0	_	_	_
 24	o	_	DET	_	_	0	_	_	_
@@ -23154,7 +23154,7 @@
 12	Taffarel	_	PROPN	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	foram	_	AUX	_	_	0	_	_	_
-15	aprovados	_	VERB	_	_	0	_	_	_
+15	aprovados	_	PCP	_	_	0	_	_	_
 16	por	_	ADP	_	_	0	_	_	_
 17	a	_	DET	_	_	0	_	_	_
 18	opinião	_	NOUN	_	_	0	_	_	_
@@ -23218,7 +23218,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	atacante	_	NOUN	_	_	0	_	_	_
 3	foi	_	AUX	_	_	0	_	_	_
-4	afastado	_	VERB	_	_	0	_	_	_
+4	afastado	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	discutir	_	VERB	_	_	0	_	_	_
 7	com	_	ADP	_	_	0	_	_	_
@@ -23247,7 +23247,7 @@
 4	o	_	DET	_	_	0	_	_	_
 5	jogador	_	NOUN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	oferecido	_	VERB	_	_	0	_	_	_
+7	oferecido	_	PCP	_	_	0	_	_	_
 8	a	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	clube	_	NOUN	_	_	0	_	_	_
@@ -23267,7 +23267,7 @@
 9	,	_	PUNCT	_	_	0	_	_	_
 10	15	_	NUM	_	_	0	_	_	_
 11	pontos	_	NOUN	_	_	0	_	_	_
-12	ganhos	_	VERB	_	_	0	_	_	_
+12	ganhos	_	PCP	_	_	0	_	_	_
 13	;	_	PUNCT	_	_	0	_	_	_
 14	Itália	_	PROPN	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
@@ -23349,7 +23349,7 @@
 8	Lacoste	_	PROPN	_	_	0	_	_	_
 9	acredita	_	VERB	_	_	0	_	_	_
 10	ter	_	AUX	_	_	0	_	_	_
-11	sido	_	VERB	_	_	0	_	_	_
+11	sido	_	PCP	_	_	0	_	_	_
 12	melhor	_	ADJ	_	_	0	_	_	_
 13	como	_	ADP	_	_	0	_	_	_
 14	inventor	_	NOUN	_	_	0	_	_	_
@@ -23377,7 +23377,7 @@
 16	,	_	PUNCT	_	_	0	_	_	_
 17	é	_	VERB	_	_	0	_	_	_
 18	tão	_	CONJ	_	_	0	_	_	_
-19	fotografada	_	VERB	_	_	0	_	_	_
+19	fotografada	_	PCP	_	_	0	_	_	_
 20	quanto	_	CONJ	_	_	0	_	_	_
 21	as	_	DET	_	_	0	_	_	_
 22	profissionais	_	NOUN	_	_	0	_	_	_
@@ -23445,14 +23445,14 @@
 6	o	_	DET	_	_	0	_	_	_
 7	confronto	_	NOUN	_	_	0	_	_	_
 8	mais	_	ADV	_	_	0	_	_	_
-9	esperado	_	VERB	_	_	0	_	_	_
+9	esperado	_	PCP	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
 12	campeonato	_	NOUN	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foi	_	AUX	_	_	0	_	_	_
-2	colocada	_	VERB	_	_	0	_	_	_
+2	colocada	_	PCP	_	_	0	_	_	_
 3	uma	_	DET	_	_	0	_	_	_
 4	cerca	_	NOUN	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
@@ -23467,7 +23467,7 @@
 14	que	_	SCONJ	_	_	0	_	_	_
 15	a	_	DET	_	_	0	_	_	_
 16	grama	_	NOUN	_	_	0	_	_	_
-17	plantada	_	VERB	_	_	0	_	_	_
+17	plantada	_	PCP	_	_	0	_	_	_
 18	a	_	ADP	_	_	0	_	_	_
 19	o	_	DET	_	_	0	_	_	_
 20	seu	_	DET	_	_	0	_	_	_
@@ -23486,7 +23486,7 @@
 8	a	_	DET	_	_	0	_	_	_
 9	peça	_	NOUN	_	_	0	_	_	_
 10	teria	_	AUX	_	_	0	_	_	_
-11	furado	_	VERB	_	_	0	_	_	_
+11	furado	_	PCP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
 13	capacete	_	NOUN	_	_	0	_	_	_
 14	de	_	ADP	_	_	0	_	_	_
@@ -23496,7 +23496,7 @@
 
 1	Embora	_	SCONJ	_	_	0	_	_	_
 2	tenha	_	AUX	_	_	0	_	_	_
-3	convocado	_	VERB	_	_	0	_	_	_
+3	convocado	_	PCP	_	_	0	_	_	_
 4	seis	_	NUM	_	_	0	_	_	_
 5	atacantes	_	NOUN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
@@ -23667,7 +23667,7 @@
 2	cartas	_	NOUN	_	_	0	_	_	_
 3	devem	_	AUX	_	_	0	_	_	_
 4	ser	_	VERB	_	_	0	_	_	_
-5	enviadas	_	VERB	_	_	0	_	_	_
+5	enviadas	_	PCP	_	_	0	_	_	_
 6	até	_	ADP	_	_	0	_	_	_
 7	quinta-feira	_	NOUN	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
@@ -23698,7 +23698,7 @@
 24	Zetti	_	PROPN	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
 26	jogar	_	VERB	_	_	0	_	_	_
-27	adiantado	_	VERB	_	_	0	_	_	_
+27	adiantado	_	PCP	_	_	0	_	_	_
 28	ajuda	_	VERB	_	_	0	_	_	_
 29	MARCELO	_	PROPN	_	_	0	_	_	_
 30	Damato	_	PROPN	_	_	0	_	_	_
@@ -23784,7 +23784,7 @@
 8	teve	_	VERB	_	_	0	_	_	_
 9	um	_	DET	_	_	0	_	_	_
 10	desempenho	_	NOUN	_	_	0	_	_	_
-11	considerado	_	VERB	_	_	0	_	_	_
+11	considerado	_	PCP	_	_	0	_	_	_
 12	satisfatório	_	ADJ	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	Telê	_	PROPN	_	_	0	_	_	_
@@ -23880,7 +23880,7 @@
 3	de	_	ADP	_	_	0	_	_	_
 4	Edmundo	_	PROPN	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
-6	condenado	_	VERB	_	_	0	_	_	_
+6	condenado	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
 9	time	_	NOUN	_	_	0	_	_	_
@@ -23897,7 +23897,7 @@
 20	Mazinho	_	PROPN	_	_	0	_	_	_
 21	acredita	_	VERB	_	_	0	_	_	_
 22	ter	_	AUX	_	_	0	_	_	_
-23	despertado	_	VERB	_	_	0	_	_	_
+23	despertado	_	PCP	_	_	0	_	_	_
 24	a	_	DET	_	_	0	_	_	_
 25	atenção	_	NOUN	_	_	0	_	_	_
 26	de	_	ADP	_	_	0	_	_	_
@@ -24149,7 +24149,7 @@
 3	cinco	_	NUM	_	_	0	_	_	_
 4	cortes	_	NOUN	_	_	0	_	_	_
 5	foram	_	AUX	_	_	0	_	_	_
-6	decididos	_	VERB	_	_	0	_	_	_
+6	decididos	_	PCP	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
 9	Europa	_	PROPN	_	_	0	_	_	_
@@ -24261,7 +24261,7 @@
 7	físico	_	ADJ	_	_	0	_	_	_
 8	que	_	SCONJ	_	_	0	_	_	_
 9	tem	_	AUX	_	_	0	_	_	_
-10	feito	_	VERB	_	_	0	_	_	_
+10	feito	_	PCP	_	_	0	_	_	_
 11	esse	_	DET	_	_	0	_	_	_
 12	ajuste	_	NOUN	_	_	0	_	_	_
 13	tão	_	ADV	_	_	0	_	_	_
@@ -24446,7 +24446,7 @@
 21	)	_	PUNCT	_	_	0	_	_	_
 22	,	_	PUNCT	_	_	0	_	_	_
 23	teria	_	AUX	_	_	0	_	_	_
-24	permitido	_	VERB	_	_	0	_	_	_
+24	permitido	_	PCP	_	_	0	_	_	_
 25	a	_	ADP	_	_	0	_	_	_
 26	a	_	DET	_	_	0	_	_	_
 27	equipe	_	NOUN	_	_	0	_	_	_
@@ -24484,10 +24484,10 @@
 2	O	_	DET	_	_	0	_	_	_
 3	Palmeiras	_	PROPN	_	_	0	_	_	_
 4	estava	_	VERB	_	_	0	_	_	_
-5	acostumado	_	VERB	_	_	0	_	_	_
+5	acostumado	_	PCP	_	_	0	_	_	_
 6	a	_	ADP	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	marcado	_	VERB	_	_	0	_	_	_
+8	marcado	_	PCP	_	_	0	_	_	_
 9	.	_	PUNCT	_	_	0	_	_	_
 
 1	Tenho	_	VERB	_	_	0	_	_	_
@@ -24753,7 +24753,7 @@
 18	os	_	DET	_	_	0	_	_	_
 19	maiores	_	ADJ	_	_	0	_	_	_
 20	estádios	_	NOUN	_	_	0	_	_	_
-21	cobertos	_	VERB	_	_	0	_	_	_
+21	cobertos	_	PCP	_	_	0	_	_	_
 22	de	_	ADP	_	_	0	_	_	_
 23	o	_	DET	_	_	0	_	_	_
 24	mundo	_	NOUN	_	_	0	_	_	_
@@ -24790,7 +24790,7 @@
 7	Boiadeiro	_	PROPN	_	_	0	_	_	_
 8	têm	_	VERB	_	_	0	_	_	_
 9	lugares	_	NOUN	_	_	0	_	_	_
-10	garantidos	_	VERB	_	_	0	_	_	_
+10	garantidos	_	PCP	_	_	0	_	_	_
 11	.	_	PUNCT	_	_	0	_	_	_
 
 1	Para	_	ADP	_	_	0	_	_	_
@@ -24855,7 +24855,7 @@
 20	o	_	DET	_	_	0	_	_	_
 21	jogadores	_	NOUN	_	_	0	_	_	_
 22	estão	_	VERB	_	_	0	_	_	_
-23	cansados	_	VERB	_	_	0	_	_	_
+23	cansados	_	PCP	_	_	0	_	_	_
 24	uns	_	PRON	_	_	0	_	_	_
 25	de	_	ADP	_	_	0	_	_	_
 26	os	_	DET	_	_	0	_	_	_
@@ -25130,7 +25130,7 @@
 5	talvez	_	ADV	_	_	0	_	_	_
 6	possam	_	AUX	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	usados	_	VERB	_	_	0	_	_	_
+8	usados	_	PCP	_	_	0	_	_	_
 9	animais	_	NOUN	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	laboratório	_	NOUN	_	_	0	_	_	_
@@ -25146,7 +25146,7 @@
 2	1995	_	NUM	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
 4	foram	_	AUX	_	_	0	_	_	_
-5	registrados	_	VERB	_	_	0	_	_	_
+5	registrados	_	PCP	_	_	0	_	_	_
 6	120	_	NUM	_	_	0	_	_	_
 7	mil	_	NUM	_	_	0	_	_	_
 8	casos	_	NOUN	_	_	0	_	_	_
@@ -25175,7 +25175,7 @@
 12	banco	_	NOUN	_	_	0	_	_	_
 13	de	_	ADP	_	_	0	_	_	_
 14	dados	_	NOUN	_	_	0	_	_	_
-15	personalizados	_	VERB	_	_	0	_	_	_
+15	personalizados	_	PCP	_	_	0	_	_	_
 16	.	_	PUNCT	_	_	0	_	_	_
 
 1	(	_	PUNCT	_	_	0	_	_	_
@@ -25298,7 +25298,7 @@
 8	Windows	_	PROPN	_	_	0	_	_	_
 9	"	_	PUNCT	_	_	0	_	_	_
 10	,	_	PUNCT	_	_	0	_	_	_
-11	comprado	_	VERB	_	_	0	_	_	_
+11	comprado	_	PCP	_	_	0	_	_	_
 12	em	_	ADP	_	_	0	_	_	_
 13	93	_	NUM	_	_	0	_	_	_
 14	por	_	ADP	_	_	0	_	_	_
@@ -25316,7 +25316,7 @@
 2	alunos	_	NOUN	_	_	0	_	_	_
 3	usam	_	VERB	_	_	0	_	_	_
 4	programas	_	NOUN	_	_	0	_	_	_
-5	criados	_	VERB	_	_	0	_	_	_
+5	criados	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	eles	_	PRON	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
@@ -25350,7 +25350,7 @@
 5	Roberto	_	PROPN	_	_	0	_	_	_
 6	Aguilar	_	PROPN	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
-8	conhecido	_	VERB	_	_	0	_	_	_
+8	conhecido	_	PCP	_	_	0	_	_	_
 9	principalmente	_	ADV	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	as	_	DET	_	_	0	_	_	_
@@ -25410,7 +25410,7 @@
 11	que	_	SCONJ	_	_	0	_	_	_
 12	gerencia	_	VERB	_	_	0	_	_	_
 13	computadores	_	NOUN	_	_	0	_	_	_
-14	ligados	_	VERB	_	_	0	_	_	_
+14	ligados	_	PCP	_	_	0	_	_	_
 15	entre	_	ADP	_	_	0	_	_	_
 16	si	_	PRON	_	_	0	_	_	_
 17	e	_	CONJ	_	_	0	_	_	_
@@ -25545,7 +25545,7 @@
 3	Os/2	_	PROPN	_	_	0	_	_	_
 4	deve	_	AUX	_	_	0	_	_	_
 5	ser	_	AUX	_	_	0	_	_	_
-6	usado	_	VERB	_	_	0	_	_	_
+6	usado	_	PCP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	driver	_	NOUN	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
@@ -25559,7 +25559,7 @@
 17	Hp	_	PROPN	_	_	0	_	_	_
 18	550	_	PROPN	_	_	0	_	_	_
 19	C	_	PROPN	_	_	0	_	_	_
-20	fornecido	_	VERB	_	_	0	_	_	_
+20	fornecido	_	PCP	_	_	0	_	_	_
 21	por	_	ADP	_	_	0	_	_	_
 22	a	_	DET	_	_	0	_	_	_
 23	IBM	_	PROPN	_	_	0	_	_	_
@@ -25623,7 +25623,7 @@
 1	Em	_	ADP	_	_	0	_	_	_
 2	essas	_	DET	_	_	0	_	_	_
 3	condições	_	NOUN	_	_	0	_	_	_
-4	improvisadas	_	VERB	_	_	0	_	_	_
+4	improvisadas	_	PCP	_	_	0	_	_	_
 5	-	_	PUNCT	_	_	0	_	_	_
 6	nem	_	CONJ	_	_	0	_	_	_
 7	sempre	_	ADV	_	_	0	_	_	_
@@ -25637,11 +25637,11 @@
 15	garantir	_	VERB	_	_	0	_	_	_
 16	a	_	DET	_	_	0	_	_	_
 17	temperatura	_	NOUN	_	_	0	_	_	_
-18	adequada	_	VERB	_	_	0	_	_	_
+18	adequada	_	PCP	_	_	0	_	_	_
 19	de	_	ADP	_	_	0	_	_	_
 20	os	_	DET	_	_	0	_	_	_
 21	líquidos	_	NOUN	_	_	0	_	_	_
-22	usados	_	VERB	_	_	0	_	_	_
+22	usados	_	PCP	_	_	0	_	_	_
 23	-	_	PUNCT	_	_	0	_	_	_
 24	,	_	PUNCT	_	_	0	_	_	_
 25	a	_	DET	_	_	0	_	_	_
@@ -25650,7 +25650,7 @@
 28	revelação	_	NOUN	_	_	0	_	_	_
 29	já	_	ADV	_	_	0	_	_	_
 30	fica	_	VERB	_	_	0	_	_	_
-31	prejudicada	_	VERB	_	_	0	_	_	_
+31	prejudicada	_	PCP	_	_	0	_	_	_
 32	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -25668,7 +25668,7 @@
 7	:	_	PUNCT	_	_	0	_	_	_
 8	"	_	PUNCT	_	_	0	_	_	_
 9	foi	_	AUX	_	_	0	_	_	_
-10	feito	_	VERB	_	_	0	_	_	_
+10	feito	_	PCP	_	_	0	_	_	_
 11	com	_	ADP	_	_	0	_	_	_
 12	preguiça	_	NOUN	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
@@ -25706,7 +25706,7 @@
 31	eles	_	PRON	_	_	0	_	_	_
 32	.	_	PUNCT	_	_	0	_	_	_
 
-1	Interessado	_	VERB	_	_	0	_	_	_
+1	Interessado	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	aprender	_	VERB	_	_	0	_	_	_
 4	japonês	_	NOUN	_	_	0	_	_	_
@@ -25810,7 +25810,7 @@
 2	percepção	_	NOUN	_	_	0	_	_	_
 3	popular	_	ADJ	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
-5	criada	_	VERB	_	_	0	_	_	_
+5	criada	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	a	_	DET	_	_	0	_	_	_
 8	mídia	_	NOUN	_	_	0	_	_	_
@@ -25995,7 +25995,7 @@
 5	esses	_	DET	_	_	0	_	_	_
 6	programas	_	NOUN	_	_	0	_	_	_
 7	serão	_	AUX	_	_	0	_	_	_
-8	instalados	_	VERB	_	_	0	_	_	_
+8	instalados	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	todos	_	DET	_	_	0	_	_	_
 11	os	_	DET	_	_	0	_	_	_
@@ -26116,7 +26116,7 @@
 24	,	_	PUNCT	_	_	0	_	_	_
 25	que	_	SCONJ	_	_	0	_	_	_
 26	é	_	AUX	_	_	0	_	_	_
-27	fabricada	_	VERB	_	_	0	_	_	_
+27	fabricada	_	PCP	_	_	0	_	_	_
 28	por	_	ADP	_	_	0	_	_	_
 29	a	_	DET	_	_	0	_	_	_
 30	empresa	_	NOUN	_	_	0	_	_	_
@@ -26272,7 +26272,7 @@
 13	também	_	ADV	_	_	0	_	_	_
 14	pode	_	AUX	_	_	0	_	_	_
 15	ser	_	AUX	_	_	0	_	_	_
-16	feita	_	VERB	_	_	0	_	_	_
+16	feita	_	PCP	_	_	0	_	_	_
 17	em	_	ADP	_	_	0	_	_	_
 18	a	_	DET	_	_	0	_	_	_
 19	tela	_	NOUN	_	_	0	_	_	_
@@ -26319,7 +26319,7 @@
 36	investigou	_	VERB	_	_	0	_	_	_
 37	o	_	DET	_	_	0	_	_	_
 38	crime	_	NOUN	_	_	0	_	_	_
-39	ocorrido	_	VERB	_	_	0	_	_	_
+39	ocorrido	_	PCP	_	_	0	_	_	_
 40	em	_	ADP	_	_	0	_	_	_
 41	1963	_	NUM	_	_	0	_	_	_
 42	.	_	PUNCT	_	_	0	_	_	_
@@ -26335,7 +26335,7 @@
 9	para	_	ADP	_	_	0	_	_	_
 10	computadores	_	NOUN	_	_	0	_	_	_
 11	pessoais	_	ADJ	_	_	0	_	_	_
-12	vendidas	_	VERB	_	_	0	_	_	_
+12	vendidas	_	PCP	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	os	_	DET	_	_	0	_	_	_
 15	EUA	_	PROPN	_	_	0	_	_	_
@@ -26432,7 +26432,7 @@
 14	a	_	DET	_	_	0	_	_	_
 15	corporação	_	NOUN	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
-17	armazenados	_	VERB	_	_	0	_	_	_
+17	armazenados	_	PCP	_	_	0	_	_	_
 18	nUni	_	NOUN	_	_	0	_	_	_
 19	ou	_	CONJ	_	_	0	_	_	_
 20	computadores	_	NOUN	_	_	0	_	_	_
@@ -26772,7 +26772,7 @@
 9	está	_	VERB	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
-12	variado	_	VERB	_	_	0	_	_	_
+12	variado	_	PCP	_	_	0	_	_	_
 13	uso	_	NOUN	_	_	0	_	_	_
 14	que	_	SCONJ	_	_	0	_	_	_
 15	os	_	DET	_	_	0	_	_	_
@@ -26851,13 +26851,13 @@
 4	a	_	DET	_	_	0	_	_	_
 5	NewLeaf	_	PROPN	_	_	0	_	_	_
 6	será	_	AUX	_	_	0	_	_	_
-7	apresentado	_	VERB	_	_	0	_	_	_
+7	apresentado	_	PCP	_	_	0	_	_	_
 8	a	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	público	_	NOUN	_	_	0	_	_	_
 11	em	_	ADP	_	_	0	_	_	_
 12	quiosques	_	NOUN	_	_	0	_	_	_
-13	instalados	_	VERB	_	_	0	_	_	_
+13	instalados	_	PCP	_	_	0	_	_	_
 14	dentro	_	ADP	_	_	0	_	_	_
 15	de	_	ADP	_	_	0	_	_	_
 16	as	_	DET	_	_	0	_	_	_
@@ -26870,7 +26870,7 @@
 1	Já	_	ADV	_	_	0	_	_	_
 2	está	_	AUX	_	_	0	_	_	_
 3	sendo	_	AUX	_	_	0	_	_	_
-4	distribuído	_	VERB	_	_	0	_	_	_
+4	distribuído	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	mercado	_	NOUN	_	_	0	_	_	_
@@ -27059,7 +27059,7 @@
 3	de	_	ADP	_	_	0	_	_	_
 4	a	_	DET	_	_	0	_	_	_
 5	máquina	_	NOUN	_	_	0	_	_	_
-6	enviada	_	VERB	_	_	0	_	_	_
+6	enviada	_	PCP	_	_	0	_	_	_
 7	para	_	ADP	_	_	0	_	_	_
 8	teste	_	NOUN	_	_	0	_	_	_
 9	não	_	ADV	_	_	0	_	_	_
@@ -27232,7 +27232,7 @@
 10	jogo	_	NOUN	_	_	0	_	_	_
 11	-	_	PUNCT	_	_	0	_	_	_
 12	um	_	DET	_	_	0	_	_	_
-13	retrancado	_	VERB	_	_	0	_	_	_
+13	retrancado	_	PCP	_	_	0	_	_	_
 14	4-4-2	_	NUM	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	com	_	ADP	_	_	0	_	_	_
@@ -27424,7 +27424,7 @@
 4	o	_	DET	_	_	0	_	_	_
 5	processo	_	NOUN	_	_	0	_	_	_
 6	é	_	AUX	_	_	0	_	_	_
-7	feito	_	VERB	_	_	0	_	_	_
+7	feito	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	um	_	DET	_	_	0	_	_	_
 10	software	_	NOUN	_	_	0	_	_	_
@@ -27487,7 +27487,7 @@
 
 1	Eles	_	PRON	_	_	0	_	_	_
 2	foram	_	AUX	_	_	0	_	_	_
-3	mostrados	_	VERB	_	_	0	_	_	_
+3	mostrados	_	PCP	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	feira	_	NOUN	_	_	0	_	_	_
@@ -27498,7 +27498,7 @@
 11	em	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	semana	_	NOUN	_	_	0	_	_	_
-14	passada	_	VERB	_	_	0	_	_	_
+14	passada	_	PCP	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	em	_	ADP	_	_	0	_	_	_
 17	São	_	PROPN	_	_	0	_	_	_
@@ -27610,7 +27610,7 @@
 9	500	_	NUM	_	_	0	_	_	_
 10	mil	_	NUM	_	_	0	_	_	_
 11	unidades	_	NOUN	_	_	0	_	_	_
-12	vendidas	_	VERB	_	_	0	_	_	_
+12	vendidas	_	PCP	_	_	0	_	_	_
 13	e	_	CONJ	_	_	0	_	_	_
 14	está	_	VERB	_	_	0	_	_	_
 15	em	_	ADP	_	_	0	_	_	_
@@ -27648,7 +27648,7 @@
 7	e	_	CONJ	_	_	0	_	_	_
 8	pode	_	AUX	_	_	0	_	_	_
 9	ser	_	AUX	_	_	0	_	_	_
-10	importado	_	VERB	_	_	0	_	_	_
+10	importado	_	PCP	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	Blue	_	PROPN	_	_	0	_	_	_
@@ -27711,12 +27711,12 @@
 8	os	_	DET	_	_	0	_	_	_
 9	desenhos	_	NOUN	_	_	0	_	_	_
 10	foram	_	AUX	_	_	0	_	_	_
-11	criados	_	VERB	_	_	0	_	_	_
+11	criados	_	PCP	_	_	0	_	_	_
 12	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
 2	retoque	_	NOUN	_	_	0	_	_	_
-3	feito	_	VERB	_	_	0	_	_	_
+3	feito	_	PCP	_	_	0	_	_	_
 4	a	_	ADP	_	_	0	_	_	_
 5	mão	_	NOUN	_	_	0	_	_	_
 6	precisa	_	VERB	_	_	0	_	_	_
@@ -27732,7 +27732,7 @@
 1	Inscrições	_	NOUN	_	_	0	_	_	_
 2	podem	_	AUX	_	_	0	_	_	_
 3	ser	_	AUX	_	_	0	_	_	_
-4	feitas	_	VERB	_	_	0	_	_	_
+4	feitas	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	rua	_	NOUN	_	_	0	_	_	_
@@ -27783,7 +27783,7 @@
 21	a	_	ADP	_	_	0	_	_	_
 22	prazo	_	NOUN	_	_	0	_	_	_
 23	,	_	PUNCT	_	_	0	_	_	_
-24	corrigido	_	VERB	_	_	0	_	_	_
+24	corrigido	_	PCP	_	_	0	_	_	_
 25	por	_	ADP	_	_	0	_	_	_
 26	a	_	DET	_	_	0	_	_	_
 27	UR	_	NIL	_	_	0	_	_	_
@@ -27915,7 +27915,7 @@
 4	informações	_	NOUN	_	_	0	_	_	_
 5	podem	_	AUX	_	_	0	_	_	_
 6	ser	_	AUX	_	_	0	_	_	_
-7	consultados	_	VERB	_	_	0	_	_	_
+7	consultados	_	PCP	_	_	0	_	_	_
 8	com	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	uso	_	NOUN	_	_	0	_	_	_
@@ -28058,7 +28058,7 @@
 5	)	_	PUNCT	_	_	0	_	_	_
 6	SL	_	NOUN	_	_	0	_	_	_
 7	são	_	AUX	_	_	0	_	_	_
-8	indicados	_	VERB	_	_	0	_	_	_
+8	indicados	_	PCP	_	_	0	_	_	_
 9	para	_	ADP	_	_	0	_	_	_
 10	notebooks	_	NOUN	_	_	0	_	_	_
 11	consomem	_	VERB	_	_	0	_	_	_
@@ -28081,7 +28081,7 @@
 13	haja	_	VERB	_	_	0	_	_	_
 14	outros	_	DET	_	_	0	_	_	_
 15	bens	_	NOUN	_	_	0	_	_	_
-16	segurados	_	VERB	_	_	0	_	_	_
+16	segurados	_	PCP	_	_	0	_	_	_
 17	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -28100,7 +28100,7 @@
 14	que	_	SCONJ	_	_	0	_	_	_
 15	descomprime	_	VERB	_	_	0	_	_	_
 16	imagens	_	NOUN	_	_	0	_	_	_
-17	geradas	_	VERB	_	_	0	_	_	_
+17	geradas	_	PCP	_	_	0	_	_	_
 18	em	_	ADP	_	_	0	_	_	_
 19	vídeo	_	NOUN	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
@@ -28145,7 +28145,7 @@
 13	Envoy	_	PROPN	_	_	0	_	_	_
 14	poderá	_	AUX	_	_	0	_	_	_
 15	ser	_	AUX	_	_	0	_	_	_
-16	conectado	_	VERB	_	_	0	_	_	_
+16	conectado	_	PCP	_	_	0	_	_	_
 17	a	_	ADP	_	_	0	_	_	_
 18	qualquer	_	DET	_	_	0	_	_	_
 19	rede	_	NOUN	_	_	0	_	_	_
@@ -28201,7 +28201,7 @@
 27	anteriores	_	ADJ	_	_	0	_	_	_
 28	poderão	_	AUX	_	_	0	_	_	_
 29	ser	_	AUX	_	_	0	_	_	_
-30	incluídas	_	VERB	_	_	0	_	_	_
+30	incluídas	_	PCP	_	_	0	_	_	_
 31	em	_	ADP	_	_	0	_	_	_
 32	o	_	DET	_	_	0	_	_	_
 33	sistema	_	NOUN	_	_	0	_	_	_
@@ -28254,7 +28254,7 @@
 29	formato	_	NOUN	_	_	0	_	_	_
 30	de	_	ADP	_	_	0	_	_	_
 31	arredondamento	_	NOUN	_	_	0	_	_	_
-32	desejado	_	VERB	_	_	0	_	_	_
+32	desejado	_	PCP	_	_	0	_	_	_
 33	.	_	PUNCT	_	_	0	_	_	_
 
 1	Vai	_	AUX	_	_	0	_	_	_
@@ -28295,7 +28295,7 @@
 30	Estados	_	PROPN	_	_	0	_	_	_
 31	Unidos	_	PROPN	_	_	0	_	_	_
 32	serão	_	AUX	_	_	0	_	_	_
-33	feitas	_	VERB	_	_	0	_	_	_
+33	feitas	_	PCP	_	_	0	_	_	_
 34	através	_	ADV	_	_	0	_	_	_
 35	de	_	ADP	_	_	0	_	_	_
 36	os	_	DET	_	_	0	_	_	_
@@ -28330,7 +28330,7 @@
 
 1	O	_	DET	_	_	0	_	_	_
 2	trabalho	_	NOUN	_	_	0	_	_	_
-3	automatizado	_	VERB	_	_	0	_	_	_
+3	automatizado	_	PCP	_	_	0	_	_	_
 4	levou	_	VERB	_	_	0	_	_	_
 5	menos	_	ADP	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
@@ -28351,7 +28351,7 @@
 
 1	Também	_	ADV	_	_	0	_	_	_
 2	é	_	AUX	_	_	0	_	_	_
-3	complicada	_	VERB	_	_	0	_	_	_
+3	complicada	_	PCP	_	_	0	_	_	_
 4	a	_	DET	_	_	0	_	_	_
 5	distinção	_	NOUN	_	_	0	_	_	_
 6	entre	_	ADP	_	_	0	_	_	_
@@ -28542,7 +28542,7 @@
 7	continuam	_	AUX	_	_	0	_	_	_
 8	a	_	ADP	_	_	0	_	_	_
 9	ser	_	AUX	_	_	0	_	_	_
-10	distribuídos	_	VERB	_	_	0	_	_	_
+10	distribuídos	_	PCP	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	MasterDix	_	PROPN	_	_	0	_	_	_
@@ -28555,7 +28555,7 @@
 3	os	_	DET	_	_	0	_	_	_
 4	passos	_	NOUN	_	_	0	_	_	_
 5	básicos	_	ADJ	_	_	0	_	_	_
-6	solicitados	_	VERB	_	_	0	_	_	_
+6	solicitados	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	qualquer	_	DET	_	_	0	_	_	_
 9	software	_	NOUN	_	_	0	_	_	_
@@ -28678,7 +28678,7 @@
 4	a	_	DET	_	_	0	_	_	_
 5	Kodak	_	PROPN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	criado	_	VERB	_	_	0	_	_	_
+7	criado	_	PCP	_	_	0	_	_	_
 8	com	_	ADP	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
 10	Associated	_	PROPN	_	_	0	_	_	_
@@ -28703,7 +28703,7 @@
 11	as	_	DET	_	_	0	_	_	_
 12	fotos	_	NOUN	_	_	0	_	_	_
 13	são	_	AUX	_	_	0	_	_	_
-14	visualizadas	_	VERB	_	_	0	_	_	_
+14	visualizadas	_	PCP	_	_	0	_	_	_
 15	em	_	ADP	_	_	0	_	_	_
 16	micros	_	NOUN	_	_	0	_	_	_
 17	Macintosh	_	PROPN	_	_	0	_	_	_
@@ -28782,7 +28782,7 @@
 5	Origin	_	PROPN	_	_	0	_	_	_
 6	pode	_	AUX	_	_	0	_	_	_
 7	ser	_	AUX	_	_	0	_	_	_
-8	encontrado	_	VERB	_	_	0	_	_	_
+8	encontrado	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	R$	_	SYM	_	_	0	_	_	_
 11	100	_	NUM	_	_	0	_	_	_
@@ -28842,7 +28842,7 @@
 11	país	_	NOUN	_	_	0	_	_	_
 12	Editoria	_	NOUN	_	_	0	_	_	_
 13	:	_	PUNCT	_	_	0	_	_	_
-14	Ilustrada	_	VERB	_	_	0	_	_	_
+14	Ilustrada	_	PCP	_	_	0	_	_	_
 15	PáGINA	_	PROPN	_	_	0	_	_	_
 16	:	_	PUNCT	_	_	0	_	_	_
 17	5-1	_	NUM	_	_	0	_	_	_
@@ -28905,7 +28905,7 @@
 8	,	_	PUNCT	_	_	0	_	_	_
 9	uma	_	ADV	_	_	0	_	_	_
 10	vez	_	ADV	_	_	0	_	_	_
-11	eleito	_	VERB	_	_	0	_	_	_
+11	eleito	_	PCP	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	ele	_	PRON	_	_	0	_	_	_
 14	poderia	_	VERB	_	_	0	_	_	_
@@ -28931,7 +28931,7 @@
 3	MICHAEL	_	PROPN	_	_	0	_	_	_
 4	Editoria	_	NOUN	_	_	0	_	_	_
 5	:	_	PUNCT	_	_	0	_	_	_
-6	Ilustrada	_	VERB	_	_	0	_	_	_
+6	Ilustrada	_	PCP	_	_	0	_	_	_
 7	PáGINA	_	PROPN	_	_	0	_	_	_
 8	:	_	PUNCT	_	_	0	_	_	_
 9	5-2	_	NUM	_	_	0	_	_	_
@@ -29150,7 +29150,7 @@
 20	todo	_	DET	_	_	0	_	_	_
 21	artista	_	NOUN	_	_	0	_	_	_
 22	nasce	_	VERB	_	_	0	_	_	_
-23	feito	_	VERB	_	_	0	_	_	_
+23	feito	_	PCP	_	_	0	_	_	_
 24	,	_	PUNCT	_	_	0	_	_	_
 25	alguns	_	PRON	_	_	0	_	_	_
 26	não	_	ADV	_	_	0	_	_	_
@@ -29400,7 +29400,7 @@
 29	estilo	_	NOUN	_	_	0	_	_	_
 30	simples	_	ADJ	_	_	0	_	_	_
 31	e	_	CONJ	_	_	0	_	_	_
-32	sofisticado	_	VERB	_	_	0	_	_	_
+32	sofisticado	_	PCP	_	_	0	_	_	_
 33	,	_	PUNCT	_	_	0	_	_	_
 34	os	_	DET	_	_	0	_	_	_
 35	estilistas	_	NOUN	_	_	0	_	_	_
@@ -29488,13 +29488,13 @@
 19	dias	_	NOUN	_	_	0	_	_	_
 20	.	_	PUNCT	_	_	0	_	_	_
 
-1	Enfraquecido	_	VERB	_	_	0	_	_	_
+1	Enfraquecido	_	PCP	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	sem	_	ADP	_	_	0	_	_	_
 4	conseguir	_	VERB	_	_	0	_	_	_
 5	se	_	PRON	_	_	0	_	_	_
 6	manter	_	VERB	_	_	0	_	_	_
-7	sentado	_	VERB	_	_	0	_	_	_
+7	sentado	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	muito	_	DET	_	_	0	_	_	_
 10	tempo	_	NOUN	_	_	0	_	_	_
@@ -29645,7 +29645,7 @@
 25	mas	_	CONJ	_	_	0	_	_	_
 26	que	_	SCONJ	_	_	0	_	_	_
 27	,	_	PUNCT	_	_	0	_	_	_
-28	cansada	_	VERB	_	_	0	_	_	_
+28	cansada	_	PCP	_	_	0	_	_	_
 29	de	_	ADP	_	_	0	_	_	_
 30	os	_	DET	_	_	0	_	_	_
 31	golpes	_	NOUN	_	_	0	_	_	_
@@ -29727,7 +29727,7 @@
 11	para	_	ADP	_	_	0	_	_	_
 12	seu	_	DET	_	_	0	_	_	_
 13	pólo	_	NOUN	_	_	0	_	_	_
-14	oposto	_	VERB	_	_	0	_	_	_
+14	oposto	_	PCP	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	a	_	DET	_	_	0	_	_	_
 17	missa	_	NOUN	_	_	0	_	_	_
@@ -29802,10 +29802,10 @@
 3	,	_	PUNCT	_	_	0	_	_	_
 4	era	_	VERB	_	_	0	_	_	_
 5	mais	_	ADV	_	_	0	_	_	_
-6	divertida	_	VERB	_	_	0	_	_	_
+6	divertida	_	PCP	_	_	0	_	_	_
 7	.	_	PUNCT	_	_	0	_	_	_
 
-1	Baseado	_	VERB	_	_	0	_	_	_
+1	Baseado	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	um	_	DET	_	_	0	_	_	_
 4	conto	_	NOUN	_	_	0	_	_	_
@@ -29833,7 +29833,7 @@
 26	tipo	_	NOUN	_	_	0	_	_	_
 27	exportação	_	NOUN	_	_	0	_	_	_
 28	,	_	PUNCT	_	_	0	_	_	_
-29	movido	_	VERB	_	_	0	_	_	_
+29	movido	_	PCP	_	_	0	_	_	_
 30	a	_	ADP	_	_	0	_	_	_
 31	sensualidade	_	NOUN	_	_	0	_	_	_
 32	morena	_	ADJ	_	_	0	_	_	_
@@ -29855,7 +29855,7 @@
 12	como	_	ADP	_	_	0	_	_	_
 13	presentes	_	NOUN	_	_	0	_	_	_
 14	cestas	_	NOUN	_	_	0	_	_	_
-15	recheadas	_	VERB	_	_	0	_	_	_
+15	recheadas	_	PCP	_	_	0	_	_	_
 16	de	_	ADP	_	_	0	_	_	_
 17	velas	_	NOUN	_	_	0	_	_	_
 18	-	_	PUNCT	_	_	0	_	_	_
@@ -29901,7 +29901,7 @@
 4	Parklife	_	PROPN	_	_	0	_	_	_
 5	"	_	PUNCT	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	lançado	_	VERB	_	_	0	_	_	_
+7	lançado	_	PCP	_	_	0	_	_	_
 8	agora	_	ADV	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
@@ -30004,7 +30004,7 @@
 2	até	_	ADP	_	_	0	_	_	_
 3	aquele	_	DET	_	_	0	_	_	_
 4	sax	_	NOUN	_	_	0	_	_	_
-5	sofisticado	_	VERB	_	_	0	_	_	_
+5	sofisticado	_	PCP	_	_	0	_	_	_
 6	estilo	_	NOUN	_	_	0	_	_	_
 7	Kenny	_	PROPN	_	_	0	_	_	_
 8	G	_	PROPN	_	_	0	_	_	_
@@ -30100,7 +30100,7 @@
 2	diz	_	VERB	_	_	0	_	_	_
 3	que	_	SCONJ	_	_	0	_	_	_
 4	tem	_	AUX	_	_	0	_	_	_
-5	pensado	_	VERB	_	_	0	_	_	_
+5	pensado	_	PCP	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	como	_	ADP	_	_	0	_	_	_
 8	possibilidade	_	NOUN	_	_	0	_	_	_
@@ -30155,7 +30155,7 @@
 18	levou	_	VERB	_	_	0	_	_	_
 19	em	_	ADP	_	_	0	_	_	_
 20	o	_	DET	_	_	0	_	_	_
-21	extinto	_	VERB	_	_	0	_	_	_
+21	extinto	_	PCP	_	_	0	_	_	_
 22	programa	_	NOUN	_	_	0	_	_	_
 23	de	_	ADP	_	_	0	_	_	_
 24	Clodovil	_	PROPN	_	_	0	_	_	_
@@ -30188,7 +30188,7 @@
 51	que	_	SCONJ	_	_	0	_	_	_
 52	ela	_	PRON	_	_	0	_	_	_
 53	havia	_	AUX	_	_	0	_	_	_
-54	ganhado	_	VERB	_	_	0	_	_	_
+54	ganhado	_	PCP	_	_	0	_	_	_
 55	de	_	ADP	_	_	0	_	_	_
 56	Ayrton	_	PROPN	_	_	0	_	_	_
 57	Senna	_	PROPN	_	_	0	_	_	_
@@ -30312,7 +30312,7 @@
 6	policiais	_	NOUN	_	_	0	_	_	_
 7	relutantes	_	ADJ	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
-9	influenciados	_	VERB	_	_	0	_	_	_
+9	influenciados	_	PCP	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	os	_	DET	_	_	0	_	_	_
 12	papéis	_	NOUN	_	_	0	_	_	_
@@ -30362,7 +30362,7 @@
 2	prazer	_	NOUN	_	_	0	_	_	_
 3	não	_	ADV	_	_	0	_	_	_
 4	é	_	AUX	_	_	0	_	_	_
-5	governado	_	VERB	_	_	0	_	_	_
+5	governado	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	leis	_	NOUN	_	_	0	_	_	_
 8	e	_	CONJ	_	_	0	_	_	_
@@ -30404,7 +30404,7 @@
 18	,	_	PUNCT	_	_	0	_	_	_
 19	que	_	SCONJ	_	_	0	_	_	_
 20	será	_	AUX	_	_	0	_	_	_
-21	exibido	_	VERB	_	_	0	_	_	_
+21	exibido	_	PCP	_	_	0	_	_	_
 22	em	_	ADP	_	_	0	_	_	_
 23	o	_	DET	_	_	0	_	_	_
 24	domingo	_	NOUN	_	_	0	_	_	_
@@ -30440,7 +30440,7 @@
 2	o	_	DET	_	_	0	_	_	_
 3	projeto	_	NOUN	_	_	0	_	_	_
 4	foi	_	AUX	_	_	0	_	_	_
-5	idealizado	_	VERB	_	_	0	_	_	_
+5	idealizado	_	PCP	_	_	0	_	_	_
 6	para	_	ADP	_	_	0	_	_	_
 7	Londrina	_	PROPN	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
@@ -30508,7 +30508,7 @@
 21	gruda	_	VERB	_	_	0	_	_	_
 22	a	_	DET	_	_	0	_	_	_
 23	panela	_	NOUN	_	_	0	_	_	_
-24	revestida	_	VERB	_	_	0	_	_	_
+24	revestida	_	PCP	_	_	0	_	_	_
 25	de	_	ADP	_	_	0	_	_	_
 26	tefal	_	NOUN	_	_	0	_	_	_
 27	.	_	PUNCT	_	_	0	_	_	_
@@ -30624,7 +30624,7 @@
 35	ainda	_	ADV	_	_	0	_	_	_
 36	não	_	ADV	_	_	0	_	_	_
 37	tinham	_	AUX	_	_	0	_	_	_
-38	chegado	_	VERB	_	_	0	_	_	_
+38	chegado	_	PCP	_	_	0	_	_	_
 39	a	_	ADP	_	_	0	_	_	_
 40	o	_	DET	_	_	0	_	_	_
 41	disco	_	NOUN	_	_	0	_	_	_
@@ -30641,7 +30641,7 @@
 9	"	_	PUNCT	_	_	0	_	_	_
 10	podem	_	AUX	_	_	0	_	_	_
 11	ser	_	AUX	_	_	0	_	_	_
-12	adquiridos	_	VERB	_	_	0	_	_	_
+12	adquiridos	_	PCP	_	_	0	_	_	_
 13	diretamente	_	ADV	_	_	0	_	_	_
 14	por	_	ADP	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
@@ -30718,7 +30718,7 @@
 2	de	_	ADP	_	_	0	_	_	_
 3	nunca	_	ADV	_	_	0	_	_	_
 4	ter	_	AUX	_	_	0	_	_	_
-5	sido	_	VERB	_	_	0	_	_	_
+5	sido	_	PCP	_	_	0	_	_	_
 6	estrela	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	os	_	DET	_	_	0	_	_	_
@@ -30781,7 +30781,7 @@
 19	argolas	_	NOUN	_	_	0	_	_	_
 20	de	_	ADP	_	_	0	_	_	_
 21	prata	_	NOUN	_	_	0	_	_	_
-22	criadas	_	VERB	_	_	0	_	_	_
+22	criadas	_	PCP	_	_	0	_	_	_
 23	por	_	ADP	_	_	0	_	_	_
 24	Betty	_	PROPN	_	_	0	_	_	_
 25	Loeb	_	PROPN	_	_	0	_	_	_
@@ -30794,7 +30794,7 @@
 5	sessão	_	NOUN	_	_	0	_	_	_
 6	parabéns	_	ADJ	_	_	0	_	_	_
 7	quinta-feira	_	NOUN	_	_	0	_	_	_
-8	comandada	_	VERB	_	_	0	_	_	_
+8	comandada	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	Alice	_	PROPN	_	_	0	_	_	_
 11	Carta	_	PROPN	_	_	0	_	_	_
@@ -30903,9 +30903,9 @@
 4	fogo	_	NOUN	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	foram	_	AUX	_	_	0	_	_	_
-7	utilizados	_	VERB	_	_	0	_	_	_
+7	utilizados	_	PCP	_	_	0	_	_	_
 8	helicópteros	_	NOUN	_	_	0	_	_	_
-9	equipados	_	VERB	_	_	0	_	_	_
+9	equipados	_	PCP	_	_	0	_	_	_
 10	com	_	ADP	_	_	0	_	_	_
 11	grandes	_	ADJ	_	_	0	_	_	_
 12	extintores	_	NOUN	_	_	0	_	_	_
@@ -30943,7 +30943,7 @@
 
 1	"	_	PUNCT	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
-3	dedicado	_	VERB	_	_	0	_	_	_
+3	dedicado	_	PCP	_	_	0	_	_	_
 4	a	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
 6	diretor	_	NOUN	_	_	0	_	_	_
@@ -31059,7 +31059,7 @@
 14	mais	_	ADV	_	_	0	_	_	_
 15	trabalhar	_	VERB	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
-17	purificados	_	VERB	_	_	0	_	_	_
+17	purificados	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	a	_	DET	_	_	0	_	_	_
 20	luta	_	NOUN	_	_	0	_	_	_
@@ -31219,7 +31219,7 @@
 22	o	_	DET	_	_	0	_	_	_
 23	Senado	_	NOUN	_	_	0	_	_	_
 24	foram	_	AUX	_	_	0	_	_	_
-25	pilotadas	_	VERB	_	_	0	_	_	_
+25	pilotadas	_	PCP	_	_	0	_	_	_
 26	a	_	ADP	_	_	0	_	_	_
 27	a	_	DET	_	_	0	_	_	_
 28	distância	_	NOUN	_	_	0	_	_	_
@@ -31289,7 +31289,7 @@
 39	pop	_	ADJ	_	_	0	_	_	_
 40	.	_	PUNCT	_	_	0	_	_	_
 
-1	Ocupado	_	VERB	_	_	0	_	_	_
+1	Ocupado	_	PCP	_	_	0	_	_	_
 2	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	DET	_	_	0	_	_	_
@@ -31308,7 +31308,7 @@
 3	minha	_	DET	_	_	0	_	_	_
 4	família	_	NOUN	_	_	0	_	_	_
 5	é	_	VERB	_	_	0	_	_	_
-6	conhecida	_	VERB	_	_	0	_	_	_
+6	conhecida	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
 9	estilo	_	NOUN	_	_	0	_	_	_
@@ -31339,7 +31339,7 @@
 4	a	_	DET	_	_	0	_	_	_
 5	espiritualidade	_	NOUN	_	_	0	_	_	_
 6	ter	_	AUX	_	_	0	_	_	_
-7	suplantado	_	VERB	_	_	0	_	_	_
+7	suplantado	_	PCP	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
 9	mundo	_	NOUN	_	_	0	_	_	_
 10	material	_	ADJ	_	_	0	_	_	_
@@ -31391,7 +31391,7 @@
 5	,	_	PUNCT	_	_	0	_	_	_
 6	carrancuda	_	ADJ	_	_	0	_	_	_
 7	e	_	CONJ	_	_	0	_	_	_
-8	exagerada	_	VERB	_	_	0	_	_	_
+8	exagerada	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	dose	_	NOUN	_	_	0	_	_	_
@@ -31408,7 +31408,7 @@
 6	,	_	PUNCT	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	custo	_	NOUN	_	_	0	_	_	_
-9	estimado	_	VERB	_	_	0	_	_	_
+9	estimado	_	PCP	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	a	_	DET	_	_	0	_	_	_
 12	vinda	_	NOUN	_	_	0	_	_	_
@@ -31430,7 +31430,7 @@
 4	,	_	PUNCT	_	_	0	_	_	_
 5	Zlata	_	PROPN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	comparada	_	VERB	_	_	0	_	_	_
+7	comparada	_	PCP	_	_	0	_	_	_
 8	a	_	ADP	_	_	0	_	_	_
 9	Anne	_	PROPN	_	_	0	_	_	_
 10	Frank	_	PROPN	_	_	0	_	_	_
@@ -31448,7 +31448,7 @@
 22	em	_	ADP	_	_	0	_	_	_
 23	que	_	SCONJ	_	_	0	_	_	_
 24	viveu	_	VERB	_	_	0	_	_	_
-25	escondida	_	VERB	_	_	0	_	_	_
+25	escondida	_	PCP	_	_	0	_	_	_
 26	em	_	ADP	_	_	0	_	_	_
 27	Amsterdã	_	PROPN	_	_	0	_	_	_
 28	,	_	PUNCT	_	_	0	_	_	_
@@ -31536,7 +31536,7 @@
 19	profissionais	_	ADJ	_	_	0	_	_	_
 20	bem-armados	_	ADJ	_	_	0	_	_	_
 21	e	_	CONJ	_	_	0	_	_	_
-22	apoiados	_	VERB	_	_	0	_	_	_
+22	apoiados	_	PCP	_	_	0	_	_	_
 23	por	_	ADP	_	_	0	_	_	_
 24	a	_	DET	_	_	0	_	_	_
 25	república	_	NOUN	_	_	0	_	_	_
@@ -31620,7 +31620,7 @@
 14	em	_	ADP	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
 16	ano	_	NOUN	_	_	0	_	_	_
-17	passado	_	VERB	_	_	0	_	_	_
+17	passado	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	"	_	PUNCT	_	_	0	_	_	_
 20	A	_	PROPN	_	_	0	_	_	_
@@ -31684,7 +31684,7 @@
 44	Beckett	_	PROPN	_	_	0	_	_	_
 45	,	_	PUNCT	_	_	0	_	_	_
 46	foi	_	AUX	_	_	0	_	_	_
-47	levada	_	VERB	_	_	0	_	_	_
+47	levada	_	PCP	_	_	0	_	_	_
 48	a	_	ADP	_	_	0	_	_	_
 49	o	_	DET	_	_	0	_	_	_
 50	Piccolo	_	PROPN	_	_	0	_	_	_
@@ -31775,7 +31775,7 @@
 48	mas	_	CONJ	_	_	0	_	_	_
 49	só	_	ADV	_	_	0	_	_	_
 50	foi	_	AUX	_	_	0	_	_	_
-51	descoberta	_	VERB	_	_	0	_	_	_
+51	descoberta	_	PCP	_	_	0	_	_	_
 52	agora	_	ADV	_	_	0	_	_	_
 53	por	_	ADP	_	_	0	_	_	_
 54	a	_	DET	_	_	0	_	_	_
@@ -31897,7 +31897,7 @@
 14	,	_	PUNCT	_	_	0	_	_	_
 15	devendo	_	AUX	_	_	0	_	_	_
 16	ser	_	AUX	_	_	0	_	_	_
-17	feita	_	VERB	_	_	0	_	_	_
+17	feita	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	a	_	DET	_	_	0	_	_	_
 20	antiga	_	ADJ	_	_	0	_	_	_
@@ -31938,9 +31938,9 @@
 6	.	_	PUNCT	_	_	0	_	_	_
 
 1	É	_	VERB	_	_	0	_	_	_
-2	moída	_	VERB	_	_	0	_	_	_
+2	moída	_	PCP	_	_	0	_	_	_
 3	e	_	CONJ	_	_	0	_	_	_
-4	salgada	_	VERB	_	_	0	_	_	_
+4	salgada	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
@@ -31962,11 +31962,11 @@
 9	segunda	_	NOUN	_	_	0	_	_	_
 10	,	_	PUNCT	_	_	0	_	_	_
 11	são	_	AUX	_	_	0	_	_	_
-12	misturadas	_	VERB	_	_	0	_	_	_
+12	misturadas	_	PCP	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	e	_	CONJ	_	_	0	_	_	_
 15	tudo	_	PRON	_	_	0	_	_	_
-16	passado	_	VERB	_	_	0	_	_	_
+16	passado	_	PCP	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	novo	_	ADJ	_	_	0	_	_	_
 19	por	_	ADP	_	_	0	_	_	_
@@ -31974,7 +31974,7 @@
 21	peneira	_	NOUN	_	_	0	_	_	_
 22	.	_	PUNCT	_	_	0	_	_	_
 
-1	Aberto	_	VERB	_	_	0	_	_	_
+1	Aberto	_	PCP	_	_	0	_	_	_
 2	diariamente	_	ADV	_	_	0	_	_	_
 3	de	_	ADP	_	_	0	_	_	_
 4	as	_	DET	_	_	0	_	_	_
@@ -32121,7 +32121,7 @@
 13	montagens	_	NOUN	_	_	0	_	_	_
 14	e	_	CONJ	_	_	0	_	_	_
 15	instalações	_	NOUN	_	_	0	_	_	_
-16	feitas	_	VERB	_	_	0	_	_	_
+16	feitas	_	PCP	_	_	0	_	_	_
 17	durante	_	ADP	_	_	0	_	_	_
 18	uma	_	DET	_	_	0	_	_	_
 19	workshop	_	NOUN	_	_	0	_	_	_
@@ -32157,7 +32157,7 @@
 2	que	_	SCONJ	_	_	0	_	_	_
 3	foi	_	VERB	_	_	0	_	_	_
 4	tudo	_	PRON	_	_	0	_	_	_
-5	desfilado	_	VERB	_	_	0	_	_	_
+5	desfilado	_	PCP	_	_	0	_	_	_
 6	(	_	PUNCT	_	_	0	_	_	_
 7	com	_	ADP	_	_	0	_	_	_
 8	1h15	_	NOUN	_	_	0	_	_	_
@@ -32188,7 +32188,7 @@
 33	convidados	_	NOUN	_	_	0	_	_	_
 34	que	_	SCONJ	_	_	0	_	_	_
 35	pareciam	_	VERB	_	_	0	_	_	_
-36	saídos	_	VERB	_	_	0	_	_	_
+36	saídos	_	PCP	_	_	0	_	_	_
 37	de	_	ADP	_	_	0	_	_	_
 38	o	_	DET	_	_	0	_	_	_
 39	mailing	_	NOUN	_	_	0	_	_	_
@@ -32220,7 +32220,7 @@
 21	Cruz	_	PROPN	_	_	0	_	_	_
 22	e	_	CONJ	_	_	0	_	_	_
 23	Drummond	_	PROPN	_	_	0	_	_	_
-24	sujeitos	_	VERB	_	_	0	_	_	_
+24	sujeitos	_	PCP	_	_	0	_	_	_
 25	a	_	ADP	_	_	0	_	_	_
 26	os	_	DET	_	_	0	_	_	_
 27	vexames	_	NOUN	_	_	0	_	_	_
@@ -32229,7 +32229,7 @@
 30	a	_	DET	_	_	0	_	_	_
 31	inflação	_	NOUN	_	_	0	_	_	_
 32	e	_	CONJ	_	_	0	_	_	_
-33	desprezados	_	VERB	_	_	0	_	_	_
+33	desprezados	_	PCP	_	_	0	_	_	_
 34	até	_	ADP	_	_	0	_	_	_
 35	por	_	ADP	_	_	0	_	_	_
 36	pedintes	_	NOUN	_	_	0	_	_	_
@@ -32271,7 +32271,7 @@
 6	palavra	_	NOUN	_	_	0	_	_	_
 7	para	_	ADP	_	_	0	_	_	_
 8	serem	_	AUX	_	_	0	_	_	_
-9	compreendidas	_	VERB	_	_	0	_	_	_
+9	compreendidas	_	PCP	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -32303,14 +32303,14 @@
 27	Veja	_	PROPN	_	_	0	_	_	_
 28	"	_	PUNCT	_	_	0	_	_	_
 29	,	_	PUNCT	_	_	0	_	_	_
-30	feita	_	VERB	_	_	0	_	_	_
+30	feita	_	PCP	_	_	0	_	_	_
 31	por	_	ADP	_	_	0	_	_	_
 32	Siron	_	PROPN	_	_	0	_	_	_
 33	,	_	PUNCT	_	_	0	_	_	_
 34	em	_	ADP	_	_	0	_	_	_
 35	que	_	SCONJ	_	_	0	_	_	_
 36	sementes	_	NOUN	_	_	0	_	_	_
-37	coloridas	_	VERB	_	_	0	_	_	_
+37	coloridas	_	PCP	_	_	0	_	_	_
 38	de	_	ADP	_	_	0	_	_	_
 39	plantas	_	NOUN	_	_	0	_	_	_
 40	brasileiras	_	ADJ	_	_	0	_	_	_
@@ -32350,7 +32350,7 @@
 6	,	_	PUNCT	_	_	0	_	_	_
 7	após	_	ADP	_	_	0	_	_	_
 8	ser	_	AUX	_	_	0	_	_	_
-9	passada	_	VERB	_	_	0	_	_	_
+9	passada	_	PCP	_	_	0	_	_	_
 10	para	_	ADP	_	_	0	_	_	_
 11	trás	_	ADV	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
@@ -32385,7 +32385,7 @@
 8	verbo	_	NOUN	_	_	0	_	_	_
 9	.	_	PUNCT	_	_	0	_	_	_
 
-1	Dotados	_	VERB	_	_	0	_	_	_
+1	Dotados	_	PCP	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	aquilo	_	PRON	_	_	0	_	_	_
 4	que	_	SCONJ	_	_	0	_	_	_
@@ -32408,7 +32408,7 @@
 21	forçosamente	_	ADV	_	_	0	_	_	_
 22	de	_	ADP	_	_	0	_	_	_
 23	ser	_	AUX	_	_	0	_	_	_
-24	vencidos	_	VERB	_	_	0	_	_	_
+24	vencidos	_	PCP	_	_	0	_	_	_
 25	:	_	PUNCT	_	_	0	_	_	_
 26	seja	_	VERB	_	_	0	_	_	_
 27	por	_	ADP	_	_	0	_	_	_
@@ -32454,13 +32454,13 @@
 16	impossível	_	ADJ	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	ser	_	AUX	_	_	0	_	_	_
-19	reproduzido	_	VERB	_	_	0	_	_	_
+19	reproduzido	_	PCP	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
-21	contido	_	VERB	_	_	0	_	_	_
+21	contido	_	PCP	_	_	0	_	_	_
 22	em	_	ADP	_	_	0	_	_	_
 23	11.686	_	NUM	_	_	0	_	_	_
 24	páginas	_	NOUN	_	_	0	_	_	_
-25	escritas	_	VERB	_	_	0	_	_	_
+25	escritas	_	PCP	_	_	0	_	_	_
 26	a	_	ADP	_	_	0	_	_	_
 27	mão	_	NOUN	_	_	0	_	_	_
 28	.	_	PUNCT	_	_	0	_	_	_
@@ -32601,7 +32601,7 @@
 
 1	Eu	_	PRON	_	_	0	_	_	_
 2	estava	_	VERB	_	_	0	_	_	_
-3	interessada	_	VERB	_	_	0	_	_	_
+3	interessada	_	PCP	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	evolução	_	NOUN	_	_	0	_	_	_
@@ -32742,7 +32742,7 @@
 
 1	Schindler	_	PROPN	_	_	0	_	_	_
 2	era	_	VERB	_	_	0	_	_	_
-3	filiado	_	VERB	_	_	0	_	_	_
+3	filiado	_	PCP	_	_	0	_	_	_
 4	a	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
 6	Partido	_	PROPN	_	_	0	_	_	_
@@ -32841,7 +32841,7 @@
 14	)	_	PUNCT	_	_	0	_	_	_
 15	.	_	PUNCT	_	_	0	_	_	_
 
-1	Espremidas	_	VERB	_	_	0	_	_	_
+1	Espremidas	_	PCP	_	_	0	_	_	_
 2	entre	_	ADP	_	_	0	_	_	_
 3	Chinatown	_	PROPN	_	_	0	_	_	_
 4	e	_	CONJ	_	_	0	_	_	_
@@ -32903,7 +32903,7 @@
 11	novidade	_	NOUN	_	_	0	_	_	_
 12	muito	_	ADV	_	_	0	_	_	_
 13	bem	_	ADV	_	_	0	_	_	_
-14	recebida	_	VERB	_	_	0	_	_	_
+14	recebida	_	PCP	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
 16	o	_	DET	_	_	0	_	_	_
 17	público	_	NOUN	_	_	0	_	_	_
@@ -32937,7 +32937,7 @@
 6	os	_	DET	_	_	0	_	_	_
 7	homens	_	NOUN	_	_	0	_	_	_
 8	estão	_	VERB	_	_	0	_	_	_
-9	dizimados	_	VERB	_	_	0	_	_	_
+9	dizimados	_	PCP	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
 
 1	Encontro	_	PROPN	_	_	0	_	_	_
@@ -33055,7 +33055,7 @@
 18	1977	_	NUM	_	_	0	_	_	_
 19	)	_	PUNCT	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
-21	interditado	_	VERB	_	_	0	_	_	_
+21	interditado	_	PCP	_	_	0	_	_	_
 22	judicialmente	_	ADV	_	_	0	_	_	_
 23	para	_	ADP	_	_	0	_	_	_
 24	exibição	_	NOUN	_	_	0	_	_	_
@@ -33217,18 +33217,18 @@
 1	A	_	ADP	_	_	0	_	_	_
 2	partir	_	ADP	_	_	0	_	_	_
 3	de	_	ADP	_	_	0	_	_	_
-4	determinado	_	VERB	_	_	0	_	_	_
+4	determinado	_	PCP	_	_	0	_	_	_
 5	capítulo	_	NOUN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	são	_	VERB	_	_	0	_	_	_
 8	todas	_	DET	_	_	0	_	_	_
 9	elas	_	PRON	_	_	0	_	_	_
 10	bem	_	ADV	_	_	0	_	_	_
-11	nascidas	_	VERB	_	_	0	_	_	_
+11	nascidas	_	PCP	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	não	_	ADV	_	_	0	_	_	_
 14	raro	_	ADJ	_	_	0	_	_	_
-15	mal-amadas	_	VERB	_	_	0	_	_	_
+15	mal-amadas	_	PCP	_	_	0	_	_	_
 16	e	_	CONJ	_	_	0	_	_	_
 17	sedentas	_	ADJ	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
@@ -33254,7 +33254,7 @@
 3	três	_	NUM	_	_	0	_	_	_
 4	grandes	_	ADJ	_	_	0	_	_	_
 5	amantes	_	NOUN	_	_	0	_	_	_
-6	fixos	_	VERB	_	_	0	_	_	_
+6	fixos	_	PCP	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
 8	ilustres	_	ADJ	_	_	0	_	_	_
 9	desconhecidos	_	NOUN	_	_	0	_	_	_
@@ -33266,10 +33266,10 @@
 15	com	_	ADP	_	_	0	_	_	_
 16	parceiros	_	NOUN	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
-18	variada	_	VERB	_	_	0	_	_	_
+18	variada	_	PCP	_	_	0	_	_	_
 19	extração	_	NOUN	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
-21	conquistados	_	VERB	_	_	0	_	_	_
+21	conquistados	_	PCP	_	_	0	_	_	_
 22	em	_	ADP	_	_	0	_	_	_
 23	saunas	_	NOUN	_	_	0	_	_	_
 24	e	_	CONJ	_	_	0	_	_	_
@@ -33287,7 +33287,7 @@
 9	os	_	DET	_	_	0	_	_	_
 10	samplers	_	NOUN	_	_	0	_	_	_
 11	bem	_	ADV	_	_	0	_	_	_
-12	escolhidos	_	VERB	_	_	0	_	_	_
+12	escolhidos	_	PCP	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	os	_	DET	_	_	0	_	_	_
 15	refrões	_	NOUN	_	_	0	_	_	_
@@ -33329,7 +33329,7 @@
 51	milhões	_	NOUN	_	_	0	_	_	_
 52	de	_	ADP	_	_	0	_	_	_
 53	cópias	_	NOUN	_	_	0	_	_	_
-54	vendidas	_	VERB	_	_	0	_	_	_
+54	vendidas	_	PCP	_	_	0	_	_	_
 55	só	_	ADV	_	_	0	_	_	_
 56	em	_	ADP	_	_	0	_	_	_
 57	os	_	DET	_	_	0	_	_	_
@@ -33340,7 +33340,7 @@
 
 1	Essa	_	DET	_	_	0	_	_	_
 2	marca	_	NOUN	_	_	0	_	_	_
-3	registrada	_	VERB	_	_	0	_	_	_
+3	registrada	_	PCP	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	Snoop	_	PROPN	_	_	0	_	_	_
 6	e	_	CONJ	_	_	0	_	_	_
@@ -33386,7 +33386,7 @@
 21	a	_	DET	_	_	0	_	_	_
 22	Bauhaus	_	PROPN	_	_	0	_	_	_
 23	,	_	PUNCT	_	_	0	_	_	_
-24	marcada	_	VERB	_	_	0	_	_	_
+24	marcada	_	PCP	_	_	0	_	_	_
 25	por	_	ADP	_	_	0	_	_	_
 26	o	_	DET	_	_	0	_	_	_
 27	expressionismo	_	NOUN	_	_	0	_	_	_
@@ -33475,9 +33475,9 @@
 
 1	Eu	_	PRON	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
-3	folgado	_	VERB	_	_	0	_	_	_
+3	folgado	_	PCP	_	_	0	_	_	_
 4	e	_	CONJ	_	_	0	_	_	_
-5	mascarado	_	VERB	_	_	0	_	_	_
+5	mascarado	_	PCP	_	_	0	_	_	_
 6	terceiro-mundista	_	ADJ	_	_	0	_	_	_
 7	(	_	PUNCT	_	_	0	_	_	_
 8	éramos	_	VERB	_	_	0	_	_	_
@@ -33527,7 +33527,7 @@
 3	o	_	DET	_	_	0	_	_	_
 4	Fellini	_	PROPN	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
-6	cercado	_	VERB	_	_	0	_	_	_
+6	cercado	_	PCP	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	uma	_	DET	_	_	0	_	_	_
 9	trupe	_	NOUN	_	_	0	_	_	_
@@ -33731,11 +33731,11 @@
 24	vermelho	_	ADJ	_	_	0	_	_	_
 25	enquanto	_	SCONJ	_	_	0	_	_	_
 26	lutava	_	VERB	_	_	0	_	_	_
-27	caracterizado	_	VERB	_	_	0	_	_	_
+27	caracterizado	_	PCP	_	_	0	_	_	_
 28	de	_	ADP	_	_	0	_	_	_
 29	soldado	_	NOUN	_	_	0	_	_	_
 30	,	_	PUNCT	_	_	0	_	_	_
-31	montado	_	VERB	_	_	0	_	_	_
+31	montado	_	PCP	_	_	0	_	_	_
 32	em	_	ADP	_	_	0	_	_	_
 33	seu	_	DET	_	_	0	_	_	_
 34	cavalo	_	NOUN	_	_	0	_	_	_
@@ -33842,7 +33842,7 @@
 6	,	_	PUNCT	_	_	0	_	_	_
 7	que	_	SCONJ	_	_	0	_	_	_
 8	será	_	AUX	_	_	0	_	_	_
-9	exibido	_	VERB	_	_	0	_	_	_
+9	exibido	_	PCP	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	a	_	DET	_	_	0	_	_	_
 12	quinta-feira	_	NOUN	_	_	0	_	_	_
@@ -34026,7 +34026,7 @@
 33	sul	_	ADJ	_	_	0	_	_	_
 34	.	_	PUNCT	_	_	0	_	_	_
 
-1	Nascido	_	VERB	_	_	0	_	_	_
+1	Nascido	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	a	_	DET	_	_	0	_	_	_
 4	Normandia	_	PROPN	_	_	0	_	_	_
@@ -34154,7 +34154,7 @@
 9	de	_	ADP	_	_	0	_	_	_
 10	campanha	_	NOUN	_	_	0	_	_	_
 11	era	_	VERB	_	_	0	_	_	_
-12	formado	_	VERB	_	_	0	_	_	_
+12	formado	_	PCP	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	produtores	_	NOUN	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
@@ -34225,7 +34225,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	evento	_	NOUN	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
-4	aberto	_	VERB	_	_	0	_	_	_
+4	aberto	_	PCP	_	_	0	_	_	_
 5	a	_	ADP	_	_	0	_	_	_
 6	o	_	DET	_	_	0	_	_	_
 7	público	_	NOUN	_	_	0	_	_	_
@@ -34382,10 +34382,10 @@
 11	sobre	_	ADP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
 13	crime	_	NOUN	_	_	0	_	_	_
-14	organizado	_	VERB	_	_	0	_	_	_
+14	organizado	_	PCP	_	_	0	_	_	_
 15	americano	_	NOUN	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
-17	dirigidos	_	VERB	_	_	0	_	_	_
+17	dirigidos	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	Michael	_	PROPN	_	_	0	_	_	_
 20	Mann	_	PROPN	_	_	0	_	_	_
@@ -34542,7 +34542,7 @@
 1	Pronto	_	INTJ	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	está	_	VERB	_	_	0	_	_	_
-4	satisfeito	_	VERB	_	_	0	_	_	_
+4	satisfeito	_	PCP	_	_	0	_	_	_
 5	?	_	PUNCT	_	_	0	_	_	_
 
 1	Não	_	ADV	_	_	0	_	_	_
@@ -34571,14 +34571,14 @@
 24	muito	_	ADV	_	_	0	_	_	_
 25	bacana	_	ADJ	_	_	0	_	_	_
 26	estar	_	VERB	_	_	0	_	_	_
-27	amigada	_	VERB	_	_	0	_	_	_
+27	amigada	_	PCP	_	_	0	_	_	_
 28	com	_	ADP	_	_	0	_	_	_
 29	um	_	DET	_	_	0	_	_	_
 30	funcionário	_	NOUN	_	_	0	_	_	_
 31	,	_	PUNCT	_	_	0	_	_	_
 32	apesar	_	ADP	_	_	0	_	_	_
 33	de	_	ADP	_	_	0	_	_	_
-34	afastado	_	VERB	_	_	0	_	_	_
+34	afastado	_	PCP	_	_	0	_	_	_
 35	,	_	PUNCT	_	_	0	_	_	_
 36	de	_	ADP	_	_	0	_	_	_
 37	o	_	DET	_	_	0	_	_	_
@@ -34608,7 +34608,7 @@
 61	,	_	PUNCT	_	_	0	_	_	_
 62	eram	_	VERB	_	_	0	_	_	_
 63	ondas	_	NOUN	_	_	0	_	_	_
-64	dispersas	_	VERB	_	_	0	_	_	_
+64	dispersas	_	PCP	_	_	0	_	_	_
 65	que	_	SCONJ	_	_	0	_	_	_
 66	ninguém	_	PRON	_	_	0	_	_	_
 67	,	_	PUNCT	_	_	0	_	_	_
@@ -34694,7 +34694,7 @@
 24	em	_	ADP	_	_	0	_	_	_
 25	o	_	DET	_	_	0	_	_	_
 26	domingo	_	NOUN	_	_	0	_	_	_
-27	passado	_	VERB	_	_	0	_	_	_
+27	passado	_	PCP	_	_	0	_	_	_
 28	...	_	PUNCT	_	_	0	_	_	_
 29	Em	_	ADP	_	_	0	_	_	_
 30	o	_	DET	_	_	0	_	_	_
@@ -34758,7 +34758,7 @@
 19	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foi	_	AUX	_	_	0	_	_	_
-2	estimulada	_	VERB	_	_	0	_	_	_
+2	estimulada	_	PCP	_	_	0	_	_	_
 3	por	_	ADP	_	_	0	_	_	_
 4	isso	_	PRON	_	_	0	_	_	_
 5	que	_	SCONJ	_	_	0	_	_	_
@@ -34796,7 +34796,7 @@
 13	fui	_	VERB	_	_	0	_	_	_
 14	para	_	ADP	_	_	0	_	_	_
 15	casa	_	NOUN	_	_	0	_	_	_
-16	aliviado	_	VERB	_	_	0	_	_	_
+16	aliviado	_	PCP	_	_	0	_	_	_
 17	por	_	ADP	_	_	0	_	_	_
 18	não	_	ADV	_	_	0	_	_	_
 19	ter	_	AUX	_	_	0	_	_	_
@@ -34880,7 +34880,7 @@
 1	Teve	_	VERB	_	_	0	_	_	_
 2	uma	_	DET	_	_	0	_	_	_
 3	vontade	_	NOUN	_	_	0	_	_	_
-4	mista	_	VERB	_	_	0	_	_	_
+4	mista	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
 7	chorar	_	VERB	_	_	0	_	_	_
@@ -35097,7 +35097,7 @@
 28	materiais	_	ADJ	_	_	0	_	_	_
 29	e	_	CONJ	_	_	0	_	_	_
 30	tornar	_	VERB	_	_	0	_	_	_
-31	reconhecidos	_	VERB	_	_	0	_	_	_
+31	reconhecidos	_	PCP	_	_	0	_	_	_
 32	seus	_	DET	_	_	0	_	_	_
 33	direitos	_	NOUN	_	_	0	_	_	_
 34	e	_	CONJ	_	_	0	_	_	_
@@ -35382,7 +35382,7 @@
 20	Diderot	_	PROPN	_	_	0	_	_	_
 21	tenha	_	AUX	_	_	0	_	_	_
 22	se	_	PRON	_	_	0	_	_	_
-23	limitado	_	VERB	_	_	0	_	_	_
+23	limitado	_	PCP	_	_	0	_	_	_
 24	a	_	ADP	_	_	0	_	_	_
 25	maltratar	_	VERB	_	_	0	_	_	_
 26	,	_	PUNCT	_	_	0	_	_	_
@@ -35566,7 +35566,7 @@
 12	especialista	_	NOUN	_	_	0	_	_	_
 13	com	_	ADP	_	_	0	_	_	_
 14	as	_	DET	_	_	0	_	_	_
-15	chamadas	_	VERB	_	_	0	_	_	_
+15	chamadas	_	PCP	_	_	0	_	_	_
 16	ciências	_	NOUN	_	_	0	_	_	_
 17	humanas	_	ADJ	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
@@ -35591,7 +35591,7 @@
 37	científica	_	ADJ	_	_	0	_	_	_
 38	.	_	PUNCT	_	_	0	_	_	_
 
-1	Formado	_	VERB	_	_	0	_	_	_
+1	Formado	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	direito	_	NOUN	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
@@ -35612,7 +35612,7 @@
 5	artigos	_	NOUN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	posteriormente	_	ADV	_	_	0	_	_	_
-8	reunidos	_	VERB	_	_	0	_	_	_
+8	reunidos	_	PCP	_	_	0	_	_	_
 9	em	_	ADP	_	_	0	_	_	_
 10	"	_	PUNCT	_	_	0	_	_	_
 11	Refúgio	_	PROPN	_	_	0	_	_	_
@@ -35701,7 +35701,7 @@
 9	visual	_	ADJ	_	_	0	_	_	_
 10	não	_	ADV	_	_	0	_	_	_
 11	é	_	AUX	_	_	0	_	_	_
-12	restrito	_	VERB	_	_	0	_	_	_
+12	restrito	_	PCP	_	_	0	_	_	_
 13	apenas	_	ADV	_	_	0	_	_	_
 14	a	_	ADP	_	_	0	_	_	_
 15	os	_	DET	_	_	0	_	_	_
@@ -35896,7 +35896,7 @@
 1	essas	_	DET	_	_	0	_	_	_
 2	traduções	_	NOUN	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
-4	feitas	_	VERB	_	_	0	_	_	_
+4	feitas	_	PCP	_	_	0	_	_	_
 5	direta	_	ADV	_	_	0	_	_	_
 6	ou	_	CONJ	_	_	0	_	_	_
 7	indiretamente	_	ADV	_	_	0	_	_	_
@@ -36000,7 +36000,7 @@
 20	.	_	PUNCT	_	_	0	_	_	_
 
 1	Ficarão	_	VERB	_	_	0	_	_	_
-2	expostos	_	VERB	_	_	0	_	_	_
+2	expostos	_	PCP	_	_	0	_	_	_
 3	em	_	ADP	_	_	0	_	_	_
 4	uma	_	DET	_	_	0	_	_	_
 5	sala	_	NOUN	_	_	0	_	_	_
@@ -36046,7 +36046,7 @@
 6	de	_	ADP	_	_	0	_	_	_
 7	as	_	DET	_	_	0	_	_	_
 8	idéias	_	NOUN	_	_	0	_	_	_
-9	contidas	_	VERB	_	_	0	_	_	_
+9	contidas	_	PCP	_	_	0	_	_	_
 10	em	_	ADP	_	_	0	_	_	_
 11	o	_	DET	_	_	0	_	_	_
 12	Consenso	_	PROPN	_	_	0	_	_	_
@@ -36122,7 +36122,7 @@
 13	a	_	DET	_	_	0	_	_	_
 14	pesquisa	_	NOUN	_	_	0	_	_	_
 15	nacional	_	ADJ	_	_	0	_	_	_
-16	feita	_	VERB	_	_	0	_	_	_
+16	feita	_	PCP	_	_	0	_	_	_
 17	em	_	ADP	_	_	0	_	_	_
 18	25	_	NUM	_	_	0	_	_	_
 19	e	_	CONJ	_	_	0	_	_	_
@@ -36130,7 +36130,7 @@
 21	de	_	ADP	_	_	0	_	_	_
 22	julho	_	NOUN	_	_	0	_	_	_
 23	:	_	PUNCT	_	_	0	_	_	_
-24	Perguntados	_	VERB	_	_	0	_	_	_
+24	Perguntados	_	PCP	_	_	0	_	_	_
 25	sobre	_	ADP	_	_	0	_	_	_
 26	o	_	DET	_	_	0	_	_	_
 27	poder	_	NOUN	_	_	0	_	_	_
@@ -36173,7 +36173,7 @@
 64	permanece	_	VERB	_	_	0	_	_	_
 65	igual	_	ADJ	_	_	0	_	_	_
 66	;	_	PUNCT	_	_	0	_	_	_
-67	Perguntados	_	VERB	_	_	0	_	_	_
+67	Perguntados	_	PCP	_	_	0	_	_	_
 68	sobre	_	ADP	_	_	0	_	_	_
 69	sua	_	DET	_	_	0	_	_	_
 70	situação	_	NOUN	_	_	0	_	_	_
@@ -36193,7 +36193,7 @@
 84	declararam	_	VERB	_	_	0	_	_	_
 85	se	_	PRON	_	_	0	_	_	_
 86	mais	_	ADV	_	_	0	_	_	_
-87	beneficiados	_	VERB	_	_	0	_	_	_
+87	beneficiados	_	PCP	_	_	0	_	_	_
 88	;	_	PUNCT	_	_	0	_	_	_
 89	e	_	CONJ	_	_	0	_	_	_
 90	30	_	NUM	_	_	0	_	_	_
@@ -36280,7 +36280,7 @@
 22	Paulo	_	PROPN	_	_	0	_	_	_
 23	Coelho	_	PROPN	_	_	0	_	_	_
 24	,	_	PUNCT	_	_	0	_	_	_
-25	editado	_	VERB	_	_	0	_	_	_
+25	editado	_	PCP	_	_	0	_	_	_
 26	por	_	ADP	_	_	0	_	_	_
 27	a	_	DET	_	_	0	_	_	_
 28	Rocco	_	PROPN	_	_	0	_	_	_
@@ -36400,7 +36400,7 @@
 76	Rocco	_	PROPN	_	_	0	_	_	_
 77	.	_	PUNCT	_	_	0	_	_	_
 
-1	Coordenada	_	VERB	_	_	0	_	_	_
+1	Coordenada	_	PCP	_	_	0	_	_	_
 2	por	_	ADP	_	_	0	_	_	_
 3	Hugh	_	PROPN	_	_	0	_	_	_
 4	Chisholm	_	PROPN	_	_	0	_	_	_
@@ -36441,7 +36441,7 @@
 2	devesse	_	AUX	_	_	0	_	_	_
 3	ter	_	VERB	_	_	0	_	_	_
 4	lo	_	PRON	_	_	0	_	_	_
-5	feito	_	VERB	_	_	0	_	_	_
+5	feito	_	PCP	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
 
 1	Apesar	_	ADP	_	_	0	_	_	_
@@ -36508,7 +36508,7 @@
 62	a	_	ADP	_	_	0	_	_	_
 63	as	_	DET	_	_	0	_	_	_
 64	nacionalidades	_	NOUN	_	_	0	_	_	_
-65	oprimidas	_	VERB	_	_	0	_	_	_
+65	oprimidas	_	PCP	_	_	0	_	_	_
 66	sob	_	ADP	_	_	0	_	_	_
 67	o	_	DET	_	_	0	_	_	_
 68	czarismo	_	NOUN	_	_	0	_	_	_
@@ -36532,7 +36532,7 @@
 16	advinham	_	VERB	_	_	0	_	_	_
 17	de	_	ADP	_	_	0	_	_	_
 18	os	_	DET	_	_	0	_	_	_
-19	chamados	_	VERB	_	_	0	_	_	_
+19	chamados	_	PCP	_	_	0	_	_	_
 20	princípios	_	NOUN	_	_	0	_	_	_
 21	morais	_	ADJ	_	_	0	_	_	_
 22	,	_	PUNCT	_	_	0	_	_	_
@@ -36586,7 +36586,7 @@
 18	"	_	PUNCT	_	_	0	_	_	_
 19	.	_	PUNCT	_	_	0	_	_	_
 
-1	Disfarçado	_	VERB	_	_	0	_	_	_
+1	Disfarçado	_	PCP	_	_	0	_	_	_
 2	em	_	ADP	_	_	0	_	_	_
 3	relato	_	NOUN	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
@@ -36692,7 +36692,7 @@
 36	a	_	DET	_	_	0	_	_	_
 37	oca	_	ADJ	_	_	0	_	_	_
 38	cratera	_	NOUN	_	_	0	_	_	_
-39	calcinada	_	VERB	_	_	0	_	_	_
+39	calcinada	_	PCP	_	_	0	_	_	_
 40	de	_	ADP	_	_	0	_	_	_
 41	um	_	DET	_	_	0	_	_	_
 42	vulcão	_	NOUN	_	_	0	_	_	_
@@ -36774,7 +36774,7 @@
 2	sanatório	_	NOUN	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
 4	está	_	VERB	_	_	0	_	_	_
-5	atrasado	_	VERB	_	_	0	_	_	_
+5	atrasado	_	PCP	_	_	0	_	_	_
 6	em	_	ADP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	tempo	_	NOUN	_	_	0	_	_	_
@@ -36787,7 +36787,7 @@
 5	poderia	_	AUX	_	_	0	_	_	_
 6	levar	_	VERB	_	_	0	_	_	_
 7	observadores	_	NOUN	_	_	0	_	_	_
-8	apressados	_	VERB	_	_	0	_	_	_
+8	apressados	_	PCP	_	_	0	_	_	_
 9	a	_	ADP	_	_	0	_	_	_
 10	imaginar	_	VERB	_	_	0	_	_	_
 11	que	_	SCONJ	_	_	0	_	_	_
@@ -36797,7 +36797,7 @@
 15	um	_	DET	_	_	0	_	_	_
 16	deleite	_	NOUN	_	_	0	_	_	_
 17	estético	_	ADJ	_	_	0	_	_	_
-18	inspirado	_	VERB	_	_	0	_	_	_
+18	inspirado	_	PCP	_	_	0	_	_	_
 19	por	_	ADP	_	_	0	_	_	_
 20	os	_	DET	_	_	0	_	_	_
 21	museus	_	NOUN	_	_	0	_	_	_
@@ -37011,21 +37011,21 @@
 2	comparação	_	NOUN	_	_	0	_	_	_
 3	não	_	ADV	_	_	0	_	_	_
 4	é	_	AUX	_	_	0	_	_	_
-5	despropositada	_	VERB	_	_	0	_	_	_
+5	despropositada	_	PCP	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	até	_	ADP	_	_	0	_	_	_
 8	porque	_	SCONJ	_	_	0	_	_	_
 9	esse	_	DET	_	_	0	_	_	_
 10	livro	_	NOUN	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
-12	publicado	_	VERB	_	_	0	_	_	_
+12	publicado	_	PCP	_	_	0	_	_	_
 13	postumamente	_	ADV	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
 15	1940	_	NUM	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	compreende	_	VERB	_	_	0	_	_	_
 18	poemas	_	NOUN	_	_	0	_	_	_
-19	escritos	_	VERB	_	_	0	_	_	_
+19	escritos	_	PCP	_	_	0	_	_	_
 20	entre	_	ADP	_	_	0	_	_	_
 21	1929	_	NUM	_	_	0	_	_	_
 22	e	_	CONJ	_	_	0	_	_	_
@@ -37085,7 +37085,7 @@
 76	)	_	PUNCT	_	_	0	_	_	_
 77	,	_	PUNCT	_	_	0	_	_	_
 78	poema	_	NOUN	_	_	0	_	_	_
-79	inspirado	_	VERB	_	_	0	_	_	_
+79	inspirado	_	PCP	_	_	0	_	_	_
 80	em	_	ADP	_	_	0	_	_	_
 81	a	_	DET	_	_	0	_	_	_
 82	Ponte	_	PROPN	_	_	0	_	_	_
@@ -37188,7 +37188,7 @@
 60	vogal	_	NOUN	_	_	0	_	_	_
 61	E	_	NOUN	_	_	0	_	_	_
 62	,	_	PUNCT	_	_	0	_	_	_
-63	colocada	_	VERB	_	_	0	_	_	_
+63	colocada	_	PCP	_	_	0	_	_	_
 64	entre	_	ADP	_	_	0	_	_	_
 65	parênteses	_	NOUN	_	_	0	_	_	_
 66	)	_	PUNCT	_	_	0	_	_	_
@@ -37243,7 +37243,7 @@
 1	As	_	DET	_	_	0	_	_	_
 2	palavras	_	NOUN	_	_	0	_	_	_
 3	são	_	AUX	_	_	0	_	_	_
-4	intercaladas	_	VERB	_	_	0	_	_	_
+4	intercaladas	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	letras	_	NOUN	_	_	0	_	_	_
 7	"	_	PUNCT	_	_	0	_	_	_
@@ -37272,9 +37272,9 @@
 9	modelo	_	NOUN	_	_	0	_	_	_
 10	a	_	ADP	_	_	0	_	_	_
 11	ser	_	AUX	_	_	0	_	_	_
-12	negado	_	VERB	_	_	0	_	_	_
+12	negado	_	PCP	_	_	0	_	_	_
 13	e	_	CONJ	_	_	0	_	_	_
-14	abandonado	_	VERB	_	_	0	_	_	_
+14	abandonado	_	PCP	_	_	0	_	_	_
 15	.	_	PUNCT	_	_	0	_	_	_
 
 1	De	_	ADP	_	_	0	_	_	_
@@ -37450,7 +37450,7 @@
 
 1	Cada	_	DET	_	_	0	_	_	_
 2	estudo	_	NOUN	_	_	0	_	_	_
-3	divulgado	_	VERB	_	_	0	_	_	_
+3	divulgado	_	PCP	_	_	0	_	_	_
 4	por	_	ADP	_	_	0	_	_	_
 5	os	_	DET	_	_	0	_	_	_
 6	meios	_	NOUN	_	_	0	_	_	_
@@ -37494,15 +37494,15 @@
 16	.	_	PUNCT	_	_	0	_	_	_
 
 1	Espécies	_	NOUN	_	_	0	_	_	_
-2	ameaçadas	_	VERB	_	_	0	_	_	_
+2	ameaçadas	_	PCP	_	_	0	_	_	_
 3	são	_	AUX	_	_	0	_	_	_
-4	descritas	_	VERB	_	_	0	_	_	_
+4	descritas	_	PCP	_	_	0	_	_	_
 5	com	_	ADP	_	_	0	_	_	_
 6	detalhe	_	NOUN	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	obra	_	NOUN	_	_	0	_	_	_
 9	pioneira	_	ADJ	_	_	0	_	_	_
-10	organizada	_	VERB	_	_	0	_	_	_
+10	organizada	_	PCP	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	Fundação	_	PROPN	_	_	0	_	_	_
@@ -37519,7 +37519,7 @@
 
 1	Espécies	_	NOUN	_	_	0	_	_	_
 2	mais	_	ADV	_	_	0	_	_	_
-3	badaladas	_	VERB	_	_	0	_	_	_
+3	badaladas	_	PCP	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
 5	como	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
@@ -37693,7 +37693,7 @@
 5	os	_	DET	_	_	0	_	_	_
 6	intelectuais	_	NOUN	_	_	0	_	_	_
 7	estavam	_	VERB	_	_	0	_	_	_
-8	imbuídos	_	VERB	_	_	0	_	_	_
+8	imbuídos	_	PCP	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	crença	_	NOUN	_	_	0	_	_	_
@@ -37772,7 +37772,7 @@
 18	trabalho	_	NOUN	_	_	0	_	_	_
 19	imigrante	_	ADJ	_	_	0	_	_	_
 20	foi	_	AUX	_	_	0	_	_	_
-21	subordinada	_	VERB	_	_	0	_	_	_
+21	subordinada	_	PCP	_	_	0	_	_	_
 22	por	_	ADP	_	_	0	_	_	_
 23	o	_	DET	_	_	0	_	_	_
 24	próprio	_	DET	_	_	0	_	_	_
@@ -37781,7 +37781,7 @@
 27	ela	_	PRON	_	_	0	_	_	_
 28	ter	_	AUX	_	_	0	_	_	_
 29	se	_	PRON	_	_	0	_	_	_
-30	inserido	_	VERB	_	_	0	_	_	_
+30	inserido	_	PCP	_	_	0	_	_	_
 31	em	_	ADP	_	_	0	_	_	_
 32	o	_	DET	_	_	0	_	_	_
 33	país	_	NOUN	_	_	0	_	_	_
@@ -37832,7 +37832,7 @@
 
 1	Digo	_	VERB	_	_	0	_	_	_
 2	otimismo	_	NOUN	_	_	0	_	_	_
-3	moderado	_	VERB	_	_	0	_	_	_
+3	moderado	_	PCP	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
 5	porque	_	SCONJ	_	_	0	_	_	_
 6	os	_	DET	_	_	0	_	_	_
@@ -37900,13 +37900,13 @@
 8	de	_	ADP	_	_	0	_	_	_
 9	uma	_	DET	_	_	0	_	_	_
 10	legitimidade	_	NOUN	_	_	0	_	_	_
-11	conseguida	_	VERB	_	_	0	_	_	_
+11	conseguida	_	PCP	_	_	0	_	_	_
 12	irracionalmente	_	ADV	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	mas	_	CONJ	_	_	0	_	_	_
 15	que	_	SCONJ	_	_	0	_	_	_
 16	foi	_	AUX	_	_	0	_	_	_
-17	obtida	_	VERB	_	_	0	_	_	_
+17	obtida	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	meio	_	NOUN	_	_	0	_	_	_
 20	de	_	ADP	_	_	0	_	_	_
@@ -37926,7 +37926,7 @@
 34	o	_	PRON	_	_	0	_	_	_
 35	que	_	SCONJ	_	_	0	_	_	_
 36	fora	_	AUX	_	_	0	_	_	_
-37	tentado	_	VERB	_	_	0	_	_	_
+37	tentado	_	PCP	_	_	0	_	_	_
 38	até	_	ADP	_	_	0	_	_	_
 39	aqui	_	ADV	_	_	0	_	_	_
 40	.	_	PUNCT	_	_	0	_	_	_
@@ -37981,7 +37981,7 @@
 48	a	_	DET	_	_	0	_	_	_
 49	sequência	_	NOUN	_	_	0	_	_	_
 50	cronológica	_	ADJ	_	_	0	_	_	_
-51	seguida	_	VERB	_	_	0	_	_	_
+51	seguida	_	PCP	_	_	0	_	_	_
 52	a	_	ADP	_	_	0	_	_	_
 53	a	_	DET	_	_	0	_	_	_
 54	risca	_	NOUN	_	_	0	_	_	_
@@ -38019,7 +38019,7 @@
 20	o	_	DET	_	_	0	_	_	_
 21	Brasil	_	PROPN	_	_	0	_	_	_
 22	era	_	VERB	_	_	0	_	_	_
-23	obrigado	_	VERB	_	_	0	_	_	_
+23	obrigado	_	PCP	_	_	0	_	_	_
 24	a	_	ADP	_	_	0	_	_	_
 25	recuar	_	VERB	_	_	0	_	_	_
 26	,	_	PUNCT	_	_	0	_	_	_
@@ -38040,7 +38040,7 @@
 41	.	_	PUNCT	_	_	0	_	_	_
 
 1	Trechos	_	NOUN	_	_	0	_	_	_
-2	extraídos	_	VERB	_	_	0	_	_	_
+2	extraídos	_	PCP	_	_	0	_	_	_
 3	de	_	ADP	_	_	0	_	_	_
 4	"	_	PUNCT	_	_	0	_	_	_
 5	História	_	PROPN	_	_	0	_	_	_
@@ -38152,7 +38152,7 @@
 28	entre	_	VERB	_	_	0	_	_	_
 29	ambos	_	PRON	_	_	0	_	_	_
 30	apareçam	_	VERB	_	_	0	_	_	_
-31	atenuadas	_	VERB	_	_	0	_	_	_
+31	atenuadas	_	PCP	_	_	0	_	_	_
 32	por	_	ADP	_	_	0	_	_	_
 33	um	_	DET	_	_	0	_	_	_
 34	inegável	_	ADJ	_	_	0	_	_	_
@@ -38253,7 +38253,7 @@
 6	,	_	PUNCT	_	_	0	_	_	_
 7	nos	_	PRON	_	_	0	_	_	_
 8	é	_	AUX	_	_	0	_	_	_
-9	dado	_	VERB	_	_	0	_	_	_
+9	dado	_	PCP	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	a	_	DET	_	_	0	_	_	_
 12	visão	_	NOUN	_	_	0	_	_	_
@@ -38434,7 +38434,7 @@
 6	pode	_	AUX	_	_	0	_	_	_
 7	não	_	ADV	_	_	0	_	_	_
 8	ter	_	AUX	_	_	0	_	_	_
-9	sido	_	VERB	_	_	0	_	_	_
+9	sido	_	PCP	_	_	0	_	_	_
 10	nem	_	CONJ	_	_	0	_	_	_
 11	desenvolvimento	_	NOUN	_	_	0	_	_	_
 12	nem	_	CONJ	_	_	0	_	_	_
@@ -38561,7 +38561,7 @@
 58	que	_	SCONJ	_	_	0	_	_	_
 59	é	_	AUX	_	_	0	_	_	_
 60	especialmente	_	ADV	_	_	0	_	_	_
-61	visado	_	VERB	_	_	0	_	_	_
+61	visado	_	PCP	_	_	0	_	_	_
 62	.	_	PUNCT	_	_	0	_	_	_
 
 1	Mais	_	ADV	_	_	0	_	_	_
@@ -38661,7 +38661,7 @@
 26	de	_	ADP	_	_	0	_	_	_
 27	suas	_	DET	_	_	0	_	_	_
 28	reflexões	_	NOUN	_	_	0	_	_	_
-29	passadas	_	VERB	_	_	0	_	_	_
+29	passadas	_	PCP	_	_	0	_	_	_
 30	e	_	CONJ	_	_	0	_	_	_
 31	futuras	_	ADJ	_	_	0	_	_	_
 32	.	_	PUNCT	_	_	0	_	_	_
@@ -38875,7 +38875,7 @@
 27	Viena	_	PROPN	_	_	0	_	_	_
 28	.	_	PUNCT	_	_	0	_	_	_
 
-1	Localizada	_	VERB	_	_	0	_	_	_
+1	Localizada	_	PCP	_	_	0	_	_	_
 2	de	_	ADP	_	_	0	_	_	_
 3	forma	_	NOUN	_	_	0	_	_	_
 4	equidistante	_	ADJ	_	_	0	_	_	_
@@ -38892,7 +38892,7 @@
 15	,	_	PUNCT	_	_	0	_	_	_
 16	Parati	_	PROPN	_	_	0	_	_	_
 17	esteve	_	VERB	_	_	0	_	_	_
-18	integrada	_	VERB	_	_	0	_	_	_
+18	integrada	_	PCP	_	_	0	_	_	_
 19	a	_	ADP	_	_	0	_	_	_
 20	os	_	DET	_	_	0	_	_	_
 21	diferentes	_	DET	_	_	0	_	_	_
@@ -38907,7 +38907,7 @@
 30	ocupar	_	VERB	_	_	0	_	_	_
 31	uma	_	DET	_	_	0	_	_	_
 32	posição	_	NOUN	_	_	0	_	_	_
-33	subordinada	_	VERB	_	_	0	_	_	_
+33	subordinada	_	PCP	_	_	0	_	_	_
 34	.	_	PUNCT	_	_	0	_	_	_
 
 1	No	_	ADP	_	_	0	_	_	_
@@ -38965,7 +38965,7 @@
 4	realidade	_	NOUN	_	_	0	_	_	_
 5	sinistra	_	ADJ	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	mostrada	_	VERB	_	_	0	_	_	_
+7	mostrada	_	PCP	_	_	0	_	_	_
 8	com	_	ADP	_	_	0	_	_	_
 9	aquela	_	DET	_	_	0	_	_	_
 10	crueza	_	NOUN	_	_	0	_	_	_
@@ -39005,7 +39005,7 @@
 25	porém	_	CONJ	_	_	0	_	_	_
 26	essas	_	DET	_	_	0	_	_	_
 27	notas	_	NOUN	_	_	0	_	_	_
-28	apressadas	_	VERB	_	_	0	_	_	_
+28	apressadas	_	PCP	_	_	0	_	_	_
 29	e	_	CONJ	_	_	0	_	_	_
 30	cruas	_	ADJ	_	_	0	_	_	_
 31	têm	_	VERB	_	_	0	_	_	_
@@ -39070,7 +39070,7 @@
 1	Memória	_	NOUN	_	_	0	_	_	_
 2	prospectiva	_	ADJ	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
-4	acessada	_	VERB	_	_	0	_	_	_
+4	acessada	_	PCP	_	_	0	_	_	_
 5	por	_	ADP	_	_	0	_	_	_
 6	reativação	_	NOUN	_	_	0	_	_	_
 7	(	_	PUNCT	_	_	0	_	_	_
@@ -39090,7 +39090,7 @@
 21	e	_	CONJ	_	_	0	_	_	_
 22	seus	_	DET	_	_	0	_	_	_
 23	conteúdos	_	NOUN	_	_	0	_	_	_
-24	reprimidos	_	VERB	_	_	0	_	_	_
+24	reprimidos	_	PCP	_	_	0	_	_	_
 25	)	_	PUNCT	_	_	0	_	_	_
 26	.	_	PUNCT	_	_	0	_	_	_
 
@@ -39285,7 +39285,7 @@
 12	a	_	DET	_	_	0	_	_	_
 13	primeira	_	NOUN	_	_	0	_	_	_
 14	ter	_	AUX	_	_	0	_	_	_
-15	alegado	_	VERB	_	_	0	_	_	_
+15	alegado	_	PCP	_	_	0	_	_	_
 16	que	_	SCONJ	_	_	0	_	_	_
 17	havia	_	VERB	_	_	0	_	_	_
 18	valor	_	NOUN	_	_	0	_	_	_
@@ -39358,11 +39358,11 @@
 27	de	_	ADP	_	_	0	_	_	_
 28	águas	_	NOUN	_	_	0	_	_	_
 29	marítimas	_	ADJ	_	_	0	_	_	_
-30	causado	_	VERB	_	_	0	_	_	_
+30	causado	_	PCP	_	_	0	_	_	_
 31	por	_	ADP	_	_	0	_	_	_
 32	uma	_	DET	_	_	0	_	_	_
 33	força	_	NOUN	_	_	0	_	_	_
-34	associada	_	VERB	_	_	0	_	_	_
+34	associada	_	PCP	_	_	0	_	_	_
 35	a	_	ADP	_	_	0	_	_	_
 36	os	_	DET	_	_	0	_	_	_
 37	ventos	_	NOUN	_	_	0	_	_	_
@@ -39387,7 +39387,7 @@
 17	energia	_	NOUN	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
 19	já	_	ADV	_	_	0	_	_	_
-20	abalados	_	VERB	_	_	0	_	_	_
+20	abalados	_	PCP	_	_	0	_	_	_
 21	por	_	ADP	_	_	0	_	_	_
 22	a	_	DET	_	_	0	_	_	_
 23	teoria	_	PROPN	_	_	0	_	_	_
@@ -39410,18 +39410,18 @@
 9	de	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	campo	_	NOUN	_	_	0	_	_	_
-12	unificado	_	VERB	_	_	0	_	_	_
+12	unificado	_	PCP	_	_	0	_	_	_
 13	.	_	PUNCT	_	_	0	_	_	_
 
 1	É	_	AUX	_	_	0	_	_	_
-2	composto	_	VERB	_	_	0	_	_	_
+2	composto	_	PCP	_	_	0	_	_	_
 3	de	_	ADP	_	_	0	_	_	_
 4	hidrocarbonetos	_	NOUN	_	_	0	_	_	_
-5	saturados	_	VERB	_	_	0	_	_	_
+5	saturados	_	PCP	_	_	0	_	_	_
 6	e	_	CONJ	_	_	0	_	_	_
-7	insaturados	_	VERB	_	_	0	_	_	_
+7	insaturados	_	PCP	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
-9	constituídos	_	VERB	_	_	0	_	_	_
+9	constituídos	_	PCP	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	carbono	_	NOUN	_	_	0	_	_	_
 12	e	_	CONJ	_	_	0	_	_	_
@@ -39644,7 +39644,7 @@
 11	a	_	DET	_	_	0	_	_	_
 12	técnica	_	NOUN	_	_	0	_	_	_
 13	mais	_	ADV	_	_	0	_	_	_
-14	apurada	_	VERB	_	_	0	_	_	_
+14	apurada	_	PCP	_	_	0	_	_	_
 15	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -39915,7 +39915,7 @@
 19	O	_	DET	_	_	0	_	_	_
 20	médico	_	NOUN	_	_	0	_	_	_
 21	brasileiro	_	ADJ	_	_	0	_	_	_
-22	radicado	_	VERB	_	_	0	_	_	_
+22	radicado	_	PCP	_	_	0	_	_	_
 23	em	_	ADP	_	_	0	_	_	_
 24	os	_	DET	_	_	0	_	_	_
 25	EUA	_	PROPN	_	_	0	_	_	_
@@ -39999,7 +39999,7 @@
 7	contos	_	NOUN	_	_	0	_	_	_
 8	sobre	_	ADP	_	_	0	_	_	_
 9	temas	_	NOUN	_	_	0	_	_	_
-10	variados	_	VERB	_	_	0	_	_	_
+10	variados	_	PCP	_	_	0	_	_	_
 11	.	_	PUNCT	_	_	0	_	_	_
 
 1	Antes	_	ADP	_	_	0	_	_	_
@@ -40072,7 +40072,7 @@
 27	bancos	_	NOUN	_	_	0	_	_	_
 28	de	_	ADP	_	_	0	_	_	_
 29	dados	_	NOUN	_	_	0	_	_	_
-30	informatizados	_	VERB	_	_	0	_	_	_
+30	informatizados	_	PCP	_	_	0	_	_	_
 31	,	_	PUNCT	_	_	0	_	_	_
 32	com	_	ADP	_	_	0	_	_	_
 33	os	_	DET	_	_	0	_	_	_
@@ -40113,7 +40113,7 @@
 68	Latina	_	PROPN	_	_	0	_	_	_
 69	"	_	PUNCT	_	_	0	_	_	_
 70	,	_	PUNCT	_	_	0	_	_	_
-71	organizada	_	VERB	_	_	0	_	_	_
+71	organizada	_	PCP	_	_	0	_	_	_
 72	em	_	ADP	_	_	0	_	_	_
 73	Lausanne	_	PROPN	_	_	0	_	_	_
 74	,	_	PUNCT	_	_	0	_	_	_
@@ -40151,7 +40151,7 @@
 14	,	_	PUNCT	_	_	0	_	_	_
 15	dois	_	NUM	_	_	0	_	_	_
 16	momentos	_	NOUN	_	_	0	_	_	_
-17	opostos	_	VERB	_	_	0	_	_	_
+17	opostos	_	PCP	_	_	0	_	_	_
 18	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -40200,7 +40200,7 @@
 12	humano	_	ADJ	_	_	0	_	_	_
 13	imediato	_	ADJ	_	_	0	_	_	_
 14	,	_	PUNCT	_	_	0	_	_	_
-15	presenciado	_	VERB	_	_	0	_	_	_
+15	presenciado	_	PCP	_	_	0	_	_	_
 16	por	_	ADP	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
 18	espectador	_	NOUN	_	_	0	_	_	_
@@ -40218,7 +40218,7 @@
 30	todas	_	DET	_	_	0	_	_	_
 31	as	_	DET	_	_	0	_	_	_
 32	sensações	_	NOUN	_	_	0	_	_	_
-33	proporcionadas	_	VERB	_	_	0	_	_	_
+33	proporcionadas	_	PCP	_	_	0	_	_	_
 34	por	_	ADP	_	_	0	_	_	_
 35	a	_	DET	_	_	0	_	_	_
 36	arte	_	NOUN	_	_	0	_	_	_
@@ -40243,7 +40243,7 @@
 17	vocais	_	ADJ	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
 19	coro	_	NOUN	_	_	0	_	_	_
-20	misto	_	VERB	_	_	0	_	_	_
+20	misto	_	PCP	_	_	0	_	_	_
 21	e	_	CONJ	_	_	0	_	_	_
 22	orquestra	_	NOUN	_	_	0	_	_	_
 23	,	_	PUNCT	_	_	0	_	_	_
@@ -40277,7 +40277,7 @@
 51	fragmentos	_	NOUN	_	_	0	_	_	_
 52	de	_	ADP	_	_	0	_	_	_
 53	cartas	_	NOUN	_	_	0	_	_	_
-54	escritas	_	VERB	_	_	0	_	_	_
+54	escritas	_	PCP	_	_	0	_	_	_
 55	por	_	ADP	_	_	0	_	_	_
 56	membros	_	NOUN	_	_	0	_	_	_
 57	de	_	ADP	_	_	0	_	_	_
@@ -40286,7 +40286,7 @@
 60	antes	_	ADV	_	_	0	_	_	_
 61	de	_	ADP	_	_	0	_	_	_
 62	serem	_	AUX	_	_	0	_	_	_
-63	executados	_	VERB	_	_	0	_	_	_
+63	executados	_	PCP	_	_	0	_	_	_
 64	.	_	PUNCT	_	_	0	_	_	_
 
 1	Em	_	ADP	_	_	0	_	_	_
@@ -40408,7 +40408,7 @@
 34	música	_	NOUN	_	_	0	_	_	_
 35	pura	_	ADJ	_	_	0	_	_	_
 36	,	_	PUNCT	_	_	0	_	_	_
-37	reprimida	_	VERB	_	_	0	_	_	_
+37	reprimida	_	PCP	_	_	0	_	_	_
 38	tantos	_	DET	_	_	0	_	_	_
 39	anos	_	NOUN	_	_	0	_	_	_
 40	por	_	ADP	_	_	0	_	_	_
@@ -40517,7 +40517,7 @@
 26	violações	_	NOUN	_	_	0	_	_	_
 27	mais	_	ADV	_	_	0	_	_	_
 28	comuns	_	ADJ	_	_	0	_	_	_
-29	praticadas	_	VERB	_	_	0	_	_	_
+29	praticadas	_	PCP	_	_	0	_	_	_
 30	em	_	ADP	_	_	0	_	_	_
 31	a	_	DET	_	_	0	_	_	_
 32	cidade	_	NOUN	_	_	0	_	_	_
@@ -40564,7 +40564,7 @@
 4	haver	_	VERB	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	população	_	NOUN	_	_	0	_	_	_
-7	crescido	_	VERB	_	_	0	_	_	_
+7	crescido	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
 10	ocupação	_	NOUN	_	_	0	_	_	_
@@ -40620,11 +40620,11 @@
 9	,	_	PUNCT	_	_	0	_	_	_
 10	com	_	ADP	_	_	0	_	_	_
 11	engrenagens	_	NOUN	_	_	0	_	_	_
-12	movidas	_	VERB	_	_	0	_	_	_
+12	movidas	_	PCP	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
 15	energia	_	NOUN	_	_	0	_	_	_
-16	transmitida	_	VERB	_	_	0	_	_	_
+16	transmitida	_	PCP	_	_	0	_	_	_
 17	por	_	ADP	_	_	0	_	_	_
 18	pesos	_	NOUN	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
@@ -40632,7 +40632,7 @@
 21	foi	_	VERB	_	_	0	_	_	_
 22	um	_	DET	_	_	0	_	_	_
 23	fato	_	NOUN	_	_	0	_	_	_
-24	isolado	_	VERB	_	_	0	_	_	_
+24	isolado	_	PCP	_	_	0	_	_	_
 25	.	_	PUNCT	_	_	0	_	_	_
 
 1	Isso	_	PRON	_	_	0	_	_	_
@@ -40723,12 +40723,12 @@
 9	ou	_	CONJ	_	_	0	_	_	_
 10	de	_	ADP	_	_	0	_	_	_
 11	admiração	_	NOUN	_	_	0	_	_	_
-12	extremada	_	VERB	_	_	0	_	_	_
+12	extremada	_	PCP	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	que	_	SCONJ	_	_	0	_	_	_
 15	as	_	DET	_	_	0	_	_	_
 16	expressões	_	NOUN	_	_	0	_	_	_
-17	ditas	_	VERB	_	_	0	_	_	_
+17	ditas	_	PCP	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
 19	bom-tom	_	NOUN	_	_	0	_	_	_
 20	não	_	ADV	_	_	0	_	_	_
@@ -40956,7 +40956,7 @@
 31	de	_	ADP	_	_	0	_	_	_
 32	a	_	DET	_	_	0	_	_	_
 33	dolarização	_	NOUN	_	_	0	_	_	_
-34	moderada	_	VERB	_	_	0	_	_	_
+34	moderada	_	PCP	_	_	0	_	_	_
 35	e	_	CONJ	_	_	0	_	_	_
 36	de	_	ADP	_	_	0	_	_	_
 37	o	_	DET	_	_	0	_	_	_
@@ -41063,7 +41063,7 @@
 16	e	_	CONJ	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
 18	mais	_	ADV	_	_	0	_	_	_
-19	comprometido	_	VERB	_	_	0	_	_	_
+19	comprometido	_	PCP	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
 21	política	_	NOUN	_	_	0	_	_	_
 22	e	_	CONJ	_	_	0	_	_	_
@@ -41122,7 +41122,7 @@
 6	80	_	NUM	_	_	0	_	_	_
 7	que	_	SCONJ	_	_	0	_	_	_
 8	o	_	DET	_	_	0	_	_	_
-9	reiterado	_	VERB	_	_	0	_	_	_
+9	reiterado	_	PCP	_	_	0	_	_	_
 10	insucesso	_	NOUN	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
 12	as	_	DET	_	_	0	_	_	_
@@ -41198,7 +41198,7 @@
 21	que	_	SCONJ	_	_	0	_	_	_
 22	pode	_	AUX	_	_	0	_	_	_
 23	estar	_	VERB	_	_	0	_	_	_
-24	associado	_	VERB	_	_	0	_	_	_
+24	associado	_	PCP	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
 26	indiferentemente	_	ADV	_	_	0	_	_	_
 27	,	_	PUNCT	_	_	0	_	_	_
@@ -41242,7 +41242,7 @@
 65	de	_	ADP	_	_	0	_	_	_
 66	a	_	DET	_	_	0	_	_	_
 67	sua	_	DET	_	_	0	_	_	_
-68	continuada	_	VERB	_	_	0	_	_	_
+68	continuada	_	PCP	_	_	0	_	_	_
 69	internacionalização	_	NOUN	_	_	0	_	_	_
 70	.	_	PUNCT	_	_	0	_	_	_
 
@@ -41304,7 +41304,7 @@
 19	políticas	_	NOUN	_	_	0	_	_	_
 20	e	_	CONJ	_	_	0	_	_	_
 21	reformas	_	NOUN	_	_	0	_	_	_
-22	preconizadas	_	VERB	_	_	0	_	_	_
+22	preconizadas	_	PCP	_	_	0	_	_	_
 23	por	_	ADP	_	_	0	_	_	_
 24	o	_	DET	_	_	0	_	_	_
 25	FMI	_	PROPN	_	_	0	_	_	_
@@ -41313,7 +41313,7 @@
 28	demandam	_	VERB	_	_	0	_	_	_
 29	uma	_	DET	_	_	0	_	_	_
 30	estabilização	_	NOUN	_	_	0	_	_	_
-31	prolongada	_	VERB	_	_	0	_	_	_
+31	prolongada	_	PCP	_	_	0	_	_	_
 32	de	_	ADP	_	_	0	_	_	_
 33	a	_	DET	_	_	0	_	_	_
 34	situação	_	NOUN	_	_	0	_	_	_
@@ -41371,7 +41371,7 @@
 7	também	_	ADV	_	_	0	_	_	_
 8	serão	_	AUX	_	_	0	_	_	_
 9	progressivamente	_	ADV	_	_	0	_	_	_
-10	revertidas	_	VERB	_	_	0	_	_	_
+10	revertidas	_	PCP	_	_	0	_	_	_
 11	.	_	PUNCT	_	_	0	_	_	_
 
 1	Mas	_	CONJ	_	_	0	_	_	_
@@ -41429,7 +41429,7 @@
 14	o	_	DET	_	_	0	_	_	_
 15	livre-mercado	_	NOUN	_	_	0	_	_	_
 16	como	_	ADP	_	_	0	_	_	_
-17	descolado	_	VERB	_	_	0	_	_	_
+17	descolado	_	PCP	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
 19	a	_	DET	_	_	0	_	_	_
 20	sociedade	_	NOUN	_	_	0	_	_	_
@@ -41505,12 +41505,12 @@
 1	A	_	DET	_	_	0	_	_	_
 2	coletânea	_	NOUN	_	_	0	_	_	_
 3	é	_	AUX	_	_	0	_	_	_
-4	composta	_	VERB	_	_	0	_	_	_
+4	composta	_	PCP	_	_	0	_	_	_
 5	de	_	ADP	_	_	0	_	_	_
 6	nove	_	NUM	_	_	0	_	_	_
 7	pequenos	_	ADJ	_	_	0	_	_	_
 8	artigos	_	NOUN	_	_	0	_	_	_
-9	escritos	_	VERB	_	_	0	_	_	_
+9	escritos	_	PCP	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	12	_	NUM	_	_	0	_	_	_
 12	especialistas	_	NOUN	_	_	0	_	_	_
@@ -41691,7 +41691,7 @@
 9	lucidez	_	NOUN	_	_	0	_	_	_
 10	teóricas	_	ADJ	_	_	0	_	_	_
 11	:	_	PUNCT	_	_	0	_	_	_
-12	perdidos	_	VERB	_	_	0	_	_	_
+12	perdidos	_	PCP	_	_	0	_	_	_
 13	que	_	PRON	_	_	0	_	_	_
 14	estamos	_	VERB	_	_	0	_	_	_
 15	em	_	ADP	_	_	0	_	_	_
@@ -41722,7 +41722,7 @@
 40	tentações	_	NOUN	_	_	0	_	_	_
 41	de	_	ADP	_	_	0	_	_	_
 42	totalização	_	NOUN	_	_	0	_	_	_
-43	apressada	_	VERB	_	_	0	_	_	_
+43	apressada	_	PCP	_	_	0	_	_	_
 44	que	_	SCONJ	_	_	0	_	_	_
 45	esses	_	DET	_	_	0	_	_	_
 46	modelos	_	NOUN	_	_	0	_	_	_
@@ -42161,7 +42161,7 @@
 3	volumes	_	NOUN	_	_	0	_	_	_
 4	até	_	ADP	_	_	0	_	_	_
 5	agora	_	ADV	_	_	0	_	_	_
-6	lançados	_	VERB	_	_	0	_	_	_
+6	lançados	_	PCP	_	_	0	_	_	_
 7	por	_	ADP	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
 9	Presses	_	PROPN	_	_	0	_	_	_
@@ -42235,7 +42235,7 @@
 36	que	_	SCONJ	_	_	0	_	_	_
 37	amanhã	_	ADV	_	_	0	_	_	_
 38	será	_	AUX	_	_	0	_	_	_
-39	admitido	_	VERB	_	_	0	_	_	_
+39	admitido	_	PCP	_	_	0	_	_	_
 40	por	_	ADP	_	_	0	_	_	_
 41	todos	_	PRON	_	_	0	_	_	_
 42	"	_	PUNCT	_	_	0	_	_	_
@@ -42370,7 +42370,7 @@
 9	cruzeiros	_	NOUN	_	_	0	_	_	_
 10	reais	_	ADJ	_	_	0	_	_	_
 11	ficou	_	VERB	_	_	0	_	_	_
-12	reduzida	_	VERB	_	_	0	_	_	_
+12	reduzida	_	PCP	_	_	0	_	_	_
 13	a	_	ADP	_	_	0	_	_	_
 14	US$	_	SYM	_	_	0	_	_	_
 15	40	_	NUM	_	_	0	_	_	_
@@ -42459,7 +42459,7 @@
 4	astros	_	NOUN	_	_	0	_	_	_
 5	invisíveis	_	ADJ	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	desprovidos	_	VERB	_	_	0	_	_	_
+7	desprovidos	_	PCP	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
 9	luz	_	NOUN	_	_	0	_	_	_
 10	,	_	PUNCT	_	_	0	_	_	_
@@ -42532,7 +42532,7 @@
 16	sobre	_	ADP	_	_	0	_	_	_
 17	mulheres	_	NOUN	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
-19	produzido	_	VERB	_	_	0	_	_	_
+19	produzido	_	PCP	_	_	0	_	_	_
 20	por	_	ADP	_	_	0	_	_	_
 21	mulheres	_	NOUN	_	_	0	_	_	_
 22	e	_	CONJ	_	_	0	_	_	_
@@ -42574,7 +42574,7 @@
 32	a	_	DET	_	_	0	_	_	_
 33	Lua	_	PROPN	_	_	0	_	_	_
 34	é	_	AUX	_	_	0	_	_	_
-35	feita	_	VERB	_	_	0	_	_	_
+35	feita	_	PCP	_	_	0	_	_	_
 36	de	_	ADP	_	_	0	_	_	_
 37	queijo	_	NOUN	_	_	0	_	_	_
 38	?	_	PUNCT	_	_	0	_	_	_
@@ -42582,7 +42582,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	cão	_	NOUN	_	_	0	_	_	_
 3	teria	_	AUX	_	_	0	_	_	_
-4	sofrido	_	VERB	_	_	0	_	_	_
+4	sofrido	_	PCP	_	_	0	_	_	_
 5	uma	_	DET	_	_	0	_	_	_
 6	seleção	_	NOUN	_	_	0	_	_	_
 7	natural	_	ADJ	_	_	0	_	_	_
@@ -42597,7 +42597,7 @@
 16	o	_	DET	_	_	0	_	_	_
 17	homem	_	NOUN	_	_	0	_	_	_
 18	,	_	PUNCT	_	_	0	_	_	_
-19	domesticados	_	VERB	_	_	0	_	_	_
+19	domesticados	_	PCP	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
 21	enquanto	_	SCONJ	_	_	0	_	_	_
 22	desapareciam	_	VERB	_	_	0	_	_	_
@@ -42662,7 +42662,7 @@
 6	de	_	ADP	_	_	0	_	_	_
 7	formação	_	NOUN	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
-9	considerado	_	VERB	_	_	0	_	_	_
+9	considerado	_	PCP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	pioneiro	_	NOUN	_	_	0	_	_	_
 12	de	_	ADP	_	_	0	_	_	_
@@ -42813,7 +42813,7 @@
 14	.	_	PUNCT	_	_	0	_	_	_
 
 1	É	_	AUX	_	_	0	_	_	_
-2	discutida	_	VERB	_	_	0	_	_	_
+2	discutida	_	PCP	_	_	0	_	_	_
 3	por	_	ADP	_	_	0	_	_	_
 4	Oswald	_	PROPN	_	_	0	_	_	_
 5	de	_	PROPN	_	_	0	_	_	_
@@ -42931,7 +42931,7 @@
 22	não	_	ADV	_	_	0	_	_	_
 23	me	_	PRON	_	_	0	_	_	_
 24	foi	_	AUX	_	_	0	_	_	_
-25	dado	_	VERB	_	_	0	_	_	_
+25	dado	_	PCP	_	_	0	_	_	_
 26	ver	_	VERB	_	_	0	_	_	_
 27	em	_	ADP	_	_	0	_	_	_
 28	meus	_	DET	_	_	0	_	_	_
@@ -43014,7 +43014,7 @@
 10	lastimar	_	VERB	_	_	0	_	_	_
 11	as	_	DET	_	_	0	_	_	_
 12	relações	_	NOUN	_	_	0	_	_	_
-13	mantidas	_	VERB	_	_	0	_	_	_
+13	mantidas	_	PCP	_	_	0	_	_	_
 14	por	_	ADP	_	_	0	_	_	_
 15	Ubaldo	_	PROPN	_	_	0	_	_	_
 16	:	_	PUNCT	_	_	0	_	_	_
@@ -43070,18 +43070,18 @@
 1	Ainda	_	ADV	_	_	0	_	_	_
 2	assim	_	ADV	_	_	0	_	_	_
 3	fiquei	_	VERB	_	_	0	_	_	_
-4	preocupado	_	VERB	_	_	0	_	_	_
+4	preocupado	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	alguns	_	PRON	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	os	_	DET	_	_	0	_	_	_
 9	nomes	_	NOUN	_	_	0	_	_	_
-10	citados	_	VERB	_	_	0	_	_	_
+10	citados	_	PCP	_	_	0	_	_	_
 11	em	_	ADP	_	_	0	_	_	_
 12	dólares	_	NOUN	_	_	0	_	_	_
 13	em	_	ADP	_	_	0	_	_	_
 14	a	_	DET	_	_	0	_	_	_
-15	demorada	_	VERB	_	_	0	_	_	_
+15	demorada	_	PCP	_	_	0	_	_	_
 16	telefonema	_	NOUN	_	_	0	_	_	_
 17	-	_	PUNCT	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
@@ -43170,7 +43170,7 @@
 29	mesmo	_	ADV	_	_	0	_	_	_
 30	?	_	PUNCT	_	_	0	_	_	_
 
-1	Juntos	_	VERB	_	_	0	_	_	_
+1	Juntos	_	PCP	_	_	0	_	_	_
 2	,	_	PUNCT	_	_	0	_	_	_
 3	em	_	ADP	_	_	0	_	_	_
 4	a	_	DET	_	_	0	_	_	_
@@ -43197,7 +43197,7 @@
 25	coração	_	NOUN	_	_	0	_	_	_
 26	:	_	PUNCT	_	_	0	_	_	_
 27	sendo	_	AUX	_	_	0	_	_	_
-28	recebido	_	VERB	_	_	0	_	_	_
+28	recebido	_	PCP	_	_	0	_	_	_
 29	por	_	ADP	_	_	0	_	_	_
 30	Eduardo	_	PROPN	_	_	0	_	_	_
 31	,	_	PUNCT	_	_	0	_	_	_
@@ -43342,7 +43342,7 @@
 2	um	_	DET	_	_	0	_	_	_
 3	Luís	_	PROPN	_	_	0	_	_	_
 4	14	_	PROPN	_	_	0	_	_	_
-5	envolto	_	VERB	_	_	0	_	_	_
+5	envolto	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	biógrafos	_	NOUN	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
@@ -43361,7 +43361,7 @@
 21	historiadores	_	NOUN	_	_	0	_	_	_
 22	;	_	PUNCT	_	_	0	_	_	_
 23	todos	_	PRON	_	_	0	_	_	_
-24	unidos	_	VERB	_	_	0	_	_	_
+24	unidos	_	PCP	_	_	0	_	_	_
 25	com	_	ADP	_	_	0	_	_	_
 26	um	_	DET	_	_	0	_	_	_
 27	só	_	ADV	_	_	0	_	_	_
@@ -43468,7 +43468,7 @@
 16	em	_	ADP	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
 18	terreno	_	NOUN	_	_	0	_	_	_
-19	aplainado	_	VERB	_	_	0	_	_	_
+19	aplainado	_	PCP	_	_	0	_	_	_
 20	para	_	ADP	_	_	0	_	_	_
 21	dar	_	VERB	_	_	0	_	_	_
 22	uma	_	DET	_	_	0	_	_	_
@@ -43521,7 +43521,7 @@
 13	de	_	ADP	_	_	0	_	_	_
 14	os	_	PRON	_	_	0	_	_	_
 15	já	_	ADV	_	_	0	_	_	_
-16	citados	_	VERB	_	_	0	_	_	_
+16	citados	_	PCP	_	_	0	_	_	_
 17	e	_	CONJ	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
 19	os	_	DET	_	_	0	_	_	_
@@ -43802,7 +43802,7 @@
 13	,	_	PUNCT	_	_	0	_	_	_
 14	está	_	AUX	_	_	0	_	_	_
 15	sendo	_	AUX	_	_	0	_	_	_
-16	testada	_	VERB	_	_	0	_	_	_
+16	testada	_	PCP	_	_	0	_	_	_
 17	desde	_	ADP	_	_	0	_	_	_
 18	maio	_	NOUN	_	_	0	_	_	_
 19	para	_	ADP	_	_	0	_	_	_
@@ -43901,7 +43901,7 @@
 30	pode	_	AUX	_	_	0	_	_	_
 31	também	_	ADV	_	_	0	_	_	_
 32	ser	_	AUX	_	_	0	_	_	_
-33	observada	_	VERB	_	_	0	_	_	_
+33	observada	_	PCP	_	_	0	_	_	_
 34	por	_	ADP	_	_	0	_	_	_
 35	a	_	DET	_	_	0	_	_	_
 36	luz	_	NOUN	_	_	0	_	_	_
@@ -43920,11 +43920,11 @@
 3	neutrinos	_	NOUN	_	_	0	_	_	_
 4	astrofísicos	_	ADJ	_	_	0	_	_	_
 5	foram	_	AUX	_	_	0	_	_	_
-6	identificados	_	VERB	_	_	0	_	_	_
+6	identificados	_	PCP	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	1987	_	NUM	_	_	0	_	_	_
 9	,	_	PUNCT	_	_	0	_	_	_
-10	vindos	_	VERB	_	_	0	_	_	_
+10	vindos	_	PCP	_	_	0	_	_	_
 11	de	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	supernova	_	NOUN	_	_	0	_	_	_
@@ -44016,7 +44016,7 @@
 38	,	_	PUNCT	_	_	0	_	_	_
 39	como	_	SCONJ	_	_	0	_	_	_
 40	era	_	AUX	_	_	0	_	_	_
-41	imaginado	_	VERB	_	_	0	_	_	_
+41	imaginado	_	PCP	_	_	0	_	_	_
 42	havia	_	VERB	_	_	0	_	_	_
 43	14	_	NUM	_	_	0	_	_	_
 44	séculos	_	NOUN	_	_	0	_	_	_
@@ -44055,7 +44055,7 @@
 4	tem	_	AUX	_	_	0	_	_	_
 5	que	_	SCONJ	_	_	0	_	_	_
 6	ser	_	AUX	_	_	0	_	_	_
-7	reconstituído	_	VERB	_	_	0	_	_	_
+7	reconstituído	_	PCP	_	_	0	_	_	_
 8	.	_	PUNCT	_	_	0	_	_	_
 
 1	Uma	_	DET	_	_	0	_	_	_
@@ -44099,7 +44099,7 @@
 8	porque	_	SCONJ	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	gene	_	NOUN	_	_	0	_	_	_
-11	investigado	_	VERB	_	_	0	_	_	_
+11	investigado	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	Hen	_	PROPN	_	_	0	_	_	_
 14	não	_	ADV	_	_	0	_	_	_
@@ -44136,7 +44136,7 @@
 22	a	_	DET	_	_	0	_	_	_
 23	luciferase	_	NOUN	_	_	0	_	_	_
 24	esteja	_	VERB	_	_	0	_	_	_
-25	envolvida	_	VERB	_	_	0	_	_	_
+25	envolvida	_	PCP	_	_	0	_	_	_
 26	em	_	ADP	_	_	0	_	_	_
 27	a	_	DET	_	_	0	_	_	_
 28	desintoxicação	_	NOUN	_	_	0	_	_	_
@@ -44161,7 +44161,7 @@
 10	o	_	DET	_	_	0	_	_	_
 11	corpo	_	NOUN	_	_	0	_	_	_
 12	são	_	AUX	_	_	0	_	_	_
-13	usadas	_	VERB	_	_	0	_	_	_
+13	usadas	_	PCP	_	_	0	_	_	_
 14	para	_	ADP	_	_	0	_	_	_
 15	atrair	_	VERB	_	_	0	_	_	_
 16	o	_	DET	_	_	0	_	_	_
@@ -44179,7 +44179,7 @@
 2	acompanhamento	_	NOUN	_	_	0	_	_	_
 3	clínico	_	ADJ	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
-5	realizado	_	VERB	_	_	0	_	_	_
+5	realizado	_	PCP	_	_	0	_	_	_
 6	durante	_	ADP	_	_	0	_	_	_
 7	um	_	NUM	_	_	0	_	_	_
 8	ano	_	NOUN	_	_	0	_	_	_
@@ -44197,7 +44197,7 @@
 20	grupo	_	NOUN	_	_	0	_	_	_
 21	experimental	_	ADJ	_	_	0	_	_	_
 22	tinham	_	AUX	_	_	0	_	_	_
-23	apresentado	_	VERB	_	_	0	_	_	_
+23	apresentado	_	PCP	_	_	0	_	_	_
 24	diarréia	_	NOUN	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
 26	contra	_	ADP	_	_	0	_	_	_
@@ -44249,7 +44249,7 @@
 37	de	_	ADP	_	_	0	_	_	_
 38	o	_	DET	_	_	0	_	_	_
 39	ano	_	NOUN	_	_	0	_	_	_
-40	passado	_	VERB	_	_	0	_	_	_
+40	passado	_	PCP	_	_	0	_	_	_
 41	.	_	PUNCT	_	_	0	_	_	_
 
 1	"	_	PUNCT	_	_	0	_	_	_
@@ -44274,7 +44274,7 @@
 20	resulte	_	VERB	_	_	0	_	_	_
 21	em	_	ADP	_	_	0	_	_	_
 22	efeitos	_	NOUN	_	_	0	_	_	_
-23	opostos	_	VERB	_	_	0	_	_	_
+23	opostos	_	PCP	_	_	0	_	_	_
 24	em	_	ADP	_	_	0	_	_	_
 25	duas	_	NUM	_	_	0	_	_	_
 26	linhas	_	NOUN	_	_	0	_	_	_
@@ -44307,7 +44307,7 @@
 15	de	_	ADP	_	_	0	_	_	_
 16	a	_	DET	_	_	0	_	_	_
 17	concorrência	_	NOUN	_	_	0	_	_	_
-18	alucinada	_	VERB	_	_	0	_	_	_
+18	alucinada	_	PCP	_	_	0	_	_	_
 19	por	_	ADP	_	_	0	_	_	_
 20	dinheiro	_	NOUN	_	_	0	_	_	_
 21	e	_	CONJ	_	_	0	_	_	_
@@ -44319,7 +44319,7 @@
 27	perdeu	_	VERB	_	_	0	_	_	_
 28	a	_	DET	_	_	0	_	_	_
 29	pessoa	_	NOUN	_	_	0	_	_	_
-30	amada	_	VERB	_	_	0	_	_	_
+30	amada	_	PCP	_	_	0	_	_	_
 31	;	_	PUNCT	_	_	0	_	_	_
 32	por	_	SCONJ	_	_	0	_	_	_
 33	que	_	SCONJ	_	_	0	_	_	_
@@ -44350,7 +44350,7 @@
 58	de	_	ADP	_	_	0	_	_	_
 59	a	_	DET	_	_	0	_	_	_
 60	depressão	_	NOUN	_	_	0	_	_	_
-61	imotivada	_	VERB	_	_	0	_	_	_
+61	imotivada	_	PCP	_	_	0	_	_	_
 62	.	_	PUNCT	_	_	0	_	_	_
 
 1	Em	_	ADP	_	_	0	_	_	_
@@ -44410,7 +44410,7 @@
 18	a	_	DET	_	_	0	_	_	_
 19	minha	_	DET	_	_	0	_	_	_
 20	juventude	_	NOUN	_	_	0	_	_	_
-21	dourada	_	VERB	_	_	0	_	_	_
+21	dourada	_	PCP	_	_	0	_	_	_
 22	,	_	PUNCT	_	_	0	_	_	_
 23	meu	_	DET	_	_	0	_	_	_
 24	Cine-Doré	_	PROPN	_	_	0	_	_	_
@@ -44694,7 +44694,7 @@
 16	que	_	SCONJ	_	_	0	_	_	_
 17	se	_	PRON	_	_	0	_	_	_
 18	viu	_	VERB	_	_	0	_	_	_
-19	vestido	_	VERB	_	_	0	_	_	_
+19	vestido	_	PCP	_	_	0	_	_	_
 20	.	_	PUNCT	_	_	0	_	_	_
 
 1	Para	_	ADP	_	_	0	_	_	_
@@ -44727,7 +44727,7 @@
 12	sociais	_	ADJ	_	_	0	_	_	_
 13	de	_	ADP	_	_	0	_	_	_
 14	aí	_	ADV	_	_	0	_	_	_
-15	advindas	_	VERB	_	_	0	_	_	_
+15	advindas	_	PCP	_	_	0	_	_	_
 16	(	_	PUNCT	_	_	0	_	_	_
 17	como	_	ADP	_	_	0	_	_	_
 18	o	_	DET	_	_	0	_	_	_
@@ -44759,7 +44759,7 @@
 12	todo	_	PRON	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	ser	_	AUX	_	_	0	_	_	_
-15	cobrada	_	VERB	_	_	0	_	_	_
+15	cobrada	_	PCP	_	_	0	_	_	_
 16	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -44799,7 +44799,7 @@
 35	)	_	PUNCT	_	_	0	_	_	_
 36	,	_	PUNCT	_	_	0	_	_	_
 37	vulgarmente	_	ADV	_	_	0	_	_	_
-38	chamados	_	VERB	_	_	0	_	_	_
+38	chamados	_	PCP	_	_	0	_	_	_
 39	de	_	ADP	_	_	0	_	_	_
 40	"	_	PUNCT	_	_	0	_	_	_
 41	voyeurs	_	NOUN	_	_	0	_	_	_
@@ -44807,7 +44807,7 @@
 43	.	_	PUNCT	_	_	0	_	_	_
 
 1	Menos	_	ADV	_	_	0	_	_	_
-2	dotada	_	VERB	_	_	0	_	_	_
+2	dotada	_	PCP	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
 4	porém	_	CONJ	_	_	0	_	_	_
 5	mais	_	ADV	_	_	0	_	_	_
@@ -45005,7 +45005,7 @@
 8	a	_	DET	_	_	0	_	_	_
 9	releitura	_	NOUN	_	_	0	_	_	_
 10	é	_	AUX	_	_	0	_	_	_
-11	pensada	_	VERB	_	_	0	_	_	_
+11	pensada	_	PCP	_	_	0	_	_	_
 12	por	_	ADP	_	_	0	_	_	_
 13	alguns	_	PRON	_	_	0	_	_	_
 14	como	_	ADP	_	_	0	_	_	_
@@ -45031,7 +45031,7 @@
 34	em	_	ADP	_	_	0	_	_	_
 35	livro	_	NOUN	_	_	0	_	_	_
 36	recente	_	ADJ	_	_	0	_	_	_
-37	intitulado	_	VERB	_	_	0	_	_	_
+37	intitulado	_	PCP	_	_	0	_	_	_
 38	"	_	PUNCT	_	_	0	_	_	_
 39	Rereading	_	PROPN	_	_	0	_	_	_
 40	"	_	PUNCT	_	_	0	_	_	_
@@ -45165,7 +45165,7 @@
 15	em	_	ADP	_	_	0	_	_	_
 16	os	_	DET	_	_	0	_	_	_
 17	documentos	_	NOUN	_	_	0	_	_	_
-18	encontrados	_	VERB	_	_	0	_	_	_
+18	encontrados	_	PCP	_	_	0	_	_	_
 19	em	_	ADP	_	_	0	_	_	_
 20	a	_	DET	_	_	0	_	_	_
 21	casa	_	NOUN	_	_	0	_	_	_
@@ -45197,7 +45197,7 @@
 14	de	_	ADP	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
 16	neutransmissor	_	NOUN	_	_	0	_	_	_
-17	conhecido	_	VERB	_	_	0	_	_	_
+17	conhecido	_	PCP	_	_	0	_	_	_
 18	por	_	ADP	_	_	0	_	_	_
 19	serotonina	_	NOUN	_	_	0	_	_	_
 20	;	_	PUNCT	_	_	0	_	_	_
@@ -45326,7 +45326,7 @@
 9	de	_	ADV	_	_	0	_	_	_
 10	perto	_	ADV	_	_	0	_	_	_
 11	,	_	PUNCT	_	_	0	_	_	_
-12	comandada	_	VERB	_	_	0	_	_	_
+12	comandada	_	PCP	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
 15	mercado	_	NOUN	_	_	0	_	_	_
@@ -45452,7 +45452,7 @@
 15	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foram	_	AUX	_	_	0	_	_	_
-2	organizados	_	VERB	_	_	0	_	_	_
+2	organizados	_	PCP	_	_	0	_	_	_
 3	debates	_	NOUN	_	_	0	_	_	_
 4	e	_	CONJ	_	_	0	_	_	_
 5	algumas	_	DET	_	_	0	_	_	_
@@ -45500,7 +45500,7 @@
 6	último	_	ADJ	_	_	0	_	_	_
 7	dia	_	NOUN	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
-9	consternados	_	VERB	_	_	0	_	_	_
+9	consternados	_	PCP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	em	_	ADP	_	_	0	_	_	_
 12	frente	_	ADP	_	_	0	_	_	_
@@ -45530,13 +45530,13 @@
 7	Gaza	_	PROPN	_	_	0	_	_	_
 8	foram	_	AUX	_	_	0	_	_	_
 9	então	_	ADV	_	_	0	_	_	_
-10	inspecionados	_	VERB	_	_	0	_	_	_
+10	inspecionados	_	PCP	_	_	0	_	_	_
 11	com	_	ADP	_	_	0	_	_	_
 12	largos	_	ADJ	_	_	0	_	_	_
 13	gestos	_	NOUN	_	_	0	_	_	_
-14	abertos	_	VERB	_	_	0	_	_	_
+14	abertos	_	PCP	_	_	0	_	_	_
 15	e	_	CONJ	_	_	0	_	_	_
-16	posados	_	VERB	_	_	0	_	_	_
+16	posados	_	PCP	_	_	0	_	_	_
 17	.	_	PUNCT	_	_	0	_	_	_
 
 1	Eu	_	PRON	_	_	0	_	_	_
@@ -45547,7 +45547,7 @@
 6	podia	_	AUX	_	_	0	_	_	_
 7	esconder	_	VERB	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
-9	repetida	_	VERB	_	_	0	_	_	_
+9	repetida	_	PCP	_	_	0	_	_	_
 10	declaração	_	NOUN	_	_	0	_	_	_
 11	que	_	SCONJ	_	_	0	_	_	_
 12	"	_	PUNCT	_	_	0	_	_	_
@@ -45604,7 +45604,7 @@
 7	não	_	ADV	_	_	0	_	_	_
 8	é	_	VERB	_	_	0	_	_	_
 9	uma	_	DET	_	_	0	_	_	_
-10	escancarada	_	VERB	_	_	0	_	_	_
+10	escancarada	_	PCP	_	_	0	_	_	_
 11	indiferença	_	NOUN	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	mas	_	CONJ	_	_	0	_	_	_
@@ -45724,7 +45724,7 @@
 5	esta	_	DET	_	_	0	_	_	_
 6	religião	_	NOUN	_	_	0	_	_	_
 7	seja	_	AUX	_	_	0	_	_	_
-8	tratada	_	VERB	_	_	0	_	_	_
+8	tratada	_	PCP	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	uma	_	DET	_	_	0	_	_	_
 11	forma	_	NOUN	_	_	0	_	_	_
@@ -45740,7 +45740,7 @@
 1	Se	_	SCONJ	_	_	0	_	_	_
 2	não	_	ADV	_	_	0	_	_	_
 3	sou	_	VERB	_	_	0	_	_	_
-4	parecida	_	VERB	_	_	0	_	_	_
+4	parecida	_	PCP	_	_	0	_	_	_
 5	com	_	ADP	_	_	0	_	_	_
 6	Isabella	_	PROPN	_	_	0	_	_	_
 7	Rossellini	_	PROPN	_	_	0	_	_	_
@@ -45801,7 +45801,7 @@
 7	,	_	PUNCT	_	_	0	_	_	_
 8	são	_	VERB	_	_	0	_	_	_
 9	todos	_	DET	_	_	0	_	_	_
-10	parecidos	_	VERB	_	_	0	_	_	_
+10	parecidos	_	PCP	_	_	0	_	_	_
 11	.	_	PUNCT	_	_	0	_	_	_
 
 1	Me	_	PRON	_	_	0	_	_	_
@@ -45817,7 +45817,7 @@
 3	o	_	SCONJ	_	_	0	_	_	_
 4	que	_	SCONJ	_	_	0	_	_	_
 5	foi	_	AUX	_	_	0	_	_	_
-6	decidido	_	VERB	_	_	0	_	_	_
+6	decidido	_	PCP	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
 8	1948	_	NUM	_	_	0	_	_	_
 9	?	_	PUNCT	_	_	0	_	_	_
@@ -45923,7 +45923,7 @@
 18	:	_	PUNCT	_	_	0	_	_	_
 19	somos	_	VERB	_	_	0	_	_	_
 20	todos	_	PRON	_	_	0	_	_	_
-21	dotados	_	VERB	_	_	0	_	_	_
+21	dotados	_	PCP	_	_	0	_	_	_
 22	de	_	ADP	_	_	0	_	_	_
 23	uma	_	DET	_	_	0	_	_	_
 24	mesma	_	DET	_	_	0	_	_	_
@@ -46134,7 +46134,7 @@
 10	a	_	DET	_	_	0	_	_	_
 11	França	_	PROPN	_	_	0	_	_	_
 12	está	_	VERB	_	_	0	_	_	_
-13	morta	_	VERB	_	_	0	_	_	_
+13	morta	_	PCP	_	_	0	_	_	_
 14	,	_	PUNCT	_	_	0	_	_	_
 15	não	_	ADV	_	_	0	_	_	_
 16	há	_	VERB	_	_	0	_	_	_
@@ -46262,7 +46262,7 @@
 12	,	_	PUNCT	_	_	0	_	_	_
 13	uma	_	DET	_	_	0	_	_	_
 14	representação	_	NOUN	_	_	0	_	_	_
-15	institucionalizada	_	VERB	_	_	0	_	_	_
+15	institucionalizada	_	PCP	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	com	_	ADP	_	_	0	_	_	_
 18	determinantes	_	NOUN	_	_	0	_	_	_
@@ -46368,7 +46368,7 @@
 5	,	_	PUNCT	_	_	0	_	_	_
 6	assim	_	ADV	_	_	0	_	_	_
 7	,	_	PUNCT	_	_	0	_	_	_
-8	relacionadas	_	VERB	_	_	0	_	_	_
+8	relacionadas	_	PCP	_	_	0	_	_	_
 9	a	_	ADP	_	_	0	_	_	_
 10	um	_	DET	_	_	0	_	_	_
 11	momento	_	NOUN	_	_	0	_	_	_
@@ -46388,7 +46388,7 @@
 25	de	_	ADP	_	_	0	_	_	_
 26	as	_	DET	_	_	0	_	_	_
 27	mais	_	ADV	_	_	0	_	_	_
-28	atrasadas	_	VERB	_	_	0	_	_	_
+28	atrasadas	_	PCP	_	_	0	_	_	_
 29	de	_	ADP	_	_	0	_	_	_
 30	a	_	DET	_	_	0	_	_	_
 31	colônia	_	NOUN	_	_	0	_	_	_
@@ -46408,7 +46408,7 @@
 
 1	Existem	_	VERB	_	_	0	_	_	_
 2	obras	_	NOUN	_	_	0	_	_	_
-3	isoladas	_	VERB	_	_	0	_	_	_
+3	isoladas	_	PCP	_	_	0	_	_	_
 4	,	_	PUNCT	_	_	0	_	_	_
 5	que	_	SCONJ	_	_	0	_	_	_
 6	tratam	_	VERB	_	_	0	_	_	_
@@ -46598,7 +46598,7 @@
 7	consiste	_	VERB	_	_	0	_	_	_
 8	em	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
-10	obstinado	_	VERB	_	_	0	_	_	_
+10	obstinado	_	PCP	_	_	0	_	_	_
 11	afã	_	NOUN	_	_	0	_	_	_
 12	em	_	ADP	_	_	0	_	_	_
 13	reproduzir	_	VERB	_	_	0	_	_	_
@@ -46621,7 +46621,7 @@
 30	em	_	ADP	_	_	0	_	_	_
 31	as	_	DET	_	_	0	_	_	_
 32	duas	_	NUM	_	_	0	_	_	_
-33	consagradas	_	VERB	_	_	0	_	_	_
+33	consagradas	_	PCP	_	_	0	_	_	_
 34	traduções	_	NOUN	_	_	0	_	_	_
 35	brasileiras	_	ADJ	_	_	0	_	_	_
 36	(	_	PUNCT	_	_	0	_	_	_
@@ -46755,12 +46755,12 @@
 4	o	_	DET	_	_	0	_	_	_
 5	poema	_	NOUN	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
-7	composto	_	VERB	_	_	0	_	_	_
+7	composto	_	PCP	_	_	0	_	_	_
 8	para	_	ADP	_	_	0	_	_	_
 9	ser	_	AUX	_	_	0	_	_	_
-10	recitado	_	VERB	_	_	0	_	_	_
+10	recitado	_	PCP	_	_	0	_	_	_
 11	ou	_	CONJ	_	_	0	_	_	_
-12	cantado	_	VERB	_	_	0	_	_	_
+12	cantado	_	PCP	_	_	0	_	_	_
 13	,	_	PUNCT	_	_	0	_	_	_
 14	é	_	VERB	_	_	0	_	_	_
 15	uma	_	DET	_	_	0	_	_	_
@@ -46864,7 +46864,7 @@
 12	,	_	PUNCT	_	_	0	_	_	_
 13	Schrõdinger	_	PROPN	_	_	0	_	_	_
 14	havia	_	AUX	_	_	0	_	_	_
-15	começado	_	VERB	_	_	0	_	_	_
+15	começado	_	PCP	_	_	0	_	_	_
 16	a	_	ADP	_	_	0	_	_	_
 17	publicar	_	VERB	_	_	0	_	_	_
 18	seus	_	DET	_	_	0	_	_	_
@@ -46929,7 +46929,7 @@
 40	de	_	ADP	_	_	0	_	_	_
 41	Fátima	_	PROPN	_	_	0	_	_	_
 42	,	_	PUNCT	_	_	0	_	_	_
-43	atribuídas	_	VERB	_	_	0	_	_	_
+43	atribuídas	_	PCP	_	_	0	_	_	_
 44	a	_	ADP	_	_	0	_	_	_
 45	um	_	DET	_	_	0	_	_	_
 46	saurópodo	_	NOUN	_	_	0	_	_	_
@@ -46968,7 +46968,7 @@
 22	o	_	DET	_	_	0	_	_	_
 23	Australopithecus-afarensis	_	PROPN	_	_	0	_	_	_
 24	também	_	ADV	_	_	0	_	_	_
-25	conhecido	_	VERB	_	_	0	_	_	_
+25	conhecido	_	PCP	_	_	0	_	_	_
 26	por	_	ADP	_	_	0	_	_	_
 27	Lucy	_	PROPN	_	_	0	_	_	_
 28	.	_	PUNCT	_	_	0	_	_	_
@@ -47001,19 +47001,19 @@
 26	Nova	_	PROPN	_	_	0	_	_	_
 27	York	_	PROPN	_	_	0	_	_	_
 28	Imagens	_	NOUN	_	_	0	_	_	_
-29	captadas	_	VERB	_	_	0	_	_	_
+29	captadas	_	PCP	_	_	0	_	_	_
 30	por	_	ADP	_	_	0	_	_	_
 31	câmeras	_	NOUN	_	_	0	_	_	_
 32	de	_	ADP	_	_	0	_	_	_
 33	vídeo	_	NOUN	_	_	0	_	_	_
-34	instaladas	_	VERB	_	_	0	_	_	_
+34	instaladas	_	PCP	_	_	0	_	_	_
 35	em	_	ADP	_	_	0	_	_	_
 36	aviões	_	NOUN	_	_	0	_	_	_
 37	identificaram	_	VERB	_	_	0	_	_	_
 38	um	_	DET	_	_	0	_	_	_
 39	fenômeno	_	NOUN	_	_	0	_	_	_
 40	antes	_	ADV	_	_	0	_	_	_
-41	desconhecido	_	VERB	_	_	0	_	_	_
+41	desconhecido	_	PCP	_	_	0	_	_	_
 42	por	_	ADP	_	_	0	_	_	_
 43	cientistas	_	NOUN	_	_	0	_	_	_
 44	:	_	PUNCT	_	_	0	_	_	_
@@ -47029,7 +47029,7 @@
 54	luz	_	NOUN	_	_	0	_	_	_
 55	vermelhos	_	ADJ	_	_	0	_	_	_
 56	e	_	CONJ	_	_	0	_	_	_
-57	azulados	_	VERB	_	_	0	_	_	_
+57	azulados	_	PCP	_	_	0	_	_	_
 58	.	_	PUNCT	_	_	0	_	_	_
 
 1	Pesquisa	_	NOUN	_	_	0	_	_	_
@@ -47083,7 +47083,7 @@
 1	248	_	NOUN	_	_	0	_	_	_
 2	eventos	_	NOUN	_	_	0	_	_	_
 3	foram	_	AUX	_	_	0	_	_	_
-4	registrados	_	VERB	_	_	0	_	_	_
+4	registrados	_	PCP	_	_	0	_	_	_
 5	durante	_	ADP	_	_	0	_	_	_
 6	410	_	NUM	_	_	0	_	_	_
 7	minutos	_	NOUN	_	_	0	_	_	_
@@ -47435,7 +47435,7 @@
 6	milhares	_	NOUN	_	_	0	_	_	_
 7	de	_	ADP	_	_	0	_	_	_
 8	calendários	_	NOUN	_	_	0	_	_	_
-9	impressos	_	VERB	_	_	0	_	_	_
+9	impressos	_	PCP	_	_	0	_	_	_
 10	por	_	ADP	_	_	0	_	_	_
 11	a	_	DET	_	_	0	_	_	_
 12	gráfica	_	NOUN	_	_	0	_	_	_
@@ -47649,7 +47649,7 @@
 6	com	_	ADP	_	_	0	_	_	_
 7	várias	_	DET	_	_	0	_	_	_
 8	emendas	_	NOUN	_	_	0	_	_	_
-9	soltas	_	VERB	_	_	0	_	_	_
+9	soltas	_	PCP	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
 
 1	Claro	_	ADJ	_	_	0	_	_	_
@@ -47696,7 +47696,7 @@
 2	!	_	PUNCT	_	_	0	_	_	_
 
 1	Tudo	_	PRON	_	_	0	_	_	_
-2	preparado	_	VERB	_	_	0	_	_	_
+2	preparado	_	PCP	_	_	0	_	_	_
 3	para	_	ADP	_	_	0	_	_	_
 4	receber	_	VERB	_	_	0	_	_	_
 5	lo	_	PRON	_	_	0	_	_	_
@@ -47724,7 +47724,7 @@
 1	Deixei	_	VERB	_	_	0	_	_	_
 2	duas	_	NUM	_	_	0	_	_	_
 3	caixinhas	_	NOUN	_	_	0	_	_	_
-4	guardadas	_	VERB	_	_	0	_	_	_
+4	guardadas	_	PCP	_	_	0	_	_	_
 5	ali	_	ADV	_	_	0	_	_	_
 6	,	_	PUNCT	_	_	0	_	_	_
 7	em	_	ADP	_	_	0	_	_	_
@@ -47954,7 +47954,7 @@
 12	que	_	SCONJ	_	_	0	_	_	_
 13	já	_	ADV	_	_	0	_	_	_
 14	está	_	VERB	_	_	0	_	_	_
-15	acostumado	_	VERB	_	_	0	_	_	_
+15	acostumado	_	PCP	_	_	0	_	_	_
 16	!	_	PUNCT	_	_	0	_	_	_
 
 1	Briguei	_	VERB	_	_	0	_	_	_
@@ -47989,7 +47989,7 @@
 1	.	_	PUNCT	_	_	0	_	_	_
 
 1	Tá	_	VERB	_	_	0	_	_	_
-2	morto	_	VERB	_	_	0	_	_	_
+2	morto	_	PCP	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
 4	patrão	_	NOUN	_	_	0	_	_	_
 5	?	_	PUNCT	_	_	0	_	_	_
@@ -48365,7 +48365,7 @@
 23	"	_	PUNCT	_	_	0	_	_	_
 24	quatro	_	NUM	_	_	0	_	_	_
 25	anjos	_	NOUN	_	_	0	_	_	_
-26	postados	_	VERB	_	_	0	_	_	_
+26	postados	_	PCP	_	_	0	_	_	_
 27	em	_	ADP	_	_	0	_	_	_
 28	os	_	DET	_	_	0	_	_	_
 29	quatro	_	NUM	_	_	0	_	_	_
@@ -48410,7 +48410,7 @@
 12	universo	_	NOUN	_	_	0	_	_	_
 13	paralelo	_	ADJ	_	_	0	_	_	_
 14	,	_	PUNCT	_	_	0	_	_	_
-15	descoberto	_	VERB	_	_	0	_	_	_
+15	descoberto	_	PCP	_	_	0	_	_	_
 16	por	_	ADP	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
 18	coronel	_	NOUN	_	_	0	_	_	_
@@ -48439,7 +48439,7 @@
 13	Comissão	_	PROPN	_	_	0	_	_	_
 14	Executiva	_	PROPN	_	_	0	_	_	_
 15	tem	_	AUX	_	_	0	_	_	_
-16	procurado	_	VERB	_	_	0	_	_	_
+16	procurado	_	PCP	_	_	0	_	_	_
 17	aumentar	_	VERB	_	_	0	_	_	_
 18	o	_	DET	_	_	0	_	_	_
 19	poder	_	NOUN	_	_	0	_	_	_
@@ -48462,7 +48462,7 @@
 36	com	_	ADP	_	_	0	_	_	_
 37	seus	_	DET	_	_	0	_	_	_
 38	membros	_	NOUN	_	_	0	_	_	_
-39	indicados	_	VERB	_	_	0	_	_	_
+39	indicados	_	PCP	_	_	0	_	_	_
 40	por	_	ADP	_	_	0	_	_	_
 41	as	_	DET	_	_	0	_	_	_
 42	regiões	_	NOUN	_	_	0	_	_	_
@@ -48518,7 +48518,7 @@
 41	estes	_	DET	_	_	0	_	_	_
 42	referenciais	_	NOUN	_	_	0	_	_	_
 43	tivessem	_	AUX	_	_	0	_	_	_
-44	estado	_	VERB	_	_	0	_	_	_
+44	estado	_	PCP	_	_	0	_	_	_
 45	presentes	_	ADJ	_	_	0	_	_	_
 46	e	_	CONJ	_	_	0	_	_	_
 47	,	_	PUNCT	_	_	0	_	_	_
@@ -48526,7 +48526,7 @@
 49	dúvida	_	NOUN	_	_	0	_	_	_
 50	,	_	PUNCT	_	_	0	_	_	_
 51	houvessem	_	AUX	_	_	0	_	_	_
-52	atuado	_	VERB	_	_	0	_	_	_
+52	atuado	_	PCP	_	_	0	_	_	_
 53	de	_	ADP	_	_	0	_	_	_
 54	algum	_	DET	_	_	0	_	_	_
 55	modo	_	NOUN	_	_	0	_	_	_
@@ -48607,7 +48607,7 @@
 
 1	Sempre	_	ADV	_	_	0	_	_	_
 2	estou	_	VERB	_	_	0	_	_	_
-3	interessado	_	VERB	_	_	0	_	_	_
+3	interessado	_	PCP	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	alguma	_	DET	_	_	0	_	_	_
 6	coisa	_	NOUN	_	_	0	_	_	_
@@ -48698,7 +48698,7 @@
 1	O	_	DET	_	_	0	_	_	_
 2	teste	_	NOUN	_	_	0	_	_	_
 3	foi	_	AUX	_	_	0	_	_	_
-4	feito	_	VERB	_	_	0	_	_	_
+4	feito	_	PCP	_	_	0	_	_	_
 5	sob	_	ADP	_	_	0	_	_	_
 6	a	_	DET	_	_	0	_	_	_
 7	forma	_	NOUN	_	_	0	_	_	_
@@ -48836,14 +48836,14 @@
 8	cidade	_	NOUN	_	_	0	_	_	_
 9	próspera	_	ADJ	_	_	0	_	_	_
 10	e	_	CONJ	_	_	0	_	_	_
-11	sossegada	_	VERB	_	_	0	_	_	_
+11	sossegada	_	PCP	_	_	0	_	_	_
 12	como	_	ADP	_	_	0	_	_	_
 13	Lyon	_	PROPN	_	_	0	_	_	_
 14	,	_	PUNCT	_	_	0	_	_	_
 15	em	_	ADP	_	_	0	_	_	_
 16	um	_	DET	_	_	0	_	_	_
 17	teatro	_	NOUN	_	_	0	_	_	_
-18	prestigiado	_	VERB	_	_	0	_	_	_
+18	prestigiado	_	PCP	_	_	0	_	_	_
 19	e	_	CONJ	_	_	0	_	_	_
 20	maravilhoso	_	ADJ	_	_	0	_	_	_
 21	como	_	ADP	_	_	0	_	_	_
@@ -48874,7 +48874,7 @@
 6	fizemos	_	VERB	_	_	0	_	_	_
 7	uma	_	DET	_	_	0	_	_	_
 8	canção	_	NOUN	_	_	0	_	_	_
-9	chamada	_	VERB	_	_	0	_	_	_
+9	chamada	_	PCP	_	_	0	_	_	_
 10	"	_	PUNCT	_	_	0	_	_	_
 11	Slash,	_	PROPN	_	_	0	_	_	_
 12	Poison,	_	PROPN	_	_	0	_	_	_
@@ -48937,7 +48937,7 @@
 
 1	Deve	_	AUX	_	_	0	_	_	_
 2	ser	_	AUX	_	_	0	_	_	_
-3	publicado	_	VERB	_	_	0	_	_	_
+3	publicado	_	PCP	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	dezembro	_	NOUN	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
@@ -48953,7 +48953,7 @@
 9	me	_	PRON	_	_	0	_	_	_
 10	torna	_	VERB	_	_	0	_	_	_
 11	mais	_	ADV	_	_	0	_	_	_
-12	aberto	_	VERB	_	_	0	_	_	_
+12	aberto	_	PCP	_	_	0	_	_	_
 13	para	_	ADP	_	_	0	_	_	_
 14	arriscar	_	VERB	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
@@ -49010,9 +49010,9 @@
 66	(	_	PUNCT	_	_	0	_	_	_
 67	1887-1914	_	NUM	_	_	0	_	_	_
 68	)	_	PUNCT	_	_	0	_	_	_
-69	selecionados	_	VERB	_	_	0	_	_	_
+69	selecionados	_	PCP	_	_	0	_	_	_
 70	e	_	CONJ	_	_	0	_	_	_
-71	traduzidos	_	VERB	_	_	0	_	_	_
+71	traduzidos	_	PCP	_	_	0	_	_	_
 72	para	_	ADP	_	_	0	_	_	_
 73	o	_	DET	_	_	0	_	_	_
 74	português	_	NOUN	_	_	0	_	_	_
@@ -49088,7 +49088,7 @@
 14	com	_	ADP	_	_	0	_	_	_
 15	um	_	DET	_	_	0	_	_	_
 16	léxico	_	NOUN	_	_	0	_	_	_
-17	limitado	_	VERB	_	_	0	_	_	_
+17	limitado	_	PCP	_	_	0	_	_	_
 18	(	_	PUNCT	_	_	0	_	_	_
 19	substantivos	_	NOUN	_	_	0	_	_	_
 20	.	_	PUNCT	_	_	0	_	_	_
@@ -49158,7 +49158,7 @@
 9	este	_	DET	_	_	0	_	_	_
 10	poema	_	NOUN	_	_	0	_	_	_
 11	está	_	VERB	_	_	0	_	_	_
-12	erguido	_	VERB	_	_	0	_	_	_
+12	erguido	_	PCP	_	_	0	_	_	_
 13	sobre	_	ADP	_	_	0	_	_	_
 14	silêncios	_	NOUN	_	_	0	_	_	_
 15	(	_	PUNCT	_	_	0	_	_	_
@@ -49200,7 +49200,7 @@
 51	o	_	DET	_	_	0	_	_	_
 52	poeta	_	NOUN	_	_	0	_	_	_
 53	foi	_	AUX	_	_	0	_	_	_
-54	obrigado	_	VERB	_	_	0	_	_	_
+54	obrigado	_	PCP	_	_	0	_	_	_
 55	a	_	ADP	_	_	0	_	_	_
 56	enfrentar	_	VERB	_	_	0	_	_	_
 57	e	_	CONJ	_	_	0	_	_	_
@@ -49245,7 +49245,7 @@
 9	em	_	ADP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	subjetividade	_	NOUN	_	_	0	_	_	_
-12	desintegrada	_	VERB	_	_	0	_	_	_
+12	desintegrada	_	PCP	_	_	0	_	_	_
 13	de	_	ADP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
 15	psicótico	_	NOUN	_	_	0	_	_	_
@@ -49263,7 +49263,7 @@
 10	o	_	DET	_	_	0	_	_	_
 11	nazismo	_	NOUN	_	_	0	_	_	_
 12	ficam	_	VERB	_	_	0	_	_	_
-13	espremidos	_	VERB	_	_	0	_	_	_
+13	espremidos	_	PCP	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
 15	uma	_	DET	_	_	0	_	_	_
 16	longa	_	ADJ	_	_	0	_	_	_
@@ -49271,7 +49271,7 @@
 18	de	_	ADP	_	_	0	_	_	_
 19	títulos	_	NOUN	_	_	0	_	_	_
 20	,	_	PUNCT	_	_	0	_	_	_
-21	divididos	_	VERB	_	_	0	_	_	_
+21	divididos	_	PCP	_	_	0	_	_	_
 22	por	_	ADP	_	_	0	_	_	_
 23	uma	_	DET	_	_	0	_	_	_
 24	variedade	_	NOUN	_	_	0	_	_	_
@@ -49380,7 +49380,7 @@
 4	suas	_	DET	_	_	0	_	_	_
 5	experiências	_	NOUN	_	_	0	_	_	_
 6	foram	_	AUX	_	_	0	_	_	_
-7	feitas	_	VERB	_	_	0	_	_	_
+7	feitas	_	PCP	_	_	0	_	_	_
 8	com	_	ADP	_	_	0	_	_	_
 9	o	_	DET	_	_	0	_	_	_
 10	vírus	_	NOUN	_	_	0	_	_	_
@@ -49436,7 +49436,7 @@
 25	onde	_	SCONJ	_	_	0	_	_	_
 26	ela	_	PRON	_	_	0	_	_	_
 27	estiver	_	VERB	_	_	0	_	_	_
-28	degradada	_	VERB	_	_	0	_	_	_
+28	degradada	_	PCP	_	_	0	_	_	_
 29	.	_	PUNCT	_	_	0	_	_	_
 
 1	E	_	CONJ	_	_	0	_	_	_
@@ -49452,7 +49452,7 @@
 11	o	_	PRON	_	_	0	_	_	_
 12	que	_	SCONJ	_	_	0	_	_	_
 13	foi	_	AUX	_	_	0	_	_	_
-14	desenvolvido	_	VERB	_	_	0	_	_	_
+14	desenvolvido	_	PCP	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
 16	o	_	DET	_	_	0	_	_	_
 17	compositor	_	NOUN	_	_	0	_	_	_
@@ -49504,7 +49504,7 @@
 18	seu	_	DET	_	_	0	_	_	_
 19	texto	_	NOUN	_	_	0	_	_	_
 20	não	_	ADV	_	_	0	_	_	_
-21	escrito	_	VERB	_	_	0	_	_	_
+21	escrito	_	PCP	_	_	0	_	_	_
 22	em	_	ADP	_	_	0	_	_	_
 23	um	_	DET	_	_	0	_	_	_
 24	sentido	_	NOUN	_	_	0	_	_	_
@@ -49545,7 +49545,7 @@
 6	as	_	DET	_	_	0	_	_	_
 7	duas	_	NUM	_	_	0	_	_	_
 8	autópsias	_	NOUN	_	_	0	_	_	_
-9	realizadas	_	VERB	_	_	0	_	_	_
+9	realizadas	_	PCP	_	_	0	_	_	_
 10	mostram	_	VERB	_	_	0	_	_	_
 11	que	_	SCONJ	_	_	0	_	_	_
 12	Colosio	_	PROPN	_	_	0	_	_	_
@@ -49570,11 +49570,11 @@
 31	as	_	DET	_	_	0	_	_	_
 32	balas	_	NOUN	_	_	0	_	_	_
 33	foi	_	AUX	_	_	0	_	_	_
-34	identificada	_	VERB	_	_	0	_	_	_
+34	identificada	_	PCP	_	_	0	_	_	_
 35	positivamente	_	ADV	_	_	0	_	_	_
 36	como	_	SCONJ	_	_	0	_	_	_
 37	tendo	_	AUX	_	_	0	_	_	_
-38	saído	_	VERB	_	_	0	_	_	_
+38	saído	_	PCP	_	_	0	_	_	_
 39	de	_	ADP	_	_	0	_	_	_
 40	a	_	DET	_	_	0	_	_	_
 41	arma	_	NOUN	_	_	0	_	_	_
@@ -49584,7 +49584,7 @@
 
 1	Já	_	ADV	_	_	0	_	_	_
 2	estavam	_	VERB	_	_	0	_	_	_
-3	detidos	_	VERB	_	_	0	_	_	_
+3	detidos	_	PCP	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	o	_	DET	_	_	0	_	_	_
 6	presídio	_	NOUN	_	_	0	_	_	_
@@ -49598,7 +49598,7 @@
 14	,	_	PUNCT	_	_	0	_	_	_
 15	23	_	NUM	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
-17	acusado	_	VERB	_	_	0	_	_	_
+17	acusado	_	PCP	_	_	0	_	_	_
 18	de	_	ADP	_	_	0	_	_	_
 19	atirar	_	VERB	_	_	0	_	_	_
 20	em	_	ADP	_	_	0	_	_	_
@@ -49617,7 +49617,7 @@
 33	,	_	PUNCT	_	_	0	_	_	_
 34	que	_	SCONJ	_	_	0	_	_	_
 35	teria	_	AUX	_	_	0	_	_	_
-36	ajudado	_	VERB	_	_	0	_	_	_
+36	ajudado	_	PCP	_	_	0	_	_	_
 37	o	_	DET	_	_	0	_	_	_
 38	assassino	_	NOUN	_	_	0	_	_	_
 39	a	_	ADP	_	_	0	_	_	_
@@ -49648,7 +49648,7 @@
 1	Até	_	ADP	_	_	0	_	_	_
 2	o	_	DET	_	_	0	_	_	_
 3	ano	_	NOUN	_	_	0	_	_	_
-4	passado	_	VERB	_	_	0	_	_	_
+4	passado	_	PCP	_	_	0	_	_	_
 5	,	_	PUNCT	_	_	0	_	_	_
 6	quando	_	SCONJ	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
@@ -49757,7 +49757,7 @@
 26	manobras	_	NOUN	_	_	0	_	_	_
 27	militares	_	ADJ	_	_	0	_	_	_
 28	,	_	PUNCT	_	_	0	_	_	_
-29	suspensas	_	VERB	_	_	0	_	_	_
+29	suspensas	_	PCP	_	_	0	_	_	_
 30	desde	_	ADP	_	_	0	_	_	_
 31	fevereiro	_	NOUN	_	_	0	_	_	_
 32	.	_	PUNCT	_	_	0	_	_	_
@@ -49875,7 +49875,7 @@
 
 1	Depois	_	ADV	_	_	0	_	_	_
 2	teriam	_	AUX	_	_	0	_	_	_
-3	seguido	_	VERB	_	_	0	_	_	_
+3	seguido	_	PCP	_	_	0	_	_	_
 4	para	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	Argentina	_	PROPN	_	_	0	_	_	_
@@ -50103,7 +50103,7 @@
 4	de	_	ADP	_	_	0	_	_	_
 5	Zedillo	_	PROPN	_	_	0	_	_	_
 6	foi	_	AUX	_	_	0	_	_	_
-7	voltada	_	VERB	_	_	0	_	_	_
+7	voltada	_	PCP	_	_	0	_	_	_
 8	para	_	ADP	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
 10	manutenção	_	NOUN	_	_	0	_	_	_
@@ -50113,7 +50113,7 @@
 14	.	_	PUNCT	_	_	0	_	_	_
 
 1	Havia	_	AUX	_	_	0	_	_	_
-2	feito	_	VERB	_	_	0	_	_	_
+2	feito	_	PCP	_	_	0	_	_	_
 3	escalas	_	NOUN	_	_	0	_	_	_
 4	em	_	ADP	_	_	0	_	_	_
 5	Israel	_	PROPN	_	_	0	_	_	_
@@ -50162,7 +50162,7 @@
 7	Lauro	_	PROPN	_	_	0	_	_	_
 8	pegou	_	VERB	_	_	0	_	_	_
 9	fogo	_	NOUN	_	_	0	_	_	_
-10	atracado	_	VERB	_	_	0	_	_	_
+10	atracado	_	PCP	_	_	0	_	_	_
 11	em	_	ADP	_	_	0	_	_	_
 12	o	_	DET	_	_	0	_	_	_
 13	porto	_	NOUN	_	_	0	_	_	_
@@ -50188,7 +50188,7 @@
 11	,	_	PUNCT	_	_	0	_	_	_
 12	não	_	ADV	_	_	0	_	_	_
 13	foi	_	AUX	_	_	0	_	_	_
-14	preso	_	VERB	_	_	0	_	_	_
+14	preso	_	PCP	_	_	0	_	_	_
 15	por	_	ADP	_	_	0	_	_	_
 16	estar	_	VERB	_	_	0	_	_	_
 17	em	_	ADP	_	_	0	_	_	_
@@ -50254,7 +50254,7 @@
 7	nova	_	ADJ	_	_	0	_	_	_
 8	Iugoslávia	_	PROPN	_	_	0	_	_	_
 9	(	_	PUNCT	_	_	0	_	_	_
-10	composta	_	VERB	_	_	0	_	_	_
+10	composta	_	PCP	_	_	0	_	_	_
 11	por	_	ADP	_	_	0	_	_	_
 12	a	_	DET	_	_	0	_	_	_
 13	Sérvia	_	PROPN	_	_	0	_	_	_
@@ -50269,7 +50269,7 @@
 22	refugiados	_	NOUN	_	_	0	_	_	_
 23	estão	_	AUX	_	_	0	_	_	_
 24	sendo	_	AUX	_	_	0	_	_	_
-25	obrigados	_	VERB	_	_	0	_	_	_
+25	obrigados	_	PCP	_	_	0	_	_	_
 26	a	_	ADP	_	_	0	_	_	_
 27	se	_	PRON	_	_	0	_	_	_
 28	alistar	_	VERB	_	_	0	_	_	_
@@ -50314,7 +50314,7 @@
 4	única	_	ADJ	_	_	0	_	_	_
 5	previsão	_	NOUN	_	_	0	_	_	_
 6	otimista	_	ADJ	_	_	0	_	_	_
-7	surgida	_	VERB	_	_	0	_	_	_
+7	surgida	_	PCP	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
 9	Davos	_	PROPN	_	_	0	_	_	_
 10	.	_	PUNCT	_	_	0	_	_	_
@@ -50322,11 +50322,11 @@
 1	A	_	DET	_	_	0	_	_	_
 2	decisão	_	NOUN	_	_	0	_	_	_
 3	,	_	PUNCT	_	_	0	_	_	_
-4	acertada	_	VERB	_	_	0	_	_	_
+4	acertada	_	PCP	_	_	0	_	_	_
 5	em	_	ADP	_	_	0	_	_	_
 6	as	_	DET	_	_	0	_	_	_
 7	conversações	_	NOUN	_	_	0	_	_	_
-8	patrocinadas	_	VERB	_	_	0	_	_	_
+8	patrocinadas	_	PCP	_	_	0	_	_	_
 9	por	_	ADP	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	ONU	_	PROPN	_	_	0	_	_	_
@@ -50347,7 +50347,7 @@
 
 1	Em	_	ADP	_	_	0	_	_	_
 2	entrevista	_	NOUN	_	_	0	_	_	_
-3	dada	_	VERB	_	_	0	_	_	_
+3	dada	_	PCP	_	_	0	_	_	_
 4	dia	_	NOUN	_	_	0	_	_	_
 5	27	_	NUM	_	_	0	_	_	_
 6	a	_	ADP	_	_	0	_	_	_
@@ -50355,7 +50355,7 @@
 8	jornalistas	_	NOUN	_	_	0	_	_	_
 9	espanhóis	_	ADJ	_	_	0	_	_	_
 10	e	_	CONJ	_	_	0	_	_	_
-11	publicada	_	VERB	_	_	0	_	_	_
+11	publicada	_	PCP	_	_	0	_	_	_
 12	ontem	_	ADV	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
@@ -50511,7 +50511,7 @@
 27	25	_	NUM	_	_	0	_	_	_
 28	países	_	NOUN	_	_	0	_	_	_
 29	mais	_	ADV	_	_	0	_	_	_
-30	industrializados	_	VERB	_	_	0	_	_	_
+30	industrializados	_	PCP	_	_	0	_	_	_
 31	de	_	ADP	_	_	0	_	_	_
 32	o	_	DET	_	_	0	_	_	_
 33	mundo	_	NOUN	_	_	0	_	_	_
@@ -50583,7 +50583,7 @@
 3	%	_	SYM	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	os	_	DET	_	_	0	_	_	_
-6	entrevistados	_	VERB	_	_	0	_	_	_
+6	entrevistados	_	PCP	_	_	0	_	_	_
 7	vêem	_	VERB	_	_	0	_	_	_
 8	a	_	DET	_	_	0	_	_	_
 9	derrota	_	NOUN	_	_	0	_	_	_
@@ -50612,7 +50612,7 @@
 8	primeiro	_	ADJ	_	_	0	_	_	_
 9	edifício	_	NOUN	_	_	0	_	_	_
 10	"	_	PUNCT	_	_	0	_	_	_
-11	libertado	_	VERB	_	_	0	_	_	_
+11	libertado	_	PCP	_	_	0	_	_	_
 12	"	_	PUNCT	_	_	0	_	_	_
 13	por	_	ADP	_	_	0	_	_	_
 14	os	_	DET	_	_	0	_	_	_
@@ -50727,7 +50727,7 @@
 
 1	Ele	_	PRON	_	_	0	_	_	_
 2	ficou	_	VERB	_	_	0	_	_	_
-3	afastado	_	VERB	_	_	0	_	_	_
+3	afastado	_	PCP	_	_	0	_	_	_
 4	de	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	política	_	NOUN	_	_	0	_	_	_
@@ -50747,7 +50747,7 @@
 4	de	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	semana	_	NOUN	_	_	0	_	_	_
-7	passada	_	VERB	_	_	0	_	_	_
+7	passada	_	PCP	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	Watkins	_	PROPN	_	_	0	_	_	_
 10	e	_	CONJ	_	_	0	_	_	_
@@ -50846,14 +50846,14 @@
 21	)	_	PUNCT	_	_	0	_	_	_
 22	não	_	ADV	_	_	0	_	_	_
 23	seja	_	AUX	_	_	0	_	_	_
-24	aceito	_	VERB	_	_	0	_	_	_
+24	aceito	_	PCP	_	_	0	_	_	_
 25	,	_	PUNCT	_	_	0	_	_	_
 26	há	_	VERB	_	_	0	_	_	_
 27	fortes	_	ADJ	_	_	0	_	_	_
 28	chances	_	NOUN	_	_	0	_	_	_
 29	de	_	ADP	_	_	0	_	_	_
 30	serem	_	AUX	_	_	0	_	_	_
-31	votadas	_	VERB	_	_	0	_	_	_
+31	votadas	_	PCP	_	_	0	_	_	_
 32	sanções	_	NOUN	_	_	0	_	_	_
 33	comerciais	_	ADJ	_	_	0	_	_	_
 34	contra	_	ADP	_	_	0	_	_	_
@@ -50925,7 +50925,7 @@
 4	Jackson	_	PROPN	_	_	0	_	_	_
 5	está	_	AUX	_	_	0	_	_	_
 6	sendo	_	AUX	_	_	0	_	_	_
-7	acusado	_	VERB	_	_	0	_	_	_
+7	acusado	_	PCP	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
 9	não	_	ADV	_	_	0	_	_	_
 10	reconhecer	_	VERB	_	_	0	_	_	_
@@ -50950,14 +50950,14 @@
 9	confirma	_	VERB	_	_	0	_	_	_
 10	a	_	DET	_	_	0	_	_	_
 11	expectativa	_	NOUN	_	_	0	_	_	_
-12	generalizada	_	VERB	_	_	0	_	_	_
+12	generalizada	_	PCP	_	_	0	_	_	_
 13	de	_	ADP	_	_	0	_	_	_
 14	que	_	SCONJ	_	_	0	_	_	_
 15	o	_	DET	_	_	0	_	_	_
 16	pleito	_	NOUN	_	_	0	_	_	_
 17	não	_	ADV	_	_	0	_	_	_
 18	será	_	AUX	_	_	0	_	_	_
-19	contestado	_	VERB	_	_	0	_	_	_
+19	contestado	_	PCP	_	_	0	_	_	_
 20	.	_	PUNCT	_	_	0	_	_	_
 
 1	(	_	PUNCT	_	_	0	_	_	_
@@ -51022,7 +51022,7 @@
 60	os	_	DET	_	_	0	_	_	_
 61	primeiros	_	ADJ	_	_	0	_	_	_
 62	resultados	_	NOUN	_	_	0	_	_	_
-63	divulgados	_	VERB	_	_	0	_	_	_
+63	divulgados	_	PCP	_	_	0	_	_	_
 64	.	_	PUNCT	_	_	0	_	_	_
 
 1	Megausina	_	PROPN	_	_	0	_	_	_
@@ -51286,7 +51286,7 @@
 15	pobres	_	ADJ	_	_	0	_	_	_
 16	,	_	PUNCT	_	_	0	_	_	_
 17	têm	_	AUX	_	_	0	_	_	_
-18	transformado	_	VERB	_	_	0	_	_	_
+18	transformado	_	PCP	_	_	0	_	_	_
 19	as	_	DET	_	_	0	_	_	_
 20	proximidades	_	NOUN	_	_	0	_	_	_
 21	de	_	ADP	_	_	0	_	_	_
@@ -51335,7 +51335,7 @@
 8	,	_	PUNCT	_	_	0	_	_	_
 9	já	_	ADV	_	_	0	_	_	_
 10	foram	_	AUX	_	_	0	_	_	_
-11	presos	_	VERB	_	_	0	_	_	_
+11	presos	_	PCP	_	_	0	_	_	_
 12	com	_	ADP	_	_	0	_	_	_
 13	drogas	_	NOUN	_	_	0	_	_	_
 14	em	_	ADP	_	_	0	_	_	_
@@ -51399,7 +51399,7 @@
 4	sistema	_	NOUN	_	_	0	_	_	_
 5	educacional	_	ADJ	_	_	0	_	_	_
 6	é	_	AUX	_	_	0	_	_	_
-7	segregado	_	VERB	_	_	0	_	_	_
+7	segregado	_	PCP	_	_	0	_	_	_
 8	,	_	PUNCT	_	_	0	_	_	_
 9	com	_	ADP	_	_	0	_	_	_
 10	exceção	_	NOUN	_	_	0	_	_	_
@@ -51458,7 +51458,7 @@
 28	ser	_	SCONJ	_	_	0	_	_	_
 29	que	_	SCONJ	_	_	0	_	_	_
 30	seja	_	AUX	_	_	0	_	_	_
-31	dada	_	VERB	_	_	0	_	_	_
+31	dada	_	PCP	_	_	0	_	_	_
 32	a	_	ADP	_	_	0	_	_	_
 33	os	_	DET	_	_	0	_	_	_
 34	palestinos	_	NOUN	_	_	0	_	_	_
@@ -51494,7 +51494,7 @@
 2	dois	_	NUM	_	_	0	_	_	_
 3	atentados	_	NOUN	_	_	0	_	_	_
 4	foram	_	AUX	_	_	0	_	_	_
-5	reivindicados	_	VERB	_	_	0	_	_	_
+5	reivindicados	_	PCP	_	_	0	_	_	_
 6	por	_	ADP	_	_	0	_	_	_
 7	o	_	DET	_	_	0	_	_	_
 8	Hamas	_	PROPN	_	_	0	_	_	_
@@ -51554,7 +51554,7 @@
 8	população	_	NOUN	_	_	0	_	_	_
 9	bósnia	_	ADJ	_	_	0	_	_	_
 10	foram	_	AUX	_	_	0	_	_	_
-11	suspensos	_	VERB	_	_	0	_	_	_
+11	suspensos	_	PCP	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	assim	_	ADV	_	_	0	_	_	_
 14	como	_	ADV	_	_	0	_	_	_
@@ -51583,7 +51583,7 @@
 2	nome	_	NOUN	_	_	0	_	_	_
 3	não	_	ADV	_	_	0	_	_	_
 4	foi	_	AUX	_	_	0	_	_	_
-5	divulgado	_	VERB	_	_	0	_	_	_
+5	divulgado	_	PCP	_	_	0	_	_	_
 6	.	_	PUNCT	_	_	0	_	_	_
 
 1	O	_	DET	_	_	0	_	_	_
@@ -51659,7 +51659,7 @@
 61	mantiverem	_	VERB	_	_	0	_	_	_
 62	"	_	PUNCT	_	_	0	_	_	_
 63	armas	_	NOUN	_	_	0	_	_	_
-64	apontadas	_	VERB	_	_	0	_	_	_
+64	apontadas	_	PCP	_	_	0	_	_	_
 65	para	_	ADP	_	_	0	_	_	_
 66	a	_	DET	_	_	0	_	_	_
 67	cabeça	_	NOUN	_	_	0	_	_	_
@@ -51700,7 +51700,7 @@
 29	fundamentalistas	_	NOUN	_	_	0	_	_	_
 30	muçulmanos	_	ADJ	_	_	0	_	_	_
 31	tenham	_	AUX	_	_	0	_	_	_
-32	colocado	_	VERB	_	_	0	_	_	_
+32	colocado	_	PCP	_	_	0	_	_	_
 33	as	_	DET	_	_	0	_	_	_
 34	bombas	_	NOUN	_	_	0	_	_	_
 35	para	_	ADP	_	_	0	_	_	_
@@ -51715,13 +51715,13 @@
 44	Paulo	_	PROPN	_	_	0	_	_	_
 45	2º	_	PROPN	_	_	0	_	_	_
 46	,	_	PUNCT	_	_	0	_	_	_
-47	prevista	_	VERB	_	_	0	_	_	_
+47	prevista	_	PCP	_	_	0	_	_	_
 48	para	_	ADP	_	_	0	_	_	_
 49	maio	_	NOUN	_	_	0	_	_	_
 50	.	_	PUNCT	_	_	0	_	_	_
 
 1	Foi	_	AUX	_	_	0	_	_	_
-2	discutido	_	VERB	_	_	0	_	_	_
+2	discutido	_	PCP	_	_	0	_	_	_
 3	um	_	DET	_	_	0	_	_	_
 4	plano	_	NOUN	_	_	0	_	_	_
 5	de	_	ADP	_	_	0	_	_	_
@@ -51771,7 +51771,7 @@
 13	de	_	ADP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
 15	mês	_	NOUN	_	_	0	_	_	_
-16	passado	_	VERB	_	_	0	_	_	_
+16	passado	_	PCP	_	_	0	_	_	_
 17	em	_	ADP	_	_	0	_	_	_
 18	Klagenfurt	_	PROPN	_	_	0	_	_	_
 19	(	_	PUNCT	_	_	0	_	_	_
@@ -51780,7 +51780,7 @@
 22	,	_	PUNCT	_	_	0	_	_	_
 23	afirmou	_	VERB	_	_	0	_	_	_
 24	ter	_	AUX	_	_	0	_	_	_
-25	recebido	_	VERB	_	_	0	_	_	_
+25	recebido	_	PCP	_	_	0	_	_	_
 26	dia	_	NOUN	_	_	0	_	_	_
 27	28	_	NUM	_	_	0	_	_	_
 28	uma	_	NUM	_	_	0	_	_	_
@@ -51799,11 +51799,11 @@
 41	ano	_	NOUN	_	_	0	_	_	_
 42	que	_	SCONJ	_	_	0	_	_	_
 43	está	_	VERB	_	_	0	_	_	_
-44	condenado	_	VERB	_	_	0	_	_	_
+44	condenado	_	PCP	_	_	0	_	_	_
 45	o	_	DET	_	_	0	_	_	_
 46	líder	_	NOUN	_	_	0	_	_	_
 47	neonazista	_	ADJ	_	_	0	_	_	_
-48	preso	_	VERB	_	_	0	_	_	_
+48	preso	_	PCP	_	_	0	_	_	_
 49	Gottfried	_	PROPN	_	_	0	_	_	_
 50	Küssel	_	PROPN	_	_	0	_	_	_
 51	Livro	_	NOUN	_	_	0	_	_	_
@@ -52025,9 +52025,9 @@
 50	de	_	ADP	_	_	0	_	_	_
 51	900	_	NUM	_	_	0	_	_	_
 52	pessoas	_	NOUN	_	_	0	_	_	_
-53	desaparecidas	_	VERB	_	_	0	_	_	_
+53	desaparecidas	_	PCP	_	_	0	_	_	_
 54	ou	_	CONJ	_	_	0	_	_	_
-55	mortas	_	VERB	_	_	0	_	_	_
+55	mortas	_	PCP	_	_	0	_	_	_
 56	.	_	PUNCT	_	_	0	_	_	_
 
 1	Ontem	_	ADV	_	_	0	_	_	_
@@ -52048,7 +52048,7 @@
 5	exposição	_	NOUN	_	_	0	_	_	_
 6	com	_	ADP	_	_	0	_	_	_
 7	objetos	_	NOUN	_	_	0	_	_	_
-8	recuperados	_	VERB	_	_	0	_	_	_
+8	recuperados	_	PCP	_	_	0	_	_	_
 9	de	_	ADP	_	_	0	_	_	_
 10	o	_	DET	_	_	0	_	_	_
 11	naufrágio	_	NOUN	_	_	0	_	_	_
@@ -52061,10 +52061,10 @@
 18	1912	_	NUM	_	_	0	_	_	_
 19	,	_	PUNCT	_	_	0	_	_	_
 20	está	_	VERB	_	_	0	_	_	_
-21	programada	_	VERB	_	_	0	_	_	_
+21	programada	_	PCP	_	_	0	_	_	_
 22	para	_	ADP	_	_	0	_	_	_
 23	ser	_	AUX	_	_	0	_	_	_
-24	aberta	_	VERB	_	_	0	_	_	_
+24	aberta	_	PCP	_	_	0	_	_	_
 25	em	_	ADP	_	_	0	_	_	_
 26	o	_	DET	_	_	0	_	_	_
 27	próximo	_	ADJ	_	_	0	_	_	_
@@ -52095,7 +52095,7 @@
 15	de	_	ADP	_	_	0	_	_	_
 16	Tiananmen	_	PROPN	_	_	0	_	_	_
 17	havia	_	AUX	_	_	0	_	_	_
-18	acontecido	_	VERB	_	_	0	_	_	_
+18	acontecido	_	PCP	_	_	0	_	_	_
 19	apenas	_	ADV	_	_	0	_	_	_
 20	quatro	_	NUM	_	_	0	_	_	_
 21	meses	_	NOUN	_	_	0	_	_	_
@@ -52158,7 +52158,7 @@
 13	em	_	ADP	_	_	0	_	_	_
 14	o	_	DET	_	_	0	_	_	_
 15	ano	_	NOUN	_	_	0	_	_	_
-16	passado	_	VERB	_	_	0	_	_	_
+16	passado	_	PCP	_	_	0	_	_	_
 17	.	_	PUNCT	_	_	0	_	_	_
 
 1	A	_	ADP	_	_	0	_	_	_
@@ -52174,7 +52174,7 @@
 11	os	_	DET	_	_	0	_	_	_
 12	jornalistas	_	NOUN	_	_	0	_	_	_
 13	foram	_	AUX	_	_	0	_	_	_
-14	obrigados	_	VERB	_	_	0	_	_	_
+14	obrigados	_	PCP	_	_	0	_	_	_
 15	a	_	ADP	_	_	0	_	_	_
 16	abandonar	_	VERB	_	_	0	_	_	_
 17	o	_	DET	_	_	0	_	_	_
@@ -52207,7 +52207,7 @@
 2	pessoas	_	NOUN	_	_	0	_	_	_
 3	já	_	ADV	_	_	0	_	_	_
 4	foram	_	AUX	_	_	0	_	_	_
-5	detidas	_	VERB	_	_	0	_	_	_
+5	detidas	_	PCP	_	_	0	_	_	_
 6	sob	_	ADP	_	_	0	_	_	_
 7	suspeita	_	NOUN	_	_	0	_	_	_
 8	de	_	ADP	_	_	0	_	_	_
@@ -52244,8 +52244,8 @@
 1	A	_	DET	_	_	0	_	_	_
 2	notícia	_	NOUN	_	_	0	_	_	_
 3	havia	_	AUX	_	_	0	_	_	_
-4	sido	_	VERB	_	_	0	_	_	_
-5	dada	_	VERB	_	_	0	_	_	_
+4	sido	_	PCP	_	_	0	_	_	_
+5	dada	_	PCP	_	_	0	_	_	_
 6	de	_	ADP	_	_	0	_	_	_
 7	manhã	_	NOUN	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
@@ -52271,7 +52271,7 @@
 4	sem	_	ADP	_	_	0	_	_	_
 5	a	_	DET	_	_	0	_	_	_
 6	pompa	_	NOUN	_	_	0	_	_	_
-7	vista	_	VERB	_	_	0	_	_	_
+7	vista	_	PCP	_	_	0	_	_	_
 8	em	_	ADP	_	_	0	_	_	_
 9	a	_	DET	_	_	0	_	_	_
 10	Alemanha	_	PROPN	_	_	0	_	_	_
@@ -52341,7 +52341,7 @@
 32	passo	_	NOUN	_	_	0	_	_	_
 33	rumo	_	ADP	_	_	0	_	_	_
 34	a	_	ADP	_	_	0	_	_	_
-35	aspirada	_	VERB	_	_	0	_	_	_
+35	aspirada	_	PCP	_	_	0	_	_	_
 36	unificação	_	NOUN	_	_	0	_	_	_
 37	com	_	ADP	_	_	0	_	_	_
 38	a	_	DET	_	_	0	_	_	_
@@ -52402,7 +52402,7 @@
 1	Só	_	ADV	_	_	0	_	_	_
 2	poderá	_	AUX	_	_	0	_	_	_
 3	ser	_	AUX	_	_	0	_	_	_
-4	encontrada	_	VERB	_	_	0	_	_	_
+4	encontrada	_	PCP	_	_	0	_	_	_
 5	uma	_	DET	_	_	0	_	_	_
 6	solução	_	NOUN	_	_	0	_	_	_
 7	que	_	SCONJ	_	_	0	_	_	_
@@ -52434,7 +52434,7 @@
 4	de	_	ADP	_	_	0	_	_	_
 5	as	_	DET	_	_	0	_	_	_
 6	minas	_	NOUN	_	_	0	_	_	_
-7	colocadas	_	VERB	_	_	0	_	_	_
+7	colocadas	_	PCP	_	_	0	_	_	_
 8	por	_	ADP	_	_	0	_	_	_
 9	Cuba	_	PROPN	_	_	0	_	_	_
 10	para	_	ADP	_	_	0	_	_	_
