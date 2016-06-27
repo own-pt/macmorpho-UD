@@ -643,7 +643,6 @@
 (-> ">_>" "\>_PUNCT" :mm)
 (-> "\"\_\"" "\"_PUNCT" :mm)
 (-> "\'\_\'" "\'_PUNCT" :mm)
-(-> "*_PCP" "*_V" :dd)
 (-> "*_PDEN" "*_ADV" :dd)
 (-> "*_PREP" "*_ADP" :mm)
 (-> "*_VAUX" "*_AUX" :mm)
