@@ -19,7 +19,8 @@
 (convert-conllu "macmorpho-v1-dev-UD.txt"   "macmorpho-v1-dev.conllu")
 
 (tabulate-log "out-1.log" "out-1.tab")
-(print (rules-not-used "ud-remove-pcp.lisp" "out-1.tab"))
+(format *standard-output* "not used in ud-remove-pcp : ~% ~{~a~%~}~%"
+	(rules-not-used "ud-remove-pcp.lisp" "out-1.tab"))
 
 (process-macmorpho "ud-keep-pcp.lisp" "out-2.log")
 
@@ -28,6 +29,7 @@
 (convert-conllu "macmorpho-v1-dev-UD.txt"   "macmorpho-v1-dev-pcp.conllu")
 
 (tabulate-log "out-2.log" "out-2.tab")
-(print (rules-not-used "ud-keep-pcp.lisp" "out-2.tab"))
+(format *standard-output* "not used in ud-keep-pcp :~% ~{~a~%~}~%"
+	(rules-not-used "ud-keep-pcp.lisp" "out-2.tab"))
 
 (sb-ext:quit)

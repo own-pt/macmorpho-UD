@@ -11,13 +11,15 @@ Using the version 1 of Mac-Morpho execute:
 $ sbcl --load process.lisp
 #+END_SRC
 
-This will procute the files macmorpho-v1-{train,test,dev}-UD.txt and
-the macmorpho-v1-{train,test,dev}-UD.conllu files.
+This will produce the files:
+
+- macmorpho-v1-{train,test,dev}-UD.conllu and
+- macmorpho-v1-{train,test,dev}-UD-pcp.conllu
 
 * Input Files
 
-- http://nilc.icmc.usp.br/macmorpho/macmorpho-v1.tgz
-- Files: macmorpho-v1-{dev,train,test}.txt
+The files macmorpho-v1-{dev,train,test}.txt from 
+http://nilc.icmc.usp.br/macmorpho/macmorpho-v1.tgz 
 
 * Team
 
@@ -26,9 +28,20 @@ the macmorpho-v1-{train,test,dev}-UD.conllu files.
 - Fabricio Chalub
 - Alexandre Rademaker
 
-* Dependencies
+* We used 
 
 - [[http://sbcl.org][SBCL Common Lisp]]
 - http://quicklisp.org
-- https://github.com/own-pt/cl-pcp
+- https://github.com/own-pt/cl-tag-rewriting
 
+* License
+
+#+BEGIN_HTML
+<a rel="license"href="http://creativecommons.org/licenses/by/4.0/">
+ <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
+<br/>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+Creative Commons Attribution 4.0 International License</a>.
+#+END_HTML
+
+More in LICENSE file.
