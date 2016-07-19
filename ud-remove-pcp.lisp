@@ -58,7 +58,7 @@
 ;; regra PCP 6
 (-> "*_PCP por_PREP" "*_V por_PREP" :mm)
 
-;; regra PCP 7
+;; regra PCP 7 -- particípios que sempre desempenham papapel de adjetivo no MM
 (-> "*_N passad*_PCP" "*_N passad*_ADJ" :mm)
 (-> "fixo_PCP" "fixo_ADJ" :mm)
 (-> "fixa_PCP" "fixa_ADJ" :mm)
@@ -127,7 +127,7 @@
 (-> "aposentad*_PCP" "aposentad*_ADJ" :dd)
 (-> "constrangid*_PCP" "constrangid*_ADJ" :mm)
 
-;; regra PCP 8
+;; regra PCP 8 -- particípios que sempre desempenham papapel de verbo no MM
 (-> "ocorrid*_PCP" "ocorrid*_V" :mm)
 (-> "desejad*_PCP" "desejad*_V" :dd)
 (-> "sonhad*_PCP" "sonhad*_V" :dd)
