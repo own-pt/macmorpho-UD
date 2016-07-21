@@ -15676,7 +15676,7 @@
 18	1994	_	NUM	_	_	0	_	_	_
 19	somente	_	ADV	_	_	0	_	_	_
 20	é	_	VERB	_	_	0	_	_	_
-21	válido	_	ADJ	_	_	0	_	_	_
+21	válido	_	PCP	_	_	0	_	_	_
 22	quando	_	SCONJ	_	_	0	_	_	_
 23	baseado	_	PCP	_	_	0	_	_	_
 24	em	_	ADP	_	_	0	_	_	_
@@ -37527,7 +37527,7 @@
 8	de	_	ADP	_	_	0	_	_	_
 9	micos-leões	_	NOUN	_	_	0	_	_	_
 10	(	_	PUNCT	_	_	0	_	_	_
-11	dourado	_	ADJ	_	_	0	_	_	_
+11	dourado	_	PCP	_	_	0	_	_	_
 12	,	_	PUNCT	_	_	0	_	_	_
 13	cara-dourada	_	ADJ	_	_	0	_	_	_
 14	,	_	PUNCT	_	_	0	_	_	_
@@ -40983,7 +40983,7 @@
 58	nosso	_	DET	_	_	0	_	_	_
 59	grande	_	ADJ	_	_	0	_	_	_
 60	capital	_	NOUN	_	_	0	_	_	_
-61	privado	_	ADJ	_	_	0	_	_	_
+61	privado	_	PCP	_	_	0	_	_	_
 62	)	_	PUNCT	_	_	0	_	_	_
 63	;	_	PUNCT	_	_	0	_	_	_
 64	de	_	ADP	_	_	0	_	_	_
@@ -44106,7 +44106,7 @@
 15	é	_	VERB	_	_	0	_	_	_
 16	o	_	DET	_	_	0	_	_	_
 17	único	_	NOUN	_	_	0	_	_	_
-18	associado	_	ADJ	_	_	0	_	_	_
+18	associado	_	PCP	_	_	0	_	_	_
 19	a	_	ADP	_	_	0	_	_	_
 20	a	_	DET	_	_	0	_	_	_
 21	agressividade	_	NOUN	_	_	0	_	_	_
