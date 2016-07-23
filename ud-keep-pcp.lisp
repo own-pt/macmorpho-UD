@@ -135,11 +135,10 @@
 (-> "a_ART retomada_PCP de_PREP" "a_ART retomada_N de_PREP" :cr)
 (-> "resultado_PCP de_PREP o_ART" "resultado_N de_PREP o_ART" :cr :dd)
 (-> "de_PREP a_ART largada_PCP" "de_PREP a_ART largada_N" :cr)
-(-> "tocou_V cruzado_PCP" "tocou_V cruzado_ADV" :cr)
 (-> "Resultado_PCP" "Resultado_N" :cr)
 (-> "branquinhos_N e_KC aplicados_PCP" "branquinhos_ADJ e_KC aplicados_ADJ" :cr :mm)
 (-> "após_PREP a_ART largada_PCP" "após_PREP a_ART largada_N" :cr)
-(-> "obrigado_PCP \!\_\!" "obrigado_INTJ \!\_\!" :cr)
+(-> "obrigado_PCP \!\_\!" "obrigado_IN \!\_\!" :cr)
 (-> "cobrou_V fechado_PCP" "cobrou_V fechado_ADV" :cr)
 (-> "o_ART vacilante_ADJ e_KC o_ART derrotado_PCP" "o_ART vacilante_N e_KC o_ART derrotado_N" :cr)
 (-> "os_ART concentrados_PCP" "os_ART concentrados_N" :cr :dd)
@@ -148,10 +147,6 @@
 (-> "a_ART goleada_PCP" "a_ART goleada_N" :cr)
 (-> "chuta_V cruzado_PCP" "chuta_V cruzado_ADV" :cr :dd)
 (-> "que_KS os_PROSUB importados_PCP" "que_KS os_PROSUB importados_N" :cr)
-(-> "Palmeiras_NPROP jogando_V adiantado_PCP" "Palmeiras_NPROP jogando_V adiantado_ADV" :cr :dd)
-(-> "jogue_V retrancado_PCP" "jogue_V retrancado_ADV" :cr :dd)
-(-> "atuando_V improvisado_PCP" "atuando_V improvisado_ADV" :cr :dd)
-(-> "jogar_V encostado_PCP" "jogar_V encostado_ADV" :cr :dd)
 (-> "o_ART integrado_PCP de_PREP" "o_ART integrado_N de_PREP" :cr)
 (-> "coletor_N de_PREP dados_V" "coletor_N de_PREP dados_N" :cr)
 (-> "\(\_\( saída_PCP \)\_\)" "\(\_\( saída_N \)\_\)" :cr)
@@ -542,7 +537,7 @@
 (-> "mesmos_PDEN" "mesmos_PROADJ" :mm)
 (-> "marré_PDEN marré_PDEN" "marré_ADJ marré_ADJ" :dd)
 
-;; correcoes gerais
+;; adaptacoes de tokenizacao/filosofia
 (-> "à_PREP" "a_PREP a_ART" :cr)
 (-> "de_N" "de_PREP" :dd)
 (-> "da_N" "de_PREP a_ART" :dd)

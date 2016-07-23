@@ -3557,7 +3557,7 @@
 (-> "mesmos_PDEN" "mesmos_PROADJ" :mm)
 (-> "marré_PDEN marré_PDEN" "marré_ADJ marré_ADJ" :dd)
 
-;; correcoes gerais
+;; adaptacoes de tokenizacao/filosofia
 (-> "à_PREP" "a_PREP a_ART" :cr)
 (-> "de_N" "de_PREP" :dd)
 (-> "da_N" "de_PREP a_ART" :dd)
