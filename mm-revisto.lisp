@@ -184,7 +184,7 @@
 (-> "e_KC cruzados_PCP" "e_KC cruzados_N" :cr)
 (-> "o_ART maior_ADJ prejudicado_PCP" "o_ART maior_ADJ prejudicado_N" :cr)
 (-> "foi_PCP VAUX_PCP a_PREP" "foi_VAUX a_PREP" :cr)
-(-> "O_ART candidado_PCP de_PREP o_ART PRONA_NPROP" "O_ART candidato_N de_PREP o_ART PRONA_NPROP" :cr)
+(-> "O_ART candidado_PCP de_PREP o_ART PRONA_NPROP" "O_ART candidado_N de_PREP o_ART PRONA_NPROP" :cr :typo)
 (-> "Rio_NPROP é_V resultado_PCP de_PREP" "Rio_NPROP é_V resultado_N de_PREP" :cr)
 (-> "por_PREP seus_PROADJ governados_PCP" "por_PREP seus_PROADJ governados_N" :cr)
 (-> "bronzeamento_N é_V resultado_PCP de_PREP" "bronzeamento_N é_V resultado_N de_PREP" :cr)
