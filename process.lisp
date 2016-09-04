@@ -16,6 +16,7 @@
 
 (process-macmorpho "ud-remove-pcp.lisp" "remove-pcp" "ud-remove-pcp.log")
 (process-macmorpho "ud-keep-pcp.lisp" "keep-pcp" "ud-keep-pcp.log")
+(process-macmorpho "mm-revisto.lisp" "mm-revisto" "mm-revisto.log")
 
 ;; (tabulate-log "out-2.log" "out-2.tab")
 ;; (format *standard-output* "not used in ud-keep-pcp :~% ~{~a~%~}~%"
