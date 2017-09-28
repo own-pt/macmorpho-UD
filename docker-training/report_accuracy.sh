@@ -1,0 +1,5 @@
+DOCKER_COMMAND=$1
+MODEL=$2
+TESTFILE=$3
+
+$DOCKER_COMMAND --accuracy --tag "$MODEL.output" $TESTFILE
