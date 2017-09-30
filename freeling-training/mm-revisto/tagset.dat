@@ -1,0 +1,46 @@
+<DecompositionRules>
+</DecompositionRules>
+<DirectTranslations>
+` ` 
+= = 
+- - 
+, , 
+; ; 
+: : 
+! ! 
+? ? 
+/ / 
+. . 
+... ... 
+' ' 
+" " 
+( ( 
+(( (( 
+) ) 
+)) )) 
+[ [ 
+$ $ 
+ADJ ADJ 
+ADV ADV 
+ADV-KS ADV-KS 
+ADV-KS-REL ADV-KS-REL 
+ART ART 
+CUR CUR 
+IN IN 
+KC KC 
+KS KS 
+N N 
+NIL NIL 
+NPROP NPROP 
+NUM NUM 
+PCP PCP 
+PDEN PDEN 
+PREP PREP 
+PROADJ PROADJ 
+PRO-KS PRO-KS 
+PRO-KS-REL PRO-KS-REL 
+PROPESS PROPESS 
+PROSUB PROSUB 
+V V 
+VAUX VAUX 
+</DirectTranslations>
