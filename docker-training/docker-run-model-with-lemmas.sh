@@ -8,7 +8,7 @@ CONTAINER_NAME=$5	       # should be set as equal to --name value in docker comm
 LEMMA_PREFIX=$6 		# if null, no prefix in name file (so we won't expect it's lemmatized)
                                 # for instance, "lemmas-" 
 
-./train_model.sh "$DOCKER_COMMAND" $DIR/$CONTAINER_NAME-model $DIR/${LEMMA_PREFIX}macmorpho-v1-dev-$DATASET_NAME.conllu $DIR/${LEMMA_PREFIX}macmorpho-v1-train-$DATASET_NAME.conllu $ITERATIONS;
+./train_model_with_lemmas.sh "$DOCKER_COMMAND" $DIR/$CONTAINER_NAME-model $DIR/${LEMMA_PREFIX}macmorpho-v1-dev-$DATASET_NAME.conllu $DIR/${LEMMA_PREFIX}macmorpho-v1-train-$DATASET_NAME.conllu $ITERATIONS;
 
 if [[ ! -z $CONTAINER_NAME ]] ; 	# true if CONTAINER_NAME is set
 then docker wait $CONTAINER_NAME ;
