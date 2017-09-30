@@ -1,0 +1,8 @@
+`run_analyzer.sh` usage:
+
+```bash
+# dataset in {keep-pcp,remove-pcp,mm-revisto}
+./run_analyzer.sh $CONLLU_DATA $dataset
+```
+
+Perhaps some paths to files in .cfg files must be changed, but the learned models are in directories {keep-pcp,remove-pcp,mm-revisto}
