@@ -3,7 +3,6 @@
    2353 ERROR - 'mais' apppears as DET and as ADV.
    2129 ERROR - 'como' apppears as SCONJ and as ADP.
    1479 ERROR - 'sobre' apppears as PROPN and as ADP.
-   1412 Unknown tag NIL
    1346 ERROR - 'foi' apppears as AUX and as VERB.
    1211 ERROR - 'se' apppears as PRON and as SCONJ.
    1177 ERROR - 'o' apppears as DET and as PRON.
@@ -60,12 +59,12 @@
     189 ERROR - 'todos' apppears as DET and as PRON.
     189 ERROR - 'tinha' apppears as AUX and as VERB.
     187 ERROR - 'acordo' apppears as ADP and as NOUN.
+    185 ERROR - 't' apppears as NOUN and as PROPN.
     181 ERROR - 'nacional' apppears as PROPN and as ADJ.
     179 ERROR - 'polícia' apppears as PROPN and as NOUN.
     177 ERROR - 'mundial' apppears as ADJ and as PROPN.
     177 ERROR - 'direito' apppears as PROPN and as NOUN.
     176 ERROR - 'havia' apppears as VERB and as AUX.
-    172 ERROR - 't' apppears as NOUN and as NIL.
     172 ERROR - 'próprio' apppears as PRON and as DET.
     172 ERROR - 'informações' apppears as PROPN and as NOUN.
     171 ERROR - 'arte' apppears as PROPN and as NOUN.
@@ -694,7 +693,6 @@
      20 ERROR - 'italiano' apppears as ADJ and as NOUN.
      20 ERROR - 'imagem' apppears as NOUN and as PROPN.
      20 ERROR - 'ilha' apppears as PROPN and as NOUN.
-     20 ERROR - 'i' apppears as NIL and as PROPN.
      20 ERROR - 'horizonte' apppears as PROPN and as NOUN.
      20 ERROR - 'global' apppears as PROPN and as ADJ.
      20 ERROR - 'gal' apppears as NOUN and as PROPN.
@@ -813,6 +811,7 @@
      17 ERROR - 'conta' apppears as NOUN and as ADP.
      17 ERROR - 'colocado' apppears as VERB and as NOUN.
      17 ERROR - 'cavalo' apppears as NOUN and as PROPN.
+     17 ERROR - 'c' apppears as NOUN and as PROPN.
      17 ERROR - 'amistoso' apppears as ADJ and as NOUN.
      17 ERROR - 'ambos' apppears as PRON and as DET.
      17 ERROR - 'aberto' apppears as ADJ and as VERB.
@@ -850,7 +849,6 @@
      16 ERROR - 'contrário' apppears as NOUN and as ADJ.
      16 ERROR - 'conferência' apppears as NOUN and as PROPN.
      16 ERROR - 'clara' apppears as ADJ and as PROPN.
-     16 ERROR - 'c' apppears as NOUN and as PROPN.
      16 ERROR - 'bandeirantes' apppears as PROPN and as NOUN.
      16 ERROR - 'árabe' apppears as PROPN and as ADJ.
      16 ERROR - 'aplicada' apppears as PROPN and as VERB.
@@ -980,7 +978,6 @@
      13 ERROR - 'terceiro' apppears as ADJ and as PROPN.
      13 ERROR - 'teoria' apppears as NOUN and as PROPN.
      13 ERROR - 'técnica' apppears as ADJ and as PROPN.
-     13 ERROR - 't' apppears as NOUN and as PROPN.
      13 ERROR - 'tanto' apppears as ADV and as PRON.
      13 ERROR - 'sobreviventes' apppears as ADJ and as NOUN.
      13 ERROR - 'sé' apppears as NOUN and as PROPN.
@@ -1843,7 +1840,7 @@
       6 ERROR - 'industrial' apppears as ADJ and as NOUN.
       6 ERROR - 'índio' apppears as NOUN and as PROPN.
       6 ERROR - 'ii' apppears as NOUN and as PROPN.
-      6 ERROR - 'i' apppears as NIL and as NOUN.
+      6 ERROR - 'i' apppears as PROPN and as NOUN.
       6 ERROR - 'homossexual' apppears as NOUN and as ADJ.
       6 ERROR - 'hoje' apppears as ADV and as PROPN.
       6 ERROR - 'hebraico' apppears as NOUN and as ADJ.
@@ -3594,6 +3591,7 @@
       2 ERROR - 'sim' apppears as ADV and as NOUN.
       2 ERROR - 'silvestres' apppears as PROPN and as ADJ.
       2 ERROR - 'siderúrgica' apppears as ADJ and as PROPN.
+      2 ERROR - 'si' apppears as PRON and as PROPN.
       2 ERROR - 'sexual' apppears as ADJ and as PROPN.
       2 ERROR - 'seus' apppears as DET and as PROPN.
       2 ERROR - 'sete' apppears as NUM and as ADJ.
@@ -4108,7 +4106,7 @@
       2 ERROR - 'ilusionista' apppears as NOUN and as ADJ.
       2 ERROR - 'idos' apppears as VERB and as NOUN.
       2 ERROR - 'idéias' apppears as NOUN and as PROPN.
-      2 ERROR - 'i' apppears as NIL and as ADJ.
+      2 ERROR - 'i' apppears as PROPN and as ADJ.
       2 ERROR - 'hour' apppears as NOUN and as PROPN.
       2 ERROR - 'host' apppears as PROPN and as NOUN.
       2 ERROR - 'horta' apppears as PROPN and as NOUN.
@@ -5200,8 +5198,6 @@
       1 ERROR - 'siga' apppears as VERB and as PROPN.
       1 ERROR - 'siècle' apppears as PROPN and as NOUN.
       1 ERROR - 'sic' apppears as PROPN and as ADV.
-      1 ERROR - 'si' apppears as PRON and as PROPN.
-      1 ERROR - 'si' apppears as PRON and as NIL.
       1 ERROR - 'show' apppears as PROPN and as ADJ.
       1 ERROR - 'shaft' apppears as PROPN and as NOUN.
       1 ERROR - 'sexy' apppears as ADJ and as PROPN.
@@ -5634,7 +5630,6 @@
       1 ERROR - 'prado' apppears as PROPN and as NOUN.
       1 ERROR - 'pra' apppears as ADP and as PROPN.
       1 ERROR - 'ppp' apppears as NOUN and as PROPN.
-      1 ERROR - 'pp' apppears as PROPN and as NIL.
       1 ERROR - 'povos' apppears as NOUN and as PROPN.
       1 ERROR - 'povoado' apppears as NOUN and as VERB.
       1 ERROR - 'pousada' apppears as NOUN and as VERB.
@@ -6538,8 +6533,8 @@
       1 ERROR - 'idem' apppears as PRON and as ADJ.
       1 ERROR - 'idealizado' apppears as VERB and as ADJ.
       1 ERROR - 'idealista' apppears as NOUN and as ADJ.
+      1 ERROR - 'i' apppears as PROPN and as X.
       1 ERROR - 'i.' apppears as PROPN and as ADV.
-      1 ERROR - 'i' apppears as NIL and as X.
       1 ERROR - 'ia' apppears as AUX and as INTJ.
       1 ERROR - 'hutus' apppears as NOUN and as ADJ.
       1 ERROR - 'húngaro' apppears as ADJ and as NOUN.
@@ -6569,7 +6564,6 @@
       1 ERROR - 'hidrelétrica' apppears as PROPN and as ADJ.
       1 ERROR - 'hidráulica' apppears as ADJ and as NOUN.
       1 ERROR - 'híbrido' apppears as ADJ and as NOUN.
-      1 ERROR - 'hi' apppears as NIL and as PROPN.
       1 ERROR - 'heroína' apppears as NOUN and as ADJ.
       1 ERROR - 'heróica' apppears as ADJ and as PROPN.
       1 ERROR - 'herdeira' apppears as ADJ and as NOUN.
@@ -7678,7 +7672,6 @@
       1 ERROR - 'cara' apppears as ADJ and as ADV.
       1 ERROR - 'captura' apppears as NOUN and as VERB.
       1 ERROR - 'captada' apppears as VERB and as PROPN.
-      1 ERROR - 'c' apppears as NOUN and as NIL.
       1 ERROR - 'capixaba' apppears as ADJ and as NOUN.
       1 ERROR - 'capitania' apppears as PROPN and as NOUN.
       1 ERROR - 'capitalização' apppears as NOUN and as PROPN.
