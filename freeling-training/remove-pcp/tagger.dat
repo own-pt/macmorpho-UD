@@ -1,6 +1,7 @@
 <TagsetFile>
 ./tagset.dat
-</TagsetFile><Tag>
+</TagsetFile>
+<Tag>
 0 1.09168507148453e-06
 ADJ 0.04851458382087
 ADP 0.150794558168256
