@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360011>
+Subject: Job 1396116: <./train-complete-data.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/PerceptronSequenceTrainerParams.txt remove-pcp PerceptronSequence> in cluster <brl> Exited
+
+Job <./train-complete-data.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/PerceptronSequenceTrainerParams.txt remove-pcp PerceptronSequence> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360011>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train-complete-data.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/PerceptronSequenceTrainerParams.txt remove-pcp PerceptronSequence
+------------------------------------------------------------
+
+Exited with exit code 255.
+
+Resource usage summary:
+
+    CPU time :                                   123.52 sec.
+    Max Memory :                                 2879 MB
+    Average Memory :                             1599.45 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   76 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396116.err> for stderr output of this job.
+

@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360007>
+Subject: Job 1396114: <./train-complete-data.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentTrainerParams.txt remove-pcp Maxent> in cluster <brl> Done
+
+Job <./train-complete-data.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentTrainerParams.txt remove-pcp Maxent> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360007>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train-complete-data.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentTrainerParams.txt remove-pcp Maxent
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   287.45 sec.
+    Max Memory :                                 1682 MB
+    Average Memory :                             1338.88 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                57
+    Run time :                                   308 sec.
+    Turnaround time :                            839 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396114.err> for stderr output of this job.
+

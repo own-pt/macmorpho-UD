@@ -1,0 +1,153 @@
+Sender: LSF System <lsfadmin@nx360008>
+Subject: Job 1396118: <./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt remove-pcp Perceptron> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt remove-pcp Perceptron> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360008>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt remove-pcp Perceptron
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   209.66 sec.
+    Max Memory :                                 1736 MB
+    Average Memory :                             728.37 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   343 sec.
+    Turnaround time :                            635 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@idpx003>
+Subject: Job 1396119: <./train-complete-data.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt remove-pcp Perceptron> in cluster <brl> Done
+
+Job <./train-complete-data.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt remove-pcp Perceptron> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <idpx003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train-complete-data.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt remove-pcp Perceptron
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   345.45 sec.
+    Max Memory :                                 1822 MB
+    Average Memory :                             757.73 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   482 sec.
+    Turnaround time :                            487 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@idpx003>
+Subject: Job 1396120: <./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt mm-revisto MaxentQN> in cluster <brl> Exited
+
+Job <./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt mm-revisto MaxentQN> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <idpx003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt mm-revisto MaxentQN
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time :                                   0.12 sec.
+    Max Memory :                                 27 MB
+    Average Memory :                             15.33 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   29 sec.
+    Turnaround time :                            33 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@nx360003>
+Subject: Job 1396121: <./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt mm-revisto MaxentQN> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt mm-revisto MaxentQN> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho PerceptronTrainerParams.txt mm-revisto MaxentQN
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   322.92 sec.
+    Max Memory :                                 3241 MB
+    Average Memory :                             1581.18 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   427 sec.
+    Turnaround time :                            843 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <.err> for stderr output of this job.
+

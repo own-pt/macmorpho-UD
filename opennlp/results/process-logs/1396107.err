@@ -1,0 +1,11 @@
+Exception in thread "main" java.lang.NullPointerException
+	at opennlp.tools.ml.perceptron.SimplePerceptronSequenceTrainer.nextIteration(SimplePerceptronSequenceTrainer.java:306)
+	at opennlp.tools.ml.perceptron.SimplePerceptronSequenceTrainer.findParameters(SimplePerceptronSequenceTrainer.java:214)
+	at opennlp.tools.ml.perceptron.SimplePerceptronSequenceTrainer.trainModel(SimplePerceptronSequenceTrainer.java:191)
+	at opennlp.tools.ml.perceptron.SimplePerceptronSequenceTrainer.doTrain(SimplePerceptronSequenceTrainer.java:116)
+	at opennlp.tools.ml.perceptron.SimplePerceptronSequenceTrainer.doTrain(SimplePerceptronSequenceTrainer.java:46)
+	at opennlp.tools.ml.AbstractEventModelSequenceTrainer.train(AbstractEventModelSequenceTrainer.java:37)
+	at opennlp.tools.postag.POSTaggerME.train(POSTaggerME.java:249)
+	at opennlp.tools.cmdline.postag.POSTaggerTrainerTool.run(POSTaggerTrainerTool.java:125)
+	at opennlp.tools.cmdline.CLI.main(CLI.java:256)
+The POS Tagger model file does not exist! Path: /dados/gpaulino/macmorpho/pt-keep-pcp-PerceptronSequence

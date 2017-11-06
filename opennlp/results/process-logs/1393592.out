@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360006>
+Subject: Job 1393592: <./train-bosque.sh /dados/gpaulino/macmorpho-bosque /dados/gpaulino/macmorpho-bosque/MaxentQNTrainerParams.txt MaxentQN> in cluster <brl> Done
+
+Job <./train-bosque.sh /dados/gpaulino/macmorpho-bosque /dados/gpaulino/macmorpho-bosque/MaxentQNTrainerParams.txt MaxentQN> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360006>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho-bosque> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train-bosque.sh /dados/gpaulino/macmorpho-bosque /dados/gpaulino/macmorpho-bosque/MaxentQNTrainerParams.txt MaxentQN
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1009.19 sec.
+    Max Memory :                                 3958 MB
+    Average Memory :                             3655.85 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   986 sec.
+    Turnaround time :                            1332 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1393592.err> for stderr output of this job.
+

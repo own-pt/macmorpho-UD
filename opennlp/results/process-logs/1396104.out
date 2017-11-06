@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360011>
+Subject: Job 1396104: <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/NaiveBayesTrainerParams.txt keep-pcp NaiveBayes> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/NaiveBayesTrainerParams.txt keep-pcp NaiveBayes> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360011>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/NaiveBayesTrainerParams.txt keep-pcp NaiveBayes
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   74.37 sec.
+    Max Memory :                                 1589 MB
+    Average Memory :                             498.18 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   263 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396104.err> for stderr output of this job.
+

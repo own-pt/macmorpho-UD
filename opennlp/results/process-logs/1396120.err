@@ -1,0 +1,31 @@
+Writing pos tagger model ... Compressed 375301 parameters to 154422
+4699 outcome patterns
+done (11,828s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-remove-pcp-Perceptron
+
+Execution time: 228,028 seconds
+Loading POS Tagger model ... done (6,003s)
+Execution time: 25,157 seconds
+Writing pos tagger model ... Compressed 414631 parameters to 172040
+4949 outcome patterns
+done (12,048s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-remove-pcp-Perceptron-complete
+
+Execution time: 363,627 seconds
+Loading POS Tagger model ... done (5,271s)
+Execution time: 12,224 seconds
+Terminado
+Writing pos tagger model ... Compressed 376102 parameters to 156004
+16781 outcome patterns
+done (14,751s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-mm-revisto-MaxentQN
+
+Execution time: 312,168 seconds
+Loading POS Tagger model ... done (5,074s)
+Execution time: 25,879 seconds

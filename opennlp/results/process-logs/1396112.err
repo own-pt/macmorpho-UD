@@ -1,0 +1,10 @@
+Writing pos tagger model ... Compressed 376102 parameters to 156004
+16781 outcome patterns
+done (20,387s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-mm-revisto-Perceptron
+
+Execution time: 340,333 seconds
+Loading POS Tagger model ... done (4,110s)
+Execution time: 25,571 seconds

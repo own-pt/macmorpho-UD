@@ -1,0 +1,13 @@
+Indexing events with OnePass using cutoff of 0
+
+	Computing event counts...  done. 1007636 events
+	Indexing...  done.
+Sorting and merging events... Done indexing in 8,44 s.
+Incorporating indexed data for training...  
+done.
+	Number of Event Tokens: 1007636
+	    Number of Outcomes: 42
+	  Number of Predicates: 376102
+Computing model parameters...
+Performing 300 iterations.
+  1:  
