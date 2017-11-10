@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-11-10 sex 17:26 -->
+<!-- 2017-11-10 sex 17:27 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Experiment 2:</title>
+<title>MacMorpho - OpenNLP report</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Guilherme Paulino Passos" />
 <style type="text/css">
@@ -228,7 +228,110 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Experiment 2:</h1>
+<h1 class="title">MacMorpho - OpenNLP report</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org32973b5">1. Results</a>
+<ul>
+<li><a href="#org3c7fb8e">1.1. Experiment 1</a></li>
+<li><a href="#org3aae53a">1.2. Experiment 2</a></li>
+</ul>
+</li>
+<li><a href="#org24f4136">2. Execution</a></li>
+<li><a href="#org2ba7362">3. References</a></li>
+</ul>
+</div>
+</div>
+<p>
+Brief report about results on training OpenNLP's models on MacMorpho and Bosque data.
+</p>
+
+<p>
+Available models are:
+</p>
+<dl class="org-dl">
+<dt>Maxent</dt><dd>Maximum Entropy (Generalized Iterative Scaling method)</dd>
+<dt>MaxentQN</dt><dd>Maximum Entropy (with QuasiNewton method)</dd>
+<dt>NaiveBayes</dt><dd>Naive Bayes</dd>
+<dt>Perceptron</dt><dd>Perceptron (binary, it seems)</dd>
+<dt>PerceptronSequence</dt><dd>Perceptron for sequences (unclear from documentation)
+Although is listed, it isn't working: it gives a NullPointerException</dd>
+</dl>
+
+
+<p>
+We ran 2 experiments:
+</p>
+<dl class="org-dl">
+<dt>Experiment 1</dt><dd>For each OpenNLP model and each Macmorpho tagset version (UD, UD+PCP, MM), we trained in the train+dev divisions, and evaluated in test division. Our hypothesis is that coarser datasets are easy to learn.</dd>
+
+<dt>Experiment 2</dt><dd>We trained the tagger with macmorpho UD (without PCP), using it entirely as training set (train+dev+test). We evaluated it in Bosque (test). We compared our result to the tagger trained in Bosque (train+dev) and evaluated in Bosque (test).</dd>
+</dl>
+
+
+<div id="outline-container-org32973b5" class="outline-2">
+<h2 id="org32973b5"><span class="section-number-2">1</span> Results</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-org3c7fb8e" class="outline-3">
+<h3 id="org3c7fb8e"><span class="section-number-3">1.1</span> Experiment 1</h3>
+<div class="outline-text-3" id="text-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-right">MaxEnt</th>
+<th scope="col" class="org-right">MaxEntQN</th>
+<th scope="col" class="org-right">NaiveBayes</th>
+<th scope="col" class="org-right">Perceptron</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">keep-pcp</td>
+<td class="org-right">0.9624</td>
+<td class="org-right">0.9623</td>
+<td class="org-right">0.9391</td>
+<td class="org-right">0.9611</td>
+</tr>
+
+<tr>
+<td class="org-left">remove-pcp</td>
+<td class="org-right">0.9607</td>
+<td class="org-right">0.9545</td>
+<td class="org-right">0.9378</td>
+<td class="org-right">0.9597</td>
+</tr>
+
+<tr>
+<td class="org-left">mm-revisto</td>
+<td class="org-right">0.9594</td>
+<td class="org-right">0.9587</td>
+<td class="org-right">0.9300</td>
+<td class="org-right">0.9587</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org3aae53a" class="outline-3">
+<h3 id="org3aae53a"><span class="section-number-3">1.2</span> Experiment 2</h3>
+<div class="outline-text-3" id="text-1-2">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 <caption class="t-above"><span class="table-number">Table 1:</span> <span class="underline">remove-pcp</span> :: model trained on the entire macmorpho with UD labels and evaluated in Bosque-test <br />
  <span class="underline">bosque</span> :: model trained on Bosque-(train+dev) and evaluated in Bosque-test <br />
@@ -281,9 +384,92 @@ for the JavaScript code in this tag.
 </tbody>
 </table>
 </div>
+</div>
+</div>
+
+
+
+<div id="outline-container-org24f4136" class="outline-2">
+<h2 id="org24f4136"><span class="section-number-2">2</span> Execution</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Trained in BRL cluster.
+</p>
+
+<p>
+Scripts and data are in the repository (branch <code>experiment</code>):
+<code>/macmorpho/opennlp/training-files</code>
+</p>
+
+<p>
+Raw result files as well: <code>/macmorpho/opennlp/results</code>
+</p>
+
+<p>
+For training for both experiments, the following steps were taken:
+</p>
+
+<ol class="org-ol">
+<li><p>
+Merging train and dev (OpenNLP does not use held-out (validation) data in training, it seems)
+</p>
+<div class="org-src-container">
+<pre class="src src-bash">for i in {keep-pcp,mm-revisto,remove-pcp} ; do cat macmorpho-v1-dev-$i.conllu &gt;&gt; macmorpho-v1-train-$i.conllu ; mv macmorpho-v1-train-$i.conllu macmorpho-v1-train-and-dev-$i.conllu ; done
+</pre>
+</div></li>
+<li><p>
+Producing files with complete data (train + dev + test) in order to compare with Bosque (experiment 2)
+</p>
+<div class="org-src-container">
+<pre class="src src-bash">for i in {keep-pcp,mm-revisto,remove-pcp} ; do
+    cat macmorpho-v1-train-and-dev-$i.conllu &gt;&gt; macmorpho-v1-full-$i.conllu ;
+    cat macmorpho-v1-test-$i.conllu &gt;&gt; macmorpho-v1-full-$i.conllu ;
+done
+</pre>
+</div></li>
+<li>Scripts suffixed by <code>-complete-data</code> created in order to train with full data as well.</li>
+<li><p>
+Train with:
+</p>
+<ul class="org-ul">
+<li>run-params.sh</li>
+<li>run-params-complete-data.sh</li>
+</ul>
+<p>
+I'm using these in order to use train different models.
+</p></li>
+</ol>
+
+<p>
+A similar procedure was done for Bosque (UD<sub>Portuguese</sub>, official 2.0 release), in order to train it with OpenNLP:
+</p>
+<ol class="org-ol">
+<li>Merging train and dev</li>
+<li>Scripts suffixed by <code>-bosque</code> in order to train with bosque.</li>
+<li>Train with <code>run-params-bosque.sh</code>.</li>
+</ol>
+
+
+<p>
+For each dataset, one model is trained for each *TrainerParams.txt file:
+Maxent, MaxentQN, NaiveBayes, Perceptron, PerceptronSequence
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ba7362" class="outline-2">
+<h2 id="org2ba7362"><span class="section-number-2">3</span> References</h2>
+<div class="outline-text-2" id="text-3">
+<ol class="org-ol">
+<li><a href="https://opennlp.apache.org/docs/1.8.3/manual/opennlp.html">Apache OpenNLP manual</a></li>
+<li><a href="https://opennlp.apache.org/docs/1.8.3/apidocs/opennlp-tools/index.html">Apache OpenNLP Javadocs</a></li>
+</ol>
+</div>
+</div>
+</div>
 <div id="postamble" class="status">
 <p class="author">Author: Guilherme Paulino Passos</p>
-<p class="date">Created: 2017-11-10 sex 17:26</p>
+<p class="date">Created: 2017-11-10 sex 17:27</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
