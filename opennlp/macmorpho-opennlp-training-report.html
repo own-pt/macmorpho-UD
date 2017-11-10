@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-11-06 seg 20:23 -->
+<!-- 2017-11-10 sex 17:20 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>MacMorpho - OpenNLP report</title>
@@ -233,9 +233,9 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org2ea37c8">1. Results</a></li>
-<li><a href="#org0267220">2. Execution</a></li>
-<li><a href="#org5a0e7c7">3. References</a></li>
+<li><a href="#org66efbcc">1. Results</a></li>
+<li><a href="#org1722e8b">2. Execution</a></li>
+<li><a href="#org9cd7bd0">3. References</a></li>
 </ul>
 </div>
 </div>
@@ -243,8 +243,31 @@ for the JavaScript code in this tag.
 Brief report about results on training OpenNLP's models on MacMorpho and Bosque data.
 </p>
 
-<div id="outline-container-org2ea37c8" class="outline-2">
-<h2 id="org2ea37c8"><span class="section-number-2">1</span> Results</h2>
+<p>
+Available models are:
+</p>
+<dl class="org-dl">
+<dt>Maxent</dt><dd>Maximum Entropy (Generalized Iterative Scaling method)</dd>
+<dt>MaxentQN</dt><dd>Maximum Entropy (with QuasiNewton method)</dd>
+<dt>NaiveBayes</dt><dd>Naive Bayes</dd>
+<dt>Perceptron</dt><dd>Perceptron (binary, it seems)</dd>
+<dt>PerceptronSequence</dt><dd>Perceptron for sequences (unclear from documentation)
+Although is listed, it isn't working: it gives a NullPointerException</dd>
+</dl>
+
+
+<p>
+We ran 2 experiments:
+</p>
+<dl class="org-dl">
+<dt>Experiment 1</dt><dd>For each OpenNLP model and each Macmorpho tagset version (UD, UD+PCP, MM), we trained in the train+dev divisions, and evaluated in test division. Our hypothesis is that coarser datasets are easy to learn.</dd>
+
+<dt>Experiment 2</dt><dd>We trained the tagger with macmorpho UD (without PCP), using it entirely as training set (train+dev+test). We evaluated it in Bosque (test). We compared our result to the tagger trained in Bosque (train+dev) and evaluated in Bosque (test).</dd>
+</dl>
+
+
+<div id="outline-container-org66efbcc" class="outline-2">
+<h2 id="org66efbcc"><span class="section-number-2">1</span> Results</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Experiment 1:
@@ -304,7 +327,9 @@ Experiment 1:
 Experiment 2:
 </p>
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
+<caption class="t-above"><span class="table-number">Table 1:</span> <span class="underline">remove-pcp</span> :: model trained on the entire macmorpho with UD labels and evaluated in Bosque-test <br />
+ <span class="underline">bosque</span> :: model trained on Bosque-(train+dev) and evaluated in Bosque-test <br />
+ <span class="underline">remove-pcp (complete bosque eval)</span> :: model trained on the entire macmorpho with UD labels and evaluated in Bosque-(train+dev+test)</caption>
 
 <colgroup>
 <col  class="org-left" />
@@ -328,7 +353,7 @@ Experiment 2:
 </thead>
 <tbody>
 <tr>
-<td class="org-left">remove-pcp (macmorpho complete)</td>
+<td class="org-left">remove-pcp</td>
 <td class="org-right">0.7762</td>
 <td class="org-right">0.7788</td>
 <td class="org-right">0.8002</td>
@@ -342,6 +367,14 @@ Experiment 2:
 <td class="org-right">0.9239</td>
 <td class="org-right">0.9496</td>
 </tr>
+
+<tr>
+<td class="org-left">remove-pcp (complete bosque eval)</td>
+<td class="org-right">0.7647</td>
+<td class="org-right">0.7666</td>
+<td class="org-right">0.7960</td>
+<td class="org-right">0.7524</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -349,8 +382,8 @@ Experiment 2:
 
 
 
-<div id="outline-container-org0267220" class="outline-2">
-<h2 id="org0267220"><span class="section-number-2">2</span> Execution</h2>
+<div id="outline-container-org1722e8b" class="outline-2">
+<h2 id="org1722e8b"><span class="section-number-2">2</span> Execution</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Trained in BRL cluster.
@@ -412,20 +445,13 @@ A similar procedure was done for Bosque (UD<sub>Portuguese</sub>, official 2.0 r
 
 <p>
 For each dataset, one model is trained for each *TrainerParams.txt file:
+Maxent, MaxentQN, NaiveBayes, Perceptron, PerceptronSequence
 </p>
-<dl class="org-dl">
-<dt>Maxent</dt><dd>Maximum Entropy (Generalized Iterative Scaling method)</dd>
-<dt>MaxentQN</dt><dd>Maximum Entropy (with QuasiNewton method)</dd>
-<dt>NaiveBayes</dt><dd>Naive Bayes</dd>
-<dt>Perceptron</dt><dd>Perceptron (binary, it seems)</dd>
-<dt>PerceptronSequence</dt><dd>Perceptron for sequences (unclear from documentation)
-Although is listed, it isn't working: it gives a NullPointerException</dd>
-</dl>
 </div>
 </div>
 
-<div id="outline-container-org5a0e7c7" class="outline-2">
-<h2 id="org5a0e7c7"><span class="section-number-2">3</span> References</h2>
+<div id="outline-container-org9cd7bd0" class="outline-2">
+<h2 id="org9cd7bd0"><span class="section-number-2">3</span> References</h2>
 <div class="outline-text-2" id="text-3">
 <ol class="org-ol">
 <li><a href="https://opennlp.apache.org/docs/1.8.3/manual/opennlp.html">Apache OpenNLP manual</a></li>
@@ -436,7 +462,7 @@ Although is listed, it isn't working: it gives a NullPointerException</dd>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Guilherme Paulino Passos</p>
-<p class="date">Created: 2017-11-06 seg 20:23</p>
+<p class="date">Created: 2017-11-10 sex 17:20</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
