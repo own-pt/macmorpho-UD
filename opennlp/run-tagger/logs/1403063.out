@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@idpx003>
+Subject: Job 1403063: </dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-keep-pcp-MaxentQN < /dados/gpaulino/run-tagger/tokenized-text/macmorpho-v1-test-keep-pcp-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-keep-pcp-MaxentQN.tagged> in cluster <brl> Done
+
+Job </dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-keep-pcp-MaxentQN < /dados/gpaulino/run-tagger/tokenized-text/macmorpho-v1-test-keep-pcp-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-keep-pcp-MaxentQN.tagged> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <idpx003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/run-tagger> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-keep-pcp-MaxentQN < /dados/gpaulino/run-tagger/tokenized-text/macmorpho-v1-test-keep-pcp-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-keep-pcp-MaxentQN.tagged
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   13.57 sec.
+    Max Memory :                                 767 MB
+    Average Memory :                             58.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                55
+    Run time :                                   8 sec.
+    Turnaround time :                            14 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1403063.err> for stderr output of this job.
+

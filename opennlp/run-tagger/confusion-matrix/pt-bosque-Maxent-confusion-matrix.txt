@@ -1,0 +1,1400 @@
+                | ADJ             | ADP             | ADV             | AUX             | CCONJ           | DET             | INTJ            | NOUN            | NUM             | PART            | PRON            | PROPN           | PUNCT           | SCONJ           | SYM             | VERB            | X               |
+ADJ             | 378             | 0               | 7               | 0               | 0               | 1               | 0               | 31              | 0               | 0               | 0               | 2               | 0               | 0               | 0               | 17              | 0               |
+ADP             | 2               | 1600            | 7               | 0               | 0               | 10              | 0               | 8               | 5               | 0               | 2               | 5               | 0               | 1               | 0               | 4               | 1               |
+ADV             | 1               | 6               | 341             | 0               | 1               | 5               | 0               | 14              | 0               | 0               | 2               | 1               | 0               | 2               | 0               | 2               | 0               |
+AUX             | 0               | 0               | 1               | 257             | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 2               | 0               | 0               | 0               | 26              | 0               |
+CCONJ           | 0               | 2               | 1               | 0               | 194             | 1               | 0               | 0               | 0               | 0               | 0               | 2               | 0               | 0               | 0               | 1               | 0               |
+DET             | 0               | 36              | 1               | 0               | 0               | 1523            | 0               | 3               | 6               | 0               | 9               | 5               | 0               | 0               | 0               | 0               | 0               |
+INTJ            | 0               | 0               | 0               | 0               | 0               | 1               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               |
+NOUN            | 33              | 1               | 1               | 1               | 0               | 2               | 0               | 1837            | 0               | 0               | 4               | 21              | 0               | 0               | 0               | 21              | 3               |
+NUM             | 0               | 1               | 0               | 0               | 0               | 0               | 0               | 1               | 203             | 0               | 1               | 4               | 0               | 0               | 0               | 0               | 0               |
+PART            | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               |
+PRON            | 0               | 0               | 1               | 0               | 0               | 8               | 0               | 0               | 0               | 0               | 277             | 0               | 0               | 16              | 0               | 1               | 0               |
+PROPN           | 9               | 2               | 1               | 0               | 0               | 3               | 0               | 41              | 3               | 0               | 0               | 844             | 0               | 0               | 1               | 9               | 0               |
+PUNCT           | 2               | 0               | 1               | 0               | 0               | 0               | 0               | 1               | 0               | 0               | 0               | 0               | 1344            | 0               | 0               | 0               | 0               |
+SCONJ           | 0               | 0               | 4               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 13              | 0               | 0               | 70              | 0               | 0               | 0               |
+SYM             | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 29              | 0               | 0               |
+VERB            | 11              | 0               | 1               | 15              | 2               | 1               | 0               | 22              | 1               | 0               | 0               | 3               | 0               | 0               | 0               | 801             | 1               |
+X               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 0               | 2               |
+
+
+
+É por isso que , explica , não tem pena de Hillary Clinton .
+(#<TOKEN É/AUX #1-_-_> #<TOKEN É/ADV #1-mark-9>)
+(#<TOKEN que/PRON #4-_-_> #<TOKEN que/ADV #4-mark-9>)
+
+Acho que eles têm mais maturidade em relação a o sexo , como em relação a as drogas , de o que podem mostrar » .
+(#<TOKEN mais/ADV #5-_-_> #<TOKEN mais/DET #5-det-6>)
+
+Talvez o Presidente , quando liga a televisão de manhã e descobre que apesar de Hillary continuar a o seu lado o país insiste em discutir se ele deve ou não abandonar o cargo porque teve uma relação extraconjugal com Monica Lewinsky , pense , como uma de as personagens de « Happiness » :
+(#<TOKEN Presidente/NOUN #3-_-_> #<TOKEN Presidente/PROPN #3-nsubj-44>)
+(#<TOKEN descobre/ADP #12-_-_> #<TOKEN descobre/VERB #12-conj-6>)
+(#<TOKEN que/PRON #13-_-_> #<TOKEN que/SCONJ #13-mark-24>)
+(#<TOKEN continuar/AUX #17-_-_> #<TOKEN continuar/VERB #17-advcl-14>)
+(#<TOKEN porque/ADV #35-_-_> #<TOKEN porque/SCONJ #35-mark-36>)
+(#<TOKEN uma/DET #47-_-_> #<TOKEN uma/NUM #47-obl-44>)
+
+« Vivo em um Estado de Ironia » .
+(#<TOKEN Vivo/PROPN #2-_-_> #<TOKEN Vivo/VERB #2-root-0>)
+(#<TOKEN Ironia/PROPN #7-_-_> #<TOKEN Ironia/NOUN #7-nmod-5>)
+
+Campos faz parte de estes órgãos , bem como Manuel Alegre que cedo se colocou a o lado de o eurodeputado em nome de solidariedades antigas .
+(#<TOKEN Campos/NOUN #1-_-_> #<TOKEN Campos/PROPN #1-nsubj-2>)
+(#<TOKEN bem/ADV #8-_-_> #<TOKEN bem/ADP #8-case-9>)
+(#<TOKEN como/ADP #9-_-_> #<TOKEN como/NOUN #9-obl-2>)
+
+Esta precipitação de os acontecimentos vem de encontro a algumas de as críticas feitas a a actuação de a Comissão Permanente , criticada por ter « deixado arrastar » durante semanas o contencioso com o eurodeputado , em vez de desde logo , como muitos defenderam , chamar Campos para este prestar esclarecimentos e colocar uma pedra sobre o assunto .
+(#<TOKEN muitos/DET #45-_-_> #<TOKEN muitos/PRON #45-nsubj-46>)
+(#<TOKEN defenderam/NOUN #46-_-_> #<TOKEN defenderam/VERB #46-advcl-48>)
+(#<TOKEN este/DET #51-_-_> #<TOKEN este/PRON #51-nsubj-52>)
+(#<TOKEN prestar/NOUN #52-_-_> #<TOKEN prestar/VERB #52-advcl-48>)
+(#<TOKEN esclarecimentos/ADJ #53-_-_> #<TOKEN esclarecimentos/NOUN #53-obj-52>)
+
+Em a busca passada a a casa de o suspeito , de 38 anos , que trabalha como marceneiro , foi encontrada a caçadeira disparada três dias antes contra a porta de o clube , localizado em aquele bairro , uma espingarda de pressão de ar , diversos cartuchos e um panfleto de heroína .
+(#<TOKEN passada/VERB #4-_-_> #<TOKEN passada/ADJ #4-acl-3>)
+
+Elogiei a escolha de o meu anfitrião , enquanto discorria , a despropósito , acerca de o papel de o « consejero de créacion » , que tinha talvez inventado aquela espécie de centro de mesa , com batatas acabadas de fritar ( sim , batatas fritas ) , certamente em fatias espantosamente finas e em azeite a ferver , tratadas a modos de « soufflé » .
+(#<TOKEN a/DET #12-_-_> #<TOKEN a/ADP #12-case-13>)
+(#<TOKEN consejero/NOUN #22-_-_> #<TOKEN consejero/X #22-nmod-18>)
+(#<TOKEN de/ADP #23-_-_> #<TOKEN de/X #23-flat:foreign-22>)
+(#<TOKEN créacion/NOUN #24-_-_> #<TOKEN créacion/X #24-flat:foreign-22>)
+(#<TOKEN fritar/NOUN #42-_-_> #<TOKEN fritar/VERB #42-advcl-40>)
+(#<TOKEN espantosamente/ADJ #53-_-_> #<TOKEN espantosamente/ADV #53-advmod-54>)
+(#<TOKEN a/DET #62-_-_> #<TOKEN a/ADP #62-case-63>)
+
+Iniciei me com uma « morcilla de Burgos » , enrolada em uma massa fofa , e dediquei me com carinho a um naco de bonito , frio e escabechado .
+(#<TOKEN morcilla/NOUN #6-_-_> #<TOKEN morcilla/PROPN #6-obl-1>)
+(#<TOKEN me/NOUN #19-_-_> #<TOKEN me/PRON #19-obj-18>)
+(#<TOKEN frio/NOUN #28-_-_> #<TOKEN frio/ADJ #28-amod-26>)
+
+A conversa seguia animada , uma dose de « marketing » , 200 gramas de imagem , levadas a o lume com « public affairs » q.b .
+(#<TOKEN seguia/ADJ #3-_-_> #<TOKEN seguia/VERB #3-root-0>)
+(#<TOKEN affairs/ADJ #25-_-_> #<TOKEN affairs/NOUN #25-obl-18>)
+(#<TOKEN q.b/PUNCT #27-_-_> #<TOKEN q.b/ADV #27-advmod-25>)
+
+Gosto de levar a sério o meu papel de consultor encartado .
+(#<TOKEN Gosto/NOUN #1-_-_> #<TOKEN Gosto/VERB #1-root-0>)
+
+Eduardo Lourenço fechou , em a sexta-feira , a o fim de a tarde , os trabalhos de a VI Reunião Internacional de Camonistas , que decorreu durante quatro dias em a Universidade de Coimbra , com uma inspirada « lição de encerramento » em torno de as ligações entre Camões e Petrarca e de a luz platónica que sobre ambos terá , ou não , incidido .
+(#<TOKEN inspirada/NOUN #39-_-_> #<TOKEN inspirada/VERB #39-acl-41>)
+(#<TOKEN ambos/DET #61-_-_> #<TOKEN ambos/PRON #61-obl-67>)
+
+Aníbal Pinto de Castro , organizador de o encontro , obrigado por a função a proferir algumas palavras finais , confessou o quanto lhe parecia « sacrílego » falar após a intervenção de o recém-galardoado com o Prémio Camões .
+(#<TOKEN quanto/PRON #23-_-_> #<TOKEN quanto/DET #23-advmod-25>)
+(#<TOKEN recém-galardoado/NOUN #35-_-_>
+ #<TOKEN recém-galardoado/ADV #35-advmod-32>)
+
+É de crer que estivesse a ser sincero .
+(#<TOKEN É/AUX #1-_-_> #<TOKEN É/VERB #1-root-0>)
+
+Eduardo Lourenço tem , de facto , esse dom , tão contraditório com a sua proverbial modéstia , de dar a tudo quanto escreve um tom definitivo .
+(#<TOKEN a/DET #21-_-_> #<TOKEN a/ADP #21-mark-24>)
+(#<TOKEN quanto/PRON #23-_-_> #<TOKEN quanto/DET #23-det-22>)
+
+Provoca em quem o ouve a sensação de que aquilo que diz , o diz de a forma mais justa , se não de a única forma justa .
+(#<TOKEN o/DET #14-_-_> #<TOKEN o/PRON #14-obj-15>)
+(#<TOKEN diz/NOUN #15-_-_> #<TOKEN diz/VERB #15-acl-7>)
+(#<TOKEN se/PRON #22-_-_> #<TOKEN se/SCONJ #22-advmod-15>)
+
+Um talento que , por norma , cabe apenas a os poetas .
+(#<TOKEN Um/DET #1-_-_> #<TOKEN Um/NUM #1-nummod-2>)
+
+Greve em a televisão pública francesa
+(#<TOKEN Greve/PROPN #1-_-_> #<TOKEN Greve/NOUN #1-root-0>)
+(#<TOKEN francesa/ADJ #6-_-_> #<TOKEN francesa/NOUN #6-nmod:npmod-4>)
+
+France 3 suspende programação
+(#<TOKEN 3/NUM #2-_-_> #<TOKEN 3/PROPN #2-flat:name-1>)
+(#<TOKEN suspende/NOUN #3-_-_> #<TOKEN suspende/VERB #3-root-0>)
+(#<TOKEN programação/VERB #4-_-_> #<TOKEN programação/NOUN #4-obj-3>)
+
+A France 2 segui lhe os passos e as emissões de os dois canais foram interrompidas .
+(#<TOKEN lhe/ADV #5-_-_> #<TOKEN lhe/PRON #5-iobj-4>)
+
+Concebidos para funcionarem como instrumentos privilegiados de os gestores de sistemas de informação , estes Compaq Proliant viram reforçados os seus dispositivos de segurança e prevenção de quebras em o sistema -- reforço esse em uma perspectiva de centralização física de este tipo de equipamentos , sustentadores de redes cada vez mais complexas resultantes de as evoluções de « downsizing » e « rightsizing » a que muitos sistemas de informação estiveram ou virão a estar sujeitos .
+(#<TOKEN privilegiados/ADJ #6-_-_> #<TOKEN privilegiados/VERB #6-acl-5>)
+(#<TOKEN esse/CCONJ #34-_-_> #<TOKEN esse/DET #34-det-33>)
+(#<TOKEN sustentadores/NOUN #47-_-_> #<TOKEN sustentadores/ADJ #47-amod-45>)
+(#<TOKEN cada/PROPN #50-_-_> #<TOKEN cada/NOUN #50-nmod:npmod-53>)
+(#<TOKEN vez/PROPN #51-_-_> #<TOKEN vez/ADP #51-case-52>)
+(#<TOKEN mais/ADV #52-_-_> #<TOKEN mais/NOUN #52-nmod-50>)
+(#<TOKEN resultantes/NOUN #54-_-_> #<TOKEN resultantes/ADJ #54-amod-49>)
+(#<TOKEN estiveram/AUX #72-_-_> #<TOKEN estiveram/VERB #72-dep-57>)
+(#<TOKEN virão/VERB #74-_-_> #<TOKEN virão/AUX #74-aux-57>)
+(#<TOKEN sujeitos/ADJ #77-_-_> #<TOKEN sujeitos/NOUN #77-conj-72>)
+
+Estes sistemas exigem um acompanhamento e controlo permanentes ( as 24 horas de cada um de os dias de a semana ) , por o que a sua centralização em um único espaço permite racionalizar e conter os custos de a sua gestão .
+(#<TOKEN permanentes/ADJ #8-_-_> #<TOKEN permanentes/NOUN #8-nmod:npmod-5>)
+(#<TOKEN cada/DET #14-_-_> #<TOKEN cada/PROPN #14-det-12>)
+
+De os dispositivos de segurança e prevenção faz , evidentemente , parte o Insight Manager , aplicação de gestão já conhecida de as linhas anteriores de servidores mas agora em a sua versão 2.3 .
+(#<TOKEN o/ADP #13-_-_> #<TOKEN o/DET #13-det-14>)
+
+Em o Paço de os Duques de Bragança , a as 21h45 .
+(#<TOKEN a/DET #10-_-_> #<TOKEN a/ADP #10-case-12>)
+
+Um industrial de o Porto , Manuel Magalhães , de 48 anos , abate a tiro dois sócios , quatro disparos em um , seis em outro , por terem passado cheques em seu nome .
+(#<TOKEN dois/ADP #17-_-_> #<TOKEN dois/NUM #17-nummod-18>)
+(#<TOKEN um/NUM #23-_-_> #<TOKEN um/PRON #23-det-21>)
+
+Um casal de Aveleda , povoação de o Minho , acusa o padre de a aldeia , Joaquim Carneiro , de ter relações sexuais com um filho seu de 12 anos .
+(#<TOKEN seu/ADP #28-_-_> #<TOKEN seu/DET #28-det-27>)
+
+O arcebispado , porém , transfere o acusado para Paris .
+(#<TOKEN acusado/VERB #8-_-_> #<TOKEN acusado/NOUN #8-obj-6>)
+
+« É necessário que a construção [ de a barragem de o Côa ] seja efectivamente suspensa e que sejam reunidos os meios humanos e necessários a um estudo completo de toda a área antes que se crie uma situação irreversível .
+(#<TOKEN que/PRON #19-_-_> #<TOKEN que/SCONJ #19-mark-21>)
+(#<TOKEN antes/ADV #35-_-_> #<TOKEN antes/ADP #35-mark-38>)
+(#<TOKEN que/PRON #36-_-_> #<TOKEN que/SCONJ #36-mark-38>)
+
+E não se invoquem os prejuízos imediatos de tal decisão , pois corresponderão , certamente , a uma parcela diminuta de os encargos com essa obra faraónica e desajustada que é a Expo'98 » .
+(#<TOKEN pois/ADV #12-_-_> #<TOKEN pois/SCONJ #12-advmod-13>)
+
+São afirmações de o reitor de o Universidade de o Porto , Alberto Amaral , em o editorial de o nº 25 de o Boletim de aquela Universidade , inteiramente dedicado a o tratamento de a « grave situação de o património histórico-cultural de o vale de o rio Côa » , como igualmente refere o autor .
+(#<TOKEN Boletim/PROPN #25-_-_> #<TOKEN Boletim/NOUN #25-nmod-21>)
+(#<TOKEN rio/NOUN #49-_-_> #<TOKEN rio/PROPN #49-nmod-46>)
+(#<TOKEN como/ADP #53-_-_> #<TOKEN como/ADV #53-advmod-55>)
+
+Comédia inglesa , anos 50 .
+(#<TOKEN Comédia/PROPN #1-_-_> #<TOKEN Comédia/NOUN #1-root-0>)
+
+Receita que funciona lindamente , graças a um elenco talentoso e bem dirigido e a uma direcção plástica ( José Carlos Barros ) eficaz .
+(#<TOKEN Receita/VERB #1-_-_> #<TOKEN Receita/NOUN #1-root-0>)
+(#<TOKEN dirigido/VERB #13-_-_> #<TOKEN dirigido/ADJ #13-conj-10>)
+
+TEATRO DE A TRINDADE .
+(#<TOKEN DE/PROPN #2-_-_> #<TOKEN DE/ADP #2-case-4>)
+(#<TOKEN A/PROPN #3-_-_> #<TOKEN A/DET #3-det-4>)
+
+De 3ª a sáb. , a as 21h30 ; sáb. e dom. , a as 16h .
+(#<TOKEN a/DET #6-_-_> #<TOKEN a/ADP #6-case-8>)
+(#<TOKEN dom./PUNCT #12-_-_> #<TOKEN dom./NOUN #12-conj-10>)
+(#<TOKEN a/DET #14-_-_> #<TOKEN a/ADP #14-case-16>)
+
+Cumpridos 16 dias de uma greve de 45 , a paralisação em a Rádio Televisão de a Guiné-Bissau ( RTGB ) foi suspensa ontem até a o próximo dia 25 , devido a uma cedência de os trabalhadores que têm ouvido forte e feio de a população fora de Bissau que não tem acesso a as emissões de a RTPi -- especialmente por causa de os jogos de a selecção portuguesa , acompanhados como se fosse a selecção guineense .
+(#<TOKEN a/DET #26-_-_> #<TOKEN a/ADP #26-case-29>)
+(#<TOKEN forte/ADJ #42-_-_> #<TOKEN forte/ADV #42-advmod-41>)
+(#<TOKEN feio/ADJ #44-_-_> #<TOKEN feio/ADV #44-conj-42>)
+
+E foi assim que ontem -- precisamente por causa de o Portugal - Turquia -- a televisão guineense reabriu ... a a hora necessária para transmitir o Portugal - Turquia , o que motivou grandes ajuntamentos em locais públicos que dispunham de televisores , tanto em Bissau como em o interior de o país .
+(#<TOKEN foi/VERB #2-_-_> #<TOKEN foi/ADV #2-mark-19>)
+(#<TOKEN que/SCONJ #4-_-_> #<TOKEN que/ADV #4-mark-19>)
+(#<TOKEN como/ADP #48-_-_> #<TOKEN como/ADV #48-cc-47>)
+
+A o nível de o Grupo , isto é , a Lisnave propriamente dita e as restantes 21 empresas em que os Estaleiros Navais de Lisboa participam em o capital , os resultados saldaram se por um prejuízo de 16,2 milhões de contos .
+(#<TOKEN Grupo/PROPN #6-_-_> #<TOKEN Grupo/NOUN #6-nmod-3>)
+
+As vendas consolidadas foram de 26,7 milhões de contos em 1994 , menos 1,2 milhões de contos de o que em o ano anterior .
+(#<TOKEN menos/ADV #13-_-_> #<TOKEN menos/DET #13-det-15>)
+
+De o ponto de vista concorrencial , o agravamento de as perdas de a empresa explica se , em parte , devido a a « entrada em o mercado de novos estaleiros situados em países de muito baixo custo de mão-de-obra ( países de o ex-bloco de Leste ) , e a aumentos de a capacidade de docagem em áreas bem localizadas relativamente a os grandes fluxos de tráfego marítimo , além de também disporem de mão-de-obra barata ( países de o Médio e Extremo Oriente ) .
+(#<TOKEN se/SCONJ #17-_-_> #<TOKEN se/PRON #17-expl-16>)
+(#<TOKEN a/DET #52-_-_> #<TOKEN a/ADP #52-case-53>)
+(#<TOKEN Médio/PROPN #83-_-_> #<TOKEN Médio/ADJ #83-amod-86>)
+(#<TOKEN Extremo/PROPN #85-_-_> #<TOKEN Extremo/ADJ #85-conj-83>)
+
+O PRESIDENTE etíope , Mengistu Hailé Mariam , anunciou ontem a constituição de um novo Governo , de cuja formação ficou responsável o chefe de a diplomacia , Tesfaye Dinka , agora promovido a o cargo de primeiro-ministro . , revelou a rádio de Addis Abeba .
+(#<TOKEN etíope/PROPN #3-_-_> #<TOKEN etíope/ADJ #3-amod-2>)
+
+A emissora anunciou igualmente que Mengistu demitira dois de os seus mais antigos ministros , o vice-Presidente Fiseha Desta e o secretário de o Comité Central , Legesse Asfaw .
+(#<TOKEN Comité/PROPN #25-_-_> #<TOKEN Comité/NOUN #25-nmod-22>)
+(#<TOKEN Central/PROPN #26-_-_> #<TOKEN Central/ADJ #26-amod-25>)
+
+Tesfaye , um economista formado em os Estados Unidos , tem a missão de renovar o Governo e de alargar a sua base tribal , em os termos de uma decisão adoptada por o parlamento em o início de a semana .
+(#<TOKEN economista/NOUN #4-_-_> #<TOKEN economista/ADJ #4-amod-1>)
+
+A PRÓXIMA ronda de negociações sobre a paz em Moçambique deverá ter início em o dia 2 de Maio em Roma , confirmaram ontem o Ministério italiano de os Negócios Estrangeiros e a comunidade religiosa de Sant'Egidio , mediador de estas conversações .
+(#<TOKEN PRÓXIMA/PROPN #2-_-_> #<TOKEN PRÓXIMA/ADJ #2-amod-3>)
+(#<TOKEN ronda/VERB #3-_-_> #<TOKEN ronda/NOUN #3-nsubj-12>)
+(#<TOKEN ter/AUX #12-_-_> #<TOKEN ter/VERB #12-ccomp-23>)
+(#<TOKEN Ministério/PROPN #26-_-_> #<TOKEN Ministério/NOUN #26-nsubj-23>)
+(#<TOKEN italiano/PROPN #27-_-_> #<TOKEN italiano/ADJ #27-amod-26>)
+(#<TOKEN Negócios/NOUN #30-_-_> #<TOKEN Negócios/PROPN #30-nmod-26>)
+(#<TOKEN Estrangeiros/ADJ #31-_-_> #<TOKEN Estrangeiros/PROPN #31-flat:name-30>)
+
+« Apanhado » por a ronda de o PÚBLICO quando chegava a aquela praia acompanhado por a mulher e por o filho , em a tarde de quinta-feira passada , o ministro de os Negócios Estrangeiros português escusou se a ser fotografado , com o argumento de « estar em férias » , acelerando o passo ( mais tarde , quando abandonava a praia , já depois de as 20 horas , acabaria por ser « apanhado » por a objectiva ) .
+(#<TOKEN Apanhado/PROPN #2-_-_> #<TOKEN Apanhado/VERB #2-dep-38>)
+(#<TOKEN o/DET #8-_-_> #<TOKEN o/PROPN #8-nmod-6>)
+(#<TOKEN a/DET #12-_-_> #<TOKEN a/ADP #12-case-14>)
+(#<TOKEN se/SCONJ #39-_-_> #<TOKEN se/PRON #39-obj-38>)
+(#<TOKEN a/DET #40-_-_> #<TOKEN a/ADP #40-mark-42>)
+
+Conhecido por os vizinhos banhistas , lá foi acenando até se instalar mesmo junto a a água .
+(#<TOKEN Conhecido/VERB #1-_-_> #<TOKEN Conhecido/ADJ #1-dep-9>)
+(#<TOKEN se/SCONJ #11-_-_> #<TOKEN se/PRON #11-expl-12>)
+
+Não longe de Guilherme Oliveira Martins , o assessor político de Mário Soares , que deixará Belém em Setembro para assumir por inteiro a sua condição de futuro deputado por o Partido Socialista .
+(#<TOKEN a/ADP #24-_-_> #<TOKEN a/DET #24-det-26>)
+(#<TOKEN futuro/NOUN #28-_-_> #<TOKEN futuro/ADJ #28-amod-29>)
+(#<TOKEN deputado/VERB #29-_-_> #<TOKEN deputado/NOUN #29-nmod-26>)
+
+Há muito frequentador de o local ( os pais possuem uma residência em ... Boliqueime ) , Oliveira Martins tem visto os Tomates a transformarem se em a moda de o Verão algarvio .
+(#<TOKEN frequentador/ADJ #3-_-_> #<TOKEN frequentador/NOUN #3-obl-21>)
+(#<TOKEN se/SCONJ #26-_-_> #<TOKEN se/PRON #26-expl-25>)
+(#<TOKEN Verão/PROPN #32-_-_> #<TOKEN Verão/NOUN #32-nmod-29>)
+(#<TOKEN algarvio/PUNCT #33-_-_> #<TOKEN algarvio/ADJ #33-amod-32>)
+
+Mas quinta-feira era , decididamente , um dia mau para apanhar a classe política em calções de banho :
+(#<TOKEN um/DET #7-_-_> #<TOKEN um/NUM #7-nummod-8>)
+
+o filho de Marcelo Rebelo de Sousa fazia anos e o ex-comissário de « Lisboa 94 » promovia uma festa , em local mais ou menos secreto .
+(#<TOKEN mais/ADV #24-_-_> #<TOKEN mais/NOUN #24-nmod:npmod-27>)
+
+Por a Praia de os Tomates , restava apenas um discreto centrista , Fausto Quadros , além de o porta-voz de a Comissão Europeia , João Vale de Almeida .
+(#<TOKEN um/DET #10-_-_> #<TOKEN um/NUM #10-nummod-12>)
+(#<TOKEN discreto/NOUN #11-_-_> #<TOKEN discreto/ADJ #11-amod-12>)
+(#<TOKEN Comissão/PROPN #23-_-_> #<TOKEN Comissão/NOUN #23-nmod-20>)
+(#<TOKEN Europeia/PROPN #24-_-_> #<TOKEN Europeia/ADJ #24-amod-23>)
+
+Grande Prémio de Itália de motociclismo
+(#<TOKEN motociclismo/NOUN #6-_-_> #<TOKEN motociclismo/PROPN #6-nmod-4>)
+
+O australiano Michael Doohan ( Honda ) fez ontem a desfeita a os adeptos italianos , a o vencer o Grande Prémio de Itália de motociclismo em 500cc , quarta prova de o Mundial de a modalidade , disputada em o circuito de Mugello , onde os espectadores puxavam fervorosamente por Max Biaggi ( Honda ) , que não foi além de o segundo posto .
+(#<TOKEN a/ADP #10-_-_> #<TOKEN a/DET #10-det-11>)
+(#<TOKEN desfeita/VERB #11-_-_> #<TOKEN desfeita/NOUN #11-obj-8>)
+(#<TOKEN a/DET #12-_-_> #<TOKEN a/ADP #12-case-14>)
+(#<TOKEN a/DET #17-_-_> #<TOKEN a/ADP #17-mark-19>)
+(#<TOKEN motociclismo/NOUN #26-_-_> #<TOKEN motociclismo/PROPN #26-nmod-24>)
+(#<TOKEN 500cc/NUM #28-_-_> #<TOKEN 500cc/NOUN #28-obl-19>)
+(#<TOKEN circuito/NOUN #42-_-_> #<TOKEN circuito/PROPN #42-obl-39>)
+(#<TOKEN foi/AUX #60-_-_> #<TOKEN foi/VERB #60-acl:relcl-52>)
+
+A Honda acabaria por fazer o pleno em o pódio , com Alex Crivillé a conseguir o terceiro posto .
+(#<TOKEN pleno/NOUN #7-_-_> #<TOKEN pleno/ADJ #7-obj-5>)
+
+Em os arredores de Ponta Delgada uma residência de o século XVII , inteiramente restaurada .
+(#<TOKEN Ponta/NOUN #5-_-_> #<TOKEN Ponta/PROPN #5-nmod-3>)
+(#<TOKEN Delgada/VERB #6-_-_> #<TOKEN Delgada/PROPN #6-flat:name-5>)
+
+Enriquecido com proteínas e pró-vitamina B5 , é aplicado com uma escova especialmente criada para evitar o esborratamento de o rímel .
+(#<TOKEN pró-vitamina/DET #5-_-_> #<TOKEN pró-vitamina/NOUN #5-compound-6>)
+(#<TOKEN B5/PROPN #6-_-_> #<TOKEN B5/NOUN #6-conj-3>)
+
+N. R. A razão por que se realçou em o título de a notícia em causa o benefício de o whisky foi porque ela se refere a um estudo que realçava esse facto , o que se compreende quando se sabe que se trata de um estudo britânico .
+(#<TOKEN R./VERB #2-_-_> #<TOKEN R./PROPN #2-flat:name-1>)
+(#<TOKEN foi/AUX #22-_-_> #<TOKEN foi/VERB #22-root-0>)
+
+O PÚBLICO tem dedicado frequentes notícias a os benefícios de o consumo moderado de álcool em geral e de o vinho em particular .
+(#<TOKEN tem/VERB #3-_-_> #<TOKEN tem/AUX #3-aux-4>)
+(#<TOKEN geral/ADJ #17-_-_> #<TOKEN geral/NOUN #17-nmod-15>)
+
+Veja se , a título de exemplo , os textos « Coração , vinho e legumes » , PÚBLICO de o passado dia 16 ; « Álcool faz bem a o coração » , 19.11.93 ; « Glórias e misérias de o álcool » , 15.8.93 ; « Álcool protege coração ? » , 3.9.91 ; Vinho contra colesterol ? , 12.8.91 .
+(#<TOKEN Coração/PROPN #12-_-_> #<TOKEN Coração/NOUN #12-appos-10>)
+(#<TOKEN passado/ADJ #22-_-_> #<TOKEN passado/VERB #22-acl-23>)
+(#<TOKEN a/DET #30-_-_> #<TOKEN a/ADP #30-flat:name-27>)
+(#<TOKEN Glórias/PROPN #38-_-_> #<TOKEN Glórias/NOUN #38-conj-12>)
+(#<TOKEN Álcool/PROPN #49-_-_> #<TOKEN Álcool/NOUN #49-conj-12>)
+(#<TOKEN 3.9.91/PROPN #55-_-_> #<TOKEN 3.9.91/NUM #55-appos-49>)
+(#<TOKEN Vinho/PROPN #57-_-_> #<TOKEN Vinho/NOUN #57-conj-12>)
+
+Em a prática , privilegia se as intervenções de fachada em detrimento de o bem-estar de os habitantes de as aldeias .
+(#<TOKEN privilegia/ADJ #5-_-_> #<TOKEN privilegia/VERB #5-root-0>)
+(#<TOKEN se/SCONJ #6-_-_> #<TOKEN se/PRON #6-nsubj-5>)
+
+A ilustrá lo o exemplo de Piódão , onde as coberturas em telha de as habitações ( mesmo estando em bom estado ) estão a ser substituídas por outras em lousa , enquanto as casas que já têm coberturas em lousa ( ainda que chova em o interior ) não beneficiam de qualquer ajuda .
+(#<TOKEN A/DET #1-_-_> #<TOKEN A/ADP #1-mark-2>)
+(#<TOKEN lo/ADP #3-_-_> #<TOKEN lo/PRON #3-obj-2>)
+(#<TOKEN outras/DET #29-_-_> #<TOKEN outras/PRON #29-obl-27>)
+(#<TOKEN que/PRON #44-_-_> #<TOKEN que/SCONJ #44-fixed-43>)
+
+« Pessoalmente causa me alguma perplexidade que se trabalhe para a fotografia de o visitante e não tanto para o bem estar de quem lá habita » , confessou José Reis .
+(#<TOKEN que/PRON #7-_-_> #<TOKEN que/SCONJ #7-mark-9>)
+(#<TOKEN bem/ADV #21-_-_> #<TOKEN bem/NOUN #21-conj-12>)
+(#<TOKEN estar/AUX #22-_-_> #<TOKEN estar/VERB #22-compound-21>)
+
+Setenta e cinco por cento de o custo de as intervenções provêm de a União Europeia , via FEDER ;
+(#<TOKEN Setenta/PROPN #1-_-_> #<TOKEN Setenta/NUM #1-nummod-4>)
+(#<TOKEN via/NOUN #18-_-_> #<TOKEN via/ADP #18-case-19>)
+
+« Os principais clientes de o serviço Alfa e Intercidades são pessoas de a classe média e média-alta que optam por estas composições por serem meios de transporte mais rápidos , não vendo em os comboios inter-regionais uma alternativa . »
+(#<TOKEN inter-regionais/PUNCT #37-_-_>
+ #<TOKEN inter-regionais/ADJ #37-amod-36>)
+
+E porque se trata de um espaço por onde todos circulam , bem próximo de uma de as entradas de o recinto , o uso já deu o nome de « banco » a a peça de Jorge Martins :
+(#<TOKEN onde/ADV #9-_-_> #<TOKEN onde/NOUN #9-obl-11>)
+(#<TOKEN todos/DET #10-_-_> #<TOKEN todos/PRON #10-nsubj-11>)
+(#<TOKEN circulam/NOUN #11-_-_> #<TOKEN circulam/VERB #11-acl:relcl-7>)
+(#<TOKEN próximo/ADJ #14-_-_> #<TOKEN próximo/ADV #14-advmod-7>)
+
+« Força 4 » , uma placa de mármore disposta sobre um soclo , onde efeitos de ondulação criam a ilusão de a passagem de o vento sobre a superfície de o mar .
+(#<TOKEN disposta/VERB #10-_-_> #<TOKEN disposta/ADJ #10-acl-7>)
+
+José Pedro Croft fez uma enorme caixa oca de pedra , dentro de a qual dispôs bolas de o mesmo material .
+(#<TOKEN oca/ADJ #8-_-_> #<TOKEN oca/NOUN #8-nmod:npmod-7>)
+
+É a única peça que exige algum esforço a o visitante , que é levado a debruçar se e espreitar para o interior de a caixa .
+(#<TOKEN se/SCONJ #18-_-_> #<TOKEN se/PRON #18-expl-17>)
+
+Manuel Rosa e Rui Sanches , por fim , mostram nos esculturas que têm por referente mais ou menos explícito o corpo .
+(#<TOKEN nos/ADP #11-_-_> #<TOKEN nos/PRON #11-iobj-10>)
+(#<TOKEN referente/ADV #16-_-_> #<TOKEN referente/NOUN #16-xcomp-14>)
+(#<TOKEN mais/ADV #17-_-_> #<TOKEN mais/NOUN #17-nmod:npmod-20>)
+(#<TOKEN menos/ADV #19-_-_> #<TOKEN menos/NOUN #19-nmod-17>)
+(#<TOKEN explícito/VERB #20-_-_> #<TOKEN explícito/ADJ #20-amod-16>)
+
+mas a coluna é ela própria uma metáfora de o corpo que sustenta , de a força que tudo suporta .
+(#<TOKEN própria/VERB #6-_-_> #<TOKEN própria/DET #6-det-5>)
+
+O segundo , com algum humor , intitulou a sua peça « O meu corpo » ;
+(#<TOKEN meu/DET #14-_-_> #<TOKEN meu/PROPN #14-flat:name-13>)
+(#<TOKEN corpo/NOUN #15-_-_> #<TOKEN corpo/PROPN #15-flat:name-13>)
+
+e , em o meio de uma estrutura de mármore , colocou dois vasos com água a diferentes níveis , que se foi sujando -- e enchendo de moedas -- com o passar de os dias .
+(#<TOKEN sujando/VERB #24-_-_> #<TOKEN sujando/AUX #24-aux-27>)
+
+A certa altura , este « corpo » , que é o corpo de a escultura , foi mesmo quebrado , levando a a sua substituição .
+(#<TOKEN A/DET #1-_-_> #<TOKEN A/ADP #1-case-3>)
+
+Estátua ( porque é um corpo ) , escultura , organismo que vive , é ferido e morre ?
+(#<TOKEN Estátua/PROPN #1-_-_> #<TOKEN Estátua/NOUN #1-root-0>)
+(#<TOKEN ferido/ADJ #16-_-_> #<TOKEN ferido/VERB #16-parataxis-1>)
+
+« Se for uma greve só por grevismo , de aí prejudica a quem é favorável a isso .
+(#<TOKEN a/DET #13-_-_> #<TOKEN a/ADP #13-obj-12>)
+(#<TOKEN a/DET #17-_-_> #<TOKEN a/ADP #17-case-18>)
+
+Mania altera comportamento
+(#<TOKEN Mania/PROPN #1-_-_> #<TOKEN Mania/NOUN #1-nsubj-2>)
+
+A PMD ( psicose maníaco-depressiva ) é uma doença psiquiátrica que leva a uma alteração abrupta de o comportamento .
+(#<TOKEN abrupta/VERB #16-_-_> #<TOKEN abrupta/ADJ #16-amod-15>)
+
+José Arthur Giannotti , Marilena Chaui , Gloria Kalil e Jorge de a Cunha Lima faziam parte de platéia-cabeça que acompanhou anteontem em o Masp a palestra de Claude Lefort apresentado por Sérgio Cardoso .
+(#<TOKEN a/ADP #26-_-_> #<TOKEN a/DET #26-det-27>)
+
+Essa época marca a formação de a base de a moral samurai , resultado de a disciplina física e mental de o zen-budismo , de os ditames de o confuncionismo e de o espírito militarista reinante .
+(#<TOKEN marca/CCONJ #3-_-_> #<TOKEN marca/VERB #3-root-0>)
+(#<TOKEN samurai/VERB #12-_-_> #<TOKEN samurai/NOUN #12-nmod:npmod-11>)
+
+Esse sinal de fraqueza associado a crises internas levam a a queda de o sistema em 1867 .
+(#<TOKEN a/DET #6-_-_> #<TOKEN a/ADP #6-case-7>)
+
+Mesmo entendendo suas explicações sobre o programa de governo , entendo que ele tinha que ter um programa de governo , que vai dar um meio de cobrar depois .
+(#<TOKEN que/PRON #15-_-_> #<TOKEN que/SCONJ #15-mark-16>)
+(#<TOKEN ter/AUX #16-_-_> #<TOKEN ter/VERB #16-ccomp-11>)
+
+A falta de um programa poderia dar a impressão de não ter metas .
+(#<TOKEN ter/AUX #12-_-_> #<TOKEN ter/VERB #12-acl-9>)
+(#<TOKEN metas/ADJ #13-_-_> #<TOKEN metas/NOUN #13-obj-12>)
+
+Um governo como o Estado de São Paulo precisa ter metas claras e definidas . »
+(#<TOKEN definidas/ADJ #14-_-_> #<TOKEN definidas/VERB #14-conj-12>)
+
+« Gostei de a sua posição sobre a religião .
+(#<TOKEN Gostei/PROPN #2-_-_> #<TOKEN Gostei/VERB #2-root-0>)
+
+Mesmo criticado , ele defende sua posição claramente em favor de os evangélicos e de seu ponto de vista religioso .
+(#<TOKEN evangélicos/NOUN #13-_-_> #<TOKEN evangélicos/ADJ #13-nmod-10>)
+
+Em muitos momentos ele simplesmente deixou de se posicionar .
+(#<TOKEN deixou/VERB #6-_-_> #<TOKEN deixou/AUX #6-aux-9>)
+
+Talvez ele não tenha idéias elaboradas sobre os problemas de o Estado .
+(#<TOKEN tenha/AUX #4-_-_> #<TOKEN tenha/VERB #4-root-0>)
+(#<TOKEN idéias/ADJ #5-_-_> #<TOKEN idéias/NOUN #5-obj-4>)
+
+Ele fala que tem idéias e não um programa , mas muitas vezes , quando perguntado ele mostra que também não tem nem idéia . »
+(#<TOKEN muitas/DET #12-_-_> #<TOKEN muitas/ADP #12-case-13>)
+(#<TOKEN nem/CCONJ #23-_-_> #<TOKEN nem/ADV #23-advmod-24>)
+
+Elden Paulo Durante , 27 , formado em direito , pecuarista :
+(#<TOKEN pecuarista/NOUN #11-_-_> #<TOKEN pecuarista/ADJ #11-amod-1>)
+
+« Ele foi mais direto , mais atacante , deu respostas mais profundas e melhores .
+(#<TOKEN foi/AUX #3-_-_> #<TOKEN foi/VERB #3-root-0>)
+(#<TOKEN atacante/ADJ #8-_-_> #<TOKEN atacante/NOUN #8-conj-5>)
+
+Esses são alguns de os temas que estarão sendo discutidos em o Congresso de a Fenasoft , promovido paralelamente a a feira .
+(#<TOKEN paralelamente/ADP #19-_-_> #<TOKEN paralelamente/ADV #19-advmod-18>)
+(#<TOKEN a/DET #20-_-_> #<TOKEN a/ADP #20-case-22>)
+
+O congresso é dividido em três temas , com o objetivo de atender de profissionais de informática a executivos e empresários interessados em novas tecnologias , pasando por o usuário final .
+(#<TOKEN interessados/VERB #22-_-_> #<TOKEN interessados/ADJ #22-acl-19>)
+
+Não sei em relação a os outros indiciados .
+(#<TOKEN indiciados/NOUN #8-_-_> #<TOKEN indiciados/VERB #8-acl-4>)
+
+É coisa orquestrada , dirigida .
+(#<TOKEN orquestrada/ADJ #3-_-_> #<TOKEN orquestrada/VERB #3-acl-2>)
+
+Charuto
+(#<TOKEN Charuto/PROPN #1-_-_> #<TOKEN Charuto/NOUN #1-root-0>)
+
+O maior aumento aconteceu em direito ( mais 366 candidatos ) e a maior queda , em engenharia ( menos 980 ) .
+(#<TOKEN mais/ADV #8-_-_> #<TOKEN mais/ADP #8-case-9>)
+(#<TOKEN menos/ADV #20-_-_> #<TOKEN menos/ADP #20-case-21>)
+
+De 140.518 inscritos , a Fuvest registrou 139.369 .
+(#<TOKEN inscritos/NOUN #3-_-_> #<TOKEN inscritos/ADJ #3-obl-7>)
+
+Segundo a assessoria de imprensa de o governador , Fleury já pediu um levantamento de preço de as ações , junto a consultores especializados , para estabelecer o valor mínimo de as ações , que vão ser levadas a leilão .
+(#<TOKEN mínimo/ADJ #30-_-_> #<TOKEN mínimo/NOUN #30-nmod:npmod-29>)
+
+O IPC-r de julho , segundo o ministro , « tem muito pouco de a nova moeda » .
+(#<TOKEN muito/DET #12-_-_> #<TOKEN muito/ADV #12-advmod-13>)
+(#<TOKEN pouco/ADV #13-_-_> #<TOKEN pouco/PRON #13-obj-11>)
+
+O prefeito de Juazeiro , Manoel Salviano ( PSDB ) , disse que qualquer funcionário que tenha participado de a recepção « foi espontaneamente , sem nenhuma pressão de a prefeitura » .
+(#<TOKEN tenha/VERB #17-_-_> #<TOKEN tenha/AUX #17-aux-18>)
+(#<TOKEN foi/AUX #23-_-_> #<TOKEN foi/VERB #23-ccomp-12>)
+
+Acompanhada de Renata Queiróz , mulher de o candidato de o PSDB a o governo de o Ceará , Tasso Jereissati , e de Patrícia Gomes , mulher de o ministro de a Fazenda , Ciro Gomes , Ruth Cardoso visitou três cidades cearenses antes de Juazeiro .
+(#<TOKEN o/PRON #11-_-_> #<TOKEN o/DET #11-det-12>)
+
+A Kodak , por exemplo , apresentou as impressoras/copiadoras ColorEdge 1.560 e 1.565 , capazes de copiar em cores frente e verso de documentos de várias páginas .
+(#<TOKEN frente/ADV #20-_-_> #<TOKEN frente/NOUN #20-obj-17>)
+
+Kim E sobre como eu fiquei totalmente nua o tempo todo .
+(#<TOKEN como/SCONJ #4-_-_> #<TOKEN como/ADV #4-advmod-6>)
+(#<TOKEN nua/ADP #8-_-_> #<TOKEN nua/ADJ #8-xcomp-6>)
+(#<TOKEN todo/ADV #11-_-_> #<TOKEN todo/DET #11-det-10>)
+
+Assista a o filme de novo : você não vai me ver completamente nua a não ser em uma cena , em o final de o strip tease .
+(#<TOKEN Assista/ADV #1-_-_> #<TOKEN Assista/VERB #1-root-0>)
+(#<TOKEN nua/ADP #14-_-_> #<TOKEN nua/ADJ #14-xcomp-12>)
+(#<TOKEN ser/AUX #17-_-_> #<TOKEN ser/VERB #17-dep-12>)
+(#<TOKEN strip/NOUN #27-_-_> #<TOKEN strip/X #27-nmod-24>)
+(#<TOKEN tease/VERB #28-_-_> #<TOKEN tease/X #28-flat:foreign-27>)
+
+E por trás ...
+(#<TOKEN trás/ADP #3-_-_> #<TOKEN trás/ADV #3-root-0>)
+
+Está tudo em a sua cabeça .
+(#<TOKEN Está/AUX #1-_-_> #<TOKEN Está/VERB #1-root-0>)
+
+Jurava que ele usava um chapéu de cowboy .
+(#<TOKEN Jurava/PROPN #1-_-_> #<TOKEN Jurava/VERB #1-root-0>)
+
+O que um chapéu de cowboy estaria fazendo ali ?
+(#<TOKEN cowboy/VERB #6-_-_> #<TOKEN cowboy/NOUN #6-nmod-4>)
+
+Os dirigentes de a seleção pediram a os seguranças de a universidade que afastassem o público , composto em sua maior parte por jovens , que já se preparava para acompanhar os treinos .
+(#<TOKEN a/DET #7-_-_> #<TOKEN a/ADP #7-case-9>)
+(#<TOKEN que/PRON #13-_-_> #<TOKEN que/SCONJ #13-mark-14>)
+(#<TOKEN jovens/ADJ #24-_-_> #<TOKEN jovens/NOUN #24-obl-18>)
+
+A a noite , o projeto prevê aulas de alfabetização para jovens de 14 a 22 anos em os Cieps .
+(#<TOKEN jovens/NOUN #12-_-_> #<TOKEN jovens/ADJ #12-nmod-8>)
+
+Em o projeto não há definição de quantos podem ser construídos .
+(#<TOKEN quantos/NOUN #8-_-_> #<TOKEN quantos/PRON #8-nsubj:pass-11>)
+
+E como não há crescimento sem educação , a causa de as causas para nós é a elevação de o nível educacional de o povo brasileiro .
+(#<TOKEN como/ADP #2-_-_> #<TOKEN como/SCONJ #2-mark-4>)
+
+Claro sem descuidar de tudo mais , mas vendo com clareza a questão de as prioridades » , declara Brizola .
+(#<TOKEN declara/ADP #19-_-_> #<TOKEN declara/VERB #19-root-0>)
+
+Em Manaus , o representante de a família Graça é Manuel Tavares de a Graça , candidato derrotado a deputado estadual por o PP .
+(#<TOKEN a/DET #19-_-_> #<TOKEN a/ADP #19-case-20>)
+
+Paixão é irmão de José Tavares de a Graça , preso em agosto de 93 em Belém ( PA ) com 435 quilos de cocaína .
+(#<TOKEN Paixão/NOUN #1-_-_> #<TOKEN Paixão/PROPN #1-nsubj-3>)
+(#<TOKEN irmão/NOUN #3-_-_> #<TOKEN irmão/ADJ #3-root-0>)
+
+É também primo de Curica e de Floriano Graça .
+(#<TOKEN primo/ADJ #3-_-_> #<TOKEN primo/NOUN #3-root-0>)
+
+Fomos eu , o Violim , e os investigadores Gilberto Brito , Euripedes Tozzo , Mauro , Marcão e o Adner .
+(#<TOKEN Fomos/AUX #1-_-_> #<TOKEN Fomos/VERB #1-root-0>)
+
+Quatro Kombis foram para o Deic .
+(#<TOKEN foram/AUX #3-_-_> #<TOKEN foram/VERB #3-root-0>)
+
+Cada hesitação , cada silêncio , cada desvio de o olhar era um ganho em a contabilidade de o sublime que o diretor-autor planejava .
+(#<TOKEN sublime/NOUN #20-_-_> #<TOKEN sublime/ADJ #20-nmod-17>)
+
+O técnico de a Coréia , Kim Ho , afirmou que , em o primeiro tempo , a equipe estava « intimidada por a Alemanha , o que é natural , pois eles são campeões de o mundo » .
+(#<TOKEN é/AUX #29-_-_> #<TOKEN é/VERB #29-xcomp-22>)
+
+Boutros-Ghali teme que as potências se retirem e suspendam sanções contra a Sérvia pondo em risco outras partes de a ex-Iugoslávia se o plano for aceito .
+(#<TOKEN se/PRON #22-_-_> #<TOKEN se/SCONJ #22-mark-26>)
+
+Folha -- Qual o segredo de a vitória ?
+(#<TOKEN Qual/INTJ #3-_-_> #<TOKEN Qual/DET #3-parataxis-1>)
+
+Se você bate em ele , o revide vem forte , pode apostar .
+(#<TOKEN forte/ADJ #10-_-_> #<TOKEN forte/NOUN #10-obl-9>)
+
+Alguns tenistas são assim , usam sua carga emocional como combustível .
+(#<TOKEN são/AUX #3-_-_> #<TOKEN são/VERB #3-root-0>)
+
+Haverá mais e melhores escolas , laboratórios , universidades e bolsas de estudo .
+(#<TOKEN mais/ADV #2-_-_> #<TOKEN mais/DET #2-det-5>)
+
+Pequenas e médias empresas , Forças Armadas , deficientes físicos e artistas terão apoio e recursos .
+(#<TOKEN deficientes/ADJ #9-_-_> #<TOKEN deficientes/NOUN #9-conj-4>)
+
+Segundo FHC , o Brasil possui esses recursos , muitos de eles naturais , e vantagens comparativas para realizar essas metas .
+(#<TOKEN muitos/PRON #10-_-_> #<TOKEN muitos/DET #10-det-13>)
+(#<TOKEN naturais/ADV #13-_-_> #<TOKEN naturais/NOUN #13-appos-8>)
+
+O Emeraude não carrega armamento nuclear .
+(#<TOKEN Emeraude/NOUN #2-_-_> #<TOKEN Emeraude/PROPN #2-nsubj-4>)
+
+Belo negou que em a reunião tenha sido discutida a incorporação a os quadros de a PM de cerca de 2.000 soldados de o Exército .
+(#<TOKEN a/ADP #10-_-_> #<TOKEN a/DET #10-det-11>)
+
+Abertura hoje a as 19h30 .
+(#<TOKEN Abertura/VERB #1-_-_> #<TOKEN Abertura/NOUN #1-root-0>)
+(#<TOKEN a/DET #3-_-_> #<TOKEN a/ADP #3-case-5>)
+
+Seg a sex de as 9h30 a as 18h30 .
+(#<TOKEN Seg/ADP #1-_-_> #<TOKEN Seg/NOUN #1-root-0>)
+(#<TOKEN a/DET #2-_-_> #<TOKEN a/ADP #2-case-3>)
+
+BASTIDORES DE OS MUSEUS -- O trabalho feito por os fotógrafos Eduardo Castanho , Saul Queiroz , Rogério Voltan , Ricardo Hantzchel , Fausto Chermont e Eliana Lopes retrata o que as pessoas não vêem a o visitar um museu .
+(#<TOKEN OS/PROPN #3-_-_> #<TOKEN OS/DET #3-det-4>)
+(#<TOKEN MUSEUS/PROPN #4-_-_> #<TOKEN MUSEUS/NOUN #4-nmod-1>)
+
+Em a Anhanguera , que une São Paulo a Ribeirão Preto , costuma haver neblina pesada entre o km 21 e o km 43 , também perto de Perus e Cajamar .
+(#<TOKEN une/PRON #6-_-_> #<TOKEN une/VERB #6-acl:relcl-3>)
+(#<TOKEN São/AUX #7-_-_> #<TOKEN São/PROPN #7-obj-6>)
+(#<TOKEN neblina/ADP #15-_-_> #<TOKEN neblina/NOUN #15-obj-14>)
+(#<TOKEN pesada/NOUN #16-_-_> #<TOKEN pesada/VERB #16-acl-15>)
+(#<TOKEN Perus/PROPN #29-_-_> #<TOKEN Perus/NOUN #29-obl-27>)
+
+A Rodovia Castelo Branco , que segue para o oeste de o Estado , apresenta vários pontos com neblina .
+(#<TOKEN Rodovia/PROPN #2-_-_> #<TOKEN Rodovia/NOUN #2-nsubj-15>)
+
+O paulistano não acredita em queda de inflação em os próximos meses .
+(#<TOKEN paulistano/ADJ #2-_-_> #<TOKEN paulistano/NOUN #2-nsubj-4>)
+
+O índice deve aumentar , segundo 45 % de os entrevistados por o DataFolha .
+(#<TOKEN entrevistados/NOUN #11-_-_> #<TOKEN entrevistados/ADJ #11-nmod-8>)
+(#<TOKEN DataFolha/NOUN #14-_-_> #<TOKEN DataFolha/PROPN #14-obl-11>)
+
+A impressão de que o índice de alta de os preços cai se restringe a 27 % de as respostas .
+(#<TOKEN se/SCONJ #13-_-_> #<TOKEN se/PRON #13-obj-14>)
+
+Tudo fica como está em a opinião de 23 % , enquanto 5 % não sabem responder .
+(#<TOKEN como/ADP #3-_-_> #<TOKEN como/ADV #3-advmod-7>)
+(#<TOKEN enquanto/ADP #12-_-_> #<TOKEN enquanto/ADV #12-advmod-16>)
+
+Mexicanos são recebidos com ovos
+(#<TOKEN ovos/DET #5-_-_> #<TOKEN ovos/NOUN #5-obl-3>)
+
+Segundo a agência de noticias Notimex , a reação pode ser uma amostra de que como vai reagir a torcida se o México não se classificar para a segunda fase de a Copa .
+(#<TOKEN se/PRON #21-_-_> #<TOKEN se/SCONJ #21-mark-26>)
+
+Tenho certeza de que se pudesse concorrer a algum cargo , me elegeria .
+(#<TOKEN se/PRON #5-_-_> #<TOKEN se/SCONJ #5-mark-7>)
+(#<TOKEN a/DET #8-_-_> #<TOKEN a/ADP #8-case-10>)
+
+Eu adoro política » , confessa Mercedes Rossi de Almeida , 73 , a mãe de o candidato a o governo de São Paulo Francisco Rossi ( PDT ) .
+(#<TOKEN 73/PROPN #12-_-_> #<TOKEN 73/NUM #12-appos-7>)
+
+« Depois tentaria ser deputada estadual . »
+(#<TOKEN deputada/VERB #5-_-_> #<TOKEN deputada/NOUN #5-dep-3>)
+
+ONDE ALUGAR
+(#<TOKEN ALUGAR/PROPN #2-_-_> #<TOKEN ALUGAR/VERB #2-root-0>)
+
+Empresa funciona de as 9h a as 19h , diariamente .
+(#<TOKEN Empresa/PROPN #1-_-_> #<TOKEN Empresa/NOUN #1-nsubj-2>)
+
+Pior , o mister sueco Sven-Goran Eriksson também não poderá contar com o garoto Bertarelli , contratura em a coxa direita .
+(#<TOKEN Pior/PROPN #1-_-_> #<TOKEN Pior/ADV #1-advmod-11>)
+
+Em a terceira colocação , 34 pontos , a Juventus de Turim visita o Genoa , 22 , em o limiar de o rebaixamento .
+(#<TOKEN 34/ADP #6-_-_> #<TOKEN 34/NUM #6-nummod-7>)
+(#<TOKEN a/ADP #9-_-_> #<TOKEN a/DET #9-det-10>)
+
+Acabou se a gestão de o ex-craque Giampiero Boniperti em a administração de o clube .
+(#<TOKEN Acabou/AUX #1-_-_> #<TOKEN Acabou/VERB #1-root-0>)
+(#<TOKEN se/SCONJ #2-_-_> #<TOKEN se/PRON #2-expl-1>)
+
+Com Boniperti se despede o técnico Giovanni Trapattoni , que cederá o posto a Marcello Lippi , hoje em o Napoli .
+(#<TOKEN posto/NOUN #13-_-_> #<TOKEN posto/VERB #13-xcomp-11>)
+
+A torcida de a « Senhora » se conforta com a melhora de Roberto Baggio , que não terá de operar o joelho .
+(#<TOKEN Senhora/PROPN #6-_-_> #<TOKEN Senhora/NOUN #6-nmod-2>)
+
+« O programa terá ação integrada com pais e alunos através de a formação de grupos de informação » , diz Antonio Carlos Gomes de a Silva , superintendente de o HC .
+(#<TOKEN integrada/ADJ #6-_-_> #<TOKEN integrada/VERB #6-acl-5>)
+
+4) A realização em o Cairo ( Egito ) de a Conferência Internacional sobre População e Desenvolvimento de a ONU tem como maior objetivo a divulgação mundial de políticas para o controle de natalidade como forma de redução de a pobreza .
+(#<TOKEN 4)/VERB #1-_-_> #<TOKEN 4)/NUM #1-root-0>)
+(#<TOKEN e/CCONJ #16-_-_> #<TOKEN e/PROPN #16-flat:name-12>)
+
+VERA LÚCIA DA COSTA ANTUNES é coordenadora de geografia de o curso e colégio Objetivo .
+(#<TOKEN VERA/NOUN #1-_-_> #<TOKEN VERA/PROPN #1-nsubj-7>)
+(#<TOKEN DA/ADP #3-_-_> #<TOKEN DA/PROPN #3-flat:name-1>)
+(#<TOKEN coordenadora/NOUN #7-_-_> #<TOKEN coordenadora/ADJ #7-root-0>)
+(#<TOKEN e/VERB #13-_-_> #<TOKEN e/CCONJ #13-cc-14>)
+
+O banco não informou porque o sigilo não foi mantido também para os grupos estrangeiros .
+(#<TOKEN porque/SCONJ #5-_-_> #<TOKEN porque/ADV #5-advmod-10>)
+
+Eu tolerei pois não quis me intrometer em a vida privada de os meus funcionários » , disse Antinori , para quem Fishel era um excelente técnico .
+(#<TOKEN pois/SCONJ #3-_-_> #<TOKEN pois/ADV #3-advmod-5>)
+(#<TOKEN meus/NOUN #14-_-_> #<TOKEN meus/DET #14-det-15>)
+(#<TOKEN funcionários/ADJ #15-_-_> #<TOKEN funcionários/NOUN #15-obl-11>)
+
+Após várias divergências com Fishel , Antinori o demitiu em 1990 .
+(#<TOKEN Antinori/ADV #7-_-_> #<TOKEN Antinori/PROPN #7-nsubj-9>)
+(#<TOKEN o/DET #8-_-_> #<TOKEN o/PRON #8-obj-9>)
+
+Em essa época , Fishel teria conhecido o ginecologista britânico Robert Winston , a quem convidou para um encontro científico promovido por Antinori .
+(#<TOKEN a/DET #14-_-_> #<TOKEN a/ADP #14-mark-16>)
+
+Mas é também preciso a sociedade mobilizar se para sensibilizar o futuro Congresso Nacional em a promoção de reformas constitucionais indispensáveis a o êxito de as mudanças pretendidas .
+(#<TOKEN a/DET #5-_-_> #<TOKEN a/ADP #5-nsubj-7>)
+(#<TOKEN se/SCONJ #8-_-_> #<TOKEN se/PRON #8-expl-7>)
+(#<TOKEN futuro/NOUN #12-_-_> #<TOKEN futuro/ADJ #12-amod-13>)
+
+O ministro Ricupero ficou satisfeito com aprovação de a MP de a URV em a comissão mista de o Congresso que examinou a medida .
+(#<TOKEN satisfeito/NOUN #5-_-_> #<TOKEN satisfeito/ADJ #5-dep-4>)
+
+Também serão submetidas a o mesmo processo as 28 lojas de a Body for Sure , a grife esportiva de o grupo .
+(#<TOKEN for/AUX #14-_-_> #<TOKEN for/PROPN #14-flat:name-13>)
+
+« Eu acredito em o efeito barriga em o balcão » , afirma o empresário Humberto Nastari , 37 .
+(#<TOKEN barriga/VERB #7-_-_> #<TOKEN barriga/NOUN #7-nmod:npmod-6>)
+
+Em a condição de senhor de meia-idade com idéias adolescentes , tio Dave vem observando com bastante inquietação que seu sentido de o paladar parece estar se esvaindo por o ralo .
+(#<TOKEN vem/VERB #14-_-_> #<TOKEN vem/AUX #14-aux-15>)
+(#<TOKEN que/PRON #19-_-_> #<TOKEN que/SCONJ #19-mark-28>)
+
+Peixe passou a ter gosto de carne para mim e uma noite de estas , em o Rodeio , eu confundi salsicha caseira com frango kebab .
+(#<TOKEN Peixe/PROPN #1-_-_> #<TOKEN Peixe/NOUN #1-nsubj-4>)
+(#<TOKEN ter/AUX #4-_-_> #<TOKEN ter/VERB #4-root-0>)
+(#<TOKEN gosto/VERB #5-_-_> #<TOKEN gosto/NOUN #5-obj-4>)
+(#<TOKEN estas/NOUN #14-_-_> #<TOKEN estas/PRON #14-det-12>)
+(#<TOKEN Rodeio/PROPN #18-_-_> #<TOKEN Rodeio/NOUN #18-obl-21>)
+(#<TOKEN kebab/ADJ #26-_-_> #<TOKEN kebab/NOUN #26-nmod:npmod-25>)
+
+Chocante .
+(#<TOKEN Chocante/NOUN #1-_-_> #<TOKEN Chocante/ADJ #1-root-0>)
+
+Constrangedor .
+(#<TOKEN Constrangedor/PROPN #1-_-_> #<TOKEN Constrangedor/ADJ #1-root-0>)
+
+Então me deparei com um estudo que afirma que algumas pessoas realmente têm um paladar mais aguçado de o que outras .
+(#<TOKEN outras/PRON #21-_-_> #<TOKEN outras/DET #21-advmod-17>)
+
+E , horror de os horrores , são as mulheres que têm o paladar mais apurado de o que os homens ( pare de dar essas risadinhas , você aí em o fundo de a classe ) .
+(#<TOKEN apurado/VERB #16-_-_> #<TOKEN apurado/ADJ #16-acl-14>)
+(#<TOKEN pare/NOUN #23-_-_> #<TOKEN pare/AUX #23-aux-25>)
+
+Parece que a Universidade Yale , aquela que nos deu o inesquecível George Bush , comprovou a existência de « superdegustadores » , ou seja pessoas que possuem um número de papilas gustativas muito além de o normal .
+(#<TOKEN aquela/PRON #7-_-_> #<TOKEN aquela/DET #7-appos-4>)
+(#<TOKEN ou/CCONJ #24-_-_> #<TOKEN ou/ADP #24-case-25>)
+(#<TOKEN seja/VERB #25-_-_> #<TOKEN seja/NOUN #25-nmod-21>)
+(#<TOKEN normal/ADJ #38-_-_> #<TOKEN normal/NOUN #38-obl-35>)
+
+Custa US$ 49 , em a Brasoftware .
+(#<TOKEN US$/PROPN #2-_-_> #<TOKEN US$/SYM #2-obj-1>)
+
+Sai de US$ 79 por US$ 49 .
+(#<TOKEN Sai/PROPN #1-_-_> #<TOKEN Sai/VERB #1-root-0>)
+
+Custa US$ 45 em a Multimídia Center ( tel 011 959-2650 ) .
+(#<TOKEN 011/NUM #10-_-_> #<TOKEN 011/ADP #10-nmod-9>)
+
+Ele disse , em o entanto , que a lei antitruste aprovada por o Congresso reflete o clima que o país está vivendo em essa fase que antecede o lançamento de o real .
+(#<TOKEN antitruste/ADV #11-_-_> #<TOKEN antitruste/NOUN #11-nmod:npmod-10>)
+(#<TOKEN reflete/ADJ #16-_-_> #<TOKEN reflete/VERB #16-ccomp-2>)
+(#<TOKEN antecede/ADV #28-_-_> #<TOKEN antecede/VERB #28-acl:relcl-26>)
+
+Carlos Mariani Bittencourt , de o grupo petroquímico Mariani , disse « que definitivamente é necessária uma lei antitruste em o país »
+(#<TOKEN antitruste/ADJ #19-_-_> #<TOKEN antitruste/NOUN #19-nmod:npmod-18>)
+
+Mas afirmou que a lei antitruste aprovada por o Congresso tem as deformações típicas de a situação conjuntural .
+(#<TOKEN antitruste/ADV #6-_-_> #<TOKEN antitruste/NOUN #6-nmod:npmod-5>)
+
+Mayhew disse que o IRA poderia demonstrar que realmente não autorizou a operação de Newry devolvendo os US$ 210 mil levados durante o assalto .
+(#<TOKEN levados/NOUN #21-_-_> #<TOKEN levados/VERB #21-acl-18>)
+
+( FHC começa a rir ) .
+(#<TOKEN começa/VERB #3-_-_> #<TOKEN começa/AUX #3-aux-5>)
+(#<TOKEN rir/NOUN #5-_-_> #<TOKEN rir/VERB #5-root-0>)
+
+Sabe por que eu amo tanto você , querido ?
+(#<TOKEN que/SCONJ #3-_-_> #<TOKEN que/PRON #3-obl-5>)
+(#<TOKEN querido/VERB #9-_-_> #<TOKEN querido/NOUN #9-vocative-1>)
+
+( Começam ambos a chorar .
+(#<TOKEN ambos/DET #3-_-_> #<TOKEN ambos/PRON #3-nsubj-2>)
+(#<TOKEN a/DET #4-_-_> #<TOKEN a/ADP #4-mark-5>)
+
+Para ele , a alta de preços em a fase de a nova moeda deverá ser impulsionada por os setores competitivos como o agrícola e o de serviços .
+(#<TOKEN o/ADV #26-_-_> #<TOKEN o/DET #26-conj-24>)
+
+Ontem , a diretoria de a atlética e Amato Neto que iniciou a organização de os alunos para a preservação de o clube se reuniram para discutir alternativas para a área .
+(#<TOKEN atlética/NOUN #7-_-_> #<TOKEN atlética/ADJ #7-nmod-4>)
+
+Cedras não tem o controle de sua polícia .
+(#<TOKEN Cedras/NOUN #1-_-_> #<TOKEN Cedras/PROPN #1-nsubj-3>)
+
+Para evitar distúrbios , vamos distribuir a as TVs uma fita para mostrar a a população o que viemos fazer aqui .
+(#<TOKEN as/NOUN #8-_-_> #<TOKEN as/DET #8-det-9>)
+(#<TOKEN fita/ADJ #11-_-_> #<TOKEN fita/NOUN #11-obj-6>)
+(#<TOKEN a/DET #14-_-_> #<TOKEN a/ADP #14-case-16>)
+
+Se o sr. Cedras não tomar os passos apropriados , nós vamos dizer em um clima de respeito que passos ele deve dar .
+(#<TOKEN sr./NOUN #3-_-_> #<TOKEN sr./PROPN #3-nsubj-6>)
+(#<TOKEN que/PRON #19-_-_> #<TOKEN que/DET #19-det-20>)
+(#<TOKEN passos/VERB #20-_-_> #<TOKEN passos/NOUN #20-obj-23>)
+
+Roma derrota Lazio e Batistuta faz mais um
+(#<TOKEN um/DET #8-_-_> #<TOKEN um/NUM #8-obj-6>)
+
+A Roma venceu ontem a Lazio , também em a capital italiana , por 3 a 0 , em a partida mais importante e empolgante de a décima primeira rodada de o Campeonato Italiano de 1994/95 .
+(#<TOKEN empolgante/NOUN #25-_-_> #<TOKEN empolgante/ADJ #25-conj-23>)
+(#<TOKEN décima/NOUN #28-_-_> #<TOKEN décima/ADJ #28-amod-30>)
+(#<TOKEN primeira/ADJ #29-_-_> #<TOKEN primeira/NOUN #29-compound-30>)
+(#<TOKEN rodada/VERB #30-_-_> #<TOKEN rodada/NOUN #30-nmod-21>)
+
+Boas maneiras viram regra em o trabalho
+(#<TOKEN Boas/PROPN #1-_-_> #<TOKEN Boas/ADJ #1-amod-2>)
+(#<TOKEN regra/VERB #4-_-_> #<TOKEN regra/NOUN #4-obj-3>)
+
+Conhecer as normas de etiqueta empresarial e ser mais cordial são requisitos para o sucesso de os executivos
+(#<TOKEN requisitos/VERB #12-_-_> #<TOKEN requisitos/NOUN #12-root-0>)
+
+Gestão participativa , times de qualidade e outros conceitos foram assimilados por as empresas a o mesmo tempo em que elas passaram a exigir funcionários mais abertos a o diálogo e cientes de a importância de o cumprimento de as regras de boas maneiras dentro de o ambiente de trabalho .
+(#<TOKEN Gestão/PROPN #1-_-_> #<TOKEN Gestão/NOUN #1-nsubj:pass-11>)
+(#<TOKEN passaram/VERB #22-_-_> #<TOKEN passaram/AUX #22-aux-24>)
+(#<TOKEN cientes/NOUN #32-_-_> #<TOKEN cientes/ADJ #32-conj-27>)
+(#<TOKEN boas/NOUN #43-_-_> #<TOKEN boas/ADJ #43-amod-44>)
+
+« As empresas notaram que sua imagem é a maior prejudicada quando um funcionário comete uma indelicadeza em público e diante de um cliente ou subordinado » , afirma o consultor de marketing pessoal Otto Reiter , 69 .
+(#<TOKEN comete/ADP #15-_-_> #<TOKEN comete/VERB #15-advcl-11>)
+(#<TOKEN subordinado/VERB #26-_-_> #<TOKEN subordinado/NOUN #26-conj-24>)
+
+« O refinamento de o executivo é mais um diferencial em a hora de a sua avaliação » , completa .
+(#<TOKEN é/AUX #7-_-_> #<TOKEN é/VERB #7-root-0>)
+(#<TOKEN completa/ADJ #20-_-_> #<TOKEN completa/VERB #20-parataxis-7>)
+
+Em os Estados Unidos , universidades e algumas empresas chegam a oferecer cursos de boas maneiras em os negócios .
+(#<TOKEN chegam/VERB #10-_-_> #<TOKEN chegam/AUX #10-aux-12>)
+(#<TOKEN a/DET #11-_-_> #<TOKEN a/ADP #11-obl-12>)
+(#<TOKEN boas/NOUN #15-_-_> #<TOKEN boas/ADJ #15-amod-16>)
+(#<TOKEN maneiras/ADJ #16-_-_> #<TOKEN maneiras/NOUN #16-nmod-13>)
+
+Em o Brasil , essa atitude ainda depende de a iniciativa de cada um .
+(#<TOKEN cada/DET #13-_-_> #<TOKEN cada/PROPN #13-det-14>)
+(#<TOKEN um/NUM #14-_-_> #<TOKEN um/PROPN #14-nmod-11>)
+
+A questão que enfrentaram era retomar a arte intensamente dramática de sua tradição sem se escravizar a ela .
+(#<TOKEN intensamente/ADJ #9-_-_> #<TOKEN intensamente/ADV #9-advmod-10>)
+
+A solução que deram , obter equilíbrio entre figuração e abstração em que a profundidade não é nem clássica ( pers -- pectiva ) nem modernista ( planificada ) , mas sugerida por jogos cromáticos semilivres a as vezes livres demais , como você vai ver .
+(#<TOKEN nem/ADV #18-_-_> #<TOKEN nem/CCONJ #18-cc-19>)
+(#<TOKEN clássica/NOUN #19-_-_> #<TOKEN clássica/ADJ #19-amod-7>)
+(#<TOKEN modernista/NOUN #26-_-_> #<TOKEN modernista/ADJ #26-conj-19>)
+(#<TOKEN planificada/NOUN #28-_-_> #<TOKEN planificada/VERB #28-acl-26>)
+
+Cada um o fez a seu modo .
+(#<TOKEN um/DET #2-_-_> #<TOKEN um/PROPN #2-flat:name-1>)
+(#<TOKEN o/DET #3-_-_> #<TOKEN o/PRON #3-obj-4>)
+(#<TOKEN a/ADP #5-_-_> #<TOKEN a/NOUN #5-obl-4>)
+(#<TOKEN seu/DET #6-_-_> #<TOKEN seu/ADP #6-case-7>)
+
+De os cinco , Baselitz , Immendorff e Kirkeby fizeram melhor .
+(#<TOKEN melhor/ADJ #11-_-_> #<TOKEN melhor/ADV #11-advmod-10>)
+
+Kirkeby , que vem a o Brasil para a abertura , também terá sala especial em a 22ª Bienal , a partir de o dia 12 .
+(#<TOKEN a/DET #21-_-_> #<TOKEN a/ADP #21-case-22>)
+
+Tanta coincidência só pode ser instrutiva ; pode mostrar mais a Alemanha que qualquer contato político afinal , como dizem eles , o ser reside em a linguagem .
+(#<TOKEN a/ADP #11-_-_> #<TOKEN a/DET #11-det-12>)
+(#<TOKEN que/PRON #13-_-_> #<TOKEN que/SCONJ #13-mark-15>)
+
+Habite se .
+(#<TOKEN Habite/PROPN #1-_-_> #<TOKEN Habite/VERB #1-root-0>)
+
+Além de isso , avaliou como fraca a organização existente até ontem em a campanha .
+(#<TOKEN fraca/VERB #7-_-_> #<TOKEN fraca/ADJ #7-xcomp-5>)
+(#<TOKEN existente/ADJ #10-_-_> #<TOKEN existente/VERB #10-dep-9>)
+
+Lula tem repetido uma frase em as conversas com amigos :
+(#<TOKEN tem/VERB #2-_-_> #<TOKEN tem/AUX #2-aux-3>)
+
+« Só tem campanha em os lugares em que eu e o Aloizio vamos . »
+(#<TOKEN e/VERB #11-_-_> #<TOKEN e/CCONJ #11-cc-10>)
+
+A partir de a próxima semana , vão viajar para os Estados os membros de a coordenação que não pertenceram a o núcleo que passa a deter as decisões .
+(#<TOKEN A/DET #1-_-_> #<TOKEN A/ADP #1-case-2>)
+(#<TOKEN Estados/PROPN #12-_-_> #<TOKEN Estados/NOUN #12-obl-9>)
+(#<TOKEN passa/VERB #25-_-_> #<TOKEN passa/AUX #25-aux-27>)
+
+De esse total , 40 são parentes e amigos de o ex-jogador .
+(#<TOKEN parentes/ADJ #7-_-_> #<TOKEN parentes/NOUN #7-root-0>)
+(#<TOKEN amigos/NOUN #9-_-_> #<TOKEN amigos/ADJ #9-conj-7>)
+
+Entre os convidados estão o « rei de a soja » , Olacyr de Moraes , o empresário Alfredo Saad e o comandante Rolim Amaro , dono de a empresa aérea TAM .
+(#<TOKEN estão/AUX #4-_-_> #<TOKEN estão/VERB #4-root-0>)
+
+Uma reprodução gigantesca de a « Maja Desnuda » , de Goya , ocupa uma de as paredes de a casa .
+(#<TOKEN uma/ADP #15-_-_> #<TOKEN uma/NUM #15-obj-14>)
+
+Em o banheiro , um funcionário vende balas , cigarros , chocolates , água mineral , remédios ( Engov ) e , claro , camisinhas .
+(#<TOKEN claro/ADV #23-_-_> #<TOKEN claro/ADJ #23-advmod-8>)
+
+A Aids foi apenas um catalisador para a volta de o próprio corpo como objeto estético em diversos trabalhos .
+(#<TOKEN Aids/NOUN #2-_-_> #<TOKEN Aids/PROPN #2-nsubj-6>)
+
+Controle alegado
+(#<TOKEN Controle/PROPN #1-_-_> #<TOKEN Controle/NOUN #1-root-0>)
+
+E comprova que a Petroplastic recebeu US$ 5 milhões para concordar com a transferência , para a Dow , de o controle de a Atochem ( fundadora de a Triunfo ) .
+(#<TOKEN comprova/NOUN #2-_-_> #<TOKEN comprova/VERB #2-root-0>)
+(#<TOKEN que/PRON #3-_-_> #<TOKEN que/SCONJ #3-mark-6>)
+
+Boris Gorentzvaig , de a Petroplastic , diz que os US$ 5 milhões eram adiantamento em « acordo de gaveta » com a Dow .
+(#<TOKEN adiantamento/VERB #15-_-_> #<TOKEN adiantamento/NOUN #15-ccomp-8>)
+
+O órgão responsável por o mercado de telebingos é a Susep ( Superintendência de Seguros Privados ) , uma autarquia federal subordinanda a o Ministério de a Fazenda .
+(#<TOKEN Fazenda/NOUN #28-_-_> #<TOKEN Fazenda/PROPN #28-nmod-25>)
+
+É em prol de o Fundo Social de Solidariedade a apresentação de hoje de « Mulher, a Melhor Opção de Investimento » em o Teatro Itália .
+(#<TOKEN É/AUX #1-_-_> #<TOKEN É/VERB #1-root-0>)
+(#<TOKEN a/ADP #10-_-_> #<TOKEN a/DET #10-det-11>)
+
+Divulgado em a semana passada , o fraco resultado em novembro de a produção industrial e de as novas encomendas a as indústrias acabou com as esperanças de que a Alemanha tivesse saído de a pior recessão de o pós-guerra em o último trimestre de o ano .
+(#<TOKEN fraco/NOUN #8-_-_> #<TOKEN fraco/ADJ #8-amod-9>)
+(#<TOKEN resultado/VERB #9-_-_> #<TOKEN resultado/NOUN #9-nsubj-24>)
+(#<TOKEN tivesse/VERB #32-_-_> #<TOKEN tivesse/AUX #32-aux-33>)
+
+A federação de as pequenas e médias empresas revelou em uma pesquisa que seus filiados estão próximos de o pânico em relação a a situação econômica .
+(#<TOKEN que/PRON #13-_-_> #<TOKEN que/SCONJ #13-mark-17>)
+(#<TOKEN filiados/NOUN #15-_-_> #<TOKEN filiados/VERB #15-csubj-17>)
+
+Suas expectativas para o futuro próximo de a economia são as piores em dez anos .
+(#<TOKEN próximo/ADJ #6-_-_> #<TOKEN próximo/ADV #6-advmod-5>)
+
+Tomado de surpresa , Santana deu um sorriso amarelo , mas logo recuperou se :
+(#<TOKEN se/SCONJ #14-_-_> #<TOKEN se/PRON #14-expl-13>)
+
+Não preciso , governador , porque , sabendo de a hospitalidade paranaense , eu nem trouxe carteira .
+(#<TOKEN preciso/ADJ #2-_-_> #<TOKEN preciso/VERB #2-root-0>)
+
+Pequenos são agentes de as transformações
+(#<TOKEN Pequenos/ADJ #1-_-_> #<TOKEN Pequenos/NOUN #1-nsubj-3>)
+(#<TOKEN agentes/NOUN #3-_-_> #<TOKEN agentes/ADJ #3-root-0>)
+
+Já não é correto pensar que o progresso técnico é um privilégio de as grandes empresas
+(#<TOKEN Já/ADV #1-_-_> #<TOKEN Já/ADP #1-advmod-4>)
+
+MAILSON DA NÓBREGA
+(#<TOKEN DA/ADP #2-_-_> #<TOKEN DA/PROPN #2-flat:name-1>)
+
+Pelo menos três acontecimentos podem ser destacados por o seu papel indutor de transformações :
+(#<TOKEN menos/ADV #2-_-_> #<TOKEN menos/NOUN #2-nmod-4>)
+(#<TOKEN indutor/NOUN #12-_-_> #<TOKEN indutor/ADJ #12-amod-11>)
+
+1) o esgotamento de o modelo baseado em a intervenção de o Estado -- proteção contra a competição externa , regimes especiais de importação de bens de capital e generosos incentivos fiscais e financeiros ;
+(#<TOKEN 1)/ADP #1-_-_> #<TOKEN 1)/NUM #1-root-0>)
+(#<TOKEN capital/NOUN #28-_-_> #<TOKEN capital/ADJ #28-nmod-26>)
+
+Mulher morre em rio presa a o cinto de o carro
+(#<TOKEN Mulher/PROPN #1-_-_> #<TOKEN Mulher/NOUN #1-nsubj-2>)
+(#<TOKEN presa/ADJ #5-_-_> #<TOKEN presa/VERB #5-advcl-2>)
+
+Vera Lúcia Barbosa , 40 , morreu em a última quarta presa por o cinto de segurança a o carro em que estava , que caiu em o rio Tietê .
+(#<TOKEN quarta/ADJ #11-_-_> #<TOKEN quarta/NOUN #11-obl-7>)
+(#<TOKEN presa/NOUN #12-_-_> #<TOKEN presa/VERB #12-advcl-7>)
+(#<TOKEN estava/AUX #23-_-_> #<TOKEN estava/VERB #23-acl-20>)
+(#<TOKEN que/SCONJ #25-_-_> #<TOKEN que/PRON #25-nsubj-26>)
+
+O acidente foi a as 21h50 , perto de a Ponte Cruzeiro de o Sul ( zona norte ) .
+(#<TOKEN foi/AUX #3-_-_> #<TOKEN foi/VERB #3-root-0>)
+
+As outras três pessoas que estavam em o carro conseguiram se salvar .
+(#<TOKEN estavam/VERB #6-_-_> #<TOKEN estavam/AUX #6-cop-9>)
+(#<TOKEN se/SCONJ #11-_-_> #<TOKEN se/PRON #11-expl-12>)
+
+Caminhão tomba e causa morte e engarrafamento
+(#<TOKEN Caminhão/PROPN #1-_-_> #<TOKEN Caminhão/NOUN #1-nsubj-2>)
+(#<TOKEN causa/NOUN #4-_-_> #<TOKEN causa/VERB #4-conj-2>)
+(#<TOKEN morte/ADJ #5-_-_> #<TOKEN morte/NOUN #5-obj-4>)
+
+O tombamento de um caminhão em o km 226 de a pista Rio-São Paulo de a via Dutra a as 5h de ontem provocou engarrafamento em a rodovia .
+(#<TOKEN Dutra/ADP #18-_-_> #<TOKEN Dutra/PROPN #18-appos-17>)
+(#<TOKEN a/DET #19-_-_> #<TOKEN a/ADP #19-case-21>)
+
+A absurda dotação feita a dois municípios que agora passam a ter 50 % de as verbas totais de seus Estados é assim explicada por Beni Veras :
+(#<TOKEN absurda/NOUN #2-_-_> #<TOKEN absurda/ADJ #2-amod-3>)
+(#<TOKEN dotação/ADP #3-_-_> #<TOKEN dotação/NOUN #3-nsubj:pass-24>)
+(#<TOKEN feita/NOUN #4-_-_> #<TOKEN feita/VERB #4-acl-3>)
+(#<TOKEN Estados/PROPN #21-_-_> #<TOKEN Estados/NOUN #21-nmod-17>)
+
+« Sobral , embora seja uma de as principais cidades de o Ceará , ainda não dispõe de um sistema adequado de esgotos .
+(#<TOKEN Sobral/ADJ #2-_-_> #<TOKEN Sobral/PROPN #2-nsubj-17>)
+(#<TOKEN uma/ADP #6-_-_> #<TOKEN uma/NUM #6-advcl-17>)
+
+O projeto de canalização de um córrego em o município de Contagem ( ... ) é indispensável para os moradores porque , durante o período de chuvas , o rio transborda e alaga alguns bairros de Contagem » .
+(#<TOKEN Contagem/NOUN #12-_-_> #<TOKEN Contagem/PROPN #12-nmod-10>)
+(#<TOKEN transborda/ADJ #31-_-_> #<TOKEN transborda/VERB #31-advcl-17>)
+(#<TOKEN Contagem/NOUN #37-_-_> #<TOKEN Contagem/PROPN #37-nmod-35>)
+
+Nenhum município brasileiro , nem mesmo São Paulo , « dispõe de um sistema adequado de esgotos » .
+(#<TOKEN nem/CCONJ #5-_-_> #<TOKEN nem/ADP #5-case-6>)
+(#<TOKEN mesmo/ADV #6-_-_> #<TOKEN mesmo/NOUN #6-nmod-7>)
+
+Enchentes dão se por o país inteiro .
+(#<TOKEN se/NOUN #3-_-_> #<TOKEN se/PRON #3-expl-2>)
+
+A escolha tão particular de Sobral , que por « ser uma de as principais cidades de o Ceará » é também uma grande concentração eleitoral de o Estado , coincide com sua escolha para a ação de campanha que lá fez o candidato Fernando Henrique em o fim-de-semana .
+(#<TOKEN uma/DET #12-_-_> #<TOKEN uma/NUM #12-nmod-25>)
+
+Quando se fala de o Real , fala se de posições que traduzem aquilo que deve ser o papel de São Paulo .
+(#<TOKEN Real/PROPN #6-_-_> #<TOKEN Real/NOUN #6-obl-3>)
+
+Folha -- Países como a Argentina , que passaram por ajustes parecidos com o de o Brasil , têm hoje um desemprego recorde ...
+(#<TOKEN Países/PROPN #3-_-_> #<TOKEN Países/NOUN #3-nsubj-19>)
+(#<TOKEN parecidos/VERB #12-_-_> #<TOKEN parecidos/ADJ #12-acl-11>)
+
+« Química , matemática , ginástica »
+(#<TOKEN Química/PROPN #2-_-_> #<TOKEN Química/NOUN #2-root-0>)
+(#<TOKEN ginástica/ADJ #6-_-_> #<TOKEN ginástica/NOUN #6-nmod-2>)
+
+Os dados são de o SCI ( Serviço de Segurança a o Crédito e Informações ) que armazena informações comerciais sobre 1,6 milhão de empresas em o Brasil .
+(#<TOKEN e/CCONJ #14-_-_> #<TOKEN e/PROPN #14-flat:name-13>)
+
+De o volume de protestos , a região Sudeste respondeu por 39,1 % de o total e a Sul , 23,5 % .
+(#<TOKEN Sudeste/PROPN #9-_-_> #<TOKEN Sudeste/NOUN #9-nmod:npmod-8>)
+(#<TOKEN Sul/PROPN #19-_-_> #<TOKEN Sul/NOUN #19-nsubj-10>)
+
+O conselho também manteve multas aplicadas a a Indústrias J.B. Duarte e a seus dirigentes por a prática de atividades restritas a instituições financeiras .
+(#<TOKEN Indústrias/NOUN #9-_-_> #<TOKEN Indústrias/PROPN #9-obl-6>)
+(#<TOKEN a/DET #13-_-_> #<TOKEN a/ADP #13-case-15>)
+(#<TOKEN restritas/ADJ #21-_-_> #<TOKEN restritas/VERB #21-acl-20>)
+
+Hoje , os mediadores internacionais lorde Carrington e Henry Kissinger ( ex-ministros de o exterior de o Reino Unido e EUA , respectivamente ) se encontram com os líderes rivais negros Nelson Mandela ( CNA ) e Mangosuthu Buthelezi ( zulu ) .
+(#<TOKEN lorde/ADP #6-_-_> #<TOKEN lorde/NOUN #6-nmod:npmod-4>)
+
+Biotecnologia -- busca o aprimoramento e criação de novos produtos a partir de a manipulação de animais e plantas destinados a a saúde e estética humana .
+(#<TOKEN Biotecnologia/PROPN #1-_-_> #<TOKEN Biotecnologia/NOUN #1-nsubj-3>)
+(#<TOKEN busca/NOUN #3-_-_> #<TOKEN busca/VERB #3-root-0>)
+(#<TOKEN o/ADP #4-_-_> #<TOKEN o/DET #4-det-5>)
+
+Segundo Conceição , tem existido certa indiferença de a polícia local em relação a o caso .
+(#<TOKEN tem/VERB #4-_-_> #<TOKEN tem/AUX #4-aux-5>)
+
+« Sou uma estrangeira em a França e você sabe como são as coisas aqui . »
+(#<TOKEN estrangeira/ADJ #4-_-_> #<TOKEN estrangeira/NOUN #4-root-0>)
+(#<TOKEN como/ADP #11-_-_> #<TOKEN como/ADV #11-advmod-12>)
+(#<TOKEN são/AUX #12-_-_> #<TOKEN são/VERB #12-ccomp-10>)
+
+A estratégia montada por Quércia tem o objetivo de ganhar a prévia de o PMDB que vai definir o candidato de o partido a a Presidência em o próximo dia 15 , bem como manter o PMDB unido durante a campanha .
+(#<TOKEN o/PRON #22-_-_> #<TOKEN o/DET #22-det-23>)
+(#<TOKEN partido/VERB #23-_-_> #<TOKEN partido/NOUN #23-nmod-20>)
+(#<TOKEN bem/ADV #33-_-_> #<TOKEN bem/ADP #33-case-34>)
+(#<TOKEN como/ADP #34-_-_> #<TOKEN como/NOUN #34-obl-18>)
+
+Destaca que o Partido Liberal Democrático ( PLD ) , derrubado de o poder em o ano passado , deverá apresentar seu presidente , Yohei Kono , como candidato a primeiro-ministro de o Japão .
+(#<TOKEN Destaca/ADP #1-_-_> #<TOKEN Destaca/VERB #1-root-0>)
+
+Publica documentos comprados de James McDougal , ex-sócio de Bill e Hillary Clinton em a empresa Whitewater .
+(#<TOKEN Publica/PROPN #1-_-_> #<TOKEN Publica/VERB #1-root-0>)
+(#<TOKEN documentos/ADP #2-_-_> #<TOKEN documentos/NOUN #2-obj-1>)
+(#<TOKEN comprados/NOUN #3-_-_> #<TOKEN comprados/VERB #3-acl-2>)
+
+Os documentos indicam que a primeira-dama de os EUA estava mais envolvida em o dia-a-dia de a administração de a firma de o que fora admitido até agora .
+(#<TOKEN envolvida/VERB #12-_-_> #<TOKEN envolvida/ADJ #12-dep-3>)
+
+Líder incentiva invasão de as próprias terras
+(#<TOKEN incentiva/ADJ #2-_-_> #<TOKEN incentiva/VERB #2-root-0>)
+(#<TOKEN próprias/ADJ #6-_-_> #<TOKEN próprias/DET #6-det-7>)
+
+O engenheiro Bruno Maranhão , líder de o Movimento por Terra, Trabalho e Liberdade , pertence a uma de as famílias que dominam os latifúndios em o Nordeste .
+(#<TOKEN por/ADP #10-_-_> #<TOKEN por/PROPN #10-flat:name-9>)
+
+Serpentina
+(#<TOKEN Serpentina/PROPN #1-_-_> #<TOKEN Serpentina/NOUN #1-root-0>)
+
+Rodas -- Pneus 185/60 R 14 .
+(#<TOKEN Rodas/PROPN #1-_-_> #<TOKEN Rodas/NOUN #1-root-0>)
+(#<TOKEN Pneus/PROPN #3-_-_> #<TOKEN Pneus/NOUN #3-appos-1>)
+(#<TOKEN 185/60/NUM #4-_-_> #<TOKEN 185/60/PROPN #4-appos-3>)
+(#<TOKEN R/ADP #5-_-_> #<TOKEN R/PROPN #5-flat:name-4>)
+(#<TOKEN 14/NUM #6-_-_> #<TOKEN 14/PROPN #6-flat:name-4>)
+
+Abram Szajman , 58 , é presidente de a Federação de o Comércio de o Estado de São Paulo e de o Conselho Deliberatico de o Sebrae-SP ( Serviço Brasileiro de Apoio a as Micro e Pequenas Empresas ) .
+(#<TOKEN Abram/VERB #1-_-_> #<TOKEN Abram/PROPN #1-nsubj-7>)
+
+O patrimônio público não é fetiche a ser adorado e sim bem a ser utilizado principalmente em favor de quem não tem acesso a escolas , nem a a assistência médica , nem a empregos .
+(#<TOKEN bem/ADV #12-_-_> #<TOKEN bem/NOUN #12-conj-6>)
+(#<TOKEN a/DET #34-_-_> #<TOKEN a/ADP #34-case-35>)
+
+Um grupo de torcedores arremessou ovos podres e insultos contra o time , em a volta para a Cidade de o México em a noite de domingo passado .
+(#<TOKEN ovos/DET #6-_-_> #<TOKEN ovos/NOUN #6-obj-5>)
+(#<TOKEN insultos/ADJ #9-_-_> #<TOKEN insultos/NOUN #9-conj-6>)
+
+ANGOLA , UMA TRAGÉDIA ESQUECIDA -- O fotógrafo André Penner expõe 29 fotos coloridas que retratam o cotidiano de a guerra civil em Angola .
+(#<TOKEN UMA/PROPN #3-_-_> #<TOKEN UMA/DET #3-det-4>)
+(#<TOKEN TRAGÉDIA/PROPN #4-_-_> #<TOKEN TRAGÉDIA/NOUN #4-appos-1>)
+(#<TOKEN ESQUECIDA/PROPN #5-_-_> #<TOKEN ESQUECIDA/VERB #5-acl-4>)
+(#<TOKEN coloridas/ADJ #14-_-_> #<TOKEN coloridas/VERB #14-acl-13>)
+(#<TOKEN cotidiano/NOUN #18-_-_> #<TOKEN cotidiano/ADJ #18-obj-16>)
+
+A lei de o Estado de a Califórnia dá a o juiz de cada caso autoridade para impedir a presença de câmaras em o tribunal se achar que ela prejudica a Justiça .
+(#<TOKEN se/PRON #26-_-_> #<TOKEN se/SCONJ #26-mark-27>)
+
+Apesar de haver anunciado que o treino de a Bulgária seria aberto a o público , os dirigentes mudaram de idéia pouco antes de o início de o treinamento e proibiram a presença de torcedores em o campo de a Southern Methodist University , em Dallas .
+(#<TOKEN haver/VERB #3-_-_> #<TOKEN haver/AUX #3-aux-4>)
+
+obl-4>)
+(#<TOKEN seu/DET #6-_-_> #<TOKEN seu/ADP #6-case-7>)
+
+De os cinco , Baselitz , Immendorff e Kirkeby fizeram melhor .
+(#<TOKEN melhor/ADJ #11-_-_> #<TOKEN melhor/ADV #11-advmod-10>)
+
+Kirkeby , que vem a o Brasil para a abertura , também terá sala especial em a 22ª Bienal , a partir de o dia 12 .
+(#<TOKEN a/DET #21-_-_> #<TOKEN a/ADP #21-case-22>)
+
+Tanta coincidência só pode ser instrutiva ; pode mostrar mais a Alemanha que qualquer contato político afinal , como dizem eles , o ser reside em a linguagem .
+(#<TOKEN a/ADP #11-_-_> #<TOKEN a/DET #11-det-12>)
+(#<TOKEN que/PRON #13-_-_> #<TOKEN que/SCONJ #13-mark-15>)
+
+Habite se .
+(#<TOKEN Habite/PROPN #1-_-_> #<TOKEN Habite/VERB #1-root-0>)
+
+Além de a proposta de 18 cassações , o relatório final de a CPI sugere que oito de eles sejam objeto de processo criminal .
+
+São os deputados que , segundo o texto , devem ter « os elementos comprobatórios encaminhados a o Ministério Público » .
+
+Estão em esse grupo Ricardo Fiuza ( PFL-PE ) , João Alves ( sem partido - BA ) , Cid Carvalho ( PMDB-MA ) , José Geraldo ( PMDB-MG ) , Manoel Moreira ( PMDB-SP ) , Fábio Raunheitti ( PTB-RJ ) , Ézio Ferreira ( PFL-AM ) e Paulo Portugal ( PP-RJ ) .
+
+Além de isso , avaliou como fraca a organização existente até ontem em a campanha .
+(#<TOKEN fraca/VERB #7-_-_> #<TOKEN fraca/ADJ #7-xcomp-5>)
+(#<TOKEN existente/ADJ #10-_-_> #<TOKEN existente/VERB #10-dep-9>)
+
+Lula tem repetido uma frase em as conversas com amigos :
+(#<TOKEN tem/VERB #2-_-_> #<TOKEN tem/AUX #2-aux-3>)
+
+« Só tem campanha em os lugares em que eu e o Aloizio vamos . »
+(#<TOKEN e/VERB #11-_-_> #<TOKEN e/CCONJ #11-cc-10>)
+
+A partir de a próxima semana , vão viajar para os Estados os membros de a coordenação que não pertenceram a o núcleo que passa a deter as decisões .
+(#<TOKEN A/DET #1-_-_> #<TOKEN A/ADP #1-case-2>)
+(#<TOKEN Estados/PROPN #12-_-_> #<TOKEN Estados/NOUN #12-obl-9>)
+(#<TOKEN passa/VERB #25-_-_> #<TOKEN passa/AUX #25-aux-27>)
+
+Cerca de 300 pessoas foram convidadas para a cerimônia .
+
+De esse total , 40 são parentes e amigos de o ex-jogador .
+(#<TOKEN parentes/ADJ #7-_-_> #<TOKEN parentes/NOUN #7-root-0>)
+(#<TOKEN amigos/NOUN #9-_-_> #<TOKEN amigos/ADJ #9-conj-7>)
+
+Entre os convidados estão o « rei de a soja » , Olacyr de Moraes , o empresário Alfredo Saad e o comandante Rolim Amaro , dono de a empresa aérea TAM .
+(#<TOKEN estão/AUX #4-_-_> #<TOKEN estão/VERB #4-root-0>)
+
+Os funcionários de a prefeitura reclamam que Lídice está adiando desde maio o pagamento de as perdas salariais de a categoria .
+
+Eles tentaram agendar um encontro com Lula para pedir que ele ajudasse em a negociação .
+
+Uma reprodução gigantesca de a « Maja Desnuda » , de Goya , ocupa uma de as paredes de a casa .
+(#<TOKEN uma/ADP #15-_-_> #<TOKEN uma/NUM #15-obj-14>)
+
+Em o banheiro , um funcionário vende balas , cigarros , chocolates , água mineral , remédios ( Engov ) e , claro , camisinhas .
+(#<TOKEN claro/ADV #23-_-_> #<TOKEN claro/ADJ #23-advmod-8>)
+
+4 de novembro -- morto em emboscada o líder de a ALN e ex-deputado Carlos Marighella .
+
+19 de junho -- Médici anuncia a construção de a rodovia Transamazônica .
+
+As questões colocadas por a « body art » em os anos 60 foram retomadas agora como reflexão sobre uma realidade em que os corpos estão submetidos a um trabalho de transformação que realça o sentido trágico .
+
+A Aids foi apenas um catalisador para a volta de o próprio corpo como objeto estético em diversos trabalhos .
+(#<TOKEN Aids/NOUN #2-_-_> #<TOKEN Aids/PROPN #2-nsubj-6>)
+
+« O vídeo é uma experiência física , ( ... ) tem um efeito direto em os corpos de as pessoas .
+
+O vídeo pode ser um instrumento poderoso para tocar as pessoas diretamente , em a percepção , em áreas que a cultura ocidental não leva em conta como um caminho para o conhecimento .
+
+Desde a Idade Média , esse caminho é feito através de o intelecto e não de o corpo .
+
+O corpo foi negligenciado » , disse Viola a a Folha em 92 .
+
+Controle alegado
+(#<TOKEN Controle/PROPN #1-_-_> #<TOKEN Controle/NOUN #1-root-0>)
+
+A ação alega que a Petroplastic não considera a Dow acionista de a Triunfo .
+
+E comprova que a Petroplastic recebeu US$ 5 milhões para concordar com a transferência , para a Dow , de o controle de a Atochem ( fundadora de a Triunfo ) .
+(#<TOKEN comprova/NOUN #2-_-_> #<TOKEN comprova/VERB #2-root-0>)
+(#<TOKEN que/PRON #3-_-_> #<TOKEN que/SCONJ #3-mark-6>)
+
+Em a gaveta
+
+Boris Gorentzvaig , de a Petroplastic , diz que os US$ 5 milhões eram adiantamento em « acordo de gaveta » com a Dow .
+(#<TOKEN adiantamento/VERB #15-_-_> #<TOKEN adiantamento/NOUN #15-ccomp-8>)
+
+« Mas a Dow de os EUA não quis cumprir o contrato e transferir tecnologia a uma concorrente » , diz .
+
+O órgão responsável por o mercado de telebingos é a Susep ( Superintendência de Seguros Privados ) , uma autarquia federal subordinanda a o Ministério de a Fazenda .
+(#<TOKEN Fazenda/NOUN #28-_-_> #<TOKEN Fazenda/PROPN #28-nmod-25>)
+
+« Compramos o título para verificar , levei para casa e não enxerguei nada » , disse ontem Vera Melo Araújo , chefe de o Departamento de Fiscalização de a Susep .
+
+Fábio Igel , João Herreras e Marcelo Loureiro pilotam festa em o Cabral .
+
+É em prol de o Fundo Social de Solidariedade a apresentação de hoje de « Mulher, a Melhor Opção de Investimento » em o Teatro Itália .
+(#<TOKEN É/AUX #1-_-_> #<TOKEN É/VERB #1-root-0>)
+(#<TOKEN a/ADP #10-_-_> #<TOKEN a/DET #10-det-11>)
+
+Divulgado em a semana passada , o fraco resultado em novembro de a produção industrial e de as novas encomendas a as indústrias acabou com as esperanças de que a Alemanha tivesse saído de a pior recessão de o pós-guerra em o último trimestre de o ano .
+(#<TOKEN fraco/NOUN #8-_-_> #<TOKEN fraco/ADJ #8-amod-9>)
+(#<TOKEN resultado/VERB #9-_-_> #<TOKEN resultado/NOUN #9-nsubj-24>)
+(#<TOKEN tivesse/VERB #32-_-_> #<TOKEN tivesse/AUX #32-aux-33>)
+
+Os dados detalhados sobre o desempenho de o PIB entre outubro e dezembro não serão revelados até março .
+
+Os economistas afirmam que a recuperação puxada por as exportações que o governo previa para o segundo semestre de 1993 não aconteceu .
+
+A federação de as pequenas e médias empresas revelou em uma pesquisa que seus filiados estão próximos de o pânico em relação a a situação econômica .
+(#<TOKEN que/PRON #13-_-_> #<TOKEN que/SCONJ #13-mark-17>)
+(#<TOKEN filiados/NOUN #15-_-_> #<TOKEN filiados/VERB #15-csubj-17>)
+
+Suas expectativas para o futuro próximo de a economia são as piores em dez anos .
+(#<TOKEN próximo/ADJ #6-_-_> #<TOKEN próximo/ADV #6-advmod-5>)
+
+Tomado de surpresa , Santana deu um sorriso amarelo , mas logo recuperou se :
+(#<TOKEN se/SCONJ #14-_-_> #<TOKEN se/PRON #14-expl-13>)
+
+Não preciso , governador , porque , sabendo de a hospitalidade paranaense , eu nem trouxe carteira .
+(#<TOKEN preciso/ADJ #2-_-_> #<TOKEN preciso/VERB #2-root-0>)
+
+Pequenos são agentes de as transformações
+(#<TOKEN Pequenos/ADJ #1-_-_> #<TOKEN Pequenos/NOUN #1-nsubj-3>)
+(#<TOKEN agentes/NOUN #3-_-_> #<TOKEN agentes/ADJ #3-root-0>)
+
+Já não é correto pensar que o progresso técnico é um privilégio de as grandes empresas
+(#<TOKEN Já/ADV #1-_-_> #<TOKEN Já/ADP #1-advmod-4>)
+
+MAILSON DA NÓBREGA
+(#<TOKEN DA/ADP #2-_-_> #<TOKEN DA/PROPN #2-flat:name-1>)
+
+Os anos 80 foram um divisor de águas em a industrialização brasileira .
+
+Pelo menos três acontecimentos podem ser destacados por o seu papel indutor de transformações :
+(#<TOKEN menos/ADV #2-_-_> #<TOKEN menos/NOUN #2-nmod-4>)
+(#<TOKEN indutor/NOUN #12-_-_> #<TOKEN indutor/ADJ #12-amod-11>)
+
+1) o esgotamento de o modelo baseado em a intervenção de o Estado -- proteção contra a competição externa , regimes especiais de importação de bens de capital e generosos incentivos fiscais e financeiros ;
+(#<TOKEN 1)/ADP #1-_-_> #<TOKEN 1)/NUM #1-root-0>)
+(#<TOKEN capital/NOUN #28-_-_> #<TOKEN capital/ADJ #28-nmod-26>)
+
+Mulher morre em rio presa a o cinto de o carro
+(#<TOKEN Mulher/PROPN #1-_-_> #<TOKEN Mulher/NOUN #1-nsubj-2>)
+(#<TOKEN presa/ADJ #5-_-_> #<TOKEN presa/VERB #5-advcl-2>)
+
+Vera Lúcia Barbosa , 40 , morreu em a última quarta presa por o cinto de segurança a o carro em que estava , que caiu em o rio Tietê .
+(#<TOKEN quarta/ADJ #11-_-_> #<TOKEN quarta/NOUN #11-obl-7>)
+(#<TOKEN presa/NOUN #12-_-_> #<TOKEN presa/VERB #12-advcl-7>)
+(#<TOKEN estava/AUX #23-_-_> #<TOKEN estava/VERB #23-acl-20>)
+(#<TOKEN que/SCONJ #25-_-_> #<TOKEN que/PRON #25-nsubj-26>)
+
+O acidente foi a as 21h50 , perto de a Ponte Cruzeiro de o Sul ( zona norte ) .
+(#<TOKEN foi/AUX #3-_-_> #<TOKEN foi/VERB #3-root-0>)
+
+As outras três pessoas que estavam em o carro conseguiram se salvar .
+(#<TOKEN estavam/VERB #6-_-_> #<TOKEN estavam/AUX #6-cop-9>)
+(#<TOKEN se/SCONJ #11-_-_> #<TOKEN se/PRON #11-expl-12>)
+
+Caminhão tomba e causa morte e engarrafamento
+(#<TOKEN Caminhão/PROPN #1-_-_> #<TOKEN Caminhão/NOUN #1-nsubj-2>)
+(#<TOKEN causa/NOUN #4-_-_> #<TOKEN causa/VERB #4-conj-2>)
+(#<TOKEN morte/ADJ #5-_-_> #<TOKEN morte/NOUN #5-obj-4>)
+
+O tombamento de um caminhão em o km 226 de a pista Rio-São Paulo de a via Dutra a as 5h de ontem provocou engarrafamento em a rodovia .
+(#<TOKEN Dutra/ADP #18-_-_> #<TOKEN Dutra/PROPN #18-appos-17>)
+(#<TOKEN a/DET #19-_-_> #<TOKEN a/ADP #19-case-21>)
+
+O acidente causou a morte de o menino René Scorsa , que estava em o Logus dirigido por Sérgio Duran , 33 , que bateu em o caminhão .
+
+A absurda dotação feita a dois municípios que agora passam a ter 50 % de as verbas totais de seus Estados é assim explicada por Beni Veras :
+(#<TOKEN absurda/NOUN #2-_-_> #<TOKEN absurda/ADJ #2-amod-3>)
+(#<TOKEN dotação/ADP #3-_-_> #<TOKEN dotação/NOUN #3-nsubj:pass-24>)
+(#<TOKEN feita/NOUN #4-_-_> #<TOKEN feita/VERB #4-acl-3>)
+(#<TOKEN Estados/PROPN #21-_-_> #<TOKEN Estados/NOUN #21-nmod-17>)
+
+« Sobral , embora seja uma de as principais cidades de o Ceará , ainda não dispõe de um sistema adequado de esgotos .
+(#<TOKEN Sobral/ADJ #2-_-_> #<TOKEN Sobral/PROPN #2-nsubj-17>)
+(#<TOKEN uma/ADP #6-_-_> #<TOKEN uma/NUM #6-advcl-17>)
+
+O projeto de canalização de um córrego em o município de Contagem ( ... ) é indispensável para os moradores porque , durante o período de chuvas , o rio transborda e alaga alguns bairros de Contagem » .
+(#<TOKEN Contagem/NOUN #12-_-_> #<TOKEN Contagem/PROPN #12-nmod-10>)
+(#<TOKEN transborda/ADJ #31-_-_> #<TOKEN transborda/VERB #31-advcl-17>)
+(#<TOKEN Contagem/NOUN #37-_-_> #<TOKEN Contagem/PROPN #37-nmod-35>)
+
+Nenhum município brasileiro , nem mesmo São Paulo , « dispõe de um sistema adequado de esgotos » .
+(#<TOKEN nem/CCONJ #5-_-_> #<TOKEN nem/ADP #5-case-6>)
+(#<TOKEN mesmo/ADV #6-_-_> #<TOKEN mesmo/NOUN #6-nmod-7>)
+
+Enchentes dão se por o país inteiro .
+(#<TOKEN se/NOUN #3-_-_> #<TOKEN se/PRON #3-expl-2>)
+
+A escolha tão particular de Sobral , que por « ser uma de as principais cidades de o Ceará » é também uma grande concentração eleitoral de o Estado , coincide com sua escolha para a ação de campanha que lá fez o candidato Fernando Henrique em o fim-de-semana .
+(#<TOKEN uma/DET #12-_-_> #<TOKEN uma/NUM #12-nmod-25>)
+
+A mineira Contagem é outra grande concentração eleitoral , com prefeito de o PSDB e onde o partido , já como propaganda , fez a convenção de escolha de Fernando Henrique .
+
+Covas -- Quando se falando em emprego , não se tratando só de uma questão administrativa .
+
+Quando se fala de o Real , fala se de posições que traduzem aquilo que deve ser o papel de São Paulo .
+(#<TOKEN Real/PROPN #6-_-_> #<TOKEN Real/NOUN #6-obl-3>)
+
+Folha -- Países como a Argentina , que passaram por ajustes parecidos com o de o Brasil , têm hoje um desemprego recorde ...
+(#<TOKEN Países/PROPN #3-_-_> #<TOKEN Países/NOUN #3-nsubj-19>)
+(#<TOKEN parecidos/VERB #12-_-_> #<TOKEN parecidos/ADJ #12-acl-11>)
+
+« Psicologia , poesia »
+
+Qual a matéria odiada em a escola ?
+
+« Química , matemática , ginástica »
+(#<TOKEN Química/PROPN #2-_-_> #<TOKEN Química/NOUN #2-root-0>)
+(#<TOKEN ginástica/ADJ #6-_-_> #<TOKEN ginástica/NOUN #6-nmod-2>)
+
+Lugar de que mais gosta ?
+
+Os dados são de o SCI ( Serviço de Segurança a o Crédito e Informações ) que armazena informações comerciais sobre 1,6 milhão de empresas em o Brasil .
+(#<TOKEN e/CCONJ #14-_-_> #<TOKEN e/PROPN #14-flat:name-13>)
+
+De o volume de protestos , a região Sudeste respondeu por 39,1 % de o total e a Sul , 23,5 % .
+(#<TOKEN Sudeste/PROPN #9-_-_> #<TOKEN Sudeste/NOUN #9-nmod:npmod-8>)
+(#<TOKEN Sul/PROPN #19-_-_> #<TOKEN Sul/NOUN #19-nsubj-10>)
+
+O Estado de São Paulo representou 22,8 % de os protestos .
+
+Sem autorização
+
+O conselho também manteve multas aplicadas a a Indústrias J.B. Duarte e a seus dirigentes por a prática de atividades restritas a instituições financeiras .
+(#<TOKEN Indústrias/NOUN #9-_-_> #<TOKEN Indústrias/PROPN #9-obl-6>)
+(#<TOKEN a/DET #13-_-_> #<TOKEN a/ADP #13-case-15>)
+(#<TOKEN restritas/ADJ #21-_-_> #<TOKEN restritas/VERB #21-acl-20>)
+
+Recurso negado
+
+A corretora Antonio Delapieve e seus dirigentes foram multados por negociar títulos de renda fixa a preços superavaliados .
+
+Hoje , os mediadores internacionais lorde Carrington e Henry Kissinger ( ex-ministros de o exterior de o Reino Unido e EUA , respectivamente ) se encontram com os líderes rivais negros Nelson Mandela ( CNA ) e Mangosuthu Buthelezi ( zulu ) .
+(#<TOKEN lorde/ADP #6-_-_> #<TOKEN lorde/NOUN #6-nmod:npmod-4>)
+
+Luta em o Afeganistão deixa dez mortos
+
+Pelo menos dez pessoas morreram e 80 se feriram em o terceiro dia consecutivo de luta entre facções rivais em Kabul , Afeganistão .
+
+Tropas de o presidente Burhanuddin Rabbani enfrentam soldados de o primeiro-ministro Gulbuddin Hekmatyar .
+
+Veja outras áreas em alta
+
+Além de as áreas de o quadro a o lado , foram consideradas fundamentais em o cenário industrial de a próxima década :
+
+Biotecnologia -- busca o aprimoramento e criação de novos produtos a partir de a manipulação de animais e plantas destinados a a saúde e estética humana .
+(#<TOKEN Biotecnologia/PROPN #1-_-_> #<TOKEN Biotecnologia/NOUN #1-nsubj-3>)
+(#<TOKEN busca/NOUN #3-_-_> #<TOKEN busca/VERB #3-root-0>)
+(#<TOKEN o/ADP #4-_-_> #<TOKEN o/DET #4-det-5>)
+
+Apesar de ter conseguido a guarda de Natasha , Conceição está aflita .
+
+« Tenho os papéis , mas não tenho a minha filha .
+
+Agora só deixo a França com ela .
+
+Esse é o meu grito » , se inflama .
+
+Segundo Conceição , tem existido certa indiferença de a polícia local em relação a o caso .
+(#<TOKEN tem/VERB #4-_-_> #<TOKEN tem/AUX #4-aux-5>)
+
+« Sou uma estrangeira em a França e você sabe como são as coisas aqui . »
+(#<TOKEN estrangeira/ADJ #4-_-_> #<TOKEN estrangeira/NOUN #4-root-0>)
+(#<TOKEN como/ADP #11-_-_> #<TOKEN como/ADV #11-advmod-12>)
+(#<TOKEN são/AUX #12-_-_> #<TOKEN são/VERB #12-ccomp-10>)
+
+A estratégia montada por Quércia tem o objetivo de ganhar a prévia de o PMDB que vai definir o candidato de o partido a a Presidência em o próximo dia 15 , bem como manter o PMDB unido durante a campanha .
+(#<TOKEN o/PRON #22-_-_> #<TOKEN o/DET #22-det-23>)
+(#<TOKEN partido/VERB #23-_-_> #<TOKEN partido/NOUN #23-nmod-20>)
+(#<TOKEN bem/ADV #33-_-_> #<TOKEN bem/ADP #33-case-34>)
+(#<TOKEN como/ADP #34-_-_> #<TOKEN como/NOUN #34-obl-18>)
+
+Os ataques a Sarney só serão feitos se a contabilidade quercista constatar que a vitória em a prévia está ameaçada .
+
+Esse é o tema mais discutido em a imprensa de o país ; anteontem , ele foi objeto de debate especial de o gabinete de governo japonês .
+
+Em o caso de ontem , um garoto de 14 anos foi encontrado enforcado em uma viga em sua escola em Yorii , 50 km a sudoeste de Tóquio .
+
+A RBS tem ainda três concessões de TV em Santa Catarina e 30 % de a TV Cachoeiro , de Cachoeiro de o Itapemirim , em o Espírito Santo .
+
+Única vez
+
+O único caso que se tem registro de aplicação rigorosa de a lei ocorreu em o final de a década de 60 .
+
+Nihon Keizai Shimbun
+
+Destaca que o Partido Liberal Democrático ( PLD ) , derrubado de o poder em o ano passado , deverá apresentar seu presidente , Yohei Kono , como candidato a primeiro-ministro de o Japão .
+(#<TOKEN Destaca/ADP #1-_-_> #<TOKEN Destaca/VERB #1-root-0>)
+
+The Washington Post
+
+Publica documentos comprados de James McDougal , ex-sócio de Bill e Hillary Clinton em a empresa Whitewater .
+(#<TOKEN Publica/PROPN #1-_-_> #<TOKEN Publica/VERB #1-root-0>)
+(#<TOKEN documentos/ADP #2-_-_> #<TOKEN documentos/NOUN #2-obj-1>)
+(#<TOKEN comprados/NOUN #3-_-_> #<TOKEN comprados/VERB #3-acl-2>)
+
+Os documentos indicam que a primeira-dama de os EUA estava mais envolvida em o dia-a-dia de a administração de a firma de o que fora admitido até agora .
+(#<TOKEN envolvida/VERB #12-_-_> #<TOKEN envolvida/ADJ #12-dep-3>)
+
+Depois de uma disputa acirrada entre as indústrias para conquistar os melhores mercados , o ranking de as gigantes multinacionais que dividem o bolo mudou .
+
+A japonesa NEC continua em a liderança .
+
+O segundo lugar foi conquistado por a Ericsson , que em agosto de 93 ocupava a quarta posição em contratos assinados para fornecimento de equipamentos .
+
+A NEC tem mais de 55 % ( US$ 455 milhões ) de os contratos assinados por as concessionárias de a Telebrás , incluindo aí a segunda fase de a implantação de o sistema móvel em São Paulo e a terceira em o Rio , previstas para 94 .
+
+Líder incentiva invasão de as próprias terras
+(#<TOKEN incentiva/ADJ #2-_-_> #<TOKEN incentiva/VERB #2-root-0>)
+(#<TOKEN próprias/ADJ #6-_-_> #<TOKEN próprias/DET #6-det-7>)
+
+O engenheiro Bruno Maranhão , líder de o Movimento por Terra, Trabalho e Liberdade , pertence a uma de as famílias que dominam os latifúndios em o Nordeste .
+(#<TOKEN por/ADP #10-_-_> #<TOKEN por/PROPN #10-flat:name-9>)
+
+Uma invasão de o grupo , feita há dois anos , em Pernambuco , em a usina Massauassu , prejudicou justamente a família Maranhão .
+
+Serpentina
+(#<TOKEN Serpentina/PROPN #1-_-_> #<TOKEN Serpentina/NOUN #1-root-0>)
+
+Depois de conquistar seu prêmio de estréia em o concurso Smirnoff em São Paulo , o jovem estilista Sérgio Machado emplacou mais uma .
+
+Rodas -- Pneus 185/60 R 14 .
+(#<TOKEN Rodas/PROPN #1-_-_> #<TOKEN Rodas/NOUN #1-root-0>)
+(#<TOKEN Pneus/PROPN #3-_-_> #<TOKEN Pneus/NOUN #3-appos-1>)
+(#<TOKEN 185/60/NUM #4-_-_> #<TOKEN 185/60/PROPN #4-appos-3>)
+(#<TOKEN R/ADP #5-_-_> #<TOKEN R/PROPN #5-flat:name-4>)
+(#<TOKEN 14/NUM #6-_-_> #<TOKEN 14/PROPN #6-flat:name-4>)
+
+Além de Mauro Salles que surpreendeu a galera a o revelar seu côté de fotógrafo profissional em o ínico de a carreira , o foco principal de o encontro foi a mulher de J.R.Duran , Alexandra Brochen .
+
+Abram Szajman , 58 , é presidente de a Federação de o Comércio de o Estado de São Paulo e de o Conselho Deliberatico de o Sebrae-SP ( Serviço Brasileiro de Apoio a as Micro e Pequenas Empresas ) .
+(#<TOKEN Abram/VERB #1-_-_> #<TOKEN Abram/PROPN #1-nsubj-7>)
+
+O patrimônio público não é fetiche a ser adorado e sim bem a ser utilizado principalmente em favor de quem não tem acesso a escolas , nem a a assistência médica , nem a empregos .
+(#<TOKEN bem/ADV #12-_-_> #<TOKEN bem/NOUN #12-conj-6>)
+(#<TOKEN a/DET #34-_-_> #<TOKEN a/ADP #34-case-35>)
+
+Um grupo de torcedores arremessou ovos podres e insultos contra o time , em a volta para a Cidade de o México em a noite de domingo passado .
+(#<TOKEN ovos/DET #6-_-_> #<TOKEN ovos/NOUN #6-obj-5>)
+(#<TOKEN insultos/ADJ #9-_-_> #<TOKEN insultos/NOUN #9-conj-6>)
+
+ANGOLA , UMA TRAGÉDIA ESQUECIDA -- O fotógrafo André Penner expõe 29 fotos coloridas que retratam o cotidiano de a guerra civil em Angola .
+(#<TOKEN UMA/PROPN #3-_-_> #<TOKEN UMA/DET #3-det-4>)
+(#<TOKEN TRAGÉDIA/PROPN #4-_-_> #<TOKEN TRAGÉDIA/NOUN #4-appos-1>)
+(#<TOKEN ESQUECIDA/PROPN #5-_-_> #<TOKEN ESQUECIDA/VERB #5-acl-4>)
+(#<TOKEN coloridas/ADJ #14-_-_> #<TOKEN coloridas/VERB #14-acl-13>)
+(#<TOKEN cotidiano/NOUN #18-_-_> #<TOKEN cotidiano/ADJ #18-obj-16>)
+
+A lei de o Estado de a Califórnia dá a o juiz de cada caso autoridade para impedir a presença de câmaras em o tribunal se achar que ela prejudica a Justiça .
+(#<TOKEN se/PRON #26-_-_> #<TOKEN se/SCONJ #26-mark-27>)
+
+O secretário-geral de o Conselho de Segurança de a ONU , Boutros Boutros-Ghali , pediu que as potências que negociam um tratado de paz com as facções em luta em a Bósnia formem uma força-tarefa para agir em a região .
+
+Apesar de haver anunciado que o treino de a Bulgária seria aberto a o público , os dirigentes mudaram de idéia pouco antes de o início de o treinamento e proibiram a presença de torcedores em o campo de a Southern Methodist University , em Dallas .
+(#<TOKEN haver/VERB #3-_-_> #<TOKEN haver/AUX #3-aux-4>)
+

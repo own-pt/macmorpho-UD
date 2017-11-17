@@ -1,0 +1,7 @@
+Loading POS Tagger model ... done (0,610s)
+
+
+Average: 2672,8 sent/s 
+Total: 9141 sent
+Runtime: 3.42s
+Execution time: 4,157 seconds
