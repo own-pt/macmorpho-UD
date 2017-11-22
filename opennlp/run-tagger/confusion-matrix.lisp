@@ -40,10 +40,12 @@
 (defun classify-disagreeing-sentences (list-of-disagreements sentences field tag-list)
   "Maps from a list of list of disagreements (each list of
   disagreements corresponding to a pair of sentences) and a list of
-  sentences used in the comparison (for instance, the classified ones)
+  sentences used in the comparison (the original/golden/correct ones)
   to a hash representing a function from a type of error (a pair
   (classified-value original-value)) to a pair (sentence,
   (classified-word original-word))"
+  ;; I'm using the original list of sentences because in this use
+  ;; case, the tagged one don't have ids
   (let ((error-list-by-type (make-hash-table
 			     :test #'equal
 			     :size (* (length tag-list)
@@ -72,7 +74,8 @@
        (format stream "~%=~a=~%" key)
        (dolist (val value)
 	 (destructuring-bind (sentence disagreeing-pair) val
-	   (format stream "~%~a~%"
+	   (format stream "~%sentence id:~a~%~a~%"
+		   (sentence-id sentence)
 		   (sentence->text
 		    sentence
 		    :ignore-mtokens t
@@ -161,7 +164,7 @@
 						:label-error nil
 						:upostag-error t))
 	     tagged original)
-	    tagged
+	    original
 	    'upostag
 	    *upostag-value-list*)
 	   :stream stream))))))
