@@ -46,7 +46,8 @@
   (classified-word original-word))"
   (let ((error-list-by-type (make-hash-table
 			     :test #'equal
-			     :size (* tag-list tag-list))))
+			     :size (* (length tag-list)
+				      (length tag-list)))))
     ;; hash keys: pairs of tags
     ;; hash values: (sentence, (word1, word2))
     (dolist (tag1 tag-list)
@@ -71,15 +72,18 @@
        (format stream "~%~a~%" key)
        (dolist (val value)
 	 (destructuring-bind (sentence disagreeing-pair) val
-	   (sentence->text sentence
-			   :special-format-test
-			   #'(lambda (token)
-			       (equal (token-id token)
-				      (token-id (first disagreeing-pair))))
-			   :special-format-function
-			   #'(lambda (string)
-			       (format nil "*~a*" (string-upcase string))))
-	   (format stream "~a~%" key))))
+	   (format stream "~a~%"
+		   (sentence->text
+		    sentence
+		    :ignore-mtokens t
+		    :special-format-test
+		    #'(lambda (token)
+			(equal (token-id token)
+			       (token-id (first disagreeing-pair))))
+		    :special-format-function
+		    #'(lambda (string)
+			(format nil "*~a*" (string-upcase string)))))
+	   (format stream "~a~%" disagreeing-pair))))
    error-hash))
 
 (defun run ()
@@ -129,7 +133,7 @@
 			 (format nil "/home/gppassos/Documentos/nlp-general/macmorpho-UD/opennlp/run-tagger/confusion-matrix/~a-confusion-matrix.txt"
 				 (pathname-name tagged-file))
 			 :direction :output
-			 :if-exists :overwrite
+			 :if-exists :supersede
 			 :if-does-not-exist :create)
 	  (let ((*upostag-value-list*
 		 (cond 
