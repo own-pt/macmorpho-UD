@@ -69,7 +69,7 @@
 (defun print-classified-sentences (error-hash &key (stream *standard-output*))
   (maphash
    #'(lambda (key value)
-       (format stream "~%~a~%" key)
+       (format stream "~%=~a=~%" key)
        (dolist (val value)
 	 (destructuring-bind (sentence disagreeing-pair) val
 	   (format stream "~%~a~%"
