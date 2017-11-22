@@ -72,7 +72,7 @@
        (format stream "~%~a~%" key)
        (dolist (val value)
 	 (destructuring-bind (sentence disagreeing-pair) val
-	   (format stream "~a~%"
+	   (format stream "~%~a~%"
 		   (sentence->text
 		    sentence
 		    :ignore-mtokens t
