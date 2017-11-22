@@ -1,7 +1,8 @@
-;; Auxiliary script used to produce the confusion matrix
+;;;; Auxiliary script used to produce the confusion matrix
 
 (ql:quickload :cl-conllu)
 (in-package :cl-conllu)
+
 
 (defvar *macmorpho-upostag-list*
   '("`" "=" "-" "," ";" ":" "!" "?" "/" "." "..." "'" "\"" "(" "((" ")" "))" "[" "$" "ADJ" "ADV" "ADV-KS" "ADV-KS-REL" "ART" "CUR" "IN" "KC" "KS" "N" "NIL" "NPROP" "NUM" "PCP" "PDEN" "PREP" "PROADJ" "PRO-KS" "PRO-KS-REL" "PROPESS" "PROSUB" "V" "VAUX"))
@@ -28,20 +29,58 @@
 	(sentence-tokens sentence)))
    list-of-sentences))
 
+(defun classify-disagreeing-words (disagreeing-pair field)
+  (let ((value-1 (slot-value (first disagreeing-pair)
+			    field))
+	(value-2 (slot-value (second disagreeing-pair)
+			     field)))
+    `(,value-1 ,value-2)))
 
-(defun pretty-disagreeing-sentences (list-sent1 list-sent2 &key (head-error t) (label-error t) (upostag-error nil) (remove-punct nil) (simple-deprel nil) (stream *standard-output*))
-  (mapcar
-   #'(lambda (sent1 sent2)       
-       (beautify-disagreeing-words
-	(disagreeing-words sent1 sent2
-			   :head-error head-error
-			   :label-error label-error
-			   :upostag-error upostag-error
-			   :remove-punct remove-punct
-			   :simple-deprel simple-deprel)
-	sent1
-	:stream stream))
-   list-sent1 list-sent2))
+
+(defun classify-disagreeing-sentences (list-of-disagreements sentences field tag-list)
+  "Maps from a list of list of disagreements (each list of
+  disagreements corresponding to a pair of sentences) and a list of
+  sentences used in the comparison (for instance, the classified ones)
+  to a hash representing a function from a type of error (a pair
+  (classified-value original-value)) to a pair (sentence,
+  (classified-word original-word))"
+  (let ((error-list-by-type (make-hash-table
+			     :test #'equal
+			     :size (* tag-list tag-list))))
+    ;; hash keys: pairs of tags
+    ;; hash values: (sentence, (word1, word2))
+    (dolist (tag1 tag-list)
+      (dolist (tag2 tag-list)
+	(setf (gethash `(,tag1 ,tag2)
+		       error-list-by-type)
+	      nil)))
+    (mapcar
+     #'(lambda (disagreeing-words sent)
+	 (dolist (disagreeing-pair disagreeing-words)
+	   (push `(,sent ,disagreeing-pair)
+		 (gethash
+		  (classify-disagreeing-words disagreeing-pair field)
+		  error-list-by-type))))
+     list-of-disagreements
+     sentences)
+    error-list-by-type))
+
+(defun print-classified-sentences (error-hash &key (stream *standard-output*))
+  (maphash
+   #'(lambda (key value)
+       (format stream "~%~a~%" key)
+       (dolist (val value)
+	 (destructuring-bind (sentence disagreeing-pair) val
+	   (sentence->text sentence
+			   :special-format-test
+			   #'(lambda (token)
+			       (equal (token-id token)
+				      (token-id (first disagreeing-pair))))
+			   :special-format-function
+			   #'(lambda (string)
+			       (format nil "*~a*" (string-upcase string))))
+	   (format stream "~a~%" key))))
+   error-hash))
 
 (defun run ()
   (let ((tagged-files (directory
@@ -80,10 +119,10 @@
 	      (case scenario
 		((bosque keep-pcp remove-pcp)	   
 		 (fix-postags
-		  (read-file-tag-suffix tagged-file)))
+		  (conllu.converters.tags:read-file-tag-suffix tagged-file)))
 		(mm-revisto
 		 (fix-postags
-		  (read-file-tag-suffix tagged-file)
+		  (conllu.converters.tags:read-file-tag-suffix tagged-file)
 		  :switch-labels nil)))))
 	
 	(with-open-file (stream
@@ -104,9 +143,50 @@
 	    (format-matrix (confusion-matrix tagged original :tag 'upostag)
 			   :stream stream))
 	  (format stream "~%~%~%")
-	  (pretty-disagreeing-sentences tagged original
-					:head-error nil
-					:label-error nil
-					:upostag-error t
-					:remove-punct nil
-					:stream stream))))))
+	  ;; (pretty-disagreeing-sentences tagged original
+	  ;; 				:head-error nil
+	  ;; 				:label-error nil
+	  ;; 				:upostag-error t
+	  ;; 				:remove-punct nil
+	  ;; 				:stream stream)
+	  (print-classified-sentences
+	   (classify-disagreeing-sentences 
+	    (mapcar
+	     #'(lambda (x y) (disagreeing-words x y
+						:head-error nil
+						:label-error nil
+						:upostag-error t))
+	     tagged original)
+	    tagged
+	    'upostag
+	    *upostag-value-list*)
+	   :stream stream))))))
+
+;;;;
+;;;; Not used anymore
+
+;; (defun beautify-disagreeing-words (disagreeing-list sentence &key (stream *standard-output*) (skip-correct t))
+;;   "Prints to STREAM sentence text along with indication of disagreeing
+;;    tokens.
+;;    If SKIP-CORRECT, then sentence text of correct pairs is skipped."
+;;   (if (or (null skip-correct)
+;; 	  disagreeing-list)
+;;       (format
+;;        stream
+;;        "~a~%~{~a~%~}~%"
+;;        (sentence->text sentence :ignore-mtokens t)
+;;        disagreeing-list)))
+
+;; (defun pretty-disagreeing-sentences (list-sent1 list-sent2 &key (head-error t) (label-error t) (upostag-error nil) (remove-punct nil) (simple-deprel nil) (stream *standard-output*))
+;;   (mapcar
+;;    #'(lambda (sent1 sent2)       
+;;        (beautify-disagreeing-words
+;; 	(disagreeing-words sent1 sent2
+;; 			   :head-error head-error
+;; 			   :label-error label-error
+;; 			   :upostag-error upostag-error
+;; 			   :remove-punct remove-punct
+;; 			   :simple-deprel simple-deprel)
+;; 	sent1
+;; 	:stream stream))
+;;    list-sent1 list-sent2))
