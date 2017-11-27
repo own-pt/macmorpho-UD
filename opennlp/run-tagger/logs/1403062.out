@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@idpx003>
+Subject: Job 1403062: </dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-remove-pcp-Maxent-complete < /dados/gpaulino/run-tagger/tokenized-text/pt-ud-test-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-remove-pcp-Maxent-complete.tagged> in cluster <brl> Done
+
+Job </dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-remove-pcp-Maxent-complete < /dados/gpaulino/run-tagger/tokenized-text/pt-ud-test-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-remove-pcp-Maxent-complete.tagged> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <idpx003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/run-tagger> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-remove-pcp-Maxent-complete < /dados/gpaulino/run-tagger/tokenized-text/pt-ud-test-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-remove-pcp-Maxent-complete.tagged
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3.20 sec.
+    Max Memory :                                 91 MB
+    Average Memory :                             60.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                55
+    Run time :                                   2 sec.
+    Turnaround time :                            8 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1403062.err> for stderr output of this job.
+

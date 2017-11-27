@@ -1,0 +1,13 @@
+Indexing events with TwoPass using cutoff of 5
+
+	Computing event counts...  done. 1007707 events
+	Indexing...  done.
+Collecting events... Done indexing in 31,11 s.
+Incorporating indexed data for training...  
+done.
+	Number of Event Tokens: 1007707
+	    Number of Outcomes: 18
+	  Number of Predicates: 104449
+Computing model parameters...
+Stats: (191972/1007707) 0.19050378731119263
+...done.

@@ -1,0 +1,8 @@
+Writing pos tagger model ... done (0,651s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho-bosque/pt-bosque-Maxent
+
+Execution time: 61,421 seconds
+Loading POS Tagger model ... done (0,119s)
+Execution time: 0,569 seconds

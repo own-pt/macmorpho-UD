@@ -1,0 +1,8 @@
+Writing pos tagger model ... done (17,975s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-remove-pcp-Maxent
+
+Execution time: 252,208 seconds
+Loading POS Tagger model ... done (3,919s)
+Execution time: 24,276 seconds

@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360006>
+Subject: Job 1396106: <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/NaiveBayesTrainerParams.txt mm-revisto NaiveBayes> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/NaiveBayesTrainerParams.txt mm-revisto NaiveBayes> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360006>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/NaiveBayesTrainerParams.txt mm-revisto NaiveBayes
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   135.30 sec.
+    Max Memory :                                 1646 MB
+    Average Memory :                             627.91 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   315 sec.
+    Turnaround time :                            662 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396106.err> for stderr output of this job.
+

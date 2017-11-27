@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360006>
+Subject: Job 1393595: <./train-bosque.sh /dados/gpaulino/macmorpho-bosque /dados/gpaulino/macmorpho-bosque/PerceptronSequenceTrainerParams.txt PerceptronSequence> in cluster <brl> Exited
+
+Job <./train-bosque.sh /dados/gpaulino/macmorpho-bosque /dados/gpaulino/macmorpho-bosque/PerceptronSequenceTrainerParams.txt PerceptronSequence> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360006>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho-bosque> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train-bosque.sh /dados/gpaulino/macmorpho-bosque /dados/gpaulino/macmorpho-bosque/PerceptronSequenceTrainerParams.txt PerceptronSequence
+------------------------------------------------------------
+
+Exited with exit code 255.
+
+Resource usage summary:
+
+    CPU time :                                   18.51 sec.
+    Max Memory :                                 337 MB
+    Average Memory :                             337.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   5 sec.
+    Turnaround time :                            351 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1393595.err> for stderr output of this job.
+

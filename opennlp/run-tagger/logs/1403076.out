@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360003>
+Subject: Job 1403076: </dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-bosque-Perceptron < /dados/gpaulino/run-tagger/tokenized-text/pt-ud-test-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-bosque-Perceptron.tagged> in cluster <brl> Done
+
+Job </dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-bosque-Perceptron < /dados/gpaulino/run-tagger/tokenized-text/pt-ud-test-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-bosque-Perceptron.tagged> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/run-tagger> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/dados/gpaulino/apache-opennlp-1.8.3/bin/opennlp POSTagger /dados/gpaulino/models/pt-bosque-Perceptron < /dados/gpaulino/run-tagger/tokenized-text/pt-ud-test-tokenized.txt > /dados/gpaulino/run-tagger/tagged/pt-bosque-Perceptron.tagged
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2.71 sec.
+    Max Memory :                                 68 MB
+    Average Memory :                             68.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              4
+    Max Threads :                                55
+    Run time :                                   1 sec.
+    Turnaround time :                            419 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1403076.err> for stderr output of this job.
+

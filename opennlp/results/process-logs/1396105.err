@@ -1,0 +1,9 @@
+Writing pos tagger model ... 1 outcome patterns
+done (15,766s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-remove-pcp-NaiveBayes
+
+Execution time: 85,107 seconds
+Loading POS Tagger model ... done (0,546s)
+Execution time: 23,800 seconds

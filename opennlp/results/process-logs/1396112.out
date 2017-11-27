@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360002>
+Subject: Job 1396112: <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/PerceptronTrainerParams.txt mm-revisto Perceptron> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/PerceptronTrainerParams.txt mm-revisto Perceptron> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360002>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/PerceptronTrainerParams.txt mm-revisto Perceptron
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   337.36 sec.
+    Max Memory :                                 1879 MB
+    Average Memory :                             1008.04 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   366 sec.
+    Turnaround time :                            702 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396112.err> for stderr output of this job.
+

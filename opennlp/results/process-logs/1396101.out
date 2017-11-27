@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@nx360008>
+Subject: Job 1396101: <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentTrainerParams.txt keep-pcp Maxent> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentTrainerParams.txt keep-pcp Maxent> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <nx360008>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentTrainerParams.txt keep-pcp Maxent
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   223.14 sec.
+    Max Memory :                                 1618 MB
+    Average Memory :                             1031.68 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                57
+    Run time :                                   329 sec.
+    Turnaround time :                            621 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396101.err> for stderr output of this job.
+

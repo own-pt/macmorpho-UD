@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2017-11-10 sex 17:27 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MacMorpho - OpenNLP report</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Guilherme Paulino Passos" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">MacMorpho - OpenNLP report</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org32973b5">1. Results</a>
+<ul>
+<li><a href="#org3c7fb8e">1.1. Experiment 1</a></li>
+<li><a href="#org3aae53a">1.2. Experiment 2</a></li>
+</ul>
+</li>
+<li><a href="#org24f4136">2. Execution</a></li>
+<li><a href="#org2ba7362">3. References</a></li>
+</ul>
+</div>
+</div>
+<p>
+Brief report about results on training OpenNLP's models on MacMorpho and Bosque data.
+</p>
+
+<p>
+Available models are:
+</p>
+<dl class="org-dl">
+<dt>Maxent</dt><dd>Maximum Entropy (Generalized Iterative Scaling method)</dd>
+<dt>MaxentQN</dt><dd>Maximum Entropy (with QuasiNewton method)</dd>
+<dt>NaiveBayes</dt><dd>Naive Bayes</dd>
+<dt>Perceptron</dt><dd>Perceptron (binary, it seems)</dd>
+<dt>PerceptronSequence</dt><dd>Perceptron for sequences (unclear from documentation)
+Although is listed, it isn't working: it gives a NullPointerException</dd>
+</dl>
+
+
+<p>
+We ran 2 experiments:
+</p>
+<dl class="org-dl">
+<dt>Experiment 1</dt><dd>For each OpenNLP model and each Macmorpho tagset version (UD, UD+PCP, MM), we trained in the train+dev divisions, and evaluated in test division. Our hypothesis is that coarser datasets are easy to learn.</dd>
+
+<dt>Experiment 2</dt><dd>We trained the tagger with macmorpho UD (without PCP), using it entirely as training set (train+dev+test). We evaluated it in Bosque (test). We compared our result to the tagger trained in Bosque (train+dev) and evaluated in Bosque (test).</dd>
+</dl>
+
+
+<div id="outline-container-org32973b5" class="outline-2">
+<h2 id="org32973b5"><span class="section-number-2">1</span> Results</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-org3c7fb8e" class="outline-3">
+<h3 id="org3c7fb8e"><span class="section-number-3">1.1</span> Experiment 1</h3>
+<div class="outline-text-3" id="text-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-right">MaxEnt</th>
+<th scope="col" class="org-right">MaxEntQN</th>
+<th scope="col" class="org-right">NaiveBayes</th>
+<th scope="col" class="org-right">Perceptron</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">keep-pcp</td>
+<td class="org-right">0.9624</td>
+<td class="org-right">0.9623</td>
+<td class="org-right">0.9391</td>
+<td class="org-right">0.9611</td>
+</tr>
+
+<tr>
+<td class="org-left">remove-pcp</td>
+<td class="org-right">0.9607</td>
+<td class="org-right">0.9545</td>
+<td class="org-right">0.9378</td>
+<td class="org-right">0.9597</td>
+</tr>
+
+<tr>
+<td class="org-left">mm-revisto</td>
+<td class="org-right">0.9594</td>
+<td class="org-right">0.9587</td>
+<td class="org-right">0.9300</td>
+<td class="org-right">0.9587</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org3aae53a" class="outline-3">
+<h3 id="org3aae53a"><span class="section-number-3">1.2</span> Experiment 2</h3>
+<div class="outline-text-3" id="text-1-2">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> <span class="underline">remove-pcp</span> :: model trained on the entire macmorpho with UD labels and evaluated in Bosque-test <br />
+ <span class="underline">bosque</span> :: model trained on Bosque-(train+dev) and evaluated in Bosque-test <br />
+ <span class="underline">remove-pcp (complete bosque eval)</span> :: model trained on the entire macmorpho with UD labels and evaluated in Bosque-(train+dev+test)</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-right">MaxEnt</th>
+<th scope="col" class="org-right">MaxEntQN</th>
+<th scope="col" class="org-right">NaiveBayes</th>
+<th scope="col" class="org-right">Perceptron</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">remove-pcp</td>
+<td class="org-right">0.7762</td>
+<td class="org-right">0.7788</td>
+<td class="org-right">0.8002</td>
+<td class="org-right">0.7695</td>
+</tr>
+
+<tr>
+<td class="org-left">bosque</td>
+<td class="org-right">0.9504</td>
+<td class="org-right">0.9521</td>
+<td class="org-right">0.9239</td>
+<td class="org-right">0.9496</td>
+</tr>
+
+<tr>
+<td class="org-left">remove-pcp (complete bosque eval)</td>
+<td class="org-right">0.7647</td>
+<td class="org-right">0.7666</td>
+<td class="org-right">0.7960</td>
+<td class="org-right">0.7524</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-org24f4136" class="outline-2">
+<h2 id="org24f4136"><span class="section-number-2">2</span> Execution</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Trained in BRL cluster.
+</p>
+
+<p>
+Scripts and data are in the repository (branch <code>experiment</code>):
+<code>/macmorpho/opennlp/training-files</code>
+</p>
+
+<p>
+Raw result files as well: <code>/macmorpho/opennlp/results</code>
+</p>
+
+<p>
+For training for both experiments, the following steps were taken:
+</p>
+
+<ol class="org-ol">
+<li><p>
+Merging train and dev (OpenNLP does not use held-out (validation) data in training, it seems)
+</p>
+<div class="org-src-container">
+<pre class="src src-bash">for i in {keep-pcp,mm-revisto,remove-pcp} ; do cat macmorpho-v1-dev-$i.conllu &gt;&gt; macmorpho-v1-train-$i.conllu ; mv macmorpho-v1-train-$i.conllu macmorpho-v1-train-and-dev-$i.conllu ; done
+</pre>
+</div></li>
+<li><p>
+Producing files with complete data (train + dev + test) in order to compare with Bosque (experiment 2)
+</p>
+<div class="org-src-container">
+<pre class="src src-bash">for i in {keep-pcp,mm-revisto,remove-pcp} ; do
+    cat macmorpho-v1-train-and-dev-$i.conllu &gt;&gt; macmorpho-v1-full-$i.conllu ;
+    cat macmorpho-v1-test-$i.conllu &gt;&gt; macmorpho-v1-full-$i.conllu ;
+done
+</pre>
+</div></li>
+<li>Scripts suffixed by <code>-complete-data</code> created in order to train with full data as well.</li>
+<li><p>
+Train with:
+</p>
+<ul class="org-ul">
+<li>run-params.sh</li>
+<li>run-params-complete-data.sh</li>
+</ul>
+<p>
+I'm using these in order to use train different models.
+</p></li>
+</ol>
+
+<p>
+A similar procedure was done for Bosque (UD<sub>Portuguese</sub>, official 2.0 release), in order to train it with OpenNLP:
+</p>
+<ol class="org-ol">
+<li>Merging train and dev</li>
+<li>Scripts suffixed by <code>-bosque</code> in order to train with bosque.</li>
+<li>Train with <code>run-params-bosque.sh</code>.</li>
+</ol>
+
+
+<p>
+For each dataset, one model is trained for each *TrainerParams.txt file:
+Maxent, MaxentQN, NaiveBayes, Perceptron, PerceptronSequence
+</p>
+</div>
+</div>
+
+<div id="outline-container-org2ba7362" class="outline-2">
+<h2 id="org2ba7362"><span class="section-number-2">3</span> References</h2>
+<div class="outline-text-2" id="text-3">
+<ol class="org-ol">
+<li><a href="https://opennlp.apache.org/docs/1.8.3/manual/opennlp.html">Apache OpenNLP manual</a></li>
+<li><a href="https://opennlp.apache.org/docs/1.8.3/apidocs/opennlp-tools/index.html">Apache OpenNLP Javadocs</a></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Guilherme Paulino Passos</p>
+<p class="date">Created: 2017-11-10 sex 17:27</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

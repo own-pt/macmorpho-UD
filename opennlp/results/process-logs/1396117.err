@@ -1,0 +1,10 @@
+Writing pos tagger model ... Compressed 414631 parameters to 172040
+4949 outcome patterns
+done (14,268s)
+
+Wrote pos tagger model to
+path: /dados/gpaulino/macmorpho/pt-remove-pcp-Perceptron-complete
+
+Execution time: 351,270 seconds
+Loading POS Tagger model ... done (5,216s)
+Execution time: 5,631 seconds

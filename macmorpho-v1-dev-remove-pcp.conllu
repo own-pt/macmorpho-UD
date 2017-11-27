@@ -34489,7 +34489,7 @@
 10	,	_	PUNCT	_	_	0	_	_	_
 11	e	_	CONJ	_	_	0	_	_	_
 12	Sant	_	PROPN	_	_	0	_	_	_
-13	$	_	$	_	_	0	_	_	_
+13	$	_	SYM	_	_	0	_	_	_
 14	Anna	_	PROPN	_	_	0	_	_	_
 15	,	_	PUNCT	_	_	0	_	_	_
 16	de	_	ADP	_	_	0	_	_	_
@@ -47054,10 +47054,10 @@
 20	.	_	PUNCT	_	_	0	_	_	_
 
 1	Os	_	DET	_	_	0	_	_	_
-2	$	_	$	_	_	0	_	_	_
+2	$	_	SYM	_	_	0	_	_	_
 3	blue	_	NOUN	_	_	0	_	_	_
 4	jets	_	NOUN	_	_	0	_	_	_
-5	$	_	$	_	_	0	_	_	_
+5	$	_	SYM	_	_	0	_	_	_
 6	são	_	VERB	_	_	0	_	_	_
 7	disparos	_	NOUN	_	_	0	_	_	_
 8	diretos	_	ADJ	_	_	0	_	_	_

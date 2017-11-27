@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@idpx003>
+Subject: Job 1396099: <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentQNTrainerParams.txt remove-pcp MaxentQN> in cluster <brl> Done
+
+Job <./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentQNTrainerParams.txt remove-pcp MaxentQN> was submitted from host <masternode> by user <gpaulino> in cluster <brl>.
+Job was executed on host(s) <idpx003>, in queue <normal>, as user <gpaulino> in cluster <brl>.
+</home/gpaulino> was used as the home directory.
+</dados/gpaulino/macmorpho> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./train.sh /dados/gpaulino/macmorpho /dados/gpaulino/macmorpho/MaxentQNTrainerParams.txt remove-pcp MaxentQN
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2137.44 sec.
+    Max Memory :                                 3586 MB
+    Average Memory :                             3331.77 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                56
+    Run time :                                   2241 sec.
+    Turnaround time :                            2245 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <1396099.err> for stderr output of this job.
+

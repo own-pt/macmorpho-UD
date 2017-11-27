@@ -1,0 +1,44 @@
+* Naming conventions:
+  - "pt-bosque-*" :: trained on Bosque (train+dev), evaluated on Bosque (test)
+  - pt-{keep-pcp,mm-revisto,remove-pcp} :: trained on {keep-pcp,mm-revisto,remove-pcp} (train+dev), evaluated on {keep-pcp,mm-revisto,remove-pcp} (test)
+  - pt-remove-pcp-.*-complete :: trained on remove-pcp (train+dev+test), evaluated on Bosque (test)
+
+
+* folders and files
+** train-and-eval
+   Includes data and scripts used for training.
+   =run-params= scripts call a =train= script. Each =run-params= trains a scenario, running every model. Each model is defined in a =*TrainerParams.txt= file. These files are default configurations directly from Opennlp's source. These scripts call both training and evaluation (outputting directly the evaluated result, not the tagged file).
+   Training was done using =apache-opennlp-1.8.3=.
+
+*** NOTE
+    =bsub= commands are a way of submitting jobs to LSF, a workload management platform. You may not need to use this (in this case, you may call directly the command after, directing output and error logs to convenient files directly).
+
+** results
+   Includes results from train-and-eval.
+
+*** models
+    Trained model files.
+
+*** process-logs
+    Output from =bsub=: output and error from the training jobs (includes details such as CPU time, memory etc)
+
+*** regular-logs
+    Evaluation results (accuracy in each training scenario).
+
+** run-tagger
+   Folder for running trained taggers, outputting tagged files.
+
+*** tokenized-text
+    opennlp receives pre-tokenized text, one sentence per line. Here are such files.
+
+*** tagged
+    Tagged output.
+
+*** run-taggers.sh
+    Runs every model in every scenario.
+
+*** confusion-matrix.lisp
+    Gets tagged text, compares to original (golden/correct) dataset and produces confusion matrix files (including wrong sentences).
+
+* Caution
+  Please verify pathfiles before running, such as file locations and opennlp's location.
